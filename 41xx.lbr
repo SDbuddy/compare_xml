@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -118,7 +118,7 @@
 <rectangle x1="2.921" y1="1.9558" x2="3.429" y2="3.0988" layer="51"/>
 <rectangle x1="4.191" y1="1.9558" x2="4.699" y2="3.0988" layer="51"/>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:218113/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:217990/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -153,7 +153,7 @@
 <packageinstance name="SO16"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:218120/1" type="box">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:218009/2" type="model">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
@@ -258,7 +258,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="4161" prefix="IC" urn="urn:adsk.eagle:component:218127/1">
+<deviceset name="4161" prefix="IC" urn="urn:adsk.eagle:component:218127/1" locally_modified="yes">
 <description>&lt;b&gt;41xx DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4160" x="20.32" y="0"/>
@@ -285,7 +285,7 @@
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:218120/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:218009/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -319,7 +319,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4174" prefix="IC" urn="urn:adsk.eagle:component:218124/1">
+<deviceset name="4174" prefix="IC" urn="urn:adsk.eagle:component:218124/1" locally_modified="yes">
 <description>&lt;b&gt;41xx DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4174" x="20.32" y="0"/>
@@ -346,7 +346,7 @@
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:218120/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:218009/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -380,7 +380,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4194" prefix="IC" urn="urn:adsk.eagle:component:218122/1">
+<deviceset name="4194" prefix="IC" urn="urn:adsk.eagle:component:218122/1" locally_modified="yes">
 <description>&lt;b&gt;41xx DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4194" x="20.32" y="0"/>
@@ -407,7 +407,7 @@
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:218120/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:218009/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -441,7 +441,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4162" prefix="IC" urn="urn:adsk.eagle:component:218126/1">
+<deviceset name="4162" prefix="IC" urn="urn:adsk.eagle:component:218126/1" locally_modified="yes">
 <description>&lt;b&gt;41xx DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4160" x="20.32" y="0"/>
@@ -468,7 +468,7 @@
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:218120/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:218009/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -502,7 +502,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4163" prefix="IC" urn="urn:adsk.eagle:component:218125/1">
+<deviceset name="4163" prefix="IC" urn="urn:adsk.eagle:component:218125/1" locally_modified="yes">
 <description>&lt;b&gt;41xx DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4160" x="20.32" y="0"/>
@@ -529,7 +529,7 @@
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:218120/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:218009/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -563,7 +563,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4175" prefix="IC" urn="urn:adsk.eagle:component:218123/1">
+<deviceset name="4175" prefix="IC" urn="urn:adsk.eagle:component:218123/1" locally_modified="yes">
 <description>&lt;b&gt;41xx DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4175" x="20.32" y="0"/>
@@ -590,7 +590,7 @@
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:218120/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:218009/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -624,7 +624,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4160" prefix="IC" urn="urn:adsk.eagle:component:218128/1">
+<deviceset name="4160" prefix="IC" urn="urn:adsk.eagle:component:218128/1" locally_modified="yes">
 <description>&lt;b&gt;41xx DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4160" x="20.32" y="0"/>
@@ -651,7 +651,7 @@
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:218120/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:218009/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
