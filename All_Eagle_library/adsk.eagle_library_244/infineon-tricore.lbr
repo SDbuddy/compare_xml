@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -324,7 +324,7 @@ extended by: librarian@cadsoft.de</description>
 <vertex x="2.2133" y="0.7648"/>
 </polygon>
 </package>
-<package name="P-LBGA-208-2" urn="urn:adsk.eagle:footprint:15241/1">
+<package name="P-LBGA-208-2" urn="urn:adsk.eagle:footprint:20402/1">
 <description>&lt;b&gt;P-LBGA-208-2&lt;/b&gt; Low Profile Plastic Ball Grid Array Package&lt;p&gt;
 Source: http://www.infineon.com .. TC1130_DS_v031.pdf</description>
 <wire x1="-8.5" y1="8.5" x2="-8.5" y2="7.5" width="0.127" layer="21"/>
@@ -546,7 +546,7 @@ Source: http://www.infineon.com .. TC1130_DS_v031.pdf</description>
 <text x="4" y="-9" size="1.27" layer="25" rot="R180">&gt;NAME</text>
 <text x="4" y="10.5" size="1.27" layer="27" rot="R180">&gt;VALUE</text>
 </package>
-<package name="P-BGA329" urn="urn:adsk.eagle:footprint:15220/1">
+<package name="P-BGA329" urn="urn:adsk.eagle:footprint:20449/1">
 <description>&lt;b&gt;P-BGA-329&lt;/b&gt; Plastic Ball Grid Array Package&lt;p&gt;
 Source: http://www.infineon.com</description>
 <wire x1="15.5" y1="-15" x2="15.5" y2="15" width="0.127" layer="21"/>
@@ -1595,7 +1595,7 @@ Source: http://www.infineon.com</description>
 <rectangle x1="-15.4" y1="-12.4" x2="-13.95" y2="-12.1" layer="51"/>
 <rectangle x1="-15.4" y1="-12.9" x2="-13.95" y2="-12.6" layer="51"/>
 </package>
-<package name="P-BGA-388-2" urn="urn:adsk.eagle:footprint:15237/1">
+<package name="P-BGA-388-2" urn="urn:adsk.eagle:footprint:20442/1">
 <description>&lt;b&gt;P-BGA-388&lt;/b&gt; Plastic Ball Grid Array Package&lt;p&gt;
 Source: www.infenon.com .. gpa09218.eps.ps</description>
 <wire x1="-17.5" y1="17.5" x2="16.5" y2="17.5" width="0.2032" layer="21"/>
@@ -2014,7 +2014,7 @@ Source: http://www.infineon.com</description>
 <packageinstance name="FQFP208-2"/>
 </packageinstances>
 </package3d>
-<package3d name="P-LBGA-208-2" urn="urn:adsk.eagle:package:15256/1" type="box">
+<package3d name="P-LBGA-208-2" urn="urn:adsk.eagle:package:20504/1" type="box">
 <description>P-LBGA-208-2 Low Profile Plastic Ball Grid Array Package
 Source: http://www.infineon.com .. TC1130_DS_v031.pdf</description>
 <packageinstances>
@@ -2028,14 +2028,14 @@ Source: http://www.infineon.com</description>
 <packageinstance name="P-LBGA-260"/>
 </packageinstances>
 </package3d>
-<package3d name="P-BGA329" urn="urn:adsk.eagle:package:15254/1" type="box">
+<package3d name="P-BGA329" urn="urn:adsk.eagle:package:20509/1" type="box">
 <description>P-BGA-329 Plastic Ball Grid Array Package
 Source: http://www.infineon.com</description>
 <packageinstances>
 <packageinstance name="P-BGA329"/>
 </packageinstances>
 </package3d>
-<package3d name="P-BGA-388-2" urn="urn:adsk.eagle:package:15257/1" type="box">
+<package3d name="P-BGA-388-2" urn="urn:adsk.eagle:package:20507/1" type="box">
 <description>P-BGA-388 Plastic Ball Grid Array Package
 Source: www.infenon.com .. gpa09218.eps.ps</description>
 <packageinstances>
@@ -3305,7 +3305,7 @@ Source: www.infenon.com .. gpa09218.eps.ps</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="TC191*" prefix="IC" urn="urn:adsk.eagle:component:15260/1">
+<deviceset name="TC191*" prefix="IC" urn="urn:adsk.eagle:component:15260/1" locally_modified="yes">
 <description>&lt;b&gt;32 bit TriCore based microcontroller/DSP&lt;/b&gt;&lt;p&gt;
  which is mainly designed for automotive telematics applications.&lt;br&gt;
 Source: http://www.infineon.com .. TC1910_DS_V1.0.pdf / TC1912_DS_V1.0.pdf</description>
@@ -3548,7 +3548,7 @@ Source: http://www.infineon.com .. TC1910_DS_V1.0.pdf / TC1912_DS_V1.0.pdf</desc
 <connect gate="HS9" pin="HS" pad="T11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:15256/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20504/1"/>
 </package3dinstances>
 <technologies>
 <technology name="0">
@@ -3861,7 +3861,7 @@ Source: http://www.infineon.com .. TC1920_umsu_V12.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TC1100" prefix="IC" urn="urn:adsk.eagle:component:15259/1">
+<deviceset name="TC1100" prefix="IC" urn="urn:adsk.eagle:component:15259/1" locally_modified="yes">
 <description>&lt;b&gt;32-bit Consumer Class TriCore&lt;/b&gt; Single-Chip Microcontroller&lt;p&gt;
 Source: http://www.infineon.com/cmc_upload/documents/010/9915/TC1100_umsu_v10.pdf</description>
 <gates>
@@ -4119,7 +4119,7 @@ Source: http://www.infineon.com/cmc_upload/documents/010/9915/TC1100_umsu_v10.pd
 <connect gate="-VSS9" pin="VSS" pad="J7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:15256/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20504/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -4132,7 +4132,7 @@ Source: http://www.infineon.com/cmc_upload/documents/010/9915/TC1100_umsu_v10.pd
 </device>
 </devices>
 </deviceset>
-<deviceset name="TC1775" prefix="IC" urn="urn:adsk.eagle:component:15264/1">
+<deviceset name="TC1775" prefix="IC" urn="urn:adsk.eagle:component:15264/1" locally_modified="yes">
 <description>&lt;b&gt;TC1775 (AUDO1)&lt;/b&gt; 32-bit microcontroller&lt;p&gt;
 for high demanding automotive and industrial applications&lt;br&gt;
 (e.g. engine management, starter generator, 3-phase motor control or robotics) &lt;br&gt;
@@ -4521,7 +4521,7 @@ Source: http://www.infineon.com ..</description>
 <connect gate="PWR9-3.3V" pin="VSS" pad="K14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:15254/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20509/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -4534,7 +4534,7 @@ Source: http://www.infineon.com ..</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TC1130" prefix="IC" urn="urn:adsk.eagle:component:15258/1">
+<deviceset name="TC1130" prefix="IC" urn="urn:adsk.eagle:component:15258/1" locally_modified="yes">
 <description>&lt;b&gt; 32-Bit Industrial &amp;Communication Controller&lt;/b&gt;&lt;p&gt;
 Source: http://www.infineon.com .. TC1130_DS_v031.pdf</description>
 <gates>
@@ -4759,7 +4759,7 @@ Source: http://www.infineon.com .. TC1130_DS_v031.pdf</description>
 <connect gate="RES" pin="RESERVED@3" pad="T16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:15256/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20504/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -5352,7 +5352,7 @@ Source: http://www.infineon.com ..</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TC11IB" prefix="IC" urn="urn:adsk.eagle:component:15263/1">
+<deviceset name="TC11IB" prefix="IC" urn="urn:adsk.eagle:component:15263/1" locally_modified="yes">
 <description>&lt;b&gt;32-Bit Single-Chip Microcontroller TriCore Family&lt;/b&gt;&lt;p&gt;
 Source: http://www.infineon.com .. TC11IB_DS_v24.pdf</description>
 <gates>
@@ -5855,7 +5855,7 @@ Source: http://www.infineon.com .. TC11IB_DS_v24.pdf</description>
 <connect gate="VDDP9" pin="VDDP" pad="L23"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:15257/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20507/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">

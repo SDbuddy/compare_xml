@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.2">
 <drawing>
 <settings>
@@ -71,7 +71,7 @@
 <description>&lt;b&gt;Texas Instruments Devices, SN55xx, SN75xx Series&lt;/b&gt;&lt;p&gt;
  &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="D_R-PDSO-G8" urn="urn:adsk.eagle:footprint:27996/1">
+<package name="D_R-PDSO-G8" urn="urn:adsk.eagle:footprint:3291/1">
 <description>&lt;b&gt;D (R-PDSO-G8)&lt;/b&gt;&lt;p&gt;
 Source: http://focus.ti.com/lit/ds/slos063b/slos063b.pdf</description>
 <wire x1="2.4" y1="1.9" x2="2.4" y2="-1.4" width="0.2032" layer="21"/>
@@ -100,7 +100,7 @@ Source: http://focus.ti.com/lit/ds/slos063b/slos063b.pdf</description>
 <rectangle x1="-0.88" y1="2" x2="-0.39" y2="3.2" layer="51"/>
 <rectangle x1="-2.15" y1="2" x2="-1.66" y2="3.2" layer="51"/>
 </package>
-<package name="DIL08" urn="urn:adsk.eagle:footprint:27995/1">
+<package name="DIL08" urn="urn:adsk.eagle:footprint:29416/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="5.08" y1="2.921" x2="-5.08" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-5.08" y1="-2.921" x2="5.08" y2="-2.921" width="0.1524" layer="21"/>
@@ -148,13 +148,13 @@ Source: www.ti.com sn75452b.pdf</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="DIL08" urn="urn:adsk.eagle:package:28005/1" type="box">
+<package3d name="DIL08" urn="urn:adsk.eagle:package:29519/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL08"/>
 </packageinstances>
 </package3d>
-<package3d name="D_R-PDSO-G8" urn="urn:adsk.eagle:package:28006/1" type="box">
+<package3d name="D_R-PDSO-G8" urn="urn:adsk.eagle:package:3309/1" type="box">
 <description>D (R-PDSO-G8)
 Source: http://focus.ti.com/lit/ds/slos063b/slos063b.pdf</description>
 <packageinstances>
@@ -265,7 +265,7 @@ Source: www.ti.com sn75452b.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="SN75454B" prefix="IC" urn="urn:adsk.eagle:component:28010/1">
+<deviceset name="SN75454B" prefix="IC" urn="urn:adsk.eagle:component:28010/1" locally_modified="yes">
 <description>&lt;b&gt;NOR&lt;/b&gt; PERIPHERAL DRIVERS FOR HIGH-CURRENT SWITCHING AT VERY HIGH SPEEDS&lt;p&gt;
 Source: www.ti.com sn75452b.pdf</description>
 <gates>
@@ -286,7 +286,7 @@ Source: www.ti.com sn75452b.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28005/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -304,7 +304,7 @@ Source: www.ti.com sn75452b.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28005/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -322,7 +322,7 @@ Source: www.ti.com sn75452b.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28006/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3309/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -348,7 +348,7 @@ Source: www.ti.com sn75452b.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SN75451B" prefix="IC" urn="urn:adsk.eagle:component:28007/1">
+<deviceset name="SN75451B" prefix="IC" urn="urn:adsk.eagle:component:28007/1" locally_modified="yes">
 <description>&lt;b&gt;AND&lt;/b&gt; PERIPHERAL DRIVERS FOR HIGH-CURRENT SWITCHING AT VERY HIGH SPEEDS&lt;p&gt;
 Source: www.ti.com sn75452b.pdf</description>
 <gates>
@@ -369,7 +369,7 @@ Source: www.ti.com sn75452b.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28005/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -387,7 +387,7 @@ Source: www.ti.com sn75452b.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28005/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -405,7 +405,7 @@ Source: www.ti.com sn75452b.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28006/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3309/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -431,7 +431,7 @@ Source: www.ti.com sn75452b.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SN75452B" prefix="IC" urn="urn:adsk.eagle:component:28008/1">
+<deviceset name="SN75452B" prefix="IC" urn="urn:adsk.eagle:component:28008/1" locally_modified="yes">
 <description>&lt;b&gt;NAND&lt;/b&gt; PERIPHERAL DRIVERS FOR HIGH-CURRENT SWITCHING AT VERY HIGH SPEEDS&lt;p&gt;
 Source: www.ti.com sn75452b.pdf</description>
 <gates>
@@ -452,7 +452,7 @@ Source: www.ti.com sn75452b.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28005/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -470,7 +470,7 @@ Source: www.ti.com sn75452b.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28005/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -488,7 +488,7 @@ Source: www.ti.com sn75452b.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28006/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3309/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -514,7 +514,7 @@ Source: www.ti.com sn75452b.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SN75453B" prefix="IC" urn="urn:adsk.eagle:component:28009/1">
+<deviceset name="SN75453B" prefix="IC" urn="urn:adsk.eagle:component:28009/1" locally_modified="yes">
 <description>&lt;b&gt;OR&lt;/b&gt; PERIPHERAL DRIVERS FOR HIGH-CURRENT SWITCHING AT VERY HIGH SPEEDS&lt;p&gt;
 Source: www.ti.com sn75452b.pdf</description>
 <gates>
@@ -535,7 +535,7 @@ Source: www.ti.com sn75452b.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28005/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -553,7 +553,7 @@ Source: www.ti.com sn75452b.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28005/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -571,7 +571,7 @@ Source: www.ti.com sn75452b.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28006/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3309/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

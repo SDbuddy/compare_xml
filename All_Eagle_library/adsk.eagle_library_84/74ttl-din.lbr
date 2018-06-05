@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.5.2">
 <drawing>
 <settings>
@@ -73,7 +73,7 @@ CadSoft and the author do not warrant that this library is free from error
 or will meet your specific requirements.&lt;p&gt;
 &lt;author&gt;Created by Holger Bettenbühl, hol.bet.@rhein-main.net&lt;/author&gt;</description>
 <packages>
-<package name="DIL14" urn="urn:adsk.eagle:footprint:1258/1">
+<package name="DIL14" urn="urn:adsk.eagle:footprint:16136/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="8.89" y1="2.921" x2="-8.89" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-8.89" y1="-2.921" x2="8.89" y2="-2.921" width="0.1524" layer="21"/>
@@ -98,7 +98,7 @@ or will meet your specific requirements.&lt;p&gt;
 <text x="-9.271" y="-3.048" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-6.731" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:1276/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -125,7 +125,7 @@ or will meet your specific requirements.&lt;p&gt;
 <text x="-10.541" y="-2.921" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-7.493" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL20" urn="urn:adsk.eagle:footprint:1329/1">
+<package name="DIL20" urn="urn:adsk.eagle:footprint:16206/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="12.7" y1="2.921" x2="-12.7" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-12.7" y1="-2.921" x2="12.7" y2="-2.921" width="0.1524" layer="21"/>
@@ -156,7 +156,7 @@ or will meet your specific requirements.&lt;p&gt;
 <text x="-13.081" y="-3.048" size="1.27" layer="25" rot="R90">&gt;NAME</text>
 <text x="-9.779" y="-0.381" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="DIL24-3" urn="urn:adsk.eagle:footprint:1305/1">
+<package name="DIL24-3" urn="urn:adsk.eagle:footprint:3288/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.3 inch</description>
 <wire x1="-14.986" y1="-0.635" x2="-14.986" y2="-2.794" width="0.1524" layer="21"/>
 <wire x1="-14.986" y1="0.635" x2="-14.986" y2="-0.635" width="0.1524" layer="21" curve="-180"/>
@@ -191,7 +191,7 @@ or will meet your specific requirements.&lt;p&gt;
 <text x="-15.2908" y="-2.667" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-13.462" y="-0.889" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL28-3" urn="urn:adsk.eagle:footprint:1393/1">
+<package name="DIL28-3" urn="urn:adsk.eagle:footprint:771/1">
 <description>&lt;b&gt;Dual In Line Package Small&lt;/b&gt;</description>
 <wire x1="17.78" y1="2.921" x2="-17.78" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-17.78" y1="-2.921" x2="17.78" y2="-2.921" width="0.1524" layer="21"/>
@@ -232,31 +232,31 @@ or will meet your specific requirements.&lt;p&gt;
 </package>
 </packages>
 <packages3d>
-<package3d name="DIL14" urn="urn:adsk.eagle:package:1461/1" type="box">
+<package3d name="DIL14" urn="urn:adsk.eagle:package:16407/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL14"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:1462/1" type="box">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL24-3" urn="urn:adsk.eagle:package:1463/1" type="box">
+<package3d name="DIL24-3" urn="urn:adsk.eagle:package:3299/1" type="box">
 <description>Dual In Line Package 0.3 inch</description>
 <packageinstances>
 <packageinstance name="DIL24-3"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL20" urn="urn:adsk.eagle:package:1464/1" type="box">
+<package3d name="DIL20" urn="urn:adsk.eagle:package:16429/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL20"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL28-3" urn="urn:adsk.eagle:package:1465/1" type="box">
+<package3d name="DIL28-3" urn="urn:adsk.eagle:package:827/2" type="model">
 <description>Dual In Line Package Small</description>
 <packageinstances>
 <packageinstance name="DIL28-3"/>
@@ -18189,7 +18189,7 @@ or will meet your specific requirements.&lt;p&gt;
 <pin name="P1" x="-15.24" y="33.02" visible="pad" length="short" direction="in"/>
 <pin name="P0" x="-15.24" y="38.1" visible="pad" length="short" direction="in"/>
 <pin name="!P=Q" x="15.24" y="12.7" visible="pad" length="short" direction="out" rot="R180"/>
-<pin name="!P>Q" x="15.24" y="-15.24" visible="pad" length="short" direction="out" rot="R180"/>
+<pin name="!P&gt;Q" x="15.24" y="-15.24" visible="pad" length="short" direction="out" rot="R180"/>
 <pin name="Q1" x="-15.24" y="-10.16" visible="pad" length="short" direction="in"/>
 <pin name="Q0" x="-15.24" y="-5.08" visible="pad" length="short" direction="in"/>
 <pin name="P5" x="-15.24" y="12.7" visible="pad" length="short" direction="in"/>
@@ -20628,7 +20628,7 @@ or will meet your specific requirements.&lt;p&gt;
 <pin name="P1" x="-15.24" y="33.02" visible="pad" length="short" direction="in"/>
 <pin name="P0" x="-15.24" y="38.1" visible="pad" length="short" direction="in"/>
 <pin name="!P=Q" x="15.24" y="12.7" visible="pad" length="short" direction="out" rot="R180"/>
-<pin name="!P>Q" x="15.24" y="-15.24" visible="pad" length="short" direction="out" rot="R180"/>
+<pin name="!P&gt;Q" x="15.24" y="-15.24" visible="pad" length="short" direction="out" rot="R180"/>
 <pin name="Q1" x="-15.24" y="-10.16" visible="pad" length="short" direction="in"/>
 <pin name="Q0" x="-15.24" y="-5.08" visible="pad" length="short" direction="in"/>
 <pin name="P5" x="-15.24" y="12.7" visible="pad" length="short" direction="in"/>
@@ -20682,7 +20682,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*7266" prefix="V" urn="urn:adsk.eagle:component:1513/1">
+<deviceset name="74*7266" prefix="V" urn="urn:adsk.eagle:component:1513/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;XNOR&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -20711,7 +20711,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -20719,7 +20719,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4078" prefix="V" urn="urn:adsk.eagle:component:1509/1">
+<deviceset name="74*4078" prefix="V" urn="urn:adsk.eagle:component:1509/1" locally_modified="yes">
 <description>8-input &lt;b&gt;OR/NOR&lt;/b&gt;, complementary outputs</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="17.78" addlevel="request"/>
@@ -20743,7 +20743,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="Y" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -20751,7 +20751,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4040" prefix="V" urn="urn:adsk.eagle:component:1603/1">
+<deviceset name="74*4040" prefix="V" urn="urn:adsk.eagle:component:1603/1" locally_modified="yes">
 <description>12-bit asynchronous binary &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="25.4" y="27.94" addlevel="request"/>
@@ -20779,7 +20779,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="QL" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -20787,7 +20787,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*7032" prefix="V" urn="urn:adsk.eagle:component:1512/1">
+<deviceset name="74*7032" prefix="V" urn="urn:adsk.eagle:component:1512/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;OR&lt;/b&gt;, schmitt trigger</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -20816,7 +20816,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -20824,7 +20824,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*7002" prefix="V" urn="urn:adsk.eagle:component:1511/1">
+<deviceset name="74*7002" prefix="V" urn="urn:adsk.eagle:component:1511/1" locally_modified="yes">
 <description>Quad &lt;b&gt;NOR&lt;/b&gt;, schmitt trigger</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -20853,7 +20853,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -20861,7 +20861,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4724" prefix="V" urn="urn:adsk.eagle:component:1606/1">
+<deviceset name="74*4724" prefix="V" urn="urn:adsk.eagle:component:1606/1" locally_modified="yes">
 <description>8 Bit Addressable &lt;b&gt;LATCH&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="22.86" y="53.34" addlevel="request"/>
@@ -20889,7 +20889,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="S2" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -20897,7 +20897,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4060" prefix="V" urn="urn:adsk.eagle:component:1604/1">
+<deviceset name="74*4060" prefix="V" urn="urn:adsk.eagle:component:1604/1" locally_modified="yes">
 <description>14-bit asynchronous binary &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="22.86" y="30.48" addlevel="request"/>
@@ -20925,7 +20925,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="QN" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -20933,7 +20933,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4061" prefix="V" urn="urn:adsk.eagle:component:1605/1">
+<deviceset name="74*4061" prefix="V" urn="urn:adsk.eagle:component:1605/1" locally_modified="yes">
 <description>14-bit asynchronous binary &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="22.86" y="30.48" addlevel="request"/>
@@ -20961,7 +20961,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="QN" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -20969,7 +20969,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*75" prefix="V" urn="urn:adsk.eagle:component:1547/1">
+<deviceset name="74*75" prefix="V" urn="urn:adsk.eagle:component:1547/1" locally_modified="yes">
 <description>4-bit bistable &lt;b&gt;LATCH&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="5.08" addlevel="request"/>
@@ -20998,7 +20998,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="2Q" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21006,7 +21006,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*02" prefix="V" urn="urn:adsk.eagle:component:1467/1">
+<deviceset name="74*02" prefix="V" urn="urn:adsk.eagle:component:1467/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;NOR&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -21035,7 +21035,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21043,7 +21043,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*10" prefix="V" urn="urn:adsk.eagle:component:1470/1">
+<deviceset name="74*10" prefix="V" urn="urn:adsk.eagle:component:1470/1" locally_modified="yes">
 <description>Triple 3-input &lt;b&gt;NAND&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="12.7" y="17.78" addlevel="request"/>
@@ -21071,7 +21071,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/3" pin="Y" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21079,7 +21079,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*04" prefix="V" urn="urn:adsk.eagle:component:1468/1">
+<deviceset name="74*04" prefix="V" urn="urn:adsk.eagle:component:1468/1" locally_modified="yes">
 <description>Hex &lt;b&gt;INVERTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -21110,7 +21110,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/6" pin="Y" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21118,7 +21118,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*21" prefix="V" urn="urn:adsk.eagle:component:1478/1">
+<deviceset name="74*21" prefix="V" urn="urn:adsk.eagle:component:1478/1" locally_modified="yes">
 <description>Dual 4-input &lt;b&gt;AND&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="12.7" y="7.62" addlevel="request"/>
@@ -21143,7 +21143,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Y" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21151,7 +21151,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*01" prefix="V" urn="urn:adsk.eagle:component:1471/1">
+<deviceset name="74*01" prefix="V" urn="urn:adsk.eagle:component:1471/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;NAND&lt;/b&gt; gate, open collector</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -21180,7 +21180,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21188,7 +21188,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*20" prefix="V" urn="urn:adsk.eagle:component:1477/1">
+<deviceset name="74*20" prefix="V" urn="urn:adsk.eagle:component:1477/1" locally_modified="yes">
 <description>Dual 4-input &lt;b&gt;NAND&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="12.7" y="7.62" addlevel="request"/>
@@ -21213,7 +21213,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Y" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21221,7 +21221,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*30" prefix="V" urn="urn:adsk.eagle:component:1480/1">
+<deviceset name="74*30" prefix="V" urn="urn:adsk.eagle:component:1480/1" locally_modified="yes">
 <description>8-input &lt;b&gt;NAND&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="12.7" y="5.08" addlevel="request"/>
@@ -21244,7 +21244,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="Y" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21252,7 +21252,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*32" prefix="V" urn="urn:adsk.eagle:component:1481/1">
+<deviceset name="74*32" prefix="V" urn="urn:adsk.eagle:component:1481/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;OR&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="30.48" y="5.08" addlevel="request"/>
@@ -21281,7 +21281,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21289,7 +21289,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*7022" prefix="V" urn="urn:adsk.eagle:component:1607/1">
+<deviceset name="74*7022" prefix="V" urn="urn:adsk.eagle:component:1607/1" locally_modified="yes">
 <description>Octal &lt;b&gt;COUNTER/DIVIDER&lt;/b&gt; with 1-of-8 Decoded Outputs</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="25.4" y="27.94" addlevel="request"/>
@@ -21317,7 +21317,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="Y7" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21325,7 +21325,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*42" prefix="V" urn="urn:adsk.eagle:component:1546/1">
+<deviceset name="74*42" prefix="V" urn="urn:adsk.eagle:component:1546/1" locally_modified="yes">
 <description>4-line to 10-line &lt;b&gt;DECODER&lt;/b&gt; (1-of-10)</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="5.08" addlevel="request"/>
@@ -21353,7 +21353,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="Y9" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21361,7 +21361,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*138" prefix="V" urn="urn:adsk.eagle:component:1554/1">
+<deviceset name="74*138" prefix="V" urn="urn:adsk.eagle:component:1554/1" locally_modified="yes">
 <description>3-line to 8-line &lt;b&gt;DECODER/DEMULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="5.08" addlevel="request"/>
@@ -21389,7 +21389,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="Y7" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21397,7 +21397,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*112" prefix="V" urn="urn:adsk.eagle:component:1551/1">
+<deviceset name="74*112" prefix="V" urn="urn:adsk.eagle:component:1551/1" locally_modified="yes">
 <description>Dual J-K negative edge triggered &lt;b&gt;FLIP FLOP&lt;/b&gt;, preset and clear</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="5.08" addlevel="request"/>
@@ -21426,7 +21426,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Q" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21434,7 +21434,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*76" prefix="V" urn="urn:adsk.eagle:component:1548/1">
+<deviceset name="74*76" prefix="V" urn="urn:adsk.eagle:component:1548/1" locally_modified="yes">
 <description>Dual J-K &lt;b&gt;FLIP FLOP&lt;/b&gt;, preset and clear</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="7.62" addlevel="request"/>
@@ -21463,7 +21463,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Q" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21471,7 +21471,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*00" prefix="V" urn="urn:adsk.eagle:component:1466/1">
+<deviceset name="74*00" prefix="V" urn="urn:adsk.eagle:component:1466/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;NAND&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -21500,7 +21500,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21511,7 +21511,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*14" prefix="V" urn="urn:adsk.eagle:component:1476/1">
+<deviceset name="74*14" prefix="V" urn="urn:adsk.eagle:component:1476/1" locally_modified="yes">
 <description>Hex schmitt trigger &lt;b&gt;INVERTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -21542,7 +21542,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/6" pin="Y" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21550,7 +21550,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*11" prefix="V" urn="urn:adsk.eagle:component:1475/1">
+<deviceset name="74*11" prefix="V" urn="urn:adsk.eagle:component:1475/1" locally_modified="yes">
 <description>Triple 3-input &lt;b&gt;AND&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="12.7" y="15.24" addlevel="request"/>
@@ -21578,7 +21578,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/3" pin="Y" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21586,7 +21586,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*85A" prefix="V" urn="urn:adsk.eagle:component:1549/1">
+<deviceset name="74*85A" prefix="V" urn="urn:adsk.eagle:component:1549/1" locally_modified="yes">
 <description>4-bit Magnitude &lt;b&gt;COMPARATOR&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="22.86" y="7.62" addlevel="request"/>
@@ -21614,7 +21614,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="Q3" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21622,7 +21622,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*258" prefix="V" urn="urn:adsk.eagle:component:1583/1">
+<deviceset name="74*258" prefix="V" urn="urn:adsk.eagle:component:1583/1" locally_modified="yes">
 <description>Quadruple 2-to 1 line data &lt;b&gt;SELECTOR/MULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -21650,7 +21650,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="A/!B" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21658,7 +21658,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*109" prefix="V" urn="urn:adsk.eagle:component:1550/1">
+<deviceset name="74*109" prefix="V" urn="urn:adsk.eagle:component:1550/1" locally_modified="yes">
 <description>Dual J-K positive edge triggered &lt;b&gt;FLIP FLOP&lt;/b&gt;, preset and clear</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="5.08" addlevel="request"/>
@@ -21687,7 +21687,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Q" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21695,7 +21695,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*237" prefix="V" urn="urn:adsk.eagle:component:1577/1">
+<deviceset name="74*237" prefix="V" urn="urn:adsk.eagle:component:1577/1" locally_modified="yes">
 <description>1 of 8 noninverting &lt;b&gt;DECODER/DEMULTIPLEXER&lt;/b&gt;, latches</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="22.86" y="20.32" addlevel="request"/>
@@ -21723,7 +21723,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="Y7" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21731,7 +21731,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*86" prefix="V" urn="urn:adsk.eagle:component:1488/1">
+<deviceset name="74*86" prefix="V" urn="urn:adsk.eagle:component:1488/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;EXCLUSIV-OR&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -21760,7 +21760,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21768,7 +21768,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*393" prefix="V" urn="urn:adsk.eagle:component:1503/1">
+<deviceset name="74*393" prefix="V" urn="urn:adsk.eagle:component:1503/1" locally_modified="yes">
 <description>Dual 4-bit decade and binary &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="10.16" addlevel="request"/>
@@ -21795,7 +21795,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="QD" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21803,7 +21803,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4024" prefix="V" urn="urn:adsk.eagle:component:1506/1">
+<deviceset name="74*4024" prefix="V" urn="urn:adsk.eagle:component:1506/1" locally_modified="yes">
 <description>7-bit asynchronous binary &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="25.4" y="12.7" addlevel="request"/>
@@ -21826,7 +21826,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="QG" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21834,7 +21834,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*257" prefix="V" urn="urn:adsk.eagle:component:1582/1">
+<deviceset name="74*257" prefix="V" urn="urn:adsk.eagle:component:1582/1" locally_modified="yes">
 <description>Quadruple 2-to 1 line data &lt;b&gt;SELECTOR/MULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="12.7" y="25.4" addlevel="request"/>
@@ -21862,7 +21862,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="4Y" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21870,7 +21870,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*09" prefix="V" urn="urn:adsk.eagle:component:1474/1">
+<deviceset name="74*09" prefix="V" urn="urn:adsk.eagle:component:1474/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;AND&lt;/b&gt; gate, open collector</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="12.7" y="12.7" addlevel="request"/>
@@ -21899,7 +21899,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21907,7 +21907,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*77" prefix="V" urn="urn:adsk.eagle:component:1486/1">
+<deviceset name="74*77" prefix="V" urn="urn:adsk.eagle:component:1486/1" locally_modified="yes">
 <description>4-bit D &lt;b&gt;LATCH&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="5.08" addlevel="request"/>
@@ -21932,7 +21932,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="2Q" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21940,7 +21940,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*152" prefix="V" urn="urn:adsk.eagle:component:1495/1">
+<deviceset name="74*152" prefix="V" urn="urn:adsk.eagle:component:1495/1" locally_modified="yes">
 <description>Data &lt;b&gt;SELECTOR/MULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="7.62" addlevel="request"/>
@@ -21966,7 +21966,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="W" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21974,7 +21974,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*238" prefix="V" urn="urn:adsk.eagle:component:1578/1">
+<deviceset name="74*238" prefix="V" urn="urn:adsk.eagle:component:1578/1" locally_modified="yes">
 <description>1 of 8 noninverting &lt;b&gt;DECODER/DEMULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="17.78" addlevel="request"/>
@@ -22002,7 +22002,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="Y7" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22010,7 +22010,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*78" prefix="V" urn="urn:adsk.eagle:component:1487/1">
+<deviceset name="74*78" prefix="V" urn="urn:adsk.eagle:component:1487/1" locally_modified="yes">
 <description>Dual J-K &lt;b&gt;FLIP FLOP&lt;/b&gt;, preset, common clock and common clear</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="5.08" addlevel="request"/>
@@ -22036,7 +22036,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="CLK" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22044,7 +22044,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*05" prefix="V" urn="urn:adsk.eagle:component:1473/1">
+<deviceset name="74*05" prefix="V" urn="urn:adsk.eagle:component:1473/1" locally_modified="yes">
 <description>Hex &lt;b&gt;INVERTER&lt;/b&gt;, open collector</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -22075,7 +22075,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/6" pin="Y" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22083,7 +22083,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4075" prefix="V" urn="urn:adsk.eagle:component:1508/1">
+<deviceset name="74*4075" prefix="V" urn="urn:adsk.eagle:component:1508/1" locally_modified="yes">
 <description>Triple 3-input &lt;b&gt;OR&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="15.24" addlevel="request"/>
@@ -22111,7 +22111,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/3" pin="Y" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22119,7 +22119,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*114" prefix="V" urn="urn:adsk.eagle:component:1491/1">
+<deviceset name="74*114" prefix="V" urn="urn:adsk.eagle:component:1491/1" locally_modified="yes">
 <description>Dual J-K negative edge triggered &lt;b&gt;FLIP FLOP&lt;/b&gt;, preset, common clear, clock</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="17.78" addlevel="request"/>
@@ -22145,7 +22145,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="CLK" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22153,7 +22153,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*36" prefix="V" urn="urn:adsk.eagle:component:1482/1">
+<deviceset name="74*36" prefix="V" urn="urn:adsk.eagle:component:1482/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;NOR&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="12.7" addlevel="request"/>
@@ -22182,7 +22182,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22190,7 +22190,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*107" prefix="V" urn="urn:adsk.eagle:component:1489/1">
+<deviceset name="74*107" prefix="V" urn="urn:adsk.eagle:component:1489/1" locally_modified="yes">
 <description>Dual J-K &lt;b&gt;FLIP FLOP&lt;/b&gt;, clear</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="5.08" addlevel="request"/>
@@ -22217,7 +22217,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Q" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22225,7 +22225,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*594" prefix="V" urn="urn:adsk.eagle:component:1599/1">
+<deviceset name="74*594" prefix="V" urn="urn:adsk.eagle:component:1599/1" locally_modified="yes">
 <description>8-bit &lt;b&gt;SHIFT REGISTER&lt;/b&gt;, output latch</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="30.48" addlevel="request"/>
@@ -22253,7 +22253,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="SRCK" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22261,7 +22261,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*253" prefix="V" urn="urn:adsk.eagle:component:1581/1">
+<deviceset name="74*253" prefix="V" urn="urn:adsk.eagle:component:1581/1" locally_modified="yes">
 <description>Dual 4-to 1 line data &lt;b&gt;SELECTOR/MULTIPLEXER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -22289,7 +22289,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="B" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22297,7 +22297,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*259" prefix="V" urn="urn:adsk.eagle:component:1584/1">
+<deviceset name="74*259" prefix="V" urn="urn:adsk.eagle:component:1584/1" locally_modified="yes">
 <description>8-bit addressable &lt;b&gt;LATCH&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="45.72" addlevel="request"/>
@@ -22325,7 +22325,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="S2" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22333,7 +22333,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*366" prefix="V" urn="urn:adsk.eagle:component:1590/1">
+<deviceset name="74*366" prefix="V" urn="urn:adsk.eagle:component:1590/1" locally_modified="yes">
 <description>Hex &lt;b&gt;BUS DRIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="20.32" addlevel="request"/>
@@ -22361,7 +22361,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="Y6" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22369,7 +22369,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*174" prefix="V" urn="urn:adsk.eagle:component:1569/1">
+<deviceset name="74*174" prefix="V" urn="urn:adsk.eagle:component:1569/1" locally_modified="yes">
 <description>Hex D type &lt;b&gt;FLIP FLOP&lt;/b&gt;, clear</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="20.32" addlevel="request"/>
@@ -22397,7 +22397,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="CLK" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22405,7 +22405,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*161" prefix="V" urn="urn:adsk.eagle:component:1564/1">
+<deviceset name="74*161" prefix="V" urn="urn:adsk.eagle:component:1564/1" locally_modified="yes">
 <description>Synchrounus 4-bit &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="17.78" addlevel="request"/>
@@ -22433,7 +22433,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="RCO" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22441,7 +22441,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*352" prefix="V" urn="urn:adsk.eagle:component:1587/1">
+<deviceset name="74*352" prefix="V" urn="urn:adsk.eagle:component:1587/1" locally_modified="yes">
 <description>Dual 4-to 1 line data &lt;b&gt;SELECTOR/MULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="27.94" addlevel="request"/>
@@ -22469,7 +22469,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="B" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22477,7 +22477,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*137" prefix="V" urn="urn:adsk.eagle:component:1553/1">
+<deviceset name="74*137" prefix="V" urn="urn:adsk.eagle:component:1553/1" locally_modified="yes">
 <description>3-line to 8-line &lt;b&gt;DECODER/DEMULTIPLEXER&lt;/b&gt;, address LATCH</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="22.86" y="0" addlevel="request"/>
@@ -22505,7 +22505,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="Y7" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22513,7 +22513,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*132" prefix="V" urn="urn:adsk.eagle:component:1494/1">
+<deviceset name="74*132" prefix="V" urn="urn:adsk.eagle:component:1494/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;NAND&lt;/b&gt; schmitt trigger</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="15.24" addlevel="request"/>
@@ -22542,7 +22542,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22550,7 +22550,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*242" prefix="V" urn="urn:adsk.eagle:component:1498/1">
+<deviceset name="74*242" prefix="V" urn="urn:adsk.eagle:component:1498/1" locally_modified="yes">
 <description>Quadruple &lt;b&gt;BUS TRANSCEIVER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="27.94" addlevel="request"/>
@@ -22574,7 +22574,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="G2" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22582,7 +22582,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*180" prefix="V" urn="urn:adsk.eagle:component:1497/1">
+<deviceset name="74*180" prefix="V" urn="urn:adsk.eagle:component:1497/1" locally_modified="yes">
 <description>9-bit odd/even &lt;B&gt;PARITY GENERATOR/CHECKER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="12.7" addlevel="request"/>
@@ -22608,7 +22608,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="SODD" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22616,7 +22616,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*51" prefix="V" urn="urn:adsk.eagle:component:1483/1">
+<deviceset name="74*51" prefix="V" urn="urn:adsk.eagle:component:1483/1" locally_modified="yes">
 <description>&lt;b&gt;AND-OR-INVERT&lt;/b&gt; gates&lt;/a&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="10.16" y="5.08" addlevel="request"/>
@@ -22643,7 +22643,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Y" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22651,7 +22651,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*73" prefix="V" urn="urn:adsk.eagle:component:1484/1">
+<deviceset name="74*73" prefix="V" urn="urn:adsk.eagle:component:1484/1" locally_modified="yes">
 <description>Dual J-K &lt;b&gt;FLIP FLOP&lt;/b&gt;, clear</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="5.08" addlevel="request"/>
@@ -22678,7 +22678,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Q" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22686,7 +22686,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*03" prefix="V" urn="urn:adsk.eagle:component:1472/1">
+<deviceset name="74*03" prefix="V" urn="urn:adsk.eagle:component:1472/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;NAND&lt;/b&gt; gate, open collector output</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -22715,7 +22715,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22723,7 +22723,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*266" prefix="V" urn="urn:adsk.eagle:component:1500/1">
+<deviceset name="74*266" prefix="V" urn="urn:adsk.eagle:component:1500/1" locally_modified="yes">
 <description>Quadruple &lt;b&gt;EXCLUSIVE-NOR&lt;/b&gt;, open-collector</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -22752,7 +22752,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22760,7 +22760,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4002" prefix="V" urn="urn:adsk.eagle:component:1504/1">
+<deviceset name="74*4002" prefix="V" urn="urn:adsk.eagle:component:1504/1" locally_modified="yes">
 <description>Dual 4-input &lt;b&gt;NOR&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="7.62" addlevel="request"/>
@@ -22785,7 +22785,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Y" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22793,7 +22793,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*125" prefix="V" urn="urn:adsk.eagle:component:1492/1">
+<deviceset name="74*125" prefix="V" urn="urn:adsk.eagle:component:1492/1" locally_modified="yes">
 <description>Quad bus &lt;b&gt;BUFFER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="15.24" addlevel="request"/>
@@ -22822,7 +22822,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22830,7 +22830,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*367" prefix="V" urn="urn:adsk.eagle:component:1591/1">
+<deviceset name="74*367" prefix="V" urn="urn:adsk.eagle:component:1591/1" locally_modified="yes">
 <description>Hex &lt;b&gt;BUS DRIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="-7.62" y="17.78" addlevel="request"/>
@@ -22859,7 +22859,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Y4" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22867,7 +22867,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*368" prefix="V" urn="urn:adsk.eagle:component:1592/1">
+<deviceset name="74*368" prefix="V" urn="urn:adsk.eagle:component:1592/1" locally_modified="yes">
 <description>Hex &lt;b&gt;BUS DRIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="-7.62" y="17.78" addlevel="request"/>
@@ -22896,7 +22896,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Y4" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22904,7 +22904,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*386" prefix="V" urn="urn:adsk.eagle:component:1502/1">
+<deviceset name="74*386" prefix="V" urn="urn:adsk.eagle:component:1502/1" locally_modified="yes">
 <description>Quadruple 2-input &lt;b&gt;EXCLUSIVE-OR&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="15.24" addlevel="request"/>
@@ -22933,7 +22933,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22941,7 +22941,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*298" prefix="V" urn="urn:adsk.eagle:component:1586/1">
+<deviceset name="74*298" prefix="V" urn="urn:adsk.eagle:component:1586/1" locally_modified="yes">
 <description>Quadruple 2-input &lt;b&gt;MULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -22969,7 +22969,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="WS" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22977,7 +22977,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="54*4016" prefix="V" urn="urn:adsk.eagle:component:1505/1">
+<deviceset name="54*4016" prefix="V" urn="urn:adsk.eagle:component:1505/1" locally_modified="yes">
 <description>Quad analog &lt;b&gt;switch&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="12.7" addlevel="request"/>
@@ -23006,7 +23006,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="C" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23014,7 +23014,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4066" prefix="V" urn="urn:adsk.eagle:component:1507/1">
+<deviceset name="74*4066" prefix="V" urn="urn:adsk.eagle:component:1507/1" locally_modified="yes">
 <description>Quad analog &lt;b&gt;SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="15.24" addlevel="request"/>
@@ -23043,7 +23043,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="C" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23051,7 +23051,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*164" prefix="V" urn="urn:adsk.eagle:component:1496/1">
+<deviceset name="74*164" prefix="V" urn="urn:adsk.eagle:component:1496/1" locally_modified="yes">
 <description>8-bit parallel out &lt;b&gt;SHIFT REGISTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -23077,7 +23077,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="QH" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23085,7 +23085,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*353" prefix="V" urn="urn:adsk.eagle:component:1588/1">
+<deviceset name="74*353" prefix="V" urn="urn:adsk.eagle:component:1588/1" locally_modified="yes">
 <description>Dual 4-to 1 line data &lt;b&gt;SELECTOR/MULTIPLEXER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="27.94" addlevel="request"/>
@@ -23113,7 +23113,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="B" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23121,7 +23121,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*243" prefix="V" urn="urn:adsk.eagle:component:1499/1">
+<deviceset name="74*243" prefix="V" urn="urn:adsk.eagle:component:1499/1" locally_modified="yes">
 <description>Quadruple &lt;b&gt;BUS TRANSCEIVER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -23145,7 +23145,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="G2" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23153,7 +23153,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*251" prefix="V" urn="urn:adsk.eagle:component:1580/1">
+<deviceset name="74*251" prefix="V" urn="urn:adsk.eagle:component:1580/1" locally_modified="yes">
 <description>1 of 8 data &lt;b&gt;SELECTOR/MULTIPLEXER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="22.86" addlevel="request"/>
@@ -23181,7 +23181,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="Y" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23189,7 +23189,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*194" prefix="V" urn="urn:adsk.eagle:component:1575/1">
+<deviceset name="74*194" prefix="V" urn="urn:adsk.eagle:component:1575/1" locally_modified="yes">
 <description>4-bit bidirectional &lt;b&gt;SHIFT REGISTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="20.32" addlevel="request"/>
@@ -23217,7 +23217,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="SR_SER" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23225,7 +23225,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*113" prefix="V" urn="urn:adsk.eagle:component:1490/1">
+<deviceset name="74*113" prefix="V" urn="urn:adsk.eagle:component:1490/1" locally_modified="yes">
 <description>Dual J-K negative edge triggered &lt;b&gt;FLIP FLOP&lt;/b&gt;, preset</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="5.08" addlevel="request"/>
@@ -23252,7 +23252,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Q" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23260,7 +23260,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*126" prefix="V" urn="urn:adsk.eagle:component:1493/1">
+<deviceset name="74*126" prefix="V" urn="urn:adsk.eagle:component:1493/1" locally_modified="yes">
 <description>Quad bus &lt;b&gt;BUFFER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="15.24" addlevel="request"/>
@@ -23289,7 +23289,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23297,7 +23297,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*74" prefix="V" urn="urn:adsk.eagle:component:1485/1">
+<deviceset name="74*74" prefix="V" urn="urn:adsk.eagle:component:1485/1" locally_modified="yes">
 <description>Dual D type positive edge triggered &lt;b&gt;FLIP FLOP&lt;/b&gt;, preset and clear</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="5.08" addlevel="request"/>
@@ -23324,7 +23324,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Q" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23332,7 +23332,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*239" prefix="V" urn="urn:adsk.eagle:component:1579/1">
+<deviceset name="74*239" prefix="V" urn="urn:adsk.eagle:component:1579/1" locally_modified="yes">
 <description>Dual 1 of 4 noninverting &lt;b&gt;DECODER/DEMULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="5.08" addlevel="request"/>
@@ -23361,7 +23361,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="Y3" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23369,7 +23369,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*163" prefix="V" urn="urn:adsk.eagle:component:1565/1">
+<deviceset name="74*163" prefix="V" urn="urn:adsk.eagle:component:1565/1" locally_modified="yes">
 <description>Synchrounus 4-bit &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="17.78" addlevel="request"/>
@@ -23397,7 +23397,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="RCO" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23405,7 +23405,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*390" prefix="V" urn="urn:adsk.eagle:component:1596/1">
+<deviceset name="74*390" prefix="V" urn="urn:adsk.eagle:component:1596/1" locally_modified="yes">
 <description>Dual 4-bit decade and binary &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="17.78" addlevel="request"/>
@@ -23434,7 +23434,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="QD" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23442,7 +23442,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*379" prefix="V" urn="urn:adsk.eagle:component:1595/1">
+<deviceset name="74*379" prefix="V" urn="urn:adsk.eagle:component:1595/1" locally_modified="yes">
 <description>Quad D type &lt;b&gt;FLIP FLOP&lt;/b&gt;, enable</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -23470,7 +23470,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="CLK" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23478,7 +23478,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*160" prefix="V" urn="urn:adsk.eagle:component:1562/1">
+<deviceset name="74*160" prefix="V" urn="urn:adsk.eagle:component:1562/1" locally_modified="yes">
 <description>Synchronous 4-bit &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="17.78" addlevel="request"/>
@@ -23506,7 +23506,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="RCO" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23514,7 +23514,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*151" prefix="V" urn="urn:adsk.eagle:component:1558/1">
+<deviceset name="74*151" prefix="V" urn="urn:adsk.eagle:component:1558/1" locally_modified="yes">
 <description>Data &lt;b&gt;SELECTOR/MULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="7.62" addlevel="request"/>
@@ -23542,7 +23542,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="Y" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23550,7 +23550,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*192" prefix="V" urn="urn:adsk.eagle:component:1573/1">
+<deviceset name="74*192" prefix="V" urn="urn:adsk.eagle:component:1573/1" locally_modified="yes">
 <description>Synchronous 4-bit up down &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="17.78" addlevel="request"/>
@@ -23578,7 +23578,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="UP" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23586,7 +23586,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*490" prefix="V" urn="urn:adsk.eagle:component:1597/1">
+<deviceset name="74*490" prefix="V" urn="urn:adsk.eagle:component:1597/1" locally_modified="yes">
 <description>Dual 4-bit decade &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="10.16" addlevel="request"/>
@@ -23615,7 +23615,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="/2" pin="SET9" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23623,7 +23623,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*162" prefix="V" urn="urn:adsk.eagle:component:1563/1">
+<deviceset name="74*162" prefix="V" urn="urn:adsk.eagle:component:1563/1" locally_modified="yes">
 <description>Synchrounus 4-bit &lt;b&gt;COUNTER&lt;/b&gt; divide by 10</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="17.78" addlevel="request"/>
@@ -23651,7 +23651,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="RCO" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23659,7 +23659,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*173" prefix="V" urn="urn:adsk.eagle:component:1568/1">
+<deviceset name="74*173" prefix="V" urn="urn:adsk.eagle:component:1568/1" locally_modified="yes">
 <description>4-bit D type &lt;b&gt;REGISTER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="12.7" y="15.24" addlevel="request"/>
@@ -23687,7 +23687,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="N" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23695,7 +23695,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*191" prefix="V" urn="urn:adsk.eagle:component:1572/1">
+<deviceset name="74*191" prefix="V" urn="urn:adsk.eagle:component:1572/1" locally_modified="yes">
 <description>Synchronous up down &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="25.4" y="20.32" addlevel="request"/>
@@ -23723,7 +23723,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="QD" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23731,7 +23731,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*378" prefix="V" urn="urn:adsk.eagle:component:1594/1">
+<deviceset name="74*378" prefix="V" urn="urn:adsk.eagle:component:1594/1" locally_modified="yes">
 <description>Hex D type &lt;b&gt;FLIP FLOP&lt;/b&gt;, enable</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="20.32" addlevel="request"/>
@@ -23759,7 +23759,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="CLK" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23767,7 +23767,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*590A" prefix="V" urn="urn:adsk.eagle:component:1598/1">
+<deviceset name="74*590A" prefix="V" urn="urn:adsk.eagle:component:1598/1" locally_modified="yes">
 <description>8-bit &lt;b&gt;BINARY COUNTER&lt;/b&gt; with output register</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="27.94" y="33.02" addlevel="request"/>
@@ -23795,7 +23795,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="RCK" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23803,7 +23803,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*651" prefix="V" urn="urn:adsk.eagle:component:1614/1">
+<deviceset name="74*651" prefix="V" urn="urn:adsk.eagle:component:1614/1" locally_modified="yes">
 <description>8-bit &lt;b&gt;BUS TRANSCEIVER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="25.4" y="55.88" addlevel="request"/>
@@ -23839,7 +23839,7 @@ or will meet your specific requirements.&lt;p&gt;
 <connect gate="1" pin="SBA" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23847,7 +23847,7 @@ or will meet your specific requirements.&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4053" prefix="V" urn="urn:adsk.eagle:component:1608/1">
+<deviceset name="74*4053" prefix="V" urn="urn:adsk.eagle:component:1608/1" locally_modified="yes">
 <description>&lt;b&gt;Triple 2-channel analog multiplexer/demultiplexer&lt;/b&gt;&lt;p&gt;
 Philips Semiconductor</description>
 <gates>
@@ -23875,7 +23875,7 @@ Philips Semiconductor</description>
 <connect gate="P1" pin="VEE" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="HC"/>
@@ -23884,7 +23884,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*595" prefix="V" urn="urn:adsk.eagle:component:1600/1">
+<deviceset name="74*595" prefix="V" urn="urn:adsk.eagle:component:1600/1" locally_modified="yes">
 <description>8-bit &lt;b&gt;SHIFT REGISTER&lt;/b&gt;, output latch</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="33.02" addlevel="request"/>
@@ -23912,7 +23912,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="SRCK" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23920,7 +23920,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*241" prefix="V" urn="urn:adsk.eagle:component:1515/1">
+<deviceset name="74*241" prefix="V" urn="urn:adsk.eagle:component:1515/1" locally_modified="yes">
 <description>Octal &lt;b&gt;BUFFER&lt;/b&gt; and &lt;b&gt;LINE DRIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="7.62" addlevel="request"/>
@@ -23953,7 +23953,7 @@ Philips Semiconductor</description>
 <connect gate="/2" pin="Y4" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23961,7 +23961,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*244" prefix="V" urn="urn:adsk.eagle:component:1516/1">
+<deviceset name="74*244" prefix="V" urn="urn:adsk.eagle:component:1516/1" locally_modified="yes">
 <description>Octal &lt;b&gt;BUFFER&lt;/b&gt; and &lt;b&gt;LINE DRIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="7.62" addlevel="request"/>
@@ -23994,7 +23994,7 @@ Philips Semiconductor</description>
 <connect gate="/2" pin="Y4" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24002,7 +24002,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*245" prefix="V" urn="urn:adsk.eagle:component:1517/1">
+<deviceset name="74*245" prefix="V" urn="urn:adsk.eagle:component:1517/1" locally_modified="yes">
 <description>Octal &lt;b&gt;BUS TRANSCEIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="27.94" addlevel="request"/>
@@ -24034,7 +24034,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="DIR" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24042,7 +24042,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*166" prefix="V" urn="urn:adsk.eagle:component:1567/1">
+<deviceset name="74*166" prefix="V" urn="urn:adsk.eagle:component:1567/1" locally_modified="yes">
 <description>8-bit parallel load &lt;b&gt;SHIFT REGISTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="7.62" addlevel="request"/>
@@ -24070,7 +24070,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="SH/!LD" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24078,7 +24078,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*190" prefix="V" urn="urn:adsk.eagle:component:1571/1">
+<deviceset name="74*190" prefix="V" urn="urn:adsk.eagle:component:1571/1" locally_modified="yes">
 <description>Synchronous up down &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="25.4" y="20.32" addlevel="request"/>
@@ -24106,7 +24106,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="QD" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24114,7 +24114,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*148" prefix="V" urn="urn:adsk.eagle:component:1557/1">
+<deviceset name="74*148" prefix="V" urn="urn:adsk.eagle:component:1557/1" locally_modified="yes">
 <description>10-line to 4-line and 8-line to 3-line &lt;b&gt;PRIORITY ENCODER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="22.86" y="20.32" addlevel="request"/>
@@ -24142,7 +24142,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="GS" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24150,7 +24150,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*157" prefix="V" urn="urn:adsk.eagle:component:1560/1">
+<deviceset name="74*157" prefix="V" urn="urn:adsk.eagle:component:1560/1" locally_modified="yes">
 <description>Quadruple 2-line to 1-line data &lt;b&gt;SELECTOR/MULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="22.86" addlevel="request"/>
@@ -24178,7 +24178,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="4Y" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24186,7 +24186,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*280" prefix="V" urn="urn:adsk.eagle:component:1501/1">
+<deviceset name="74*280" prefix="V" urn="urn:adsk.eagle:component:1501/1" locally_modified="yes">
 <description>9-bit odd/even &lt;b&gt;PARITY GENERATOR/CHECKER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="10.16" y="17.78" addlevel="request"/>
@@ -24211,7 +24211,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="SODD" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24219,7 +24219,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*193" prefix="V" urn="urn:adsk.eagle:component:1574/1">
+<deviceset name="74*193" prefix="V" urn="urn:adsk.eagle:component:1574/1" locally_modified="yes">
 <description>Synchronus 4-bit up down &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="17.78" addlevel="request"/>
@@ -24247,7 +24247,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="UP" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24255,7 +24255,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*365" prefix="V" urn="urn:adsk.eagle:component:1589/1">
+<deviceset name="74*365" prefix="V" urn="urn:adsk.eagle:component:1589/1" locally_modified="yes">
 <description>Hex &lt;b&gt;BUS DRIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="20.32" addlevel="request"/>
@@ -24283,7 +24283,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y6" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24291,7 +24291,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*133" prefix="V" urn="urn:adsk.eagle:component:1552/1">
+<deviceset name="74*133" prefix="V" urn="urn:adsk.eagle:component:1552/1" locally_modified="yes">
 <description>13-input &lt;b&gt;NAND&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="12.7" y="7.62" addlevel="request"/>
@@ -24319,7 +24319,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24327,7 +24327,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*175" prefix="V" urn="urn:adsk.eagle:component:1570/1">
+<deviceset name="74*175" prefix="V" urn="urn:adsk.eagle:component:1570/1" locally_modified="yes">
 <description>Qadruple D type &lt;b&gt;FLIP FLOP&lt;/b&gt;, clear</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="25.4" addlevel="request"/>
@@ -24355,7 +24355,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="CLK" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24363,7 +24363,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*283" prefix="V" urn="urn:adsk.eagle:component:1585/1">
+<deviceset name="74*283" prefix="V" urn="urn:adsk.eagle:component:1585/1" locally_modified="yes">
 <description>4-bit binary &lt;b&gt;FULL ADDER&lt;/b&gt;, fast carry</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="-5.08" addlevel="request"/>
@@ -24391,7 +24391,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="S4" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24399,7 +24399,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*153" prefix="V" urn="urn:adsk.eagle:component:1559/1">
+<deviceset name="74*153" prefix="V" urn="urn:adsk.eagle:component:1559/1" locally_modified="yes">
 <description>Dual 4-line to 1-line data &lt;b&gt;SELECTOR/MULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="-5.08" addlevel="request"/>
@@ -24427,7 +24427,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="B" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24435,7 +24435,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*139" prefix="V" urn="urn:adsk.eagle:component:1555/1">
+<deviceset name="74*139" prefix="V" urn="urn:adsk.eagle:component:1555/1" locally_modified="yes">
 <description>Dual 2-line to 4-line &lt;b&gt;DECODER/DEMULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="7.62" addlevel="request"/>
@@ -24464,7 +24464,7 @@ Philips Semiconductor</description>
 <connect gate="/2" pin="Y3" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24472,7 +24472,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*165" prefix="V" urn="urn:adsk.eagle:component:1566/1">
+<deviceset name="74*165" prefix="V" urn="urn:adsk.eagle:component:1566/1" locally_modified="yes">
 <description>8-bit parallel load &lt;b&gt;SHIFT REGISTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="7.62" addlevel="request"/>
@@ -24500,7 +24500,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="SH/!LD" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24508,7 +24508,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*147" prefix="V" urn="urn:adsk.eagle:component:1556/1">
+<deviceset name="74*147" prefix="V" urn="urn:adsk.eagle:component:1556/1" locally_modified="yes">
 <description>10-line to 4-line and 8-line to 3-line &lt;b&gt;PRIORITY DECODER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="15.24" addlevel="request"/>
@@ -24535,7 +24535,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="D" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24543,7 +24543,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*573" prefix="V" urn="urn:adsk.eagle:component:1531/1">
+<deviceset name="74*573" prefix="V" urn="urn:adsk.eagle:component:1531/1" locally_modified="yes">
 <description>8-bit D latch &lt;b&gt;BUS DRIVER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -24575,7 +24575,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="C" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24583,7 +24583,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*564" prefix="V" urn="urn:adsk.eagle:component:1530/1">
+<deviceset name="74*564" prefix="V" urn="urn:adsk.eagle:component:1530/1" locally_modified="yes">
 <description>Inverting 8-bit D type &lt;b&gt;FLIP FLOP&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -24615,7 +24615,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="CLK" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24623,7 +24623,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*574" prefix="V" urn="urn:adsk.eagle:component:1532/1">
+<deviceset name="74*574" prefix="V" urn="urn:adsk.eagle:component:1532/1" locally_modified="yes">
 <description>8-bit D type &lt;b&gt;FLIP FLOP&lt;/b&gt; bus driver</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -24655,7 +24655,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="CLK" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24663,7 +24663,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*374" prefix="V" urn="urn:adsk.eagle:component:1523/1">
+<deviceset name="74*374" prefix="V" urn="urn:adsk.eagle:component:1523/1" locally_modified="yes">
 <description>Octal D type transparent &lt;b&gt;LATCH&lt;/b&gt;, edge triggered</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -24695,7 +24695,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="CLK" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24703,7 +24703,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*377" prefix="V" urn="urn:adsk.eagle:component:1524/1">
+<deviceset name="74*377" prefix="V" urn="urn:adsk.eagle:component:1524/1" locally_modified="yes">
 <description>Octal D type &lt;b&gt;FLIP FLOP&lt;/b&gt;, enable</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="25.4" addlevel="request"/>
@@ -24735,7 +24735,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="CLK" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24743,7 +24743,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*620" prefix="V" urn="urn:adsk.eagle:component:1533/1">
+<deviceset name="74*620" prefix="V" urn="urn:adsk.eagle:component:1533/1" locally_modified="yes">
 <description>Octal &lt;b&gt;BUS TRANSCEIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="45.72" addlevel="request"/>
@@ -24775,7 +24775,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="GAB" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24783,7 +24783,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*623" prefix="V" urn="urn:adsk.eagle:component:1534/1">
+<deviceset name="74*623" prefix="V" urn="urn:adsk.eagle:component:1534/1" locally_modified="yes">
 <description>Octal bus &lt;b&gt;TRANSCEIVER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="45.72" addlevel="request"/>
@@ -24815,7 +24815,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="GAB" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24823,7 +24823,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*643" prefix="V" urn="urn:adsk.eagle:component:1536/1">
+<deviceset name="74*643" prefix="V" urn="urn:adsk.eagle:component:1536/1" locally_modified="yes">
 <description>Octal bus &lt;b&gt;TRANSCEIVER&lt;/b&gt; 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="48.26" addlevel="request"/>
@@ -24855,7 +24855,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="DIR" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24863,7 +24863,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*645" prefix="V" urn="urn:adsk.eagle:component:1537/1">
+<deviceset name="74*645" prefix="V" urn="urn:adsk.eagle:component:1537/1" locally_modified="yes">
 <description>Octal bus &lt;b&gt;TRANSCEIVER&lt;/b&gt; 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="45.72" addlevel="request"/>
@@ -24895,7 +24895,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="DIR" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24903,7 +24903,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*640" prefix="V" urn="urn:adsk.eagle:component:1535/1">
+<deviceset name="74*640" prefix="V" urn="urn:adsk.eagle:component:1535/1" locally_modified="yes">
 <description>Octal bus &lt;B&gt;TRANSCEIVER&lt;/B&gt; 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="45.72" addlevel="request"/>
@@ -24935,7 +24935,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="DIR" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24943,7 +24943,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*679" prefix="V" urn="urn:adsk.eagle:component:1538/1">
+<deviceset name="74*679" prefix="V" urn="urn:adsk.eagle:component:1538/1" locally_modified="yes">
 <description>12-bit address &lt;b&gt;COMPARATOR&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="33.02" y="55.88" addlevel="request"/>
@@ -24975,7 +24975,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24983,7 +24983,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*680" prefix="V" urn="urn:adsk.eagle:component:1539/1">
+<deviceset name="74*680" prefix="V" urn="urn:adsk.eagle:component:1539/1" locally_modified="yes">
 <description>12-bit address &lt;b&gt;COMPARATOR&lt;/b&gt;, latch</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="35.56" y="53.34" addlevel="request"/>
@@ -25015,7 +25015,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25023,7 +25023,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*688" prefix="V" urn="urn:adsk.eagle:component:1542/1">
+<deviceset name="74*688" prefix="V" urn="urn:adsk.eagle:component:1542/1" locally_modified="yes">
 <description>8-bit &lt;b&gt;MAGNITUDE/IDENTITY COMPARATOR&lt;/b&gt;, totem pole</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="22.86" y="40.64" addlevel="request"/>
@@ -25055,7 +25055,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Q7" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25063,7 +25063,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*804" prefix="V" urn="urn:adsk.eagle:component:1543/1">
+<deviceset name="74*804" prefix="V" urn="urn:adsk.eagle:component:1543/1" locally_modified="yes">
 <description>Hex &lt;b&gt;NAND&lt;/b&gt; driver</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="12.7" addlevel="request"/>
@@ -25100,7 +25100,7 @@ Philips Semiconductor</description>
 <connect gate="/6" pin="Y" pad="17"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25108,7 +25108,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*805" prefix="V" urn="urn:adsk.eagle:component:1544/1">
+<deviceset name="74*805" prefix="V" urn="urn:adsk.eagle:component:1544/1" locally_modified="yes">
 <description>Hex &lt;b&gt;NOR&lt;/b&gt; driver</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -25145,7 +25145,7 @@ Philips Semiconductor</description>
 <connect gate="/6" pin="Y" pad="17"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25153,7 +25153,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*808" prefix="V" urn="urn:adsk.eagle:component:1545/1">
+<deviceset name="74*808" prefix="V" urn="urn:adsk.eagle:component:1545/1" locally_modified="yes">
 <description>Hex &lt;b&gt;AND&lt;/b&gt; driver</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -25190,7 +25190,7 @@ Philips Semiconductor</description>
 <connect gate="/6" pin="Y" pad="17"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25198,7 +25198,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*832" prefix="V" urn="urn:adsk.eagle:component:1627/1">
+<deviceset name="74*832" prefix="V" urn="urn:adsk.eagle:component:1627/1" locally_modified="yes">
 <description>Hex &lt;b&gt;OR&lt;/b&gt; driver</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -25235,7 +25235,7 @@ Philips Semiconductor</description>
 <connect gate="/6" pin="Y" pad="17"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25243,7 +25243,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*154" prefix="V" urn="urn:adsk.eagle:component:1609/1">
+<deviceset name="74*154" prefix="V" urn="urn:adsk.eagle:component:1609/1" locally_modified="yes">
 <description>4-line to 16-line data &lt;b&gt;SELECTOR/MULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="25.4" y="2.54" addlevel="request"/>
@@ -25279,7 +25279,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="D" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25287,7 +25287,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4515" prefix="V" urn="urn:adsk.eagle:component:1611/1">
+<deviceset name="74*4515" prefix="V" urn="urn:adsk.eagle:component:1611/1" locally_modified="yes">
 <description>1 of 16 inverting &lt;b&gt;DECODER/DEMULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="30.48" y="38.1" addlevel="request"/>
@@ -25323,7 +25323,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y9" pad="17"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25331,7 +25331,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4514" prefix="V" urn="urn:adsk.eagle:component:1610/1">
+<deviceset name="74*4514" prefix="V" urn="urn:adsk.eagle:component:1610/1" locally_modified="yes">
 <description>1 of 16 noninverting &lt;b&gt;DECODER/DEMULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="30.48" y="38.1" addlevel="request"/>
@@ -25367,7 +25367,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y9" pad="17"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25375,7 +25375,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*646" prefix="V" urn="urn:adsk.eagle:component:1612/1">
+<deviceset name="74*646" prefix="V" urn="urn:adsk.eagle:component:1612/1" locally_modified="yes">
 <description>Octal bus &lt;b&gt;TRANSCEIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="25.4" y="60.96" addlevel="request"/>
@@ -25411,7 +25411,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="SBA" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25419,7 +25419,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*273" prefix="V" urn="urn:adsk.eagle:component:1518/1">
+<deviceset name="74*273" prefix="V" urn="urn:adsk.eagle:component:1518/1" locally_modified="yes">
 <description>Octal D type &lt;b&gt;FLIP FLOP&lt;/b&gt;, clear</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -25451,7 +25451,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="CLK" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25459,7 +25459,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*158" prefix="V" urn="urn:adsk.eagle:component:1561/1">
+<deviceset name="74*158" prefix="V" urn="urn:adsk.eagle:component:1561/1" locally_modified="yes">
 <description>Quadruple 2-line to 1-line data &lt;b&gt;SELECTOR/MULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="22.86" addlevel="request"/>
@@ -25487,7 +25487,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="4Y" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25495,7 +25495,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4017" prefix="V" urn="urn:adsk.eagle:component:1601/1">
+<deviceset name="74*4017" prefix="V" urn="urn:adsk.eagle:component:1601/1" locally_modified="yes">
 <description>4-bit asynchronous decade &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="22.86" y="25.4" addlevel="request"/>
@@ -25523,7 +25523,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y9" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25531,7 +25531,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*373" prefix="V" urn="urn:adsk.eagle:component:1522/1">
+<deviceset name="74*373" prefix="V" urn="urn:adsk.eagle:component:1522/1" locally_modified="yes">
 <description>Octal D type transparent &lt;b&gt;LATCH&lt;/b&gt;, edge triggered</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -25563,7 +25563,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="C" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25571,7 +25571,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*356" prefix="V" urn="urn:adsk.eagle:component:1521/1">
+<deviceset name="74*356" prefix="V" urn="urn:adsk.eagle:component:1521/1" locally_modified="yes">
 <description>8-to 1 line data &lt;b&gt;SELECTOR/MULTIPLEXER/REGISTER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="27.94" addlevel="request"/>
@@ -25603,7 +25603,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y" pad="19"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25611,7 +25611,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*195" prefix="V" urn="urn:adsk.eagle:component:1576/1">
+<deviceset name="74*195" prefix="V" urn="urn:adsk.eagle:component:1576/1" locally_modified="yes">
 <description>4-bit parallel access &lt;b&gt;SHIFT REGISTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="20.32" addlevel="request"/>
@@ -25639,7 +25639,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="SH/!LD" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25647,7 +25647,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*27" prefix="V" urn="urn:adsk.eagle:component:1479/1">
+<deviceset name="74*27" prefix="V" urn="urn:adsk.eagle:component:1479/1" locally_modified="yes">
 <description>Triple 3-input &lt;b&gt;NOR&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="12.7" y="15.24" addlevel="request"/>
@@ -25675,7 +25675,7 @@ Philips Semiconductor</description>
 <connect gate="/3" pin="Y" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25683,7 +25683,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*563" prefix="V" urn="urn:adsk.eagle:component:1529/1">
+<deviceset name="74*563" prefix="V" urn="urn:adsk.eagle:component:1529/1" locally_modified="yes">
 <description>Inverting 8-bit D type &lt;b&gt;LATCH&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -25715,7 +25715,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="C" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25723,7 +25723,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*533" prefix="V" urn="urn:adsk.eagle:component:1525/1">
+<deviceset name="74*533" prefix="V" urn="urn:adsk.eagle:component:1525/1" locally_modified="yes">
 <description>Inverting 8-bit D type &lt;b&gt;LATCH&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -25755,7 +25755,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="C" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25763,7 +25763,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*299" prefix="V" urn="urn:adsk.eagle:component:1519/1">
+<deviceset name="74*299" prefix="V" urn="urn:adsk.eagle:component:1519/1" locally_modified="yes">
 <description>8-bit universal &lt;b&gt;SHIFT/STORAGE REGISTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="25.4" y="38.1" addlevel="request"/>
@@ -25795,7 +25795,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="SR" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25803,7 +25803,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*375" prefix="V" urn="urn:adsk.eagle:component:1593/1">
+<deviceset name="74*375" prefix="V" urn="urn:adsk.eagle:component:1593/1" locally_modified="yes">
 <description>4-bit bistable &lt;b&gt;LATCH&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="7.62" addlevel="request"/>
@@ -25832,7 +25832,7 @@ Philips Semiconductor</description>
 <connect gate="/2" pin="2Q" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25840,7 +25840,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*354" prefix="V" urn="urn:adsk.eagle:component:1520/1">
+<deviceset name="74*354" prefix="V" urn="urn:adsk.eagle:component:1520/1" locally_modified="yes">
 <description>8-to 1 line data &lt;b&gt;SELECTOR/MULTIPLEXER/REGISTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="22.86" y="27.94" addlevel="request"/>
@@ -25872,7 +25872,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y" pad="19"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25880,7 +25880,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*541" prefix="V" urn="urn:adsk.eagle:component:1528/1">
+<deviceset name="74*541" prefix="V" urn="urn:adsk.eagle:component:1528/1" locally_modified="yes">
 <description>Octal &lt;b&gt;BUFFER&lt;/b&gt; and &lt;b&gt;LINE DRIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="22.86" addlevel="request"/>
@@ -25912,7 +25912,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y8" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25920,7 +25920,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*4020" prefix="V" urn="urn:adsk.eagle:component:1602/1">
+<deviceset name="74*4020" prefix="V" urn="urn:adsk.eagle:component:1602/1" locally_modified="yes">
 <description>14-bit asynchronous binary &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="22.86" y="25.4" addlevel="request"/>
@@ -25948,7 +25948,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="QN" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25956,7 +25956,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*240" prefix="V" urn="urn:adsk.eagle:component:1514/1">
+<deviceset name="74*240" prefix="V" urn="urn:adsk.eagle:component:1514/1" locally_modified="yes">
 <description>Octal &lt;b&gt;BUFFER&lt;/b&gt; and &lt;b&gt;LINE DRIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="17.78" y="10.16" addlevel="request"/>
@@ -25989,7 +25989,7 @@ Philips Semiconductor</description>
 <connect gate="/2" pin="Y4" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -25997,7 +25997,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*534" prefix="V" urn="urn:adsk.eagle:component:1526/1">
+<deviceset name="74*534" prefix="V" urn="urn:adsk.eagle:component:1526/1" locally_modified="yes">
 <description>8-bit D type &lt;b&gt;FLIP FLOP&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -26029,7 +26029,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="CLK" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26037,7 +26037,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*540" prefix="V" urn="urn:adsk.eagle:component:1527/1">
+<deviceset name="74*540" prefix="V" urn="urn:adsk.eagle:component:1527/1" locally_modified="yes">
 <description>Octal &lt;b&gt;BUFFER&lt;/b&gt; and &lt;b&gt;LINE DRIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -26069,7 +26069,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y8" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26077,7 +26077,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*7074" prefix="V" urn="urn:adsk.eagle:component:1624/1">
+<deviceset name="74*7074" prefix="V" urn="urn:adsk.eagle:component:1624/1" locally_modified="yes">
 <description>Dual J-K &lt;b&gt;FLIP FLOP&lt;/b&gt;, &lt;b&gt;INVERTER/NOR/NAND&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="20.32" addlevel="request"/>
@@ -26118,7 +26118,7 @@ Philips Semiconductor</description>
 <connect gate="/6" pin="Y" pad="23"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26126,7 +26126,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*7076" prefix="V" urn="urn:adsk.eagle:component:1626/1">
+<deviceset name="74*7076" prefix="V" urn="urn:adsk.eagle:component:1626/1" locally_modified="yes">
 <description>J-K &lt;b&gt;FLIP FLOP&lt;/b&gt;, &lt;b&gt;INVERTER/NOR&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="22.86" addlevel="request"/>
@@ -26167,7 +26167,7 @@ Philips Semiconductor</description>
 <connect gate="/6" pin="Y" pad="23"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26175,7 +26175,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*604" prefix="V" urn="urn:adsk.eagle:component:1628/1">
+<deviceset name="74*604" prefix="V" urn="urn:adsk.eagle:component:1628/1" locally_modified="yes">
 <description>Octal 2-input &lt;b&gt;MULTIPLEXED LATCH&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="43.18" addlevel="request"/>
@@ -26215,7 +26215,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y8" pad="19"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1465/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:827/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26223,7 +26223,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*7001" prefix="V" urn="urn:adsk.eagle:component:1510/1">
+<deviceset name="74*7001" prefix="V" urn="urn:adsk.eagle:component:1510/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;AND&lt;/b&gt;, schmitt trigger</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="12.7" addlevel="request"/>
@@ -26252,7 +26252,7 @@ Philips Semiconductor</description>
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26260,7 +26260,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*682" prefix="V" urn="urn:adsk.eagle:component:1540/1">
+<deviceset name="74*682" prefix="V" urn="urn:adsk.eagle:component:1540/1" locally_modified="yes">
 <description>8-bit &lt;b&gt;MAGNITUDE/IDENTITY COMPARATOR&lt;/b&gt;, totem pole</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="38.1" addlevel="request"/>
@@ -26273,7 +26273,7 @@ Philips Semiconductor</description>
 <connect gate="/+UB" pin="+UB" pad="20"/>
 <connect gate="/-UB" pin="-UB" pad="10"/>
 <connect gate="1" pin="!P=Q" pad="19"/>
-<connect gate="1" pin="!P>Q" pad="1"/>
+<connect gate="1" pin="!P&gt;Q" pad="1"/>
 <connect gate="1" pin="P0" pad="2"/>
 <connect gate="1" pin="P1" pad="4"/>
 <connect gate="1" pin="P2" pad="6"/>
@@ -26292,7 +26292,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Q7" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26300,7 +26300,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*7075" prefix="V" urn="urn:adsk.eagle:component:1625/1">
+<deviceset name="74*7075" prefix="V" urn="urn:adsk.eagle:component:1625/1" locally_modified="yes">
 <description>J-K &lt;b&gt;FLIP FLOP&lt;/b&gt;, &lt;b&gt;INVERTER/NAND&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="17.78" addlevel="request"/>
@@ -26341,7 +26341,7 @@ Philips Semiconductor</description>
 <connect gate="/6" pin="Y" pad="23"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26349,7 +26349,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*652" prefix="V" urn="urn:adsk.eagle:component:1615/1">
+<deviceset name="74*652" prefix="V" urn="urn:adsk.eagle:component:1615/1" locally_modified="yes">
 <description>Octal bus &lt;b&gt;TRANSCEIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="25.4" y="55.88" addlevel="request"/>
@@ -26385,7 +26385,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="SBA" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26393,7 +26393,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*659" prefix="V" urn="urn:adsk.eagle:component:1617/1">
+<deviceset name="74*659" prefix="V" urn="urn:adsk.eagle:component:1617/1" locally_modified="yes">
 <description>Octal bus &lt;b&gt;TRANSCEIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="27.94" y="66.04" addlevel="request"/>
@@ -26429,7 +26429,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="GAB" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26437,7 +26437,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*665" prefix="V" urn="urn:adsk.eagle:component:1619/1">
+<deviceset name="74*665" prefix="V" urn="urn:adsk.eagle:component:1619/1" locally_modified="yes">
 <description>Octal bus &lt;b&gt;TRANSCEIVER&lt;/b&gt;, parity</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="30.48" y="66.04" addlevel="request"/>
@@ -26473,7 +26473,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="DIR" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26481,7 +26481,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*684" prefix="V" urn="urn:adsk.eagle:component:1541/1">
+<deviceset name="74*684" prefix="V" urn="urn:adsk.eagle:component:1541/1" locally_modified="yes">
 <description>8-bit &lt;b&gt;MAGNITUDE COMPARATOR&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="20.32" y="38.1" addlevel="request"/>
@@ -26494,7 +26494,7 @@ Philips Semiconductor</description>
 <connect gate="/+UB" pin="+UB" pad="20"/>
 <connect gate="/-UB" pin="-UB" pad="10"/>
 <connect gate="1" pin="!P=Q" pad="19"/>
-<connect gate="1" pin="!P>Q" pad="1"/>
+<connect gate="1" pin="!P&gt;Q" pad="1"/>
 <connect gate="1" pin="P0" pad="2"/>
 <connect gate="1" pin="P1" pad="4"/>
 <connect gate="1" pin="P2" pad="6"/>
@@ -26513,7 +26513,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Q7" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1464/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26521,7 +26521,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*658" prefix="V" urn="urn:adsk.eagle:component:1616/1">
+<deviceset name="74*658" prefix="V" urn="urn:adsk.eagle:component:1616/1" locally_modified="yes">
 <description>Octal bus &lt;b&gt;TRANSCEIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="30.48" y="63.5" addlevel="request"/>
@@ -26557,7 +26557,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="GAB" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26565,7 +26565,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*677" prefix="V" urn="urn:adsk.eagle:component:1620/1">
+<deviceset name="74*677" prefix="V" urn="urn:adsk.eagle:component:1620/1" locally_modified="yes">
 <description>16-bit address &lt;b&gt;COMPARATOR&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="38.1" y="76.2" addlevel="request"/>
@@ -26601,7 +26601,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26609,7 +26609,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*7008" prefix="V" urn="urn:adsk.eagle:component:1623/1">
+<deviceset name="74*7008" prefix="V" urn="urn:adsk.eagle:component:1623/1" locally_modified="yes">
 <description>&lt;b&gt;NOR/NAND/INVERTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="25.4" addlevel="request"/>
@@ -26652,7 +26652,7 @@ Philips Semiconductor</description>
 <connect gate="/8" pin="Y" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26660,7 +26660,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*678" prefix="V" urn="urn:adsk.eagle:component:1621/1">
+<deviceset name="74*678" prefix="V" urn="urn:adsk.eagle:component:1621/1" locally_modified="yes">
 <description>16-bit address &lt;b&gt;COMPARATOR&lt;/b&gt;, latch</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="33.02" y="73.66" addlevel="request"/>
@@ -26696,7 +26696,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="Y" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26704,7 +26704,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*664" prefix="V" urn="urn:adsk.eagle:component:1618/1">
+<deviceset name="74*664" prefix="V" urn="urn:adsk.eagle:component:1618/1" locally_modified="yes">
 <description>Octal bus &lt;b&gt;TRANSCEIVER&lt;/b&gt;, parity</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="30.48" y="66.04" addlevel="request"/>
@@ -26740,7 +26740,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="DIR" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26748,7 +26748,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*648" prefix="V" urn="urn:adsk.eagle:component:1613/1">
+<deviceset name="74*648" prefix="V" urn="urn:adsk.eagle:component:1613/1" locally_modified="yes">
 <description>8-bit inverting &lt;b&gt;TRANSCEIVER&lt;/b&gt;, 3-state</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="22.86" y="60.96" addlevel="request"/>
@@ -26784,7 +26784,7 @@ Philips Semiconductor</description>
 <connect gate="1" pin="SBA" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26792,7 +26792,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*7006" prefix="V" urn="urn:adsk.eagle:component:1622/1">
+<deviceset name="74*7006" prefix="V" urn="urn:adsk.eagle:component:1622/1" locally_modified="yes">
 <description>&lt;b&gt;NOR/NAND/INVERTER&lt;/b&gt;</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="15.24" y="17.78" addlevel="request"/>
@@ -26833,7 +26833,7 @@ Philips Semiconductor</description>
 <connect gate="/6" pin="Y" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1463/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -26841,7 +26841,7 @@ Philips Semiconductor</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*08" prefix="V" urn="urn:adsk.eagle:component:1469/1">
+<deviceset name="74*08" prefix="V" urn="urn:adsk.eagle:component:1469/1" locally_modified="yes">
 <description>Quad 2-input &lt;b&gt;AND&lt;/b&gt; gate</description>
 <gates>
 <gate name="/+UB" symbol="+UB" x="12.7" y="12.7" addlevel="request"/>
@@ -26870,7 +26870,7 @@ Philips Semiconductor</description>
 <connect gate="/4" pin="Y" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1461/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

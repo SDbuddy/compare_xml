@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.5.2">
 <drawing>
 <settings>
@@ -72,8 +72,9 @@
 http://www-eu2.semiconductors.com&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="QFP100R" urn="urn:adsk.eagle:footprint:20143/1">
-<description>&lt;b&gt;Quad Flat Pack Package&lt;/b&gt; 100 Pin Rectangle</description>
+<package name="QFP100R" urn="urn:adsk.eagle:footprint:20367/1">
+<description>&lt;b&gt;Quad Flat Pack Package&lt;/b&gt; 100 Pin Rectangle&lt;p&gt;
+Source: Siemens dpc31_d.pdf</description>
 <wire x1="-9.9" y1="-6.9" x2="9.9" y2="-6.9" width="0.2032" layer="51"/>
 <wire x1="9.9" y1="-6.9" x2="9.9" y2="6.9" width="0.2032" layer="51"/>
 <wire x1="9.9" y1="6.9" x2="-9.9" y2="6.9" width="0.2032" layer="51"/>
@@ -5115,7 +5116,7 @@ square</description>
 <rectangle x1="2.2799" y1="8.75" x2="2.8001" y2="9.1999" layer="51"/>
 <rectangle x1="1.0099" y1="8.75" x2="1.5301" y2="9.1999" layer="51"/>
 </package>
-<package name="SSOP16" urn="urn:adsk.eagle:footprint:20082/1">
+<package name="SSOP16" urn="urn:adsk.eagle:footprint:16351/1">
 <description>&lt;b&gt;Small Shrink Outline Package&lt;/b&gt;</description>
 <wire x1="-2.568" y1="2.145" x2="2.568" y2="2.145" width="0.2032" layer="21"/>
 <wire x1="2.568" y1="2.145" x2="2.568" y2="-2.145" width="0.2032" layer="21"/>
@@ -7161,7 +7162,7 @@ SOT340-1 / JEDEC MO-150AG</description>
 <packageinstance name="SSOP24"/>
 </packageinstances>
 </package3d>
-<package3d name="SSOP16" urn="urn:adsk.eagle:package:20180/1" type="box">
+<package3d name="SSOP16" urn="urn:adsk.eagle:package:16483/2" type="model">
 <description>Small Shrink Outline Package</description>
 <packageinstances>
 <packageinstance name="SSOP16"/>
@@ -7292,6 +7293,13 @@ Source: PCA9534_3.pdf</description>
 <description>Quad Flat Pack</description>
 <packageinstances>
 <packageinstance name="QFP80"/>
+</packageinstances>
+</package3d>
+<package3d name="QFP100R" urn="urn:adsk.eagle:package:20495/1" type="box">
+<description>Quad Flat Pack Package 100 Pin Rectangle
+Source: Siemens dpc31_d.pdf</description>
+<packageinstances>
+<packageinstance name="QFP100R"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -11270,7 +11278,7 @@ http://www.semiconductors.philips.com/acrobat_download/datasheets/PCF8574_4.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="UDA1320ATS" prefix="IC" urn="urn:adsk.eagle:component:20217/1">
+<deviceset name="UDA1320ATS" prefix="IC" urn="urn:adsk.eagle:component:20217/1" locally_modified="yes">
 <description>Stereo filter &lt;b&gt;D/A CONVERTER&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="UDA1320" x="0" y="0"/>
@@ -11296,7 +11304,7 @@ http://www.semiconductors.philips.com/acrobat_download/datasheets/PCF8574_4.pdf<
 <connect gate="G$1" pin="WS" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:20180/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16483/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -11691,7 +11699,7 @@ http://www.semiconductors.philips.com/acrobat_download/datasheets/PCF8574_4.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="UDA1360TS" prefix="IC" urn="urn:adsk.eagle:component:20218/1">
+<deviceset name="UDA1360TS" prefix="IC" urn="urn:adsk.eagle:component:20218/1" locally_modified="yes">
 <description>Stereo audio &lt;b&gt;A/D CONVERTER&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="UDA1360T" x="0" y="0"/>
@@ -11717,7 +11725,7 @@ http://www.semiconductors.philips.com/acrobat_download/datasheets/PCF8574_4.pdf<
 <connect gate="G$1" pin="WS" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:20180/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16483/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.5.2">
 <drawing>
 <settings>
@@ -71,7 +71,7 @@
 <description>austriamicrosystems&lt;p&gt;
 Analog ICs&lt;p&gt;</description>
 <packages>
-<package name="SO16W" urn="urn:adsk.eagle:footprint:4459/1">
+<package name="SO16W" urn="urn:adsk.eagle:footprint:16344/1">
 <description>&lt;b&gt;SMALL OUTLINE INTEGRATED CIRCUIT&lt;/b&gt;&lt;p&gt;
 wide body 7.5 mm/JEDEC MS-013AA</description>
 <wire x1="-5.395" y1="5.9" x2="5.395" y2="5.9" width="0.1998" layer="39"/>
@@ -172,7 +172,7 @@ Source: www.austriamicrosystems.com .. AS5040DataSheetRev12.pdf</description>
 <packageinstance name="SSOP16"/>
 </packageinstances>
 </package3d>
-<package3d name="SO16W" urn="urn:adsk.eagle:package:4462/1" type="box">
+<package3d name="SO16W" urn="urn:adsk.eagle:package:16487/2" type="model">
 <description>SMALL OUTLINE INTEGRATED CIRCUIT
 wide body 7.5 mm/JEDEC MS-013AA</description>
 <packageinstances>
@@ -231,7 +231,7 @@ wide body 7.5 mm/JEDEC MS-013AA</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="AS8500" prefix="IC" urn="urn:adsk.eagle:component:4463/1">
+<deviceset name="AS8500" prefix="IC" urn="urn:adsk.eagle:component:4463/1" locally_modified="yes">
 <description>&lt;b&gt;Universal multi pupose data aquisition system&lt;b&gt;&lt;p&gt;
 Source: AS8500_rev1_2_22-12-06.pdf</description>
 <gates>
@@ -258,7 +258,7 @@ Source: AS8500_rev1_2_22-12-06.pdf</description>
 <connect gate="G$1" pin="VSSD" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4462/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16487/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

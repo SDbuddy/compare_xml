@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -70,7 +70,7 @@
 <library>
 <description>AMD Packages&lt;p&gt;</description>
 <packages>
-<package name="TSOP56" urn="urn:adsk.eagle:footprint:3682/1">
+<package name="TSOP56" urn="urn:adsk.eagle:footprint:3549/1">
 <description>&lt;b&gt;TS056/TSR056&lt;/b&gt; 56-Pin Thin Small Outline Package (TSOP)&lt;p&gt;
 Standard Pinout&lt;br&gt;
 Source: www.amd.com .. 26191.pdf</description>
@@ -194,7 +194,7 @@ Source: www.amd.com .. 26191.pdf</description>
 <rectangle x1="9.15" y1="6.125" x2="10" y2="6.375" layer="51" rot="R180"/>
 <rectangle x1="9.15" y1="6.625" x2="10" y2="6.875" layer="51" rot="R180"/>
 </package>
-<package name="TSOP56R" urn="urn:adsk.eagle:footprint:3683/1">
+<package name="TSOP56R" urn="urn:adsk.eagle:footprint:3550/1">
 <description>&lt;b&gt;TS056/TSR056&lt;/b&gt; 56-Pin Thin Small Outline Package (TSOP)&lt;p&gt;
 Reverse Pinout&lt;br&gt;
 Source: www.amd.com .. 26191.pdf</description>
@@ -323,6 +323,22 @@ Source: www.amd.com .. 26191.pdf</description>
 </package>
 </packages>
 <packages3d>
+<package3d name="TSOP56" urn="urn:adsk.eagle:package:3567/1" type="box">
+<description>TS056/TSR056 56-Pin Thin Small Outline Package (TSOP)
+Standard Pinout
+Source: www.amd.com .. 26191.pdf</description>
+<packageinstances>
+<packageinstance name="TSOP56"/>
+</packageinstances>
+</package3d>
+<package3d name="TSOP56R" urn="urn:adsk.eagle:package:3566/1" type="box">
+<description>TS056/TSR056 56-Pin Thin Small Outline Package (TSOP)
+Reverse Pinout
+Source: www.amd.com .. 26191.pdf</description>
+<packageinstances>
+<packageinstance name="TSOP56R"/>
+</packageinstances>
+</package3d>
 </packages3d>
 <symbols>
 </symbols>

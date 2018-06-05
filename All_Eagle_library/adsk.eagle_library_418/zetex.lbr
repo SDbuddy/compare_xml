@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.4.3">
 <drawing>
 <settings>
@@ -242,7 +242,7 @@ Source : Analog and Discrete Components Databook ST306 April 2001</description>
 <vertex x="0.4724" y="0.5334"/>
 </polygon>
 </package>
-<package name="SOT223" urn="urn:adsk.eagle:footprint:30946/1">
+<package name="SOT223" urn="urn:adsk.eagle:footprint:28484/1">
 <description>&lt;b&gt;Small Outline Transistor&lt;/b&gt;</description>
 <wire x1="3.2766" y1="1.778" x2="3.2766" y2="-1.778" width="0.2032" layer="21"/>
 <wire x1="3.2766" y1="-1.778" x2="-3.2766" y2="-1.778" width="0.2032" layer="21"/>
@@ -543,7 +543,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <rectangle x1="-0.4751" y1="1.5" x2="-0.1751" y2="2.45" layer="51"/>
 <rectangle x1="-1.1253" y1="1.5" x2="-0.8253" y2="2.45" layer="51"/>
 </package>
-<package name="SOT23-6" urn="urn:adsk.eagle:footprint:30970/1">
+<package name="SOT23-6" urn="urn:adsk.eagle:footprint:16362/1">
 <description>&lt;b&gt;Small Outline Transistor&lt;/b&gt; 6 lead</description>
 <wire x1="1.422" y1="-0.781" x2="-1.423" y2="-0.781" width="0.1524" layer="51"/>
 <wire x1="-1.423" y1="-0.781" x2="-1.423" y2="0.781" width="0.1524" layer="21"/>
@@ -727,7 +727,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="SOT223" urn="urn:adsk.eagle:package:30982/1" type="box">
+<package3d name="SOT223" urn="urn:adsk.eagle:package:28541/2" type="model">
 <description>Small Outline Transistor</description>
 <packageinstances>
 <packageinstance name="SOT223"/>
@@ -796,7 +796,7 @@ wide body 7.5 mm/JEDEC MS-013AC</description>
 <packageinstance name="SOD323"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT23-6" urn="urn:adsk.eagle:package:30993/1" type="box">
+<package3d name="SOT23-6" urn="urn:adsk.eagle:package:16490/2" type="model">
 <description>Small Outline Transistor 6 lead</description>
 <packageinstances>
 <packageinstance name="SOT23-6"/>
@@ -1932,7 +1932,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="NMOSSOT223" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31009/1">
+<deviceset name="NMOSSOT223" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31009/1" locally_modified="yes">
 <description>&lt;b&gt;MOS FET&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="N_MOSFET" x="0" y="0"/>
@@ -1945,7 +1945,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 <connect gate="A" pin="S" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30982/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28541/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -1958,7 +1958,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="PNPSOT223" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31007/1">
+<deviceset name="PNPSOT223" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31007/1" locally_modified="yes">
 <description>&lt;b&gt;PNP TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="PNP" x="0" y="0"/>
@@ -1971,7 +1971,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 <connect gate="A" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30982/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28541/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -2010,7 +2010,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="NPNSOT223" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31008/1">
+<deviceset name="NPNSOT223" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31008/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="NPN" x="0" y="0"/>
@@ -2023,7 +2023,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 <connect gate="A" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30982/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28541/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -2036,7 +2036,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="FZT789A" prefix="T" urn="urn:adsk.eagle:component:31006/1">
+<deviceset name="FZT789A" prefix="T" urn="urn:adsk.eagle:component:31006/1" locally_modified="yes">
 <description>&lt;b&gt;PNP TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="PNP" x="0" y="0"/>
@@ -2049,7 +2049,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 <connect gate="A" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30982/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28541/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -2290,7 +2290,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="PMOSSOT223" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31010/1">
+<deviceset name="PMOSSOT223" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31010/1" locally_modified="yes">
 <description>&lt;b&gt;MOS FET&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="P_MOSFET" x="0" y="0"/>
@@ -2303,7 +2303,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 <connect gate="G$1" pin="S" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30982/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28541/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3235,7 +3235,7 @@ Source: &lt;a href="http://www.diodes.com/datasheets/ZXMD63P03X.pdf"&gt; Data sh
 </device>
 </devices>
 </deviceset>
-<deviceset name="NPNSOT23-6" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31048/1">
+<deviceset name="NPNSOT23-6" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31048/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="NPN" x="0" y="0"/>
@@ -3248,7 +3248,7 @@ Source: &lt;a href="http://www.diodes.com/datasheets/ZXMD63P03X.pdf"&gt; Data sh
 <connect gate="A" pin="E" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30993/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16490/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3338,7 +3338,7 @@ Source: &lt;a href="http://www.diodes.com/datasheets/ZXMD63P03X.pdf"&gt; Data sh
 </device>
 </devices>
 </deviceset>
-<deviceset name="PNPSOT23-6" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31049/1">
+<deviceset name="PNPSOT23-6" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31049/1" locally_modified="yes">
 <description>&lt;b&gt;PNP TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="PNP" x="0" y="0"/>
@@ -3351,7 +3351,7 @@ Source: &lt;a href="http://www.diodes.com/datasheets/ZXMD63P03X.pdf"&gt; Data sh
 <connect gate="A" pin="E" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30993/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16490/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3422,7 +3422,7 @@ Source: www.zetex.com/ .. zxtd1m832.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="NMOSSOT23-6" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31046/1">
+<deviceset name="NMOSSOT23-6" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31046/1" locally_modified="yes">
 <description>&lt;b&gt;MOS FET&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="N_MOSFET" x="0" y="0"/>
@@ -3435,7 +3435,7 @@ Source: www.zetex.com/ .. zxtd1m832.pdf</description>
 <connect gate="A" pin="S" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30993/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16490/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3481,7 +3481,7 @@ Source: http://www.zetex.com/3.0/pdf/ZXSC300.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="NPN-PNPSOR23-6" prefix="T" urn="urn:adsk.eagle:component:31050/1">
+<deviceset name="NPN-PNPSOR23-6" prefix="T" urn="urn:adsk.eagle:component:31050/1" locally_modified="yes">
 <description>Dual &lt;b&gt;NPN PNP TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="NPN" x="0" y="7.62"/>
@@ -3498,7 +3498,7 @@ Source: http://www.zetex.com/3.0/pdf/ZXSC300.pdf</description>
 <connect gate="B" pin="E" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30993/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16490/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3511,7 +3511,7 @@ Source: http://www.zetex.com/3.0/pdf/ZXSC300.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ZXTS1000E6" prefix="T" urn="urn:adsk.eagle:component:31051/1">
+<deviceset name="ZXTS1000E6" prefix="T" urn="urn:adsk.eagle:component:31051/1" locally_modified="yes">
 <description>&lt;b&gt;PNP TRANSISTOR with SHOTTKY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="PNP-SHOTTKY" x="0" y="0"/>
@@ -3525,7 +3525,7 @@ Source: http://www.zetex.com/3.0/pdf/ZXSC300.pdf</description>
 <connect gate="A" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30993/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16490/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3567,7 +3567,7 @@ Source: Uploaded by Edmondo Gigli &amp;lt;edmondog@alice.it&amp;gt; from EG, Fri
 </device>
 </devices>
 </deviceset>
-<deviceset name="PMOSSOT23-6" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31047/1">
+<deviceset name="PMOSSOT23-6" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:31047/1" locally_modified="yes">
 <description>&lt;b&gt;P-CHANNEL ENHANCEMENT MODE MOSFET&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="http://www.diodes.com/zetex/_pdfs/3.0/pdf/ZXMP10A17E6.pdf"&gt; Data sheet &lt;/a&gt;&lt;br&gt;
 ZXMP10A17E6</description>
@@ -3582,7 +3582,7 @@ ZXMP10A17E6</description>
 <connect gate="G$1" pin="S" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30993/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16490/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3699,7 +3699,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ZHCS2000" prefix="D" urn="urn:adsk.eagle:component:31052/1">
+<deviceset name="ZHCS2000" prefix="D" urn="urn:adsk.eagle:component:31052/1" locally_modified="yes">
 <description>&lt;b&gt;SHOTTKY DIODE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SCHOTTKY" x="0" y="0"/>
@@ -3711,7 +3711,7 @@ Source: www.zetex.com/ .. zxtam322.pdf</description>
 <connect gate="A" pin="K" pad="1 2 5 6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30993/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16490/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

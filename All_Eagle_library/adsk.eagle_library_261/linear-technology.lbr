@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="7.51.1">
 <drawing>
 <settings>
@@ -74,7 +74,7 @@ http://www.linear-tech.com&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
 <package name="QFN3X3-16" urn="urn:adsk.eagle:footprint:16055/1"/>
-<package name="DIL08" urn="urn:adsk.eagle:footprint:15995/1">
+<package name="DIL08" urn="urn:adsk.eagle:footprint:29416/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="5.08" y1="2.921" x2="-5.08" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-5.08" y1="-2.921" x2="5.08" y2="-2.921" width="0.1524" layer="21"/>
@@ -544,7 +544,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1155,C1001,C11
 <text x="-2.159" y="0" size="1.27" layer="51" ratio="10">3</text>
 <text x="1.143" y="0" size="1.27" layer="51" ratio="10">1</text>
 </package>
-<package name="MSOP8" urn="urn:adsk.eagle:footprint:15997/1">
+<package name="MSOP8" urn="urn:adsk.eagle:footprint:29415/1">
 <description>&lt;b&gt;MSOP8&lt;/b&gt;</description>
 <wire x1="-1.5" y1="-1.5" x2="1.5" y2="-1.5" width="0.2032" layer="51"/>
 <wire x1="1.5" y1="-1.5" x2="1.5" y2="1.5" width="0.2032" layer="21"/>
@@ -1690,7 +1690,7 @@ Source: http://www.linear.com ..</description>
 <packageinstance name="SOIC8"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL08" urn="urn:adsk.eagle:package:16059/1" type="box">
+<package3d name="DIL08" urn="urn:adsk.eagle:package:29519/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL08"/>
@@ -1708,7 +1708,7 @@ Source: http://www.linear.com ..</description>
 <packageinstance name="SOT223"/>
 </packageinstances>
 </package3d>
-<package3d name="MSOP8" urn="urn:adsk.eagle:package:16062/1" type="box">
+<package3d name="MSOP8" urn="urn:adsk.eagle:package:29518/2" type="model">
 <description>MSOP8</description>
 <packageinstances>
 <packageinstance name="MSOP8"/>
@@ -2995,7 +2995,7 @@ with shutdown</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LT1016" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:16091/1">
+<deviceset name="LT1016" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:16091/1" locally_modified="yes">
 <description>Ultra-fast precision &lt;b&gt;COMPARATOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LT1016" x="0" y="0"/>
@@ -3036,7 +3036,7 @@ with shutdown</description>
 <connect gate="G$1" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16059/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3049,7 +3049,7 @@ with shutdown</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LTC485" prefix="IC" urn="urn:adsk.eagle:component:16093/1">
+<deviceset name="LTC485" prefix="IC" urn="urn:adsk.eagle:component:16093/1" locally_modified="yes">
 <description>&lt;b&gt;Low Power RS485 Interface Transceiver&lt;/b&gt;&lt;p&gt;
 Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1007,C1017,P2064,D1718</description>
 <gates>
@@ -3068,7 +3068,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1007,C1017,P20
 <connect gate="G$1" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16059/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3104,7 +3104,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1007,C1017,P20
 </device>
 </devices>
 </deviceset>
-<deviceset name="LTC128*C" prefix="IC" urn="urn:adsk.eagle:component:16092/1">
+<deviceset name="LTC128*C" prefix="IC" urn="urn:adsk.eagle:component:16092/1" locally_modified="yes">
 <description>&lt;b&gt;3V Micropower Sampling 12-Bit A/D Converters&lt;/b&gt;&lt;p&gt;
 Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1155,C1001,C1158,P1489,D3463</description>
 <gates>
@@ -3152,7 +3152,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1155,C1001,C11
 <connect gate="G$1" pin="VREF" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16059/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="5">
@@ -3171,7 +3171,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1155,C1001,C11
 </device>
 </devices>
 </deviceset>
-<deviceset name="LT1019?*" prefix="IC" urn="urn:adsk.eagle:component:16097/1">
+<deviceset name="LT1019?*" prefix="IC" urn="urn:adsk.eagle:component:16097/1" locally_modified="yes">
 <description>&lt;b&gt;Precision Voltage Reference&lt;/b&gt;&lt;p&gt;
 Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1154,C1002,C1243,P1130,D3834</description>
 <gates>
@@ -3223,7 +3223,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1154,C1002,C12
 <connect gate="G$1" pin="VIN" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16059/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3236,7 +3236,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1154,C1002,C12
 </device>
 </devices>
 </deviceset>
-<deviceset name="LT1257" prefix="IC" urn="urn:adsk.eagle:component:16098/1">
+<deviceset name="LT1257" prefix="IC" urn="urn:adsk.eagle:component:16098/1" locally_modified="yes">
 <description>&lt;b&gt;Complete Single Supply 12-Bit Voltage Output DAC&lt;/b&gt;&lt;p&gt;
 Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1155,C1005,C1156,P1425,D3414</description>
 <gates>
@@ -3255,7 +3255,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1155,C1005,C11
 <connect gate="G$1" pin="VREF" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16059/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3350,7 +3350,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C3,P2222,D3148</de
 </device>
 </devices>
 </deviceset>
-<deviceset name="LT1168" prefix="IC" urn="urn:adsk.eagle:component:16095/1">
+<deviceset name="LT1168" prefix="IC" urn="urn:adsk.eagle:component:16095/1" locally_modified="yes">
 <description>&lt;b&gt;Low Power, Single Resistor Gain Programmable, Precision Instrumentation Amplifier&lt;/b&gt;&lt;p&gt;
 SourcE: LT1168.pdf</description>
 <gates>
@@ -3369,7 +3369,7 @@ SourcE: LT1168.pdf</description>
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16059/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="AC">
@@ -3441,7 +3441,7 @@ SourcE: LT1168.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LT1021" prefix="IC" urn="urn:adsk.eagle:component:16094/1">
+<deviceset name="LT1021" prefix="IC" urn="urn:adsk.eagle:component:16094/1" locally_modified="yes">
 <description>&lt;b&gt;Precision Reference&lt;/b&gt;&lt;p&gt;
 Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1010,C1603,P1229,D2805</description>
 <gates>
@@ -3455,7 +3455,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1010,C1603,P12
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16059/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3486,7 +3486,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1010,C1603,P12
 </device>
 </devices>
 </deviceset>
-<deviceset name="LT1236?*" prefix="IC" urn="urn:adsk.eagle:component:16096/1">
+<deviceset name="LT1236?*" prefix="IC" urn="urn:adsk.eagle:component:16096/1" locally_modified="yes">
 <description>&lt;b&gt;Precision Voltage Reference&lt;/b&gt;&lt;p&gt;
 Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1154,C1002,C1243,P1156,D2948</description>
 <gates>
@@ -3526,7 +3526,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1154,C1002,C12
 <connect gate="G$1" pin="VIN" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16059/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="-10">
@@ -4193,7 +4193,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1155,C1001,C11
 </device>
 </devices>
 </deviceset>
-<deviceset name="LTC1658MS8" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:16102/1">
+<deviceset name="LTC1658MS8" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:16102/1" locally_modified="yes">
 <description>&lt;b&gt;DIGITAL/ANALOG CONVERTER&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LTC1658" x="0" y="0"/>
@@ -4211,7 +4211,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1155,C1001,C11
 <connect gate="G$1" pin="VREF" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16062/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29518/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -4224,7 +4224,7 @@ Source: http://www.linear.com/pc/downloadDocument.do?navId=H0,C1,C1155,C1001,C11
 </device>
 </devices>
 </deviceset>
-<deviceset name="LTC26*" prefix="IC" urn="urn:adsk.eagle:component:16103/1">
+<deviceset name="LTC26*" prefix="IC" urn="urn:adsk.eagle:component:16103/1" locally_modified="yes">
 <description>&lt;b&gt;Dual 16-/14-/12-Bit Rail-to-Rail DACs&lt;/b&gt;&lt;p&gt;
 Source: www.linear.com</description>
 <gates>
@@ -4243,7 +4243,7 @@ Source: www.linear.com</description>
 <connect gate="-1" pin="VOUTB" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16062/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29518/2"/>
 </package3dinstances>
 <technologies>
 <technology name="02C">
@@ -5010,7 +5010,7 @@ Source: &lt;a href="http://cds.linear.com/docs/Datasheet/2444589fb.pdf"&gt; Data
 </device>
 </devices>
 </deviceset>
-<deviceset name="LT1634" prefix="IC" urn="urn:adsk.eagle:component:16127/1">
+<deviceset name="LT1634" prefix="IC" urn="urn:adsk.eagle:component:16127/1" locally_modified="yes">
 <description>&lt;b&gt;Micropower Precision Shunt Voltage Reference&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="http://cds.linear.com/docs/en/datasheet/1634fe.pdf"&gt; Darta sheet &lt;/a&gt;</description>
 <gates>
@@ -5023,7 +5023,7 @@ Source: &lt;a href="http://cds.linear.com/docs/en/datasheet/1634fe.pdf"&gt; Dart
 <connect gate="P" pin="VOUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16062/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29518/2"/>
 </package3dinstances>
 <technologies>
 <technology name="-1,25"/>

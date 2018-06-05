@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="7.1.2">
 <drawing>
 <settings>
@@ -144,7 +144,7 @@ Source: AV02-0886EN+DS+HCNR200+10Dec2011-1.pdf</description>
 <text x="-5.334" y="-2.921" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-3.556" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL40" urn="urn:adsk.eagle:footprint:4465/1">
+<package name="DIL40" urn="urn:adsk.eagle:footprint:19511/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="25.4" y1="6.731" x2="-25.4" y2="6.731" width="0.1524" layer="21"/>
 <wire x1="-25.4" y1="-6.731" x2="25.4" y2="-6.731" width="0.1524" layer="21"/>
@@ -215,7 +215,7 @@ Source: AV02-0886EN+DS+HCNR200+10Dec2011-1.pdf</description>
 <text x="-5.334" y="-4.191" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-3.556" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="PLCC44" urn="urn:adsk.eagle:footprint:4467/1">
+<package name="PLCC44" urn="urn:adsk.eagle:footprint:16312/1">
 <description>&lt;b&gt;PLASTIC LEADED CHIP CARRIER&lt;/b&gt;&lt;p&gt;
 square</description>
 <wire x1="-9.903" y1="9.903" x2="9.903" y2="9.903" width="0.2" layer="39"/>
@@ -436,7 +436,7 @@ Source: AV02-0886EN+DS+HCNR200+10Dec2011-1.pdf</description>
 <packageinstance name="DIP8-400"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL40" urn="urn:adsk.eagle:package:4482/1" type="box">
+<package3d name="DIL40" urn="urn:adsk.eagle:package:19651/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL40"/>
@@ -476,7 +476,7 @@ Source: AV02-0886EN+DS+HCNR200+10Dec2011-1.pdf</description>
 <packageinstance name="DIL08-400"/>
 </packageinstances>
 </package3d>
-<package3d name="PLCC44" urn="urn:adsk.eagle:package:4483/1" type="box">
+<package3d name="PLCC44" urn="urn:adsk.eagle:package:16470/2" type="model">
 <description>PLASTIC LEADED CHIP CARRIER
 square</description>
 <packageinstances>
@@ -801,7 +801,7 @@ Source: </description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="HCTL-1100" prefix="IC" urn="urn:adsk.eagle:component:4493/1">
+<deviceset name="HCTL-1100" prefix="IC" urn="urn:adsk.eagle:component:4493/1" locally_modified="yes">
 <description>&lt;b&gt;General Purpose Motion Control ICs&lt;/b&gt;&lt;p&gt;
 Source: AVAGO TECHNOLOGIES .. 5988-5896EN.pdf</description>
 <gates>
@@ -852,7 +852,7 @@ Source: AVAGO TECHNOLOGIES .. 5988-5896EN.pdf</description>
 <connect gate="G$1" pin="VDD@2" pad="35"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -1002,7 +1002,7 @@ Source: &lt;a href="http://www.farnell.com/datasheets/461166.pdf"&gt; Data sheet
 </device>
 </devices>
 </deviceset>
-<deviceset name="HCTL-1100?" prefix="IC" urn="urn:adsk.eagle:component:4492/1">
+<deviceset name="HCTL-1100?" prefix="IC" urn="urn:adsk.eagle:component:4492/1" locally_modified="yes">
 <description>&lt;b&gt;General Purpose Motion Control ICs&lt;/b&gt;&lt;p&gt;
 Source: AVAGO TECHNOLOGIES .. 5988-5896EN.pdf</description>
 <gates>
@@ -1055,7 +1055,7 @@ Source: AVAGO TECHNOLOGIES .. 5988-5896EN.pdf</description>
 <connect gate="G$1" pin="VDD@2" pad="38"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16470/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

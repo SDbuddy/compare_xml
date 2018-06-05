@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -3072,9 +3072,9 @@ Source: QUANTUM RESEARCHE GROUP .. resistorless rotor drawing.pdf&lt;p&gt;</desc
 <vertex x="0.84105625" y="3.598584375"/>
 </polygon>
 </package>
-<package name="QFN32" urn="urn:adsk.eagle:footprint:22788/1">
+<package name="QFN32" urn="urn:adsk.eagle:footprint:17444/1">
 <description>&lt;b&gt;QFN 32&lt;/b&gt; 5 x 5 mm&lt;p&gt;
-Source: www.qprox.com ... QT1106_-8IR0.07-16262.pdf</description>
+Source: http://datasheets.maxim-ic.com/en/ds/MAX7042.pdf</description>
 <wire x1="-2.45" y1="2.45" x2="2.45" y2="2.45" width="0.1016" layer="51"/>
 <wire x1="2.45" y1="2.45" x2="2.45" y2="-2.45" width="0.1016" layer="51"/>
 <wire x1="2.45" y1="-2.45" x2="-2.45" y2="-2.45" width="0.1016" layer="51"/>
@@ -3623,7 +3623,7 @@ wide body 7.5 mm/JEDEC MO-119AB</description>
 <rectangle x1="-7.2301" y1="3.8001" x2="-6.7399" y2="5.32" layer="51"/>
 <rectangle x1="-8.5001" y1="3.8001" x2="-8.0099" y2="5.32" layer="51"/>
 </package>
-<package name="DIL28-3" urn="urn:adsk.eagle:footprint:22790/1">
+<package name="DIL28-3" urn="urn:adsk.eagle:footprint:771/1">
 <description>&lt;b&gt;Dual In Line Package Small&lt;/b&gt;</description>
 <wire x1="17.78" y1="2.921" x2="-17.78" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-17.78" y1="-2.921" x2="17.78" y2="-2.921" width="0.1524" layer="21"/>
@@ -3664,9 +3664,9 @@ wide body 7.5 mm/JEDEC MO-119AB</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="QFN32" urn="urn:adsk.eagle:package:22795/1" type="box">
+<package3d name="QFN32" urn="urn:adsk.eagle:package:17546/1" type="box">
 <description>QFN 32 5 x 5 mm
-Source: www.qprox.com ... QT1106_-8IR0.07-16262.pdf</description>
+Source: http://datasheets.maxim-ic.com/en/ds/MAX7042.pdf</description>
 <packageinstances>
 <packageinstance name="QFN32"/>
 </packageinstances>
@@ -3692,7 +3692,7 @@ wide body 7.5 mm/JEDEC MO-119AB</description>
 <packageinstance name="SO28W"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL28-3" urn="urn:adsk.eagle:package:22793/1" type="box">
+<package3d name="DIL28-3" urn="urn:adsk.eagle:package:827/2" type="model">
 <description>Dual In Line Package Small</description>
 <packageinstances>
 <packageinstance name="DIL28-3"/>
@@ -5359,7 +5359,7 @@ Source: QUANTUM RESEARCHE GROUP .. resistorless rotor drawing.pdf&lt;p&gt;</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="QT1106" prefix="IC" urn="urn:adsk.eagle:component:22800/1">
+<deviceset name="QT1106" prefix="IC" urn="urn:adsk.eagle:component:22800/1" locally_modified="yes">
 <description>&lt;b&gt;QWheel (TM) / QSlide (TM) / QTouch (TM) IC&lt;p&gt;
 Source: www.qprox.com ... QT1106_-8IR0.07-16262.pdf</description>
 <gates>
@@ -5402,7 +5402,7 @@ Source: www.qprox.com ... QT1106_-8IR0.07-16262.pdf</description>
 <connect gate="G$1" pin="VSS" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:22795/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:17546/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -5415,7 +5415,7 @@ Source: www.qprox.com ... QT1106_-8IR0.07-16262.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="QT9701B" prefix="IC" urn="urn:adsk.eagle:component:22798/1">
+<deviceset name="QT9701B" prefix="IC" urn="urn:adsk.eagle:component:22798/1" locally_modified="yes">
 <description>&lt;b&gt;Charge-Transfer Capacitance Sensor IC&lt;/b&gt;&lt;p&gt;
 Source: http://data.qprox.com/downloads/datasheets/qt9701b.pdf</description>
 <gates>
@@ -5454,7 +5454,7 @@ Source: http://data.qprox.com/downloads/datasheets/qt9701b.pdf</description>
 <connect gate="G$1" pin="Z4" pad="27"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:22793/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:827/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

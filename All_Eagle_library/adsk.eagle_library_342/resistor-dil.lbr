@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -115,7 +115,7 @@ Source: www.vishay.com/docs/31508/somc.pdf</description>
 <rectangle x1="2.795" y1="2.9465" x2="3.81" y2="3.4035" layer="51"/>
 <rectangle x1="2.795" y1="4.2165" x2="3.81" y2="4.6735" layer="51"/>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:24882/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -410,7 +410,7 @@ Source: RS Component / BUORNS</description>
 <text x="-1.905" y="-2.54" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-1.905" y="1.27" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL14" urn="urn:adsk.eagle:footprint:24890/1">
+<package name="DIL14" urn="urn:adsk.eagle:footprint:16136/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="8.89" y1="2.921" x2="-8.89" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-8.89" y1="-2.921" x2="8.89" y2="-2.921" width="0.1524" layer="21"/>
@@ -913,7 +913,7 @@ Source: www.vishay.com/docs/31508/somc.pdf</description>
 <packageinstance name="SOMC16"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:24913/1" type="box">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
@@ -965,7 +965,7 @@ Source: RS Component / BUORNS</description>
 <packageinstance name="CAT16"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL14" urn="urn:adsk.eagle:package:24927/1" type="box">
+<package3d name="DIL14" urn="urn:adsk.eagle:package:16407/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL14"/>
@@ -1642,7 +1642,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="15R" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24932/1">
+<deviceset name="15R" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24932/1" locally_modified="yes">
 <description>&lt;b&gt;DIL RESISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="1" symbol="15R" x="0" y="0"/>
@@ -1668,7 +1668,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 <connect gate="1" pin="9" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:24913/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -1712,7 +1712,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="8R-P" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24933/1">
+<deviceset name="8R-P" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24933/1" locally_modified="yes">
 <description>&lt;b&gt;DIL RESISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="R1PV" x="0" y="20.32" addlevel="always" swaplevel="1"/>
@@ -1745,7 +1745,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 <connect gate="H" pin="2" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:24913/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -1789,7 +1789,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="E15R" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24934/1">
+<deviceset name="E15R" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24934/1" locally_modified="yes">
 <description>&lt;b&gt;DIL RESISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="R1NV0" x="0" y="22.86" addlevel="always"/>
@@ -1829,7 +1829,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 <connect gate="O" pin="1" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:24913/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -1873,7 +1873,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="8R-N" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24944/1">
+<deviceset name="8R-N" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24944/1" locally_modified="yes">
 <description>&lt;b&gt;DIL RESISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="R1NV" x="0" y="22.86" addlevel="always" swaplevel="1"/>
@@ -1906,7 +1906,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 <connect gate="H" pin="2" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:24913/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -2189,7 +2189,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="E13R" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24941/1">
+<deviceset name="E13R" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24941/1" locally_modified="yes">
 <description>&lt;b&gt;DIL RESISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="R1NV0" x="0" y="22.86" addlevel="always" swaplevel="1"/>
@@ -2225,7 +2225,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 <connect gate="M" pin="1" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:24927/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -2267,7 +2267,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="13R" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24940/1">
+<deviceset name="13R" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24940/1" locally_modified="yes">
 <description>&lt;b&gt;DIL RESISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="13R" x="0" y="0"/>
@@ -2291,7 +2291,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 <connect gate="A" pin="9" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:24927/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -2333,7 +2333,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7R-N" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24942/1">
+<deviceset name="7R-N" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24942/1" locally_modified="yes">
 <description>&lt;b&gt;DIL RESISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="R1NV" x="0" y="15.24" swaplevel="1"/>
@@ -2363,7 +2363,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 <connect gate="G" pin="2" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:24927/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -2405,7 +2405,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7R-P" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24943/1">
+<deviceset name="7R-P" prefix="RN" uservalue="yes" urn="urn:adsk.eagle:component:24943/1" locally_modified="yes">
 <description>&lt;b&gt;DIL RESISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="R1PV" x="0" y="33.02" addlevel="always" swaplevel="1"/>
@@ -2435,7 +2435,7 @@ Source: PANASONIC .. aoc0000ce1.pdf</description>
 <connect gate="G" pin="2" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:24927/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

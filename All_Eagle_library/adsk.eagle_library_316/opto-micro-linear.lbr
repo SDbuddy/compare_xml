@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -184,7 +184,7 @@ http://www.microlinear.com&lt;p&gt;
 <rectangle x1="2.28" y1="6.25" x2="2.8" y2="6.7" layer="51"/>
 <rectangle x1="1.01" y1="6.25" x2="1.53" y2="6.7" layer="51"/>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:21753/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -211,7 +211,7 @@ http://www.microlinear.com&lt;p&gt;
 <text x="-10.541" y="-2.921" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-7.493" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL24-3" urn="urn:adsk.eagle:footprint:21757/1">
+<package name="DIL24-3" urn="urn:adsk.eagle:footprint:3288/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.3 inch</description>
 <wire x1="-14.986" y1="-0.635" x2="-14.986" y2="-2.794" width="0.1524" layer="21"/>
 <wire x1="-14.986" y1="0.635" x2="-14.986" y2="-0.635" width="0.1524" layer="21" curve="-180"/>
@@ -254,7 +254,7 @@ http://www.microlinear.com&lt;p&gt;
 <packageinstance name="SO16"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:21759/1" type="box">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
@@ -266,7 +266,7 @@ http://www.microlinear.com&lt;p&gt;
 <packageinstance name="PLCC28S"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL24-3" urn="urn:adsk.eagle:package:21762/1" type="box">
+<package3d name="DIL24-3" urn="urn:adsk.eagle:package:3299/1" type="box">
 <description>Dual In Line Package 0.3 inch</description>
 <packageinstances>
 <packageinstance name="DIL24-3"/>
@@ -368,7 +368,7 @@ http://www.microlinear.com&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="ML4622CP" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:21763/1">
+<deviceset name="ML4622CP" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:21763/1" locally_modified="yes">
 <description>&lt;B&gt;FIBER OPTIC DATA QUANTIZER&lt;/B&gt;</description>
 <gates>
 <gate name="NC1" symbol="ML4622" x="0" y="0" addlevel="request"/>
@@ -394,7 +394,7 @@ http://www.microlinear.com&lt;p&gt;
 <connect gate="NC1" pin="VTHADJ" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21759/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -469,7 +469,7 @@ http://www.microlinear.com&lt;p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="ML4624CP" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:21766/1">
+<deviceset name="ML4624CP" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:21766/1" locally_modified="yes">
 <description>&lt;B&gt;FIBER OPTIC DATA QUANTIZER&lt;/B&gt;</description>
 <gates>
 <gate name="G$1" symbol="ML4624" x="0" y="0"/>
@@ -510,7 +510,7 @@ http://www.microlinear.com&lt;p&gt;
 <connect gate="NC7" pin="NC" pad="23"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21762/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">

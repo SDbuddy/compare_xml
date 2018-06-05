@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -99,7 +99,7 @@
 <rectangle x1="-0.88" y1="2" x2="-0.39" y2="3.1" layer="51"/>
 <rectangle x1="-2.15" y1="2" x2="-1.66" y2="3.1" layer="51"/>
 </package>
-<package name="DIL08" urn="urn:adsk.eagle:footprint:22620/1">
+<package name="DIL08" urn="urn:adsk.eagle:footprint:29416/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="5.08" y1="2.921" x2="-5.08" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-5.08" y1="-2.921" x2="5.08" y2="-2.921" width="0.1524" layer="21"/>
@@ -126,7 +126,7 @@
 <packageinstance name="SOIC08"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL08" urn="urn:adsk.eagle:package:22622/1" type="box">
+<package3d name="DIL08" urn="urn:adsk.eagle:package:29519/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL08"/>
@@ -171,7 +171,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="X9C102*" prefix="IC" urn="urn:adsk.eagle:component:22623/1">
+<deviceset name="X9C102*" prefix="IC" urn="urn:adsk.eagle:component:22623/1" locally_modified="yes">
 <description>Digital &lt;b&gt;POTENTIOMETER&lt;/b&gt;</description>
 <gates>
 <gate name="1" symbol="X9C10X" x="0" y="0"/>
@@ -212,7 +212,7 @@
 <connect gate="1" pin="W" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:22622/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

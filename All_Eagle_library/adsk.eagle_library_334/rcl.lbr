@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="8.4.0">
 <drawing>
 <settings>
@@ -3119,7 +3119,7 @@ grid 5 mm, outline 3 x 7.5 mm</description>
 <text x="-3.556" y="1.905" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-3.556" y="-3.048" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="P128-35" urn="urn:adsk.eagle:footprint:22831/1">
+<package name="P128-35" urn="urn:adsk.eagle:footprint:25377/1">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;</description>
 <wire x1="1.778" y1="2.54" x2="1.778" y2="1.397" width="0.1524" layer="21"/>
 <wire x1="1.778" y1="1.397" x2="1.778" y2="0.635" width="0.1524" layer="21"/>
@@ -6703,7 +6703,7 @@ diameter 5 mm, grid 2.54 mm</description>
 <rectangle x1="-1.651" y1="-0.127" x2="-0.889" y2="0.635" layer="51"/>
 <rectangle x1="0" y1="1.6002" x2="0.4318" y2="3.4798" layer="21"/>
 </package>
-<package name="SMC_A" urn="urn:adsk.eagle:footprint:22933/1">
+<package name="SMC_A" urn="urn:adsk.eagle:footprint:25479/1">
 <description>&lt;b&gt;Chip Capacitor &lt;/b&gt; Polar tantalum capacitors with solid electrolyte&lt;p&gt;
 Siemens Matsushita Components B 45 194, B 45 197, B 45 198&lt;br&gt;
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -6719,7 +6719,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <rectangle x1="1.4" y1="-0.6" x2="1.6" y2="0.6" layer="51" rot="R180"/>
 <rectangle x1="-1.45" y1="-0.75" x2="-0.8" y2="0.75" layer="51"/>
 </package>
-<package name="SMC_P" urn="urn:adsk.eagle:footprint:22935/1">
+<package name="SMC_P" urn="urn:adsk.eagle:footprint:25481/1">
 <description>&lt;b&gt;Chip Capacitor&lt;/b&gt; Polar tantalum capacitors with solid electrolyte&lt;p&gt;
 Siemens Matsushita Components B 45 194&lt;br&gt;
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -6735,7 +6735,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <rectangle x1="1.7" y1="-0.45" x2="1.8" y2="0.45" layer="51" rot="R180"/>
 <rectangle x1="-1.65" y1="-0.75" x2="-1.075" y2="0.725" layer="51"/>
 </package>
-<package name="SMC_D" urn="urn:adsk.eagle:footprint:22938/1">
+<package name="SMC_D" urn="urn:adsk.eagle:footprint:25484/1">
 <description>&lt;b&gt;Chip Capacitor &lt;/b&gt; Polar tantalum capacitors with solid electrolyte&lt;p&gt;
 Siemens Matsushita Components B 45 194, B 45 197, B 45 198&lt;br&gt;
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -6751,7 +6751,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <rectangle x1="3.45" y1="-1.2" x2="3.65" y2="1.2" layer="51" rot="R180"/>
 <rectangle x1="-3.5" y1="-2.1" x2="-2.4" y2="2.1" layer="51"/>
 </package>
-<package name="SMC_B" urn="urn:adsk.eagle:footprint:22936/1">
+<package name="SMC_B" urn="urn:adsk.eagle:footprint:25482/1">
 <description>&lt;b&gt;Chip Capacitor &lt;/b&gt; Polar tantalum capacitors with solid electrolyte&lt;p&gt;
 Siemens Matsushita Components B 45 194, B 45 197, B 45 198&lt;br&gt;
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -6777,7 +6777,7 @@ Source: e_os_all.pdf</description>
 <text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="SMC_E" urn="urn:adsk.eagle:footprint:22939/1">
+<package name="SMC_E" urn="urn:adsk.eagle:footprint:25485/1">
 <description>&lt;b&gt;Chip Capacitor &lt;/b&gt; Polar tantalum capacitors with solid electrolyte&lt;p&gt;
 Siemens Matsushita Components B 45 194, B 45 197, B 45 198&lt;br&gt;
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -6793,7 +6793,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <rectangle x1="3.45" y1="-1.2" x2="3.65" y2="1.2" layer="51" rot="R180"/>
 <rectangle x1="-3.5" y1="-2.1" x2="-2.4" y2="2.1" layer="51"/>
 </package>
-<package name="SMC_Z" urn="urn:adsk.eagle:footprint:22934/1">
+<package name="SMC_Z" urn="urn:adsk.eagle:footprint:25480/1">
 <description>&lt;b&gt;Chip Capacitor&lt;/b&gt; Polar tantalum capacitors with solid electrolyte&lt;p&gt;
 Siemens Matsushita Components B 45 194&lt;br&gt;
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -7351,7 +7351,7 @@ Source: e_os_all.pdf</description>
 <vertex x="-4.75" y="0" curve="43.010397"/>
 </polygon>
 </package>
-<package name="SMC_C" urn="urn:adsk.eagle:footprint:22937/1">
+<package name="SMC_C" urn="urn:adsk.eagle:footprint:25483/1">
 <description>&lt;b&gt;Chip Capacitor &lt;/b&gt; Polar tantalum capacitors with solid electrolyte&lt;p&gt;
 Siemens Matsushita Components B 45 194, B 45 197, B 45 198&lt;br&gt;
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -7953,7 +7953,7 @@ body 32 x 11 mm, grid 27.9 mm</description>
 <text x="-15.9512" y="5.9182" size="1.778" layer="25" ratio="10">&gt;NAME</text>
 <text x="-8.3058" y="-2.8702" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="XC27B13" urn="urn:adsk.eagle:footprint:23212/1">
+<package name="XC27B13" urn="urn:adsk.eagle:footprint:25541/1">
 <description>&lt;b&gt;X CAPACITOR&lt;/b&gt;&lt;p&gt;
 body 32 x 13 mm, grid 27.9 mm</description>
 <wire x1="-11.7348" y1="0" x2="-10.16" y2="0" width="0.1524" layer="21"/>
@@ -8625,7 +8625,7 @@ Source: TJ-Serie Vishay.pdf</description>
 <text x="-0.635" y="-5.08" size="1.27" layer="25" rot="R90">&gt;NAME</text>
 <text x="1.905" y="-5.08" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
 </package>
-<package name="POWER-CHOKE_WE-TPC" urn="urn:adsk.eagle:footprint:23015/1">
+<package name="POWER-CHOKE_WE-TPC" urn="urn:adsk.eagle:footprint:25524/1">
 <description>&lt;b&gt;POWER-CHOKE WE-TPC&lt;/b&gt;&lt;p&gt;
 Würth Elektronik, Partnumber: 744053220&lt;br&gt;
 Source: WE-TPC 744053220.pdf</description>
@@ -8684,7 +8684,7 @@ Source: http://www.stetco.com/products/inductors/pdf/PIS2816.pdf</description>
 <text x="-3.625" y="4.5" size="1.778" layer="25">&gt;NAME</text>
 <text x="-3.625" y="-6.25" size="1.778" layer="27">&gt;VALUE</text>
 </package>
-<package name="CEP125" urn="urn:adsk.eagle:footprint:23019/1">
+<package name="CEP125" urn="urn:adsk.eagle:footprint:25528/1">
 <description>&lt;b&gt;POWER INDUCTORS&lt;/b&gt; (SMT Type)&lt;p&gt;
 Source: www.sumida.com/products/pdf/CEP125.pdf</description>
 <wire x1="-1.5796" y1="6.3448" x2="-1.5533" y2="6.3448" width="0.2032" layer="21"/>
@@ -9197,7 +9197,7 @@ Source: TOP MAGNETICS CORPORATION .. tfi.pdf</description>
 <rectangle x1="3.415" y1="-0.254" x2="3.796" y2="0.254" layer="21"/>
 <rectangle x1="-3.796" y1="-0.254" x2="-3.415" y2="0.254" layer="21"/>
 </package>
-<package name="2200-15.24" urn="urn:adsk.eagle:footprint:23017/1">
+<package name="2200-15.24" urn="urn:adsk.eagle:footprint:25526/1">
 <description>&lt;b&gt;newport components&lt;/b&gt; 2200 Serie RM 15.24 mm&lt;p&gt;
 Miniatur Axial Lead Inductors&lt;br&gt;
 Source: www.rsonline.de&lt;br&gt;
@@ -9213,7 +9213,7 @@ Order code 240-517</description>
 <text x="-4.445" y="2.54" size="1.27" layer="25">&gt;NAME</text>
 <text x="-3.81" y="-0.635" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="2200-12.7" urn="urn:adsk.eagle:footprint:23016/1">
+<package name="2200-12.7" urn="urn:adsk.eagle:footprint:25525/1">
 <description>&lt;b&gt;newport components&lt;/b&gt; 2200 Serie RM 12.7 mm&lt;p&gt;
 Miniatur Axial Lead Inductors&lt;br&gt;
 Source: www.rsonline.de&lt;br&gt;
@@ -9238,7 +9238,7 @@ Source: www.bourns.com .. 6000_series.pdf</description>
 <text x="-4.5056" y="4.6326" size="1.27" layer="25">&gt;NAME</text>
 <text x="-4.5056" y="-6.4106" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="2200-11.43" urn="urn:adsk.eagle:footprint:23018/1">
+<package name="2200-11.43" urn="urn:adsk.eagle:footprint:25527/1">
 <description>&lt;b&gt;newport components&lt;/b&gt; 2200 Serie RM 11.43 mm&lt;p&gt;
 Miniatur Axial Lead Inductors&lt;br&gt;
 Source: www.rsonline.de&lt;br&gt;
@@ -9442,7 +9442,7 @@ grid 35 mm, diameter 10 mm</description>
 <text x="5.77" y="-3.4056" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
 <rectangle x1="-1.2192" y1="-0.3048" x2="1.2192" y2="0.3048" layer="21"/>
 </package>
-<package name="HPC0201" urn="urn:adsk.eagle:footprint:23195/1">
+<package name="HPC0201" urn="urn:adsk.eagle:footprint:25783/1">
 <description>&lt;b&gt; &lt;/b&gt;&lt;p&gt;
 Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <smd name="1" x="-0.18" y="0" dx="0.2" dy="0.35" layer="1"/>
@@ -9872,7 +9872,7 @@ Source: TOP MAGNETICS CORPORATION .. tfi.pdf</description>
 <rectangle x1="-0.25" y1="-1.2" x2="0.25" y2="1.2" layer="51"/>
 <rectangle x1="-1.2" y1="-0.25" x2="1.2" y2="0.25" layer="51"/>
 </package>
-<package name="MINI_MELF-0207R" urn="urn:adsk.eagle:footprint:23096/1">
+<package name="MINI_MELF-0207R" urn="urn:adsk.eagle:footprint:25678/1">
 <description>&lt;b&gt;CECC Size RC6123&lt;/b&gt; Reflow Soldering&lt;p&gt;
 source Beyschlag</description>
 <wire x1="-2.8" y1="-1" x2="2.8" y2="-1" width="0.2032" layer="51"/>
@@ -9954,7 +9954,7 @@ source Beyschlag</description>
 <rectangle x1="-2.6" y1="-0.6" x2="-2.25" y2="0.6" layer="51"/>
 <rectangle x1="2.25" y1="-0.6" x2="2.6" y2="0.6" layer="51"/>
 </package>
-<package name="MINI_MELF-0204W" urn="urn:adsk.eagle:footprint:23095/1">
+<package name="MINI_MELF-0204W" urn="urn:adsk.eagle:footprint:25677/1">
 <description>&lt;b&gt;CECC Size RC3715&lt;/b&gt; Wave Soldering&lt;p&gt;
 source Beyschlag</description>
 <wire x1="-1.7" y1="-0.6" x2="1.7" y2="-0.6" width="0.2032" layer="51"/>
@@ -10123,7 +10123,7 @@ grid 45 mm, diameter 16 mm</description>
 <rectangle x1="20.32" y1="-0.381" x2="21.209" y2="0.381" layer="21"/>
 <rectangle x1="-21.209" y1="-0.381" x2="-20.32" y2="0.381" layer="21"/>
 </package>
-<package name="R0201" urn="urn:adsk.eagle:footprint:23101/1">
+<package name="R0201" urn="urn:adsk.eagle:footprint:25683/1">
 <description>&lt;b&gt;RESISTOR&lt;/b&gt; chip&lt;p&gt;
 Source: http://www.vishay.com/docs/20008/dcrcw.pdf</description>
 <smd name="1" x="-0.255" y="0" dx="0.28" dy="0.43" layer="1"/>
@@ -10134,7 +10134,7 @@ Source: http://www.vishay.com/docs/20008/dcrcw.pdf</description>
 <rectangle x1="0.15" y1="-0.15" x2="0.3" y2="0.15" layer="51"/>
 <rectangle x1="-0.15" y1="-0.15" x2="0.15" y2="0.15" layer="21"/>
 </package>
-<package name="MINI_MELF-0207W" urn="urn:adsk.eagle:footprint:23097/1">
+<package name="MINI_MELF-0207W" urn="urn:adsk.eagle:footprint:25679/1">
 <description>&lt;b&gt;CECC Size RC6123&lt;/b&gt; Wave Soldering&lt;p&gt;
 source Beyschlag</description>
 <wire x1="-2.8" y1="-1" x2="2.8" y2="-1" width="0.2032" layer="51"/>
@@ -10158,7 +10158,7 @@ source Beyschlag</description>
 <text x="-1.27" y="-2.2225" size="1.27" layer="27">&gt;VALUE</text>
 <hole x="0" y="0" drill="1.3"/>
 </package>
-<package name="VTA54" urn="urn:adsk.eagle:footprint:23104/1">
+<package name="VTA54" urn="urn:adsk.eagle:footprint:25686/1">
 <description>&lt;b&gt;Bulk Metal® Foil Technology&lt;/b&gt;, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements&lt;p&gt;
 MIL SIZE RBR54&lt;br&gt;
 Source: VISHAY .. vta56.pdf</description>
@@ -10177,7 +10177,7 @@ Source: VISHAY .. vta56.pdf</description>
 <rectangle x1="-10.795" y1="-0.3048" x2="-9.8425" y2="0.3048" layer="21"/>
 <rectangle x1="9.8425" y1="-0.3048" x2="10.795" y2="0.3048" layer="21"/>
 </package>
-<package name="VTA53" urn="urn:adsk.eagle:footprint:23103/1">
+<package name="VTA53" urn="urn:adsk.eagle:footprint:25685/1">
 <description>&lt;b&gt;Bulk Metal® Foil Technology&lt;/b&gt;, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements&lt;p&gt;
 MIL SIZE RBR53&lt;br&gt;
 Source: VISHAY .. vta56.pdf</description>
@@ -10196,7 +10196,7 @@ Source: VISHAY .. vta56.pdf</description>
 <rectangle x1="-10.795" y1="-0.3048" x2="-9.8425" y2="0.3048" layer="21"/>
 <rectangle x1="9.8425" y1="-0.3048" x2="10.795" y2="0.3048" layer="21"/>
 </package>
-<package name="VTA52" urn="urn:adsk.eagle:footprint:23102/1">
+<package name="VTA52" urn="urn:adsk.eagle:footprint:25684/1">
 <description>&lt;b&gt;Bulk Metal® Foil Technology&lt;/b&gt;, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements&lt;p&gt;
 MIL SIZE RBR52&lt;br&gt;
 Source: VISHAY .. vta56.pdf</description>
@@ -10215,7 +10215,7 @@ Source: VISHAY .. vta56.pdf</description>
 <rectangle x1="-13.97" y1="-0.3048" x2="-12.5675" y2="0.3048" layer="21"/>
 <rectangle x1="12.5675" y1="-0.3048" x2="13.97" y2="0.3048" layer="21"/>
 </package>
-<package name="VTA55" urn="urn:adsk.eagle:footprint:23105/1">
+<package name="VTA55" urn="urn:adsk.eagle:footprint:25687/1">
 <description>&lt;b&gt;Bulk Metal® Foil Technology&lt;/b&gt;, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements&lt;p&gt;
 MIL SIZE RBR55&lt;br&gt;
 Source: VISHAY .. vta56.pdf</description>
@@ -10234,7 +10234,7 @@ Source: VISHAY .. vta56.pdf</description>
 <rectangle x1="-6.985" y1="-0.3048" x2="-6.35" y2="0.3048" layer="21"/>
 <rectangle x1="6.35" y1="-0.3048" x2="6.985" y2="0.3048" layer="21"/>
 </package>
-<package name="VMTA55" urn="urn:adsk.eagle:footprint:23107/1">
+<package name="VMTA55" urn="urn:adsk.eagle:footprint:25689/1">
 <description>&lt;b&gt;Bulk Metal® Foil Technology&lt;/b&gt;, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements&lt;p&gt;
 MIL SIZE RNC55&lt;br&gt;
 Source: VISHAY .. vta56.pdf</description>
@@ -10251,7 +10251,7 @@ Source: VISHAY .. vta56.pdf</description>
 <rectangle x1="-4.26" y1="-0.3048" x2="-3.3075" y2="0.3048" layer="21"/>
 <rectangle x1="3.2825" y1="-0.3048" x2="4.235" y2="0.3048" layer="21"/>
 </package>
-<package name="WSC01/2" urn="urn:adsk.eagle:footprint:23112/1">
+<package name="WSC01/2" urn="urn:adsk.eagle:footprint:25694/1">
 <description>&lt;b&gt;Wirewound Resistors, Precision Power&lt;/b&gt;&lt;p&gt;
 Source: VISHAY wscwsn.pdf</description>
 <wire x1="-2.45" y1="1.475" x2="-2.45" y2="-1.475" width="0.2032" layer="51"/>
@@ -10267,7 +10267,7 @@ Source: VISHAY wscwsn.pdf</description>
 <text x="-2.544" y="1.904" size="1.27" layer="25">&gt;NAME</text>
 <text x="-2.544" y="-3.176" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="R4527" urn="urn:adsk.eagle:footprint:23109/1">
+<package name="R4527" urn="urn:adsk.eagle:footprint:13246/1">
 <description>&lt;b&gt;Package 4527&lt;/b&gt;&lt;p&gt;
 Source: http://www.vishay.com/docs/31059/wsrhigh.pdf</description>
 <wire x1="-5.675" y1="-3.375" x2="5.65" y2="-3.375" width="0.2032" layer="21"/>
@@ -10279,7 +10279,7 @@ Source: http://www.vishay.com/docs/31059/wsrhigh.pdf</description>
 <text x="-5.715" y="3.81" size="1.27" layer="25">&gt;NAME</text>
 <text x="-5.715" y="-5.08" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="VMTB60" urn="urn:adsk.eagle:footprint:23108/1">
+<package name="VMTB60" urn="urn:adsk.eagle:footprint:25690/1">
 <description>&lt;b&gt;Bulk Metal® Foil Technology&lt;/b&gt;, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements&lt;p&gt;
 MIL SIZE RNC60&lt;br&gt;
 Source: VISHAY .. vta56.pdf</description>
@@ -10296,7 +10296,7 @@ Source: VISHAY .. vta56.pdf</description>
 <rectangle x1="-5.585" y1="-0.3048" x2="-4.6325" y2="0.3048" layer="21"/>
 <rectangle x1="4.6325" y1="-0.3048" x2="5.585" y2="0.3048" layer="21"/>
 </package>
-<package name="VTA56" urn="urn:adsk.eagle:footprint:23106/1">
+<package name="VTA56" urn="urn:adsk.eagle:footprint:25688/1">
 <description>&lt;b&gt;Bulk Metal® Foil Technology&lt;/b&gt;, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements&lt;p&gt;
 MIL SIZE RBR56&lt;br&gt;
 Source: VISHAY .. vta56.pdf</description>
@@ -10315,7 +10315,7 @@ Source: VISHAY .. vta56.pdf</description>
 <rectangle x1="-5.08" y1="-0.3048" x2="-4.445" y2="0.3048" layer="21"/>
 <rectangle x1="4.445" y1="-0.3048" x2="5.08" y2="0.3048" layer="21"/>
 </package>
-<package name="WSC0002" urn="urn:adsk.eagle:footprint:23111/1">
+<package name="WSC0002" urn="urn:adsk.eagle:footprint:25693/1">
 <description>&lt;b&gt;Wirewound Resistors, Precision Power&lt;/b&gt;&lt;p&gt;
 Source: VISHAY wscwsn.pdf</description>
 <wire x1="-5.55" y1="3.375" x2="-5.55" y2="-3.375" width="0.2032" layer="51"/>
@@ -10327,7 +10327,7 @@ Source: VISHAY wscwsn.pdf</description>
 <text x="-5.65" y="3.9" size="1.27" layer="25">&gt;NAME</text>
 <text x="-5.65" y="-5.15" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="WSC0001" urn="urn:adsk.eagle:footprint:23110/1">
+<package name="WSC0001" urn="urn:adsk.eagle:footprint:25692/1">
 <description>&lt;b&gt;Wirewound Resistors, Precision Power&lt;/b&gt;&lt;p&gt;
 Source: VISHAY wscwsn.pdf</description>
 <wire x1="-3.075" y1="1.8" x2="-3.075" y2="-1.8" width="0.2032" layer="51"/>
@@ -10343,7 +10343,7 @@ Source: VISHAY wscwsn.pdf</description>
 <text x="-2.544" y="2.229" size="1.27" layer="25">&gt;NAME</text>
 <text x="-2.544" y="-3.501" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="WSC2515" urn="urn:adsk.eagle:footprint:23113/1">
+<package name="WSC2515" urn="urn:adsk.eagle:footprint:25695/1">
 <description>&lt;b&gt;Wirewound Resistors, Precision Power&lt;/b&gt;&lt;p&gt;
 Source: VISHAY wscwsn.pdf</description>
 <wire x1="-3.075" y1="1.8" x2="-3.075" y2="-1.8" width="0.2032" layer="51"/>
@@ -10359,7 +10359,7 @@ Source: VISHAY wscwsn.pdf</description>
 <text x="-3.2" y="2.15" size="1.27" layer="25">&gt;NAME</text>
 <text x="-3.2" y="-3.4" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="WSC6927" urn="urn:adsk.eagle:footprint:23115/1">
+<package name="WSC6927" urn="urn:adsk.eagle:footprint:25697/1">
 <description>&lt;b&gt;Wirewound Resistors, Precision Power&lt;/b&gt;&lt;p&gt;
 Source: VISHAY wscwsn.pdf</description>
 <wire x1="-8.65" y1="3.375" x2="-8.65" y2="-3.375" width="0.2032" layer="51"/>
@@ -10371,7 +10371,7 @@ Source: VISHAY wscwsn.pdf</description>
 <text x="-8.75" y="3.9" size="1.27" layer="25">&gt;NAME</text>
 <text x="-8.75" y="-5.15" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="PRL1632" urn="urn:adsk.eagle:footprint:23118/1">
+<package name="PRL1632" urn="urn:adsk.eagle:footprint:25700/1">
 <description>&lt;b&gt;PRL1632 are realized as 1W for 3.2 × 1.6mm(1206)&lt;/b&gt;&lt;p&gt;
 Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <wire x1="0.7275" y1="-1.5228" x2="-0.7277" y2="-1.5228" width="0.1524" layer="51"/>
@@ -10383,7 +10383,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <rectangle x1="-0.8" y1="-1.6" x2="-0.4" y2="1.6" layer="51"/>
 <rectangle x1="0.4" y1="-1.6" x2="0.8" y2="1.6" layer="51"/>
 </package>
-<package name="1812X7R" urn="urn:adsk.eagle:footprint:23117/1">
+<package name="1812X7R" urn="urn:adsk.eagle:footprint:25699/1">
 <description>&lt;b&gt;Chip Monolithic Ceramic Capacitors&lt;/b&gt; Medium Voltage High Capacitance for General Use&lt;p&gt;
 Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <wire x1="-1.1" y1="1.5" x2="1.1" y2="1.5" width="0.2032" layer="51"/>
@@ -10419,7 +10419,7 @@ grid 10.2 mm, outline 4.3 x 13.3 mm</description>
 <text x="-6.096" y="2.413" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-1.524" y="-1.651" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="WSC4527" urn="urn:adsk.eagle:footprint:23114/1">
+<package name="WSC4527" urn="urn:adsk.eagle:footprint:25696/1">
 <description>&lt;b&gt;Wirewound Resistors, Precision Power&lt;/b&gt;&lt;p&gt;
 Source: VISHAY wscwsn.pdf</description>
 <wire x1="-5.675" y1="3.4" x2="-5.675" y2="-3.375" width="0.2032" layer="51"/>
@@ -10475,7 +10475,7 @@ grid 10.2 mm, outline 6.4 x 13.3 mm</description>
 <text x="-6.096" y="3.429" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-1.524" y="-2.032" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="R1218" urn="urn:adsk.eagle:footprint:23116/1">
+<package name="R1218" urn="urn:adsk.eagle:footprint:25698/1">
 <description>&lt;b&gt;CRCW1218 Thick Film, Rectangular Chip Resistors&lt;/b&gt;&lt;p&gt;
 Source: http://www.vishay.com .. dcrcw.pdf</description>
 <wire x1="-0.913" y1="-2.219" x2="0.939" y2="-2.219" width="0.1524" layer="51"/>
@@ -10487,7 +10487,7 @@ Source: http://www.vishay.com .. dcrcw.pdf</description>
 <rectangle x1="-1.651" y1="-2.3" x2="-0.9009" y2="2.3" layer="51"/>
 <rectangle x1="0.9144" y1="-2.3" x2="1.6645" y2="2.3" layer="51"/>
 </package>
-<package name="R01005" urn="urn:adsk.eagle:footprint:23119/1">
+<package name="R01005" urn="urn:adsk.eagle:footprint:25701/1">
 <smd name="1" x="-0.1625" y="0" dx="0.2" dy="0.25" layer="1"/>
 <smd name="2" x="0.1625" y="0" dx="0.2" dy="0.25" layer="1"/>
 <text x="-0.4" y="0.3" size="1.27" layer="25">&gt;NAME</text>
@@ -10857,7 +10857,7 @@ wave soldering</description>
 <rectangle x1="0.9144" y1="-1.3081" x2="1.6645" y2="1.2918" layer="51"/>
 <rectangle x1="-0.3" y1="-1" x2="0.3" y2="1" layer="35"/>
 </package>
-<package name="R6332W" urn="urn:adsk.eagle:footprint:23064/1">
+<package name="R6332W" urn="urn:adsk.eagle:footprint:25646/1">
 <description>&lt;b&gt;RESISTOR&lt;/b&gt; wave soldering&lt;p&gt;
 Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor/dcrcwfre.pdf</description>
 <wire x1="-2.362" y1="1.473" x2="2.387" y2="1.473" width="0.1524" layer="51"/>
@@ -11413,7 +11413,7 @@ source Beyschlag</description>
 <text x="-1.27" y="0.9525" size="1.27" layer="25">&gt;NAME</text>
 <text x="-1.27" y="-2.2225" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="MINI_MELF-0204R" urn="urn:adsk.eagle:footprint:23094/1">
+<package name="MINI_MELF-0204R" urn="urn:adsk.eagle:footprint:25676/1">
 <description>&lt;b&gt;CECC Size RC3715&lt;/b&gt; Reflow Soldering&lt;p&gt;
 source Beyschlag</description>
 <wire x1="-1.7" y1="-0.6" x2="1.7" y2="-0.6" width="0.2032" layer="51"/>
@@ -11567,7 +11567,7 @@ Side Adjust</description>
 <rectangle x1="-1.6" y1="-3" x2="-0.7" y2="-2.25" layer="51"/>
 <rectangle x1="0.7" y1="-3" x2="1.6" y2="-2.25" layer="51"/>
 </package>
-<package name="RTRIM3314J" urn="urn:adsk.eagle:footprint:23237/1">
+<package name="RTRIM3314J" urn="urn:adsk.eagle:footprint:25586/1">
 <description>&lt;b&gt;Trimm resistor&lt;/b&gt; BOURNS&lt;p&gt;
 0,25W, 20%&lt;br&gt;
 Source: &lt;a href="http://www.bourns.com/pdfs/3314.pdf"&gt; Data sheet&lt;/a&gt;</description>
@@ -11797,7 +11797,7 @@ seales container, solder immerson IP67</description>
 <rectangle x1="2.3" y1="-3.35" x2="2.8" y2="-2.5" layer="51"/>
 <rectangle x1="-2.8" y1="-3.35" x2="-2.3" y2="-2.5" layer="51"/>
 </package>
-<package name="RTRIMTSM53YJ" urn="urn:adsk.eagle:footprint:23246/1">
+<package name="RTRIMTSM53YJ" urn="urn:adsk.eagle:footprint:25595/1">
 <description>&lt;b&gt;Trimm resistor&lt;/b&gt; VISHAY&lt;p&gt;
 abgedichtet nach &lt;b&gt;IP67&lt;/b&gt;</description>
 <wire x1="-2.25" y1="1.6" x2="-2.25" y2="-1.6" width="0.254" layer="51"/>
@@ -11848,7 +11848,7 @@ seales container, solder immerson IP67</description>
 <rectangle x1="-2.85" y1="-4.4" x2="-2.25" y2="-3.4" layer="51"/>
 <rectangle x1="2.25" y1="-4.4" x2="2.85" y2="-3.4" layer="51"/>
 </package>
-<package name="RTRIM3296W" urn="urn:adsk.eagle:footprint:23252/1">
+<package name="RTRIM3296W" urn="urn:adsk.eagle:footprint:25601/1">
 <description>&lt;b&gt;Trimm resistor&lt;/b&gt; BOURNS&lt;p&gt;
 Source: &lt;a href="http://www.bourns.com/pdfs/3296.pdf"&gt; Data sheet &lt;/a&gt;</description>
 <wire x1="-2.25" y1="4.65" x2="2.25" y2="4.65" width="0.254" layer="21"/>
@@ -11863,7 +11863,7 @@ Source: &lt;a href="http://www.bourns.com/pdfs/3296.pdf"&gt; Data sheet &lt;/a&g
 <text x="3.95" y="-4.5" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
 <rectangle x1="-0.15" y1="-3.6" x2="0.15" y2="-1.5" layer="51"/>
 </package>
-<package name="RTRIM3296P" urn="urn:adsk.eagle:footprint:23251/1">
+<package name="RTRIM3296P" urn="urn:adsk.eagle:footprint:25600/1">
 <description>&lt;b&gt;Trimm resistor&lt;/b&gt; BOURNS&lt;p&gt;
 Source: &lt;a href="http://www.bourns.com/pdfs/3296.pdf"&gt; Data sheet &lt;/a&gt;</description>
 <wire x1="4.675" y1="4.65" x2="-5.1" y2="4.65" width="0.254" layer="21"/>
@@ -11906,7 +11906,7 @@ seales container, solder immerson IP67</description>
 <rectangle x1="-2.85" y1="-3" x2="-2.25" y2="-2.45" layer="51"/>
 <rectangle x1="2.25" y1="-3" x2="2.85" y2="-2.45" layer="51"/>
 </package>
-<package name="RTRIM3296X" urn="urn:adsk.eagle:footprint:23253/1">
+<package name="RTRIM3296X" urn="urn:adsk.eagle:footprint:25602/1">
 <description>&lt;b&gt;Trimm resistor&lt;/b&gt; BOURNS&lt;p&gt;
 Source: &lt;a href="http://www.bourns.com/pdfs/3296.pdf"&gt; Data sheet &lt;/a&gt;</description>
 <wire x1="-2.25" y1="4.65" x2="2.25" y2="4.65" width="0.254" layer="21"/>
@@ -11940,7 +11940,7 @@ Source: &lt;a href="http://www.bourns.com/pdfs/3296.pdf"&gt; Data sheet &lt;/a&g
 <text x="3.7" y="-3.15" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
 <rectangle x1="0.8" y1="2.1" x2="1.8" y2="2.4" layer="21"/>
 </package>
-<package name="RTRIM3296Y" urn="urn:adsk.eagle:footprint:23254/1">
+<package name="RTRIM3296Y" urn="urn:adsk.eagle:footprint:25603/1">
 <description>&lt;b&gt;Trimm resistor&lt;/b&gt; BOURNS&lt;p&gt;
 Source: &lt;a href="http://www.bourns.com/pdfs/3296.pdf"&gt; Data sheet &lt;/a&gt;</description>
 <wire x1="-2.25" y1="4.65" x2="2.25" y2="4.65" width="0.254" layer="21"/>
@@ -12267,7 +12267,7 @@ Cermet, abgedichtet nach IP67</description>
 <text x="-3.04" y="-4.89" size="1.27" layer="25" rot="R90">&gt;NAME</text>
 <text x="4.01" y="-4.89" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
 </package>
-<package name="RTRIM3314G" urn="urn:adsk.eagle:footprint:23274/1">
+<package name="RTRIM3314G" urn="urn:adsk.eagle:footprint:25623/1">
 <description>&lt;b&gt;Trimm resistor&lt;/b&gt; BOURNS&lt;p&gt;
 0,25W, 20%&lt;br&gt;
 Source: &lt;a href="http://www.bourns.com/pdfs/3314.pdf"&gt; Data sheet&lt;/a&gt;</description>
@@ -12982,7 +12982,7 @@ rectangle, grid 10.16 mm</description>
 <packageinstance name="ETR5"/>
 </packageinstances>
 </package3d>
-<package3d name="P128-35" urn="urn:adsk.eagle:package:23326/1" type="box">
+<package3d name="P128-35" urn="urn:adsk.eagle:package:25807/1" type="box">
 <description>ELECTROLYTIC CAPACITOR</description>
 <packageinstances>
 <packageinstance name="P128-35"/>
@@ -13797,7 +13797,7 @@ grid 2.54 mm, diameter 6 mm</description>
 <packageinstance name="PANASONIC_F"/>
 </packageinstances>
 </package3d>
-<package3d name="SMC_A" urn="urn:adsk.eagle:package:23431/1" type="box">
+<package3d name="SMC_A" urn="urn:adsk.eagle:package:25926/1" type="box">
 <description>Chip Capacitor  Polar tantalum capacitors with solid electrolyte
 Siemens Matsushita Components B 45 194, B 45 197, B 45 198
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -13805,7 +13805,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <packageinstance name="SMC_A"/>
 </packageinstances>
 </package3d>
-<package3d name="SMC_Z" urn="urn:adsk.eagle:package:23433/1" type="box">
+<package3d name="SMC_Z" urn="urn:adsk.eagle:package:25927/1" type="box">
 <description>Chip Capacitor Polar tantalum capacitors with solid electrolyte
 Siemens Matsushita Components B 45 194
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -13813,7 +13813,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <packageinstance name="SMC_Z"/>
 </packageinstances>
 </package3d>
-<package3d name="SMC_P" urn="urn:adsk.eagle:package:23432/1" type="box">
+<package3d name="SMC_P" urn="urn:adsk.eagle:package:25919/1" type="box">
 <description>Chip Capacitor Polar tantalum capacitors with solid electrolyte
 Siemens Matsushita Components B 45 194
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -13821,7 +13821,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <packageinstance name="SMC_P"/>
 </packageinstances>
 </package3d>
-<package3d name="SMC_B" urn="urn:adsk.eagle:package:23436/1" type="box">
+<package3d name="SMC_B" urn="urn:adsk.eagle:package:25920/1" type="box">
 <description>Chip Capacitor  Polar tantalum capacitors with solid electrolyte
 Siemens Matsushita Components B 45 194, B 45 197, B 45 198
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -13829,7 +13829,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <packageinstance name="SMC_B"/>
 </packageinstances>
 </package3d>
-<package3d name="SMC_D" urn="urn:adsk.eagle:package:23434/1" type="box">
+<package3d name="SMC_D" urn="urn:adsk.eagle:package:25923/1" type="box">
 <description>Chip Capacitor  Polar tantalum capacitors with solid electrolyte
 Siemens Matsushita Components B 45 194, B 45 197, B 45 198
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -13837,7 +13837,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <packageinstance name="SMC_D"/>
 </packageinstances>
 </package3d>
-<package3d name="SMC_C" urn="urn:adsk.eagle:package:23435/1" type="box">
+<package3d name="SMC_C" urn="urn:adsk.eagle:package:25921/1" type="box">
 <description>Chip Capacitor  Polar tantalum capacitors with solid electrolyte
 Siemens Matsushita Components B 45 194, B 45 197, B 45 198
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -13845,7 +13845,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <packageinstance name="SMC_C"/>
 </packageinstances>
 </package3d>
-<package3d name="SMC_E" urn="urn:adsk.eagle:package:23446/1" type="box">
+<package3d name="SMC_E" urn="urn:adsk.eagle:package:25922/1" type="box">
 <description>Chip Capacitor  Polar tantalum capacitors with solid electrolyte
 Siemens Matsushita Components B 45 194, B 45 197, B 45 198
 Source: www.farnell.com/datasheets/247.pdf</description>
@@ -14256,7 +14256,7 @@ body 32 x 15 mm, grid 27.9 mm</description>
 <packageinstance name="XC27B15"/>
 </packageinstances>
 </package3d>
-<package3d name="XC27B13" urn="urn:adsk.eagle:package:23704/1" type="box">
+<package3d name="XC27B13" urn="urn:adsk.eagle:package:25977/1" type="box">
 <description>X CAPACITOR
 body 32 x 13 mm, grid 27.9 mm</description>
 <packageinstances>
@@ -14533,7 +14533,7 @@ Source: TJ-Serie Vishay.pdf</description>
 <packageinstance name="TJ9-U2"/>
 </packageinstances>
 </package3d>
-<package3d name="POWER-CHOKE_WE-TPC" urn="urn:adsk.eagle:package:23507/1" type="box">
+<package3d name="POWER-CHOKE_WE-TPC" urn="urn:adsk.eagle:package:25966/1" type="box">
 <description>POWER-CHOKE WE-TPC
 Würth Elektronik, Partnumber: 744053220
 Source: WE-TPC 744053220.pdf</description>
@@ -14541,7 +14541,7 @@ Source: WE-TPC 744053220.pdf</description>
 <packageinstance name="POWER-CHOKE_WE-TPC"/>
 </packageinstances>
 </package3d>
-<package3d name="CEP125" urn="urn:adsk.eagle:package:23514/1" type="box">
+<package3d name="CEP125" urn="urn:adsk.eagle:package:25968/1" type="box">
 <description>POWER INDUCTORS (SMT Type)
 Source: www.sumida.com/products/pdf/CEP125.pdf</description>
 <packageinstances>
@@ -14709,7 +14709,7 @@ Source: www.bourns.com .. 6000_series.pdf</description>
 <packageinstance name="6000-XXXX-RC"/>
 </packageinstances>
 </package3d>
-<package3d name="2200-15.24" urn="urn:adsk.eagle:package:23519/1" type="box">
+<package3d name="2200-15.24" urn="urn:adsk.eagle:package:25965/1" type="box">
 <description>newport components 2200 Serie RM 15.24 mm
 Miniatur Axial Lead Inductors
 Source: www.rsonline.de
@@ -14718,7 +14718,7 @@ Order code 240-517</description>
 <packageinstance name="2200-15.24"/>
 </packageinstances>
 </package3d>
-<package3d name="2200-12.7" urn="urn:adsk.eagle:package:23518/1" type="box">
+<package3d name="2200-12.7" urn="urn:adsk.eagle:package:25963/1" type="box">
 <description>newport components 2200 Serie RM 12.7 mm
 Miniatur Axial Lead Inductors
 Source: www.rsonline.de
@@ -14734,7 +14734,7 @@ grid 25.4 mm, diameter 10 mm</description>
 <packageinstance name="EU25-10"/>
 </packageinstances>
 </package3d>
-<package3d name="2200-11.43" urn="urn:adsk.eagle:package:23521/1" type="box">
+<package3d name="2200-11.43" urn="urn:adsk.eagle:package:25967/1" type="box">
 <description>newport components 2200 Serie RM 11.43 mm
 Miniatur Axial Lead Inductors
 Source: www.rsonline.de
@@ -14764,7 +14764,7 @@ grid 43 mm, diameter 14 mm</description>
 <packageinstance name="EU43-14"/>
 </packageinstances>
 </package3d>
-<package3d name="HPC0201" urn="urn:adsk.eagle:package:23688/1" type="box">
+<package3d name="HPC0201" urn="urn:adsk.eagle:package:26213/1" type="box">
 <description> 
 Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <packageinstances>
@@ -14903,14 +14903,14 @@ diameter 8.6 mm, grid 3.55 mm</description>
 <packageinstance name="CTRIM3040.428"/>
 </packageinstances>
 </package3d>
-<package3d name="MINI_MELF-0204W" urn="urn:adsk.eagle:package:23584/1" type="box">
+<package3d name="MINI_MELF-0204W" urn="urn:adsk.eagle:package:26111/1" type="box">
 <description>CECC Size RC3715 Wave Soldering
 source Beyschlag</description>
 <packageinstances>
 <packageinstance name="MINI_MELF-0204W"/>
 </packageinstances>
 </package3d>
-<package3d name="MINI_MELF-0207R" urn="urn:adsk.eagle:package:23585/1" type="box">
+<package3d name="MINI_MELF-0207R" urn="urn:adsk.eagle:package:26113/1" type="box">
 <description>CECC Size RC6123 Reflow Soldering
 source Beyschlag</description>
 <packageinstances>
@@ -14944,14 +14944,14 @@ type RDH, grid 15 mm</description>
 <packageinstance name="RDH/15"/>
 </packageinstances>
 </package3d>
-<package3d name="R0201" urn="urn:adsk.eagle:package:23593/1" type="box">
+<package3d name="R0201" urn="urn:adsk.eagle:package:26117/1" type="box">
 <description>RESISTOR chip
 Source: http://www.vishay.com/docs/20008/dcrcw.pdf</description>
 <packageinstances>
 <packageinstance name="R0201"/>
 </packageinstances>
 </package3d>
-<package3d name="MINI_MELF-0207W" urn="urn:adsk.eagle:package:23597/1" type="box">
+<package3d name="MINI_MELF-0207W" urn="urn:adsk.eagle:package:26112/1" type="box">
 <description>CECC Size RC6123 Wave Soldering
 source Beyschlag</description>
 <packageinstances>
@@ -14964,7 +14964,7 @@ source Beyschlag</description>
 <packageinstance name="MINI_MELF-0102AX"/>
 </packageinstances>
 </package3d>
-<package3d name="VTA52" urn="urn:adsk.eagle:package:23596/1" type="box">
+<package3d name="VTA52" urn="urn:adsk.eagle:package:26116/1" type="box">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RBR52
 Source: VISHAY .. vta56.pdf</description>
@@ -14972,7 +14972,7 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VTA52"/>
 </packageinstances>
 </package3d>
-<package3d name="VTA53" urn="urn:adsk.eagle:package:23603/1" type="box">
+<package3d name="VTA53" urn="urn:adsk.eagle:package:26118/1" type="box">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RBR53
 Source: VISHAY .. vta56.pdf</description>
@@ -14980,7 +14980,7 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VTA53"/>
 </packageinstances>
 </package3d>
-<package3d name="VTA54" urn="urn:adsk.eagle:package:23598/1" type="box">
+<package3d name="VTA54" urn="urn:adsk.eagle:package:26119/1" type="box">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RBR54
 Source: VISHAY .. vta56.pdf</description>
@@ -14988,7 +14988,7 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VTA54"/>
 </packageinstances>
 </package3d>
-<package3d name="VTA55" urn="urn:adsk.eagle:package:23606/1" type="box">
+<package3d name="VTA55" urn="urn:adsk.eagle:package:26120/1" type="box">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RBR55
 Source: VISHAY .. vta56.pdf</description>
@@ -14996,7 +14996,7 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VTA55"/>
 </packageinstances>
 </package3d>
-<package3d name="VTA56" urn="urn:adsk.eagle:package:23599/1" type="box">
+<package3d name="VTA56" urn="urn:adsk.eagle:package:26129/1" type="box">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RBR56
 Source: VISHAY .. vta56.pdf</description>
@@ -15004,7 +15004,7 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VTA56"/>
 </packageinstances>
 </package3d>
-<package3d name="VMTA55" urn="urn:adsk.eagle:package:23600/1" type="box">
+<package3d name="VMTA55" urn="urn:adsk.eagle:package:26121/1" type="box">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RNC55
 Source: VISHAY .. vta56.pdf</description>
@@ -15012,7 +15012,7 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VMTA55"/>
 </packageinstances>
 </package3d>
-<package3d name="VMTB60" urn="urn:adsk.eagle:package:23607/1" type="box">
+<package3d name="VMTB60" urn="urn:adsk.eagle:package:26122/1" type="box">
 <description>Bulk Metal® Foil Technology, Tubular Axial Lead Resistors, Meets or Exceeds MIL-R-39005 Requirements
 MIL SIZE RNC60
 Source: VISHAY .. vta56.pdf</description>
@@ -15020,63 +15020,63 @@ Source: VISHAY .. vta56.pdf</description>
 <packageinstance name="VMTB60"/>
 </packageinstances>
 </package3d>
-<package3d name="R4527" urn="urn:adsk.eagle:package:23615/1" type="box">
+<package3d name="R4527" urn="urn:adsk.eagle:package:13310/1" type="box">
 <description>Package 4527
 Source: http://www.vishay.com/docs/31059/wsrhigh.pdf</description>
 <packageinstances>
 <packageinstance name="R4527"/>
 </packageinstances>
 </package3d>
-<package3d name="WSC01/2" urn="urn:adsk.eagle:package:23602/1" type="box">
+<package3d name="WSC01/2" urn="urn:adsk.eagle:package:26127/1" type="box">
 <description>Wirewound Resistors, Precision Power
 Source: VISHAY wscwsn.pdf</description>
 <packageinstances>
 <packageinstance name="WSC01/2"/>
 </packageinstances>
 </package3d>
-<package3d name="WSC0001" urn="urn:adsk.eagle:package:23601/1" type="box">
+<package3d name="WSC0001" urn="urn:adsk.eagle:package:26123/1" type="box">
 <description>Wirewound Resistors, Precision Power
 Source: VISHAY wscwsn.pdf</description>
 <packageinstances>
 <packageinstance name="WSC0001"/>
 </packageinstances>
 </package3d>
-<package3d name="WSC0002" urn="urn:adsk.eagle:package:23605/1" type="box">
+<package3d name="WSC0002" urn="urn:adsk.eagle:package:26125/1" type="box">
 <description>Wirewound Resistors, Precision Power
 Source: VISHAY wscwsn.pdf</description>
 <packageinstances>
 <packageinstance name="WSC0002"/>
 </packageinstances>
 </package3d>
-<package3d name="WSC2515" urn="urn:adsk.eagle:package:23604/1" type="box">
+<package3d name="WSC2515" urn="urn:adsk.eagle:package:26134/1" type="box">
 <description>Wirewound Resistors, Precision Power
 Source: VISHAY wscwsn.pdf</description>
 <packageinstances>
 <packageinstance name="WSC2515"/>
 </packageinstances>
 </package3d>
-<package3d name="WSC6927" urn="urn:adsk.eagle:package:23610/1" type="box">
+<package3d name="WSC6927" urn="urn:adsk.eagle:package:26128/1" type="box">
 <description>Wirewound Resistors, Precision Power
 Source: VISHAY wscwsn.pdf</description>
 <packageinstances>
 <packageinstance name="WSC6927"/>
 </packageinstances>
 </package3d>
-<package3d name="WSC4527" urn="urn:adsk.eagle:package:23611/1" type="box">
+<package3d name="WSC4527" urn="urn:adsk.eagle:package:26126/1" type="box">
 <description>Wirewound Resistors, Precision Power
 Source: VISHAY wscwsn.pdf</description>
 <packageinstances>
 <packageinstance name="WSC4527"/>
 </packageinstances>
 </package3d>
-<package3d name="1812X7R" urn="urn:adsk.eagle:package:23609/1" type="box">
+<package3d name="1812X7R" urn="urn:adsk.eagle:package:26130/1" type="box">
 <description>Chip Monolithic Ceramic Capacitors Medium Voltage High Capacitance for General Use
 Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <packageinstances>
 <packageinstance name="1812X7R"/>
 </packageinstances>
 </package3d>
-<package3d name="PRL1632" urn="urn:adsk.eagle:package:23612/1" type="box">
+<package3d name="PRL1632" urn="urn:adsk.eagle:package:26132/1" type="box">
 <description>PRL1632 are realized as 1W for 3.2 × 1.6mm(1206)
 Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <packageinstances>
@@ -15090,7 +15090,7 @@ grid 10.2 mm, outline 4.3 x 13.3 mm</description>
 <packageinstance name="C102-043X133"/>
 </packageinstances>
 </package3d>
-<package3d name="R01005" urn="urn:adsk.eagle:package:23613/1" type="box">
+<package3d name="R01005" urn="urn:adsk.eagle:package:26133/1" type="box">
 <packageinstances>
 <packageinstance name="R01005"/>
 </packageinstances>
@@ -15109,7 +15109,7 @@ grid 15 mm, outline 9.1 x 18.2 mm</description>
 <packageinstance name="C150-091X182"/>
 </packageinstances>
 </package3d>
-<package3d name="R1218" urn="urn:adsk.eagle:package:23614/1" type="box">
+<package3d name="R1218" urn="urn:adsk.eagle:package:26131/1" type="box">
 <description>CRCW1218 Thick Film, Rectangular Chip Resistors
 Source: http://www.vishay.com .. dcrcw.pdf</description>
 <packageinstances>
@@ -15251,7 +15251,7 @@ MELF 0.10 W</description>
 <packageinstance name="M0805"/>
 </packageinstances>
 </package3d>
-<package3d name="R6332W" urn="urn:adsk.eagle:package:23560/1" type="box">
+<package3d name="R6332W" urn="urn:adsk.eagle:package:26078/1" type="box">
 <description>RESISTOR wave soldering
 Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor/dcrcwfre.pdf</description>
 <packageinstances>
@@ -15461,7 +15461,7 @@ source Beyschlag</description>
 <packageinstance name="MINI_MELF-0102W"/>
 </packageinstances>
 </package3d>
-<package3d name="MINI_MELF-0204R" urn="urn:adsk.eagle:package:23587/1" type="box">
+<package3d name="MINI_MELF-0204R" urn="urn:adsk.eagle:package:26109/1" type="box">
 <description>CECC Size RC3715 Reflow Soldering
 source Beyschlag</description>
 <packageinstances>
@@ -15492,7 +15492,7 @@ source Beyschlag</description>
 <packageinstance name="RTRIM3165W"/>
 </packageinstances>
 </package3d>
-<package3d name="RTRIM3314J" urn="urn:adsk.eagle:package:23727/1" type="box">
+<package3d name="RTRIM3314J" urn="urn:adsk.eagle:package:26019/1" type="box">
 <description>Trimm resistor BOURNS
 0,25W, 20%
 Source:  Data sheet</description>
@@ -15561,7 +15561,7 @@ Top Adjust</description>
 <packageinstance name="RTRIM3224X"/>
 </packageinstances>
 </package3d>
-<package3d name="RTRIMTSM53YJ" urn="urn:adsk.eagle:package:23751/1" type="box">
+<package3d name="RTRIMTSM53YJ" urn="urn:adsk.eagle:package:26035/1" type="box">
 <description>Trimm resistor VISHAY
 abgedichtet nach IP67</description>
 <packageinstances>
@@ -15596,21 +15596,21 @@ seales container, solder immerson IP67</description>
 <packageinstance name="RTRIMTS63Y"/>
 </packageinstances>
 </package3d>
-<package3d name="RTRIM3296X" urn="urn:adsk.eagle:package:23737/1" type="box">
+<package3d name="RTRIM3296X" urn="urn:adsk.eagle:package:26034/1" type="box">
 <description>Trimm resistor BOURNS
 Source:  Data sheet </description>
 <packageinstances>
 <packageinstance name="RTRIM3296X"/>
 </packageinstances>
 </package3d>
-<package3d name="RTRIM3296W" urn="urn:adsk.eagle:package:23739/1" type="box">
+<package3d name="RTRIM3296W" urn="urn:adsk.eagle:package:26033/1" type="box">
 <description>Trimm resistor BOURNS
 Source:  Data sheet </description>
 <packageinstances>
 <packageinstance name="RTRIM3296W"/>
 </packageinstances>
 </package3d>
-<package3d name="RTRIM3296P" urn="urn:adsk.eagle:package:23738/1" type="box">
+<package3d name="RTRIM3296P" urn="urn:adsk.eagle:package:26032/1" type="box">
 <description>Trimm resistor BOURNS
 Source:  Data sheet </description>
 <packageinstances>
@@ -15623,7 +15623,7 @@ Source:  Data sheet </description>
 <packageinstance name="RTRIM74W"/>
 </packageinstances>
 </package3d>
-<package3d name="RTRIM3296Y" urn="urn:adsk.eagle:package:23741/1" type="box">
+<package3d name="RTRIM3296Y" urn="urn:adsk.eagle:package:26036/1" type="box">
 <description>Trimm resistor BOURNS
 Source:  Data sheet </description>
 <packageinstances>
@@ -15746,7 +15746,7 @@ Cermet, abgedichtet nach IP67</description>
 <packageinstance name="RTRIMT93YA"/>
 </packageinstances>
 </package3d>
-<package3d name="RTRIM3314G" urn="urn:adsk.eagle:package:23762/1" type="box">
+<package3d name="RTRIM3314G" urn="urn:adsk.eagle:package:26056/1" type="box">
 <description>Trimm resistor BOURNS
 0,25W, 20%
 Source:  Data sheet</description>
@@ -15916,7 +15916,7 @@ Cermet, abgedichtet nach IP67</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="CPOL-US" prefix="C" uservalue="yes" urn="urn:adsk.eagle:component:23788/22">
+<deviceset name="CPOL-US" prefix="C" uservalue="yes" urn="urn:adsk.eagle:component:23788/22" locally_modified="yes">
 <description>&lt;B&gt;POLARIZED CAPACITOR&lt;/B&gt;, American symbol</description>
 <gates>
 <gate name="G$1" symbol="CPOL-US" x="0" y="0"/>
@@ -16334,7 +16334,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23326/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25807/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17762,7 +17762,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23431/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25926/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17776,7 +17776,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23433/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25927/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17790,7 +17790,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23432/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25919/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17804,7 +17804,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23436/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25920/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17818,7 +17818,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23435/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25921/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17832,7 +17832,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23434/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25923/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17846,7 +17846,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23446/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25922/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18380,7 +18380,7 @@ Cermet, abgedichtet nach IP67</description>
 </pinmapping>
 </spice>
 </deviceset>
-<deviceset name="CPOL-EU" prefix="C" uservalue="yes" urn="urn:adsk.eagle:component:23787/21">
+<deviceset name="CPOL-EU" prefix="C" uservalue="yes" urn="urn:adsk.eagle:component:23787/21" locally_modified="yes">
 <description>&lt;B&gt;POLARIZED CAPACITOR&lt;/B&gt;, European symbol</description>
 <gates>
 <gate name="G$1" symbol="CPOL" x="0" y="0"/>
@@ -18798,7 +18798,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23326/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25807/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20226,7 +20226,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23431/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25926/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20240,7 +20240,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23433/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25927/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20254,7 +20254,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23432/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25919/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20268,7 +20268,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23436/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25920/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20282,7 +20282,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23435/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25921/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20296,7 +20296,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23434/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25923/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20310,7 +20310,7 @@ Cermet, abgedichtet nach IP67</description>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23446/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25922/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21040,7 +21040,7 @@ for power line</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="CX" prefix="CX" uservalue="yes" urn="urn:adsk.eagle:component:23795/2">
+<deviceset name="CX" prefix="CX" uservalue="yes" urn="urn:adsk.eagle:component:23795/2" locally_modified="yes">
 <description>&lt;B&gt;X CAPACITOR&lt;/B&gt;&lt;p&gt;
 for power line</description>
 <gates>
@@ -21179,7 +21179,7 @@ for power line</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23704/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25977/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21231,7 +21231,7 @@ for power line</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="L-EU" prefix="L" uservalue="yes" urn="urn:adsk.eagle:component:23789/4">
+<deviceset name="L-EU" prefix="L" uservalue="yes" urn="urn:adsk.eagle:component:23789/4" locally_modified="yes">
 <description>&lt;B&gt;INDUCTOR&lt;/B&gt;, European symbol</description>
 <gates>
 <gate name="G$1" symbol="L-EU" x="0" y="0"/>
@@ -21761,7 +21761,7 @@ for power line</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23507/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25966/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21775,7 +21775,7 @@ for power line</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23518/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25963/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21789,7 +21789,7 @@ for power line</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23519/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25965/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21803,7 +21803,7 @@ for power line</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23521/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25967/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21817,7 +21817,7 @@ for power line</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23514/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25968/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22141,7 +22141,7 @@ for power line</description>
 </pinmapping>
 </spice>
 </deviceset>
-<deviceset name="L-US" prefix="L" uservalue="yes" urn="urn:adsk.eagle:component:23790/4">
+<deviceset name="L-US" prefix="L" uservalue="yes" urn="urn:adsk.eagle:component:23790/4" locally_modified="yes">
 <description>&lt;B&gt;INDUCTOR&lt;/B&gt;, American symbol</description>
 <gates>
 <gate name="G$1" symbol="L-US" x="0" y="0"/>
@@ -22671,7 +22671,7 @@ for power line</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23507/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25966/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22685,7 +22685,7 @@ for power line</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23514/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25968/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23387,7 +23387,7 @@ for power line</description>
 </pinmapping>
 </spice>
 </deviceset>
-<deviceset name="C-EU" prefix="C" uservalue="yes" urn="urn:adsk.eagle:component:23793/42">
+<deviceset name="C-EU" prefix="C" uservalue="yes" urn="urn:adsk.eagle:component:23793/42" locally_modified="yes">
 <description>&lt;B&gt;CAPACITOR&lt;/B&gt;, European symbol</description>
 <gates>
 <gate name="G$1" symbol="C-EU" x="0" y="0"/>
@@ -24435,7 +24435,7 @@ for power line</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23688/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26213/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25613,7 +25613,7 @@ for power line</description>
 </pinmapping>
 </spice>
 </deviceset>
-<deviceset name="R-TRIMM" prefix="R" uservalue="yes" urn="urn:adsk.eagle:component:23798/2">
+<deviceset name="R-TRIMM" prefix="R" uservalue="yes" urn="urn:adsk.eagle:component:23798/2" locally_modified="yes">
 <description>&lt;b&gt;Trimm resistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="R-TRIM" x="0" y="0"/>
@@ -25674,7 +25674,7 @@ for power line</description>
 <connect gate="G$1" pin="S" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23727/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26019/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25834,7 +25834,7 @@ for power line</description>
 <connect gate="G$1" pin="S" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23751/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26035/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25914,7 +25914,7 @@ for power line</description>
 <connect gate="G$1" pin="S" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23738/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26032/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25930,7 +25930,7 @@ for power line</description>
 <connect gate="G$1" pin="S" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23739/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26033/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25946,7 +25946,7 @@ for power line</description>
 <connect gate="G$1" pin="S" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23737/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26034/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25962,7 +25962,7 @@ for power line</description>
 <connect gate="G$1" pin="S" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23741/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26036/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -26298,7 +26298,7 @@ for power line</description>
 <connect gate="G$1" pin="S" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23762/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26056/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -26328,7 +26328,7 @@ R2 3 2 {val-val*var/100}
 .ends POT</model>
 </spice>
 </deviceset>
-<deviceset name="R-US_" prefix="R" uservalue="yes" urn="urn:adsk.eagle:component:23792/15">
+<deviceset name="R-US_" prefix="R" uservalue="yes" urn="urn:adsk.eagle:component:23792/15" locally_modified="yes">
 <description>&lt;B&gt;RESISTOR&lt;/B&gt;, American symbol</description>
 <gates>
 <gate name="G$1" symbol="R-US" x="0" y="0"/>
@@ -26634,7 +26634,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23560/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26078/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27180,7 +27180,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23587/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26109/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27194,7 +27194,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23584/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26111/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27208,7 +27208,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23585/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26113/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27222,7 +27222,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23597/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26112/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27278,7 +27278,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23593/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26117/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27292,7 +27292,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23600/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26121/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27306,7 +27306,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23607/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26122/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27320,7 +27320,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23596/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26116/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27334,7 +27334,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23603/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26118/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27348,7 +27348,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23598/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26119/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27362,7 +27362,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23606/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26120/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27376,7 +27376,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23599/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26129/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27390,7 +27390,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23615/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:13310/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27404,7 +27404,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23601/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26123/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27418,7 +27418,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23605/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26125/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27432,7 +27432,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23602/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26127/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27446,7 +27446,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23604/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26134/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27460,7 +27460,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23611/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26126/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27474,7 +27474,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23610/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26128/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27488,7 +27488,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23614/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26131/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27502,7 +27502,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23609/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26130/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27516,7 +27516,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23613/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26133/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27532,7 +27532,7 @@ R2 3 2 {val-val*var/100}
 </pinmapping>
 </spice>
 </deviceset>
-<deviceset name="R-EU_" prefix="R" uservalue="yes" urn="urn:adsk.eagle:component:23791/14">
+<deviceset name="R-EU_" prefix="R" uservalue="yes" urn="urn:adsk.eagle:component:23791/14" locally_modified="yes">
 <description>&lt;B&gt;RESISTOR&lt;/B&gt;, European symbol</description>
 <gates>
 <gate name="G$1" symbol="R-EU" x="0" y="0"/>
@@ -27838,7 +27838,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23560/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26078/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28384,7 +28384,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23587/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26109/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28398,7 +28398,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23584/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26111/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28412,7 +28412,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23585/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26113/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28426,7 +28426,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23597/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26112/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28482,7 +28482,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23593/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26117/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28496,7 +28496,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23596/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26116/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28510,7 +28510,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23603/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26118/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28524,7 +28524,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23598/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26119/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28538,7 +28538,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23606/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26120/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28552,7 +28552,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23599/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26129/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28566,7 +28566,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23600/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26121/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28580,7 +28580,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23607/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26122/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28594,7 +28594,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23615/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:13310/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28608,7 +28608,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23601/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26123/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28622,7 +28622,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23605/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26125/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28636,7 +28636,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23602/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26127/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28650,7 +28650,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23604/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26134/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28664,7 +28664,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23611/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26126/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28678,7 +28678,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23610/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26128/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28692,7 +28692,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23614/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26131/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28706,7 +28706,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23609/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26130/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28720,7 +28720,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23612/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26132/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28734,7 +28734,7 @@ R2 3 2 {val-val*var/100}
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23613/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26133/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">

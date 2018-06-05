@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -71,7 +71,7 @@
 <description>&lt;b&gt;ISD Voice Recorder/Playback Devices&lt;/b&gt;&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="DIL28-6" urn="urn:adsk.eagle:footprint:15370/1">
+<package name="DIL28-6" urn="urn:adsk.eagle:footprint:770/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.6 inch</description>
 <wire x1="-17.653" y1="-1.27" x2="-17.653" y2="-6.604" width="0.1524" layer="21"/>
 <wire x1="-17.653" y1="1.27" x2="-17.653" y2="-1.27" width="0.1524" layer="21" curve="-180"/>
@@ -186,7 +186,7 @@ JEDEC MO-119 AB IPC SO28W</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="DIL28-6" urn="urn:adsk.eagle:package:15372/1" type="box">
+<package3d name="DIL28-6" urn="urn:adsk.eagle:package:826/2" type="model">
 <description>Dual In Line Package 0.6 inch</description>
 <packageinstances>
 <packageinstance name="DIL28-6"/>
@@ -360,7 +360,7 @@ JEDEC MO-119 AB IPC SO28W</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="ISD1400D" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:15374/1">
+<deviceset name="ISD1400D" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:15374/1" locally_modified="yes">
 <description>&lt;b&gt;VOICE RECORDER&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="ISD1400" x="0" y="0"/>
@@ -402,7 +402,7 @@ JEDEC MO-119 AB IPC SO28W</description>
 <connect gate="G$5" pin="NC" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:15372/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

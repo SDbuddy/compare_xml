@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -1068,7 +1068,7 @@
 <vertex x="-3.81" y="-0.762"/>
 </polygon>
 </package>
-<package name="TSOP48" urn="urn:adsk.eagle:footprint:3541/1">
+<package name="TSOP48" urn="urn:adsk.eagle:footprint:26734/1">
 <description>&lt;B&gt;Thin Small Outline Plastic Package&lt;/b&gt;</description>
 <wire x1="5.995" y1="9.195" x2="5.995" y2="-9.195" width="0.2032" layer="51"/>
 <wire x1="5.995" y1="-9.195" x2="-5.995" y2="-9.195" width="0.2032" layer="51"/>
@@ -2447,7 +2447,7 @@ Source: www.amd.com .. 26191.pdf</description>
 <packageinstance name="BGA292"/>
 </packageinstances>
 </package3d>
-<package3d name="TSOP48" urn="urn:adsk.eagle:package:3562/1" type="box">
+<package3d name="TSOP48" urn="urn:adsk.eagle:package:26826/1" type="box">
 <description>Thin Small Outline Plastic Package</description>
 <packageinstances>
 <packageinstance name="TSOP48"/>
@@ -3568,7 +3568,7 @@ boot sector flash memory</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AM29LV400T" prefix="IC" urn="urn:adsk.eagle:component:3569/1">
+<deviceset name="AM29LV400T" prefix="IC" urn="urn:adsk.eagle:component:3569/1" locally_modified="yes">
 <description>4-Megabit &lt;b&gt;FLASH MEMORY&lt;/b&gt;&lt;p&gt;
 (512 K x 8 bit/256 K x 16 bit CMOS 3 V-only&lt;p&gt;
 boot sector flash memory</description>
@@ -3634,7 +3634,7 @@ boot sector flash memory</description>
 <connect gate="P" pin="VCC" pad="37"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3562/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26826/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3780,7 +3780,7 @@ boot sector flash memory</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AM29F400E" prefix="IC" urn="urn:adsk.eagle:component:3570/1">
+<deviceset name="AM29F400E" prefix="IC" urn="urn:adsk.eagle:component:3570/1" locally_modified="yes">
 <description>4-Megabit &lt;b&gt;FLASH MEMORY&lt;/b&gt;&lt;p&gt;
 (512 K x 8 bit/256 K x 16 bit) 5 V-only</description>
 <gates>
@@ -3845,7 +3845,7 @@ boot sector flash memory</description>
 <connect gate="P" pin="VCC" pad="37"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3562/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26826/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

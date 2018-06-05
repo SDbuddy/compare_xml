@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -107,7 +107,7 @@ by R. Vogg  15.March.2002</description>
 <text x="-1.524" y="3.556" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-1.524" y="-4.953" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="TO220V" urn="urn:adsk.eagle:footprint:28510/1">
+<package name="TO220V" urn="urn:adsk.eagle:footprint:16154/1">
 <description>&lt;b&gt;TO 200 vertical&lt;/b&gt;</description>
 <wire x1="5.08" y1="-1.143" x2="4.953" y2="-4.064" width="0.127" layer="21"/>
 <wire x1="4.699" y1="-4.318" x2="4.953" y2="-4.064" width="0.127" layer="21"/>
@@ -156,7 +156,7 @@ Source:  Fairchild Semiconductor International ssot6_dim.pdf&lt;br&gt;
 <rectangle x1="-0.25" y1="0.8" x2="0.25" y2="1.5" layer="51" rot="R180"/>
 <rectangle x1="-1.2" y1="0.8" x2="-0.7" y2="1.5" layer="51" rot="R180"/>
 </package>
-<package name="TO126V" urn="urn:adsk.eagle:footprint:28516/1">
+<package name="TO126V" urn="urn:adsk.eagle:footprint:28677/1">
 <description>&lt;b&gt;TO 126 vertical&lt;/b&gt;</description>
 <wire x1="-3.937" y1="-0.127" x2="-3.937" y2="-1.27" width="0.127" layer="21"/>
 <wire x1="-3.937" y1="-1.27" x2="-3.683" y2="-2.794" width="0.127" layer="21"/>
@@ -215,7 +215,7 @@ Source:  Fairchild Semiconductor International ssot6_dim.pdf&lt;br&gt;
 <text x="-3.81" y="-6.223" size="1.27" layer="51" ratio="10" rot="R90">1</text>
 <text x="-13.97" y="-4.953" size="1.27" layer="51" ratio="10" rot="R90">4</text>
 </package>
-<package name="TO5" urn="urn:adsk.eagle:footprint:28512/1">
+<package name="TO5" urn="urn:adsk.eagle:footprint:28657/1">
 <description>&lt;b&gt;TO 5&lt;/b&gt;</description>
 <wire x1="-4.0386" y1="-3.5306" x2="-3.5052" y2="-2.9972" width="0.127" layer="21"/>
 <wire x1="-2.9718" y1="-3.5306" x2="-3.5052" y2="-4.064" width="0.127" layer="21"/>
@@ -228,7 +228,7 @@ Source:  Fairchild Semiconductor International ssot6_dim.pdf&lt;br&gt;
 <text x="-2.54" y="5.08" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-3.175" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="D2PACK" urn="urn:adsk.eagle:footprint:28518/1">
+<package name="D2PACK" urn="urn:adsk.eagle:footprint:29392/1">
 <description>&lt;b&gt;D2PACK&lt;/b&gt;&lt;p&gt;
 INTERNATIONAL RECTIFIER, irg4bc15ud-s.pdf</description>
 <wire x1="-5.1308" y1="-4.0894" x2="5.1308" y2="-4.0894" width="0.254" layer="21"/>
@@ -254,7 +254,7 @@ INTERNATIONAL RECTIFIER, irg4bc15ud-s.pdf</description>
 <rectangle x1="1.8288" y1="-6.731" x2="3.2512" y2="-4.2418" layer="21"/>
 <rectangle x1="-0.7112" y1="-6.731" x2="0.7112" y2="-4.2418" layer="21"/>
 </package>
-<package name="TOP3V" urn="urn:adsk.eagle:footprint:28511/1">
+<package name="TOP3V" urn="urn:adsk.eagle:footprint:28684/1">
 <description>&lt;b&gt;TOP 3 vertical&lt;/b&gt;</description>
 <wire x1="6.985" y1="-5.08" x2="7.366" y2="-4.699" width="0.127" layer="21"/>
 <wire x1="7.366" y1="-4.699" x2="7.493" y2="-1.524" width="0.127" layer="21"/>
@@ -284,7 +284,7 @@ INTERNATIONAL RECTIFIER, irg4bc15ud-s.pdf</description>
 <rectangle x1="-1.397" y1="-1.524" x2="1.397" y2="-1.143" layer="51"/>
 <rectangle x1="4.064" y1="-1.524" x2="6.858" y2="-1.143" layer="51"/>
 </package>
-<package name="TO202V" urn="urn:adsk.eagle:footprint:28515/1">
+<package name="TO202V" urn="urn:adsk.eagle:footprint:28675/1">
 <description>&lt;b&gt;TO 202 vertical&lt;/b&gt;</description>
 <wire x1="-4.826" y1="-4.7498" x2="2.794" y2="-4.7498" width="0.127" layer="21"/>
 <wire x1="-4.826" y1="-0.127" x2="4.8006" y2="-0.127" width="0.127" layer="21"/>
@@ -660,7 +660,7 @@ INTERNATIONAL RECTIFIER, irg4bc15ud-s.pdf</description>
 <text x="-2.159" y="0" size="1.27" layer="27" ratio="10">1</text>
 <text x="1.143" y="0" size="1.27" layer="27" ratio="10">3</text>
 </package>
-<package name="DIL04" urn="urn:adsk.eagle:footprint:28465/1">
+<package name="DIL04" urn="urn:adsk.eagle:footprint:14333/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="2.54" y1="2.921" x2="-2.54" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-2.54" y1="-2.921" x2="2.54" y2="-2.921" width="0.1524" layer="21"/>
@@ -1378,7 +1378,7 @@ TS-003</description>
 <packageinstance name="TO72"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL04" urn="urn:adsk.eagle:package:28528/1" type="box">
+<package3d name="DIL04" urn="urn:adsk.eagle:package:14437/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL04"/>
@@ -1540,6 +1540,43 @@ Source: http://www.macom.com/data/datasheet/MRF136.pdf</description>
 <description>I-Pak International Rectifier</description>
 <packageinstances>
 <packageinstance name="TO251AA"/>
+</packageinstances>
+</package3d>
+<package3d name="TO5" urn="urn:adsk.eagle:package:28729/1" type="box">
+<description>TO 5</description>
+<packageinstances>
+<packageinstance name="TO5"/>
+</packageinstances>
+</package3d>
+<package3d name="TOP3V" urn="urn:adsk.eagle:package:28768/1" type="box">
+<description>TOP 3 vertical</description>
+<packageinstances>
+<packageinstance name="TOP3V"/>
+</packageinstances>
+</package3d>
+<package3d name="TO202V" urn="urn:adsk.eagle:package:28741/1" type="box">
+<description>TO 202 vertical</description>
+<packageinstances>
+<packageinstance name="TO202V"/>
+</packageinstances>
+</package3d>
+<package3d name="TO126V" urn="urn:adsk.eagle:package:28743/1" type="box">
+<description>TO 126 vertical</description>
+<packageinstances>
+<packageinstance name="TO126V"/>
+</packageinstances>
+</package3d>
+<package3d name="TO220V" urn="urn:adsk.eagle:package:16417/1" type="box">
+<description>TO 200 vertical</description>
+<packageinstances>
+<packageinstance name="TO220V"/>
+</packageinstances>
+</package3d>
+<package3d name="D2PACK" urn="urn:adsk.eagle:package:29497/2" type="model">
+<description>D2PACK
+INTERNATIONAL RECTIFIER, irg4bc15ud-s.pdf</description>
+<packageinstances>
+<packageinstance name="D2PACK"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -3308,7 +3345,7 @@ Source: http://www.fairchildsemi.com/ds/2N/2N3820.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="IRFD9210" prefix="Q" urn="urn:adsk.eagle:component:28580/1">
+<deviceset name="IRFD9210" prefix="Q" urn="urn:adsk.eagle:component:28580/1" locally_modified="yes">
 <description>&lt;b&gt;P-Channel Enhancement MOSFET&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="IGFET-EP-GDS" x="0" y="0"/>
@@ -3321,7 +3358,7 @@ Source: http://www.fairchildsemi.com/ds/2N/2N3820.pdf</description>
 <connect gate="G$1" pin="S" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:28528/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14437/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

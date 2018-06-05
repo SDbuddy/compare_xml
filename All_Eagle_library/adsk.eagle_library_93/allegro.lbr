@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.5.2">
 <drawing>
 <settings>
@@ -116,7 +116,7 @@ Source: 2821003.pdf</description>
 <text x="-6.985" y="-0.635" size="1.27" layer="27">&gt;VALUE</text>
 <text x="-14.732" y="-1.016" size="1.27" layer="27">1</text>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:3411/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -143,7 +143,7 @@ Source: 2821003.pdf</description>
 <text x="-10.541" y="-2.921" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-7.493" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="PLCC44" urn="urn:adsk.eagle:footprint:3408/1">
+<package name="PLCC44" urn="urn:adsk.eagle:footprint:16312/1">
 <description>&lt;b&gt;PLASTIC LEADED CHIP CARRIER&lt;/b&gt;&lt;p&gt;
 square</description>
 <wire x1="-9.903" y1="9.903" x2="9.903" y2="9.903" width="0.2" layer="39"/>
@@ -249,7 +249,7 @@ square</description>
 <rectangle x1="1.01" y1="8.75" x2="1.53" y2="9.2" layer="51"/>
 <rectangle x1="-1" y1="-1" x2="1" y2="1" layer="35"/>
 </package>
-<package name="SO-16DW" urn="urn:adsk.eagle:footprint:3410/1">
+<package name="SO-16DW" urn="urn:adsk.eagle:footprint:20695/1">
 <description>&lt;b&gt;Small Outline Integrated Circuit&lt;/b&gt; wide</description>
 <wire x1="-5.395" y1="5.9" x2="5.395" y2="5.9" width="0.2" layer="39"/>
 <wire x1="5.395" y1="-5.9" x2="-5.395" y2="-5.9" width="0.2" layer="39"/>
@@ -1124,19 +1124,19 @@ Source: 2821003.pdf</description>
 <packageinstance name="ZIP23-SLA"/>
 </packageinstances>
 </package3d>
-<package3d name="SO-16DW" urn="urn:adsk.eagle:package:3439/1" type="box">
+<package3d name="SO-16DW" urn="urn:adsk.eagle:package:20828/1" type="box">
 <description>Small Outline Integrated Circuit wide</description>
 <packageinstances>
 <packageinstance name="SO-16DW"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:3438/1" type="box">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
 </packageinstances>
 </package3d>
-<package3d name="PLCC44" urn="urn:adsk.eagle:package:3437/1" type="box">
+<package3d name="PLCC44" urn="urn:adsk.eagle:package:16470/2" type="model">
 <description>PLASTIC LEADED CHIP CARRIER
 square</description>
 <packageinstances>
@@ -1773,7 +1773,7 @@ Source: http://www.allegromicro.com/en/Products/Part_Numbers/3982/3982.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="UNC5804" prefix="IC" urn="urn:adsk.eagle:component:3455/1">
+<deviceset name="UNC5804" prefix="IC" urn="urn:adsk.eagle:component:3455/1" locally_modified="yes">
 <description>&lt;b&gt;BiMOS II UNIPOLAR STEPPER-MOTOR TRANSLATOR/DRIVER&lt;/b&gt;&lt;p&gt;
 Source: 5804.pdf</description>
 <gates>
@@ -1800,7 +1800,7 @@ Source: 5804.pdf</description>
 <connect gate="G$1" pin="VDD" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3439/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20828/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -1831,7 +1831,7 @@ Source: 5804.pdf</description>
 <connect gate="G$1" pin="VDD" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3438/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -1844,7 +1844,7 @@ Source: 5804.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="A3977" prefix="IC" urn="urn:adsk.eagle:component:3453/1">
+<deviceset name="A3977" prefix="IC" urn="urn:adsk.eagle:component:3453/1" locally_modified="yes">
 <description>&lt;b&gt;MICROSTEPPING DMOS DRIVER WITH TRANSLATOR&lt;/b&gt;&lt;p&gt;
 Source: 3977.pdf</description>
 <gates>
@@ -1893,7 +1893,7 @@ Source: 3977.pdf</description>
 <connect gate="G$1" pin="VREG" pad="32"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3437/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16470/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

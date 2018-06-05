@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -71,7 +71,7 @@
 <description>california micro devices&lt;p&gt;
 &lt;http://www.cmd.com&gt;</description>
 <packages>
-<package name="DIL18" urn="urn:adsk.eagle:footprint:5349/1">
+<package name="DIL18" urn="urn:adsk.eagle:footprint:16182/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="11.43" y1="2.921" x2="-11.43" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-11.43" y1="-2.921" x2="11.43" y2="-2.921" width="0.1524" layer="21"/>
@@ -102,7 +102,7 @@
 </package>
 </packages>
 <packages3d>
-<package3d name="DIL18" urn="urn:adsk.eagle:package:5350/1" type="box">
+<package3d name="DIL18" urn="urn:adsk.eagle:package:16424/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL18"/>
@@ -138,7 +138,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="CM8870C" prefix="IC" urn="urn:adsk.eagle:component:5351/1">
+<deviceset name="CM8870C" prefix="IC" urn="urn:adsk.eagle:component:5351/1" locally_modified="yes">
 <description>&lt;b&gt;CMOS Integrated DTMF Receiver&lt;/b&gt;&lt;p&gt;
 cm8870.pdf</description>
 <gates>
@@ -167,7 +167,7 @@ cm8870.pdf</description>
 <connect gate="G$1" pin="VSS@1" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:5350/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

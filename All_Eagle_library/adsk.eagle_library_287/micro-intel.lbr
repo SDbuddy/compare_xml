@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -10439,7 +10439,7 @@ Source: http://www.intel.com/Assets/PDF/pkginfo/Ch_14.pdf</description>
 <text x="-20.05" y="20.685" size="1.27" layer="25">&gt;NAME</text>
 <text x="-20.05" y="-21.955" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:19527/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -10517,7 +10517,7 @@ Source: http://www.intel.com/Assets/PDF/pkginfo/Ch_14.pdf</description>
 <text x="-25.908" y="-6.604" size="1.778" layer="25" rot="R90">&gt;NAME</text>
 <text x="-17.145" y="-1.016" size="1.778" layer="27">&gt;VALUE</text>
 </package>
-<package name="DIL28-6" urn="urn:adsk.eagle:footprint:19510/1">
+<package name="DIL28-6" urn="urn:adsk.eagle:footprint:770/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.6 inch</description>
 <wire x1="-17.653" y1="-1.27" x2="-17.653" y2="-6.604" width="0.1524" layer="21"/>
 <wire x1="-17.653" y1="1.27" x2="-17.653" y2="-1.27" width="0.1524" layer="21" curve="-180"/>
@@ -10556,7 +10556,7 @@ Source: http://www.intel.com/Assets/PDF/pkginfo/Ch_14.pdf</description>
 <text x="-17.78" y="-6.35" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-14.605" y="-0.9398" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL18" urn="urn:adsk.eagle:footprint:19517/1">
+<package name="DIL18" urn="urn:adsk.eagle:footprint:16182/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="11.43" y1="2.921" x2="-11.43" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-11.43" y1="-2.921" x2="11.43" y2="-2.921" width="0.1524" layer="21"/>
@@ -10585,7 +10585,7 @@ Source: http://www.intel.com/Assets/PDF/pkginfo/Ch_14.pdf</description>
 <text x="-11.684" y="-3.048" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-9.525" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="PLCC44" urn="urn:adsk.eagle:footprint:19503/1">
+<package name="PLCC44" urn="urn:adsk.eagle:footprint:16312/1">
 <description>&lt;b&gt;PLASTIC LEADED CHIP CARRIER&lt;/b&gt;&lt;p&gt;
 square</description>
 <wire x1="-9.903" y1="9.903" x2="9.903" y2="9.903" width="0.2" layer="39"/>
@@ -10691,7 +10691,7 @@ square</description>
 <rectangle x1="1.01" y1="8.75" x2="1.53" y2="9.2" layer="51"/>
 <rectangle x1="-1" y1="-1" x2="1" y2="1" layer="35"/>
 </package>
-<package name="S44" urn="urn:adsk.eagle:footprint:19505/1">
+<package name="S44" urn="urn:adsk.eagle:footprint:22571/1">
 <description>&lt;b&gt;PLCC SOCKET&lt;/b&gt;</description>
 <wire x1="-10.16" y1="11.684" x2="-11.684" y2="10.16" width="0.1524" layer="21"/>
 <wire x1="-11.684" y1="10.16" x2="-11.684" y2="-11.049" width="0.1524" layer="21"/>
@@ -11144,7 +11144,7 @@ square</description>
 <text x="-3.81" y="1.27" size="1.778" layer="25" ratio="10">&gt;NAME</text>
 <text x="-6.35" y="-3.175" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL20" urn="urn:adsk.eagle:footprint:19548/1">
+<package name="DIL20" urn="urn:adsk.eagle:footprint:16206/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="12.7" y1="2.921" x2="-12.7" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-12.7" y1="-2.921" x2="12.7" y2="-2.921" width="0.1524" layer="21"/>
@@ -11175,7 +11175,7 @@ square</description>
 <text x="-13.081" y="-3.048" size="1.27" layer="25" rot="R90">&gt;NAME</text>
 <text x="-9.779" y="-0.381" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="S68" urn="urn:adsk.eagle:footprint:19535/1">
+<package name="S68" urn="urn:adsk.eagle:footprint:22573/1">
 <description>&lt;b&gt;PLCC SOCKET&lt;/b&gt;</description>
 <wire x1="-13.97" y1="15.494" x2="-15.494" y2="13.97" width="0.1524" layer="21"/>
 <wire x1="-15.494" y1="13.97" x2="-15.494" y2="-14.859" width="0.1524" layer="21"/>
@@ -11797,7 +11797,7 @@ square</description>
 <text x="-11.938" y="14.986" size="1.778" layer="25" ratio="10">&gt;NAME</text>
 <text x="-7.366" y="-2.54" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL24-6" urn="urn:adsk.eagle:footprint:19528/1">
+<package name="DIL24-6" urn="urn:adsk.eagle:footprint:943/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.6 inch</description>
 <wire x1="-15.113" y1="-1.27" x2="-15.113" y2="-6.604" width="0.1524" layer="21"/>
 <wire x1="-15.113" y1="1.27" x2="-15.113" y2="-1.27" width="0.1524" layer="21" curve="-180"/>
@@ -12208,7 +12208,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 <rectangle x1="3.825" y1="4.873" x2="4.175" y2="6.473" layer="51"/>
 <rectangle x1="3.025" y1="4.873" x2="3.375" y2="6.473" layer="51"/>
 </package>
-<package name="S84" urn="urn:adsk.eagle:footprint:19539/1">
+<package name="S84" urn="urn:adsk.eagle:footprint:22575/1">
 <description>&lt;b&gt;PLCC SOCKET&lt;/b&gt;</description>
 <wire x1="-16.51" y1="18.034" x2="-18.034" y2="16.51" width="0.1524" layer="21"/>
 <wire x1="-18.034" y1="16.51" x2="-18.034" y2="-17.399" width="0.1524" layer="21"/>
@@ -14057,37 +14057,37 @@ Source: ftp://download.intel.com/design/network/datashts/25247904.pdf</descripti
 <packageinstance name="DIL40"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL18" urn="urn:adsk.eagle:package:19646/1" type="box">
+<package3d name="DIL18" urn="urn:adsk.eagle:package:16424/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL18"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL28-6" urn="urn:adsk.eagle:package:19645/1" type="box">
+<package3d name="DIL28-6" urn="urn:adsk.eagle:package:826/2" type="model">
 <description>Dual In Line Package 0.6 inch</description>
 <packageinstances>
 <packageinstance name="DIL28-6"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:19650/1" type="box">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
 </packageinstances>
 </package3d>
-<package3d name="S68" urn="urn:adsk.eagle:package:19653/1" type="box">
+<package3d name="S68" urn="urn:adsk.eagle:package:22584/1" type="box">
 <description>PLCC SOCKET</description>
 <packageinstances>
 <packageinstance name="S68"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL24-6" urn="urn:adsk.eagle:package:19648/1" type="box">
+<package3d name="DIL24-6" urn="urn:adsk.eagle:package:1009/2" type="model">
 <description>Dual In Line Package 0.6 inch</description>
 <packageinstances>
 <packageinstance name="DIL24-6"/>
 </packageinstances>
 </package3d>
-<package3d name="S44" urn="urn:adsk.eagle:package:19647/1" type="box">
+<package3d name="S44" urn="urn:adsk.eagle:package:22585/1" type="box">
 <description>PLCC SOCKET</description>
 <packageinstances>
 <packageinstance name="S44"/>
@@ -14105,14 +14105,14 @@ Source: ftp://download.intel.com/design/network/datashts/25247904.pdf</descripti
 <packageinstance name="PGA68-N"/>
 </packageinstances>
 </package3d>
-<package3d name="PLCC44" urn="urn:adsk.eagle:package:19644/1" type="box">
+<package3d name="PLCC44" urn="urn:adsk.eagle:package:16470/2" type="model">
 <description>PLASTIC LEADED CHIP CARRIER
 square</description>
 <packageinstances>
 <packageinstance name="PLCC44"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL20" urn="urn:adsk.eagle:package:19655/1" type="box">
+<package3d name="DIL20" urn="urn:adsk.eagle:package:16429/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL20"/>
@@ -14130,7 +14130,7 @@ square</description>
 <packageinstance name="DIL48"/>
 </packageinstances>
 </package3d>
-<package3d name="S84" urn="urn:adsk.eagle:package:19654/1" type="box">
+<package3d name="S84" urn="urn:adsk.eagle:package:22586/1" type="box">
 <description>PLCC SOCKET</description>
 <packageinstances>
 <packageinstance name="S84"/>
@@ -18787,7 +18787,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="8224" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19699/1">
+<deviceset name="8224" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19699/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="8224" x="0" y="0"/>
@@ -18813,7 +18813,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 <connect gate="G$1" pin="XTAL2" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19650/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20979,7 +20979,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="82188" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19714/1">
+<deviceset name="82188" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19714/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="82188" x="0" y="0"/>
@@ -21017,7 +21017,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 <connect gate="G$1" pin="WR" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19645/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21030,7 +21030,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="8228" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19711/1">
+<deviceset name="8228" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19711/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="8228" x="0" y="0"/>
@@ -21068,7 +21068,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 <connect gate="G$1" pin="WR" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19645/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21081,7 +21081,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="8259A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19715/1">
+<deviceset name="8259A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19715/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="8259A" x="0" y="0"/>
@@ -21120,7 +21120,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19645/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21133,7 +21133,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="8421" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19712/1">
+<deviceset name="8421" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19712/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="8421" x="0" y="0"/>
@@ -21171,7 +21171,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 <connect gate="G$1" pin="XTAL2" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19645/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21184,7 +21184,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="8441" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19713/1">
+<deviceset name="8441" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19713/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="8421" x="0" y="0"/>
@@ -21222,7 +21222,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 <connect gate="G$1" pin="XTAL2" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19645/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21235,7 +21235,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="8251A" prefix="IC" urn="urn:adsk.eagle:component:19716/1">
+<deviceset name="8251A" prefix="IC" urn="urn:adsk.eagle:component:19716/1" locally_modified="yes">
 <description>&lt;b&gt;Universal Syncronous/Asynchronous Receiver/Transmitter&lt;/b&gt; (USART)&lt;p&gt;
 Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</description>
 <gates>
@@ -21274,7 +21274,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 <connect gate="G$1" pin="VCC" pad="26"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19645/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21287,7 +21287,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="8185" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19663/1">
+<deviceset name="8185" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19663/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="8185" x="0" y="0"/>
@@ -21315,7 +21315,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 <connect gate="G$1" pin="WR" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19646/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21328,7 +21328,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="8021" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19710/1">
+<deviceset name="8021" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19710/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="8021" x="0" y="0"/>
@@ -21366,7 +21366,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 <connect gate="G$1" pin="XTAL2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19645/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21379,7 +21379,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="82C284" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19664/1">
+<deviceset name="82C284" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19664/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="82C284" x="0" y="0"/>
@@ -21407,7 +21407,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 <connect gate="P" pin="VCC" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19646/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21420,7 +21420,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="80512" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19700/1">
+<deviceset name="80512" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19700/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="80512" x="0" y="2.54"/>
@@ -21498,7 +21498,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 <connect gate="G$1" pin="XTAL2" pad="39"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19653/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22584/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21582,7 +21582,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="80287XL" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19720/1">
+<deviceset name="80287XL" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19720/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="80287XL" x="0" y="-2.54"/>
@@ -21632,7 +21632,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 <connect gate="P" pin="VSS@5" pad="43"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19647/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22585/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21645,7 +21645,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="80515" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19701/1">
+<deviceset name="80515" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19701/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="80515" x="0" y="0"/>
@@ -21724,7 +21724,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 <connect gate="P" pin="VCC@1" pad="68"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19653/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22584/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21737,7 +21737,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="83552" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19702/1">
+<deviceset name="83552" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19702/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="83552" x="0" y="0"/>
@@ -21815,7 +21815,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 <connect gate="G$1" pin="XTAL2" pad="34"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19653/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22584/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22189,7 +22189,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="8253" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19706/1">
+<deviceset name="8253" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19706/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="8253" x="0" y="0"/>
@@ -22224,7 +22224,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19648/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22509,7 +22509,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="83751" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19707/1">
+<deviceset name="83751" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19707/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="83751" x="0" y="0"/>
@@ -22543,7 +22543,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 <connect gate="G$1" pin="X2" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19648/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22556,7 +22556,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="8751PLCC" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19662/1">
+<deviceset name="8751PLCC" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19662/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="8751PLCC" x="0" y="0"/>
@@ -22615,7 +22615,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 <connect gate="P" pin="VCC" pad="44"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19644/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16470/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22628,7 +22628,7 @@ Source: http://www.alldatasheet.com/datasheet-pdf/pdf/INTEL/8251A.html</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="8051" prefix="IC" urn="urn:adsk.eagle:component:19719/1">
+<deviceset name="8051" prefix="IC" urn="urn:adsk.eagle:component:19719/1" locally_modified="yes">
 <description>&lt;b&gt;(CHMOS) SINGLE-CHIP 8-BIT MICROCONTROLLER&lt;/b&gt;&lt;p&gt;
 80C31BH / 80C51 BH / 87C51 MCS 51&lt;br&gt;
 Source: http://apps.intel.com .. 27041907.pdf</description>
@@ -22735,7 +22735,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 <connect gate="G$1" pin="XTAL2" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19644/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16470/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22790,7 +22790,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 <connect gate="G$1" pin="XTAL2" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19647/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22585/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22803,7 +22803,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="83C451" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19704/1">
+<deviceset name="83C451" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19704/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="83C451" x="2.54" y="0"/>
@@ -22881,7 +22881,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 <connect gate="G$1" pin="XTAL2" pad="52"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19653/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22584/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22894,7 +22894,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="8231A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19709/1">
+<deviceset name="8231A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19709/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="8231A" x="0" y="0"/>
@@ -22926,7 +22926,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 <connect gate="G$1" pin="WR" pad="19"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19648/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22939,7 +22939,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="80C535" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19703/1">
+<deviceset name="80C535" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19703/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="80C535" x="0" y="0"/>
@@ -23018,7 +23018,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 <connect gate="P" pin="VCC@1" pad="68"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19653/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22584/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23031,7 +23031,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="82077AA" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19705/1">
+<deviceset name="82077AA" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19705/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="82077AA" x="0" y="2.54"/>
@@ -23106,7 +23106,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 <connect gate="P" pin="VSS@9" pad="65"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19653/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22584/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23119,7 +23119,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="IOEX-8243" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19708/1">
+<deviceset name="IOEX-8243" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19708/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="8243" x="0" y="0"/>
@@ -23153,7 +23153,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 <connect gate="G$1" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19648/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23166,7 +23166,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="82C288" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19721/1">
+<deviceset name="82C288" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19721/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="82C288" x="0" y="0"/>
@@ -23197,7 +23197,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19655/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23372,7 +23372,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="80517" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19718/1">
+<deviceset name="80517" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19718/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="80517" x="0" y="20.32"/>
@@ -23466,7 +23466,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 <connect gate="G$1" pin="XTAL2" pad="39"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19654/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22586/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23479,7 +23479,7 @@ Source: http://apps.intel.com .. 27041907.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="8052" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19722/1">
+<deviceset name="8052" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19722/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCOMPUTER/PERIPHERAL DEVICE&lt;/b&gt;&lt;p&gt;
 80C51/87C51/80C52/87C52 80C51 8-bit microcontroller family&lt;br&gt;
 4 K/8 K OTP/ROM low voltage (2.7 V-5.5 V),&lt;br&gt;
@@ -23588,7 +23588,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf &lt;br&gt;</descript
 <connect gate="G$1" pin="XTAL2" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19644/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16470/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23643,7 +23643,7 @@ Source: www.semiconductors.philips.com .. 8XC51_8XC52_6.pdf &lt;br&gt;</descript
 <connect gate="G$1" pin="XTAL2" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19647/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22585/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">

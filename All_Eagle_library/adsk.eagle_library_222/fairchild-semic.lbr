@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -138,8 +138,8 @@ www.fairchildsemi.com</description>
 <rectangle x1="-7.239" y1="3.7886" x2="-6.731" y2="5.3126" layer="51"/>
 <rectangle x1="-8.509" y1="3.7886" x2="-8.001" y2="5.3126" layer="51"/>
 </package>
-<package name="DIL28-3" urn="urn:adsk.eagle:footprint:13744/1">
-<description>&lt;b&gt;Dual In Line Package Small&lt;/b&gt; 28-Pin Narrow PDIP</description>
+<package name="DIL28-3" urn="urn:adsk.eagle:footprint:771/1">
+<description>&lt;b&gt;Dual In Line Package Small&lt;/b&gt;</description>
 <wire x1="17.78" y1="2.921" x2="-17.78" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-17.78" y1="-2.921" x2="17.78" y2="-2.921" width="0.1524" layer="21"/>
 <wire x1="17.78" y1="2.921" x2="17.78" y2="-2.921" width="0.1524" layer="21"/>
@@ -383,8 +383,8 @@ Source: http://www.fairchildsemi.com/ds/FS/FSBB30CH60.pdf</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="DIL28-3" urn="urn:adsk.eagle:package:13750/1" type="box">
-<description>Dual In Line Package Small 28-Pin Narrow PDIP</description>
+<package3d name="DIL28-3" urn="urn:adsk.eagle:package:827/2" type="model">
+<description>Dual In Line Package Small</description>
 <packageinstances>
 <packageinstance name="DIL28-3"/>
 </packageinstances>
@@ -515,7 +515,7 @@ Source: http://www.fairchildsemi.com/ds/FS/FSBB30CH60.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="ML4425*" prefix="IC" urn="urn:adsk.eagle:component:13755/1">
+<deviceset name="ML4425*" prefix="IC" urn="urn:adsk.eagle:component:13755/1" locally_modified="yes">
 <description>&lt;b&gt;Sensorless BLDC Motor Controller&lt;/b&gt;&lt;p&gt;
 Source: http://www.fairchildsemi.com/ds/ML/ML4425.pdf</description>
 <gates>
@@ -603,7 +603,7 @@ Source: http://www.fairchildsemi.com/ds/ML/ML4425.pdf</description>
 <connect gate="G$1" pin="VREF" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:13750/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:827/2"/>
 </package3dinstances>
 <technologies>
 <technology name="C">

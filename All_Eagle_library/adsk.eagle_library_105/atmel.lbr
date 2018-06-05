@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="7.2.1">
 <drawing>
 <settings>
@@ -233,7 +233,7 @@ MSOP&lt;br&gt;
 <rectangle x1="-2.4" y1="2.15" x2="-2.15" y2="3.25" layer="51"/>
 <rectangle x1="-3.05" y1="2.15" x2="-2.8" y2="3.25" layer="51"/>
 </package>
-<package name="QFN44ML8X8" urn="urn:adsk.eagle:footprint:4312/1">
+<package name="QFN44ML8X8" urn="urn:adsk.eagle:footprint:20679/1">
 <description>&lt;b&gt;44-Lead Plastic Quad Flat No Lead Package (ML)&lt;/b&gt; 8x8 mm Body (QFN)&lt;p&gt;
 Source: http://ww1.microchip.com/downloads/en/devicedoc/39632c.pdf</description>
 <wire x1="-3.9" y1="-3.9" x2="3.9" y2="-3.9" width="0.2032" layer="51"/>
@@ -3978,7 +3978,7 @@ Source: http://www.atmel.com/dyn/resources/prod_documents/doc2593.pdf</descripti
 <rectangle x1="-2.125" y1="3" x2="-1.875" y2="3.5" layer="51"/>
 <rectangle x1="-2.625" y1="3" x2="-2.375" y2="3.5" layer="51"/>
 </package>
-<package name="PLCC32R" urn="urn:adsk.eagle:footprint:4199/1">
+<package name="PLCC32R" urn="urn:adsk.eagle:footprint:19042/1">
 <description>&lt;b&gt;PLASTIC LEADED CHIP CARRIER&lt;/b&gt;&lt;p&gt;
 rectangle</description>
 <wire x1="-5.61" y1="-6.93" x2="5.61" y2="-6.93" width="0.2032" layer="51"/>
@@ -6912,7 +6912,7 @@ extra wide body 8.9 mm/JEDEC MO-120AC</description>
 <packageinstance name="DIL32"/>
 </packageinstances>
 </package3d>
-<package3d name="PLCC32R" urn="urn:adsk.eagle:package:4332/1" type="box">
+<package3d name="PLCC32R" urn="urn:adsk.eagle:package:19077/1" type="box">
 <description>PLASTIC LEADED CHIP CARRIER
 rectangle</description>
 <packageinstances>
@@ -7055,6 +7055,13 @@ Source: http://www.atmel.com/dyn/resources/prod_documents/doc3542.pdf</descripti
 Source. http://www.atmel.com/dyn/resources/prod_documents/doc4136.pdf</description>
 <packageinstances>
 <packageinstance name="VQFP64"/>
+</packageinstances>
+</package3d>
+<package3d name="QFN44ML8X8" urn="urn:adsk.eagle:package:20827/1" type="box">
+<description>44-Lead Plastic Quad Flat No Lead Package (ML) 8x8 mm Body (QFN)
+Source: http://ww1.microchip.com/downloads/en/devicedoc/39632c.pdf</description>
+<packageinstances>
+<packageinstance name="QFN44ML8X8"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -19453,7 +19460,7 @@ Source: avr.lbr</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="27C080" prefix="IC" urn="urn:adsk.eagle:component:4415/1">
+<deviceset name="27C080" prefix="IC" urn="urn:adsk.eagle:component:4415/1" locally_modified="yes">
 <description>&lt;b&gt;8-Megabit (1Mx8) OTP EPROM&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="27C080" x="0" y="0"/>
@@ -19590,7 +19597,7 @@ Source: avr.lbr</description>
 <connect gate="P" pin="VCC" pad="32"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4332/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19077/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
