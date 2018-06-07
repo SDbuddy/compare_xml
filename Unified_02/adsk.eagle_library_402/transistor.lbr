@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="7.2.1">
 <drawing>
 <settings>
@@ -162,7 +162,7 @@
 <rectangle x1="0.5" y1="-1.1" x2="0.8" y2="-0.5" layer="51"/>
 <rectangle x1="-0.15" y1="0.5" x2="0.15" y2="1.1" layer="51"/>
 </package>
-<package name="TO252" urn="urn:adsk.eagle:footprint:29889/1">
+<package name="TO252" urn="urn:adsk.eagle:footprint:28481/1">
 <description>&lt;b&gt;SMALL OUTLINE TRANSISTOR&lt;/b&gt;&lt;p&gt;
 TS-003</description>
 <wire x1="3.2766" y1="3.8354" x2="3.277" y2="-2.159" width="0.2032" layer="21"/>
@@ -196,7 +196,7 @@ TS-003</description>
 <vertex x="2.5654" y="3.937"/>
 </polygon>
 </package>
-<package name="SOT223" urn="urn:adsk.eagle:footprint:29891/1">
+<package name="SOT223" urn="urn:adsk.eagle:footprint:28484/1">
 <description>&lt;b&gt;Small Outline Transistor&lt;/b&gt;</description>
 <wire x1="3.2766" y1="1.778" x2="3.2766" y2="-1.778" width="0.2032" layer="21"/>
 <wire x1="3.2766" y1="-1.778" x2="-3.2766" y2="-1.778" width="0.2032" layer="21"/>
@@ -250,7 +250,7 @@ TS-003</description>
 <text x="-3.81" y="-6.223" size="1.27" layer="51" ratio="10" rot="R90">1</text>
 <text x="-13.97" y="-4.953" size="1.27" layer="51" ratio="10" rot="R90">4</text>
 </package>
-<package name="SOT143" urn="urn:adsk.eagle:footprint:29888/1">
+<package name="SOT143" urn="urn:adsk.eagle:footprint:26302/1">
 <description>&lt;b&gt;SOT-143&lt;/b&gt;</description>
 <wire x1="-1.448" y1="0.635" x2="1.448" y2="0.635" width="0.1" layer="51"/>
 <wire x1="-1.448" y1="-0.635" x2="1.448" y2="-0.635" width="0.1" layer="51"/>
@@ -267,7 +267,7 @@ TS-003</description>
 <rectangle x1="-1.143" y1="0.635" x2="-0.6858" y2="1.3208" layer="51"/>
 <rectangle x1="-1.1938" y1="-1.3208" x2="-0.3048" y2="-0.635" layer="51"/>
 </package>
-<package name="TO18" urn="urn:adsk.eagle:footprint:29822/1">
+<package name="TO18" urn="urn:adsk.eagle:footprint:28463/1">
 <description>&lt;b&gt;TO 18&lt;/b&gt;</description>
 <wire x1="0.9289" y1="2.227" x2="2.227" y2="0.9289" width="0.0508" layer="51" curve="-44.7172"/>
 <wire x1="0.9289" y1="-2.227" x2="2.227" y2="-0.9289" width="0.0508" layer="51" curve="44.7172"/>
@@ -288,7 +288,7 @@ TS-003</description>
 <text x="0.635" y="-1.27" size="1.27" layer="51" ratio="10">2</text>
 <text x="0" y="0.635" size="1.27" layer="51" ratio="10">3</text>
 </package>
-<package name="TO72" urn="urn:adsk.eagle:footprint:29826/1">
+<package name="TO72" urn="urn:adsk.eagle:footprint:28464/1">
 <description>&lt;b&gt;TO 72&lt;/b&gt;</description>
 <wire x1="-0.9289" y1="2.227" x2="0.9289" y2="2.227" width="0.0508" layer="21" curve="-45.2828"/>
 <wire x1="-0.9289" y1="-2.227" x2="0.9289" y2="-2.227" width="0.0508" layer="21" curve="45.2828"/>
@@ -313,7 +313,7 @@ TS-003</description>
 <text x="0.508" y="0.381" size="1.27" layer="51" ratio="10">3</text>
 <text x="-1.651" y="0.381" size="1.27" layer="51" ratio="10">4</text>
 </package>
-<package name="TO92" urn="urn:adsk.eagle:footprint:29825/1">
+<package name="TO92" urn="urn:adsk.eagle:footprint:28459/1">
 <description>&lt;b&gt;TO 92&lt;/b&gt;</description>
 <wire x1="-2.0946" y1="-1.651" x2="-2.6549" y2="-0.254" width="0.127" layer="21" curve="-32.781"/>
 <wire x1="-2.6549" y1="-0.254" x2="-0.7863" y2="2.5485" width="0.127" layer="21" curve="-78.3185"/>
@@ -334,7 +334,7 @@ TS-003</description>
 <text x="-2.159" y="0" size="1.27" layer="51" ratio="10">3</text>
 <text x="1.143" y="0" size="1.27" layer="51" ratio="10">1</text>
 </package>
-<package name="TO66" urn="urn:adsk.eagle:footprint:29824/1">
+<package name="TO66" urn="urn:adsk.eagle:footprint:29176/1">
 <description>&lt;b&gt;TO-66&lt;/b&gt;</description>
 <wire x1="-3.501" y1="-7.895" x2="3.5012" y2="-7.895" width="0.1524" layer="21" curve="47.8332"/>
 <wire x1="-3.501" y1="7.895" x2="3.5012" y2="7.895" width="0.1524" layer="21" curve="-47.8332"/>
@@ -358,7 +358,7 @@ TS-003</description>
 <text x="-5.08" y="1.905" size="1.27" layer="21" ratio="10">2</text>
 <text x="-5.08" y="-3.175" size="1.27" layer="21" ratio="10">1</text>
 </package>
-<package name="TO5" urn="urn:adsk.eagle:footprint:29828/1">
+<package name="TO5" urn="urn:adsk.eagle:footprint:28657/1">
 <description>&lt;b&gt;TO 5&lt;/b&gt;</description>
 <wire x1="-4.0386" y1="-3.5306" x2="-3.5052" y2="-2.9972" width="0.127" layer="21"/>
 <wire x1="-2.9718" y1="-3.5306" x2="-3.5052" y2="-4.064" width="0.127" layer="21"/>
@@ -371,7 +371,7 @@ TS-003</description>
 <text x="-2.54" y="5.08" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-3.175" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="TO220" urn="urn:adsk.eagle:footprint:29830/1">
+<package name="TO220" urn="urn:adsk.eagle:footprint:28453/1">
 <description>&lt;b&gt;TO 220 horizontal&lt;/b&gt;</description>
 <wire x1="-5.207" y1="-1.27" x2="5.207" y2="-1.27" width="0.127" layer="21"/>
 <wire x1="5.207" y1="14.605" x2="-5.207" y2="14.605" width="0.127" layer="21"/>
@@ -412,7 +412,7 @@ TS-003</description>
 <rectangle x1="2.159" y1="-6.604" x2="2.921" y2="-4.699" layer="51"/>
 <hole x="0" y="11.176" drill="3.302"/>
 </package>
-<package name="TO202" urn="urn:adsk.eagle:footprint:29832/1">
+<package name="TO202" urn="urn:adsk.eagle:footprint:28460/1">
 <description>&lt;b&gt;TO 202 horizontal&lt;/b&gt;</description>
 <wire x1="-5.207" y1="-1.27" x2="-5.207" y2="7.3406" width="0.127" layer="21"/>
 <wire x1="-3.5052" y1="7.3406" x2="-3.5052" y2="8.8138" width="0.127" layer="21"/>
@@ -457,7 +457,7 @@ TS-003</description>
 <rectangle x1="-2.921" y1="-5.08" x2="-2.159" y2="-3.429" layer="51"/>
 <hole x="0" y="17.78" drill="3.302"/>
 </package>
-<package name="TOP3" urn="urn:adsk.eagle:footprint:29834/1">
+<package name="TOP3" urn="urn:adsk.eagle:footprint:28457/1">
 <description>&lt;b&gt;TOP 3 horizontal&lt;/b&gt;</description>
 <wire x1="-7.874" y1="-1.778" x2="7.874" y2="-1.778" width="0.127" layer="21"/>
 <wire x1="7.874" y1="8.763" x2="7.874" y2="-1.778" width="0.127" layer="21"/>
@@ -535,7 +535,7 @@ grid 2.54 mm, vertical</description>
 <rectangle x1="-0.3175" y1="-7.9375" x2="0.3175" y2="-6.985" layer="21"/>
 <hole x="0" y="0" drill="3.302"/>
 </package>
-<package name="TO18-" urn="urn:adsk.eagle:footprint:29838/1">
+<package name="TO18-" urn="urn:adsk.eagle:footprint:28930/1">
 <description>&lt;b&gt;TO-18&lt;/b&gt;</description>
 <wire x1="-2.2098" y1="-0.9692" x2="2.2098" y2="-0.9692" width="0.0508" layer="21" curve="132.636"/>
 <wire x1="-0.9692" y1="2.2098" x2="0.9692" y2="2.2098" width="0.0508" layer="51" curve="-47.3637"/>
@@ -556,7 +556,7 @@ grid 2.54 mm, vertical</description>
 <text x="-0.508" y="0.635" size="1.27" layer="51" ratio="10">2</text>
 <text x="-1.905" y="-1.27" size="1.27" layer="51" ratio="10">3</text>
 </package>
-<package name="SOT23" urn="urn:adsk.eagle:footprint:29840/1">
+<package name="SOT23" urn="urn:adsk.eagle:footprint:28669/1">
 <description>&lt;b&gt;SOT-23&lt;/b&gt;</description>
 <wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.6604" width="0.1524" layer="51"/>
 <wire x1="1.4224" y1="-0.6604" x2="-1.4224" y2="-0.6604" width="0.1524" layer="51"/>
@@ -599,7 +599,7 @@ grid 2.54 mm, vertical</description>
 <text x="-3.81" y="-6.223" size="1.27" layer="51" ratio="10" rot="R90">E</text>
 <text x="-3.81" y="4.572" size="1.27" layer="51" ratio="10" rot="R90">B</text>
 </package>
-<package name="SOT93" urn="urn:adsk.eagle:footprint:29836/1">
+<package name="SOT93" urn="urn:adsk.eagle:footprint:29366/1">
 <description>SOT-93&lt;p&gt;
 grid 5.45 mm</description>
 <wire x1="-7.62" y1="-6.35" x2="7.62" y2="-6.35" width="0.1524" layer="21"/>
@@ -682,7 +682,7 @@ grid 5.45 mm</description>
 <rectangle x1="1.905" y1="-5.207" x2="2.667" y2="-3.429" layer="51"/>
 <hole x="0" y="5.08" drill="3.302"/>
 </package>
-<package name="TO39" urn="urn:adsk.eagle:footprint:29829/1">
+<package name="TO39" urn="urn:adsk.eagle:footprint:28658/1">
 <description>&lt;b&gt;TO-39&lt;/b&gt;</description>
 <wire x1="-4.0386" y1="-3.5306" x2="-3.5052" y2="-2.9972" width="0.1524" layer="21"/>
 <wire x1="-2.9718" y1="-3.5306" x2="-3.5052" y2="-4.064" width="0.1524" layer="21"/>
@@ -771,7 +771,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <rectangle x1="-3.4201" y1="2" x2="-2.9299" y2="3.1001" layer="51"/>
 <rectangle x1="-4.6901" y1="2" x2="-4.1999" y2="3.1001" layer="51"/>
 </package>
-<package name="SOT93V" urn="urn:adsk.eagle:footprint:29847/1">
+<package name="SOT93V" urn="urn:adsk.eagle:footprint:28676/1">
 <description>SOT-93&lt;p&gt;
 grid 5.45 mm</description>
 <wire x1="7.62" y1="-2.032" x2="3.429" y2="-2.032" width="0.1524" layer="51"/>
@@ -792,7 +792,7 @@ grid 5.45 mm</description>
 <text x="-7.62" y="-6.858" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <rectangle x1="-7.62" y1="-2.032" x2="7.62" y2="0" layer="51"/>
 </package>
-<package name="TO202V" urn="urn:adsk.eagle:footprint:29846/1">
+<package name="TO202V" urn="urn:adsk.eagle:footprint:28675/1">
 <description>&lt;b&gt;TO 202 vertical&lt;/b&gt;</description>
 <wire x1="-4.826" y1="-4.7498" x2="2.794" y2="-4.7498" width="0.127" layer="21"/>
 <wire x1="-4.826" y1="-0.127" x2="4.8006" y2="-0.127" width="0.127" layer="21"/>
@@ -816,7 +816,7 @@ grid 5.45 mm</description>
 <rectangle x1="-0.889" y1="-2.794" x2="0.889" y2="-2.286" layer="51"/>
 <rectangle x1="1.651" y1="-2.794" x2="3.429" y2="-2.286" layer="51"/>
 </package>
-<package name="TO218" urn="urn:adsk.eagle:footprint:29849/1">
+<package name="TO218" urn="urn:adsk.eagle:footprint:28455/1">
 <description>&lt;b&gt;TO 218 horizontal&lt;/b&gt;</description>
 <wire x1="-7.62" y1="-6.35" x2="7.62" y2="-6.35" width="0.127" layer="21"/>
 <wire x1="7.62" y1="6.223" x2="7.62" y2="0" width="0.127" layer="21"/>
@@ -863,7 +863,7 @@ grid 5.45 mm</description>
 <rectangle x1="4.826" y1="-10.287" x2="6.096" y2="-8.128" layer="51"/>
 <hole x="0" y="10.16" drill="4.1148"/>
 </package>
-<package name="TO218V" urn="urn:adsk.eagle:footprint:29850/1">
+<package name="TO218V" urn="urn:adsk.eagle:footprint:28456/1">
 <description>&lt;b&gt;TO 218 vertical&lt;/b&gt;</description>
 <wire x1="-6.985" y1="-5.08" x2="6.985" y2="-5.08" width="0.127" layer="21"/>
 <wire x1="6.985" y1="-5.08" x2="7.366" y2="-4.699" width="0.127" layer="21"/>
@@ -887,7 +887,7 @@ grid 5.45 mm</description>
 <rectangle x1="-7.239" y1="-2.032" x2="-3.556" y2="-1.143" layer="51"/>
 <rectangle x1="-1.905" y1="-2.032" x2="1.905" y2="-1.143" layer="51"/>
 </package>
-<package name="TO220V" urn="urn:adsk.eagle:footprint:29851/1">
+<package name="TO220V" urn="urn:adsk.eagle:footprint:28680/1">
 <description>&lt;b&gt;TO 220 vertical&lt;/b&gt;</description>
 <wire x1="5.08" y1="-1.143" x2="4.953" y2="-4.064" width="0.127" layer="21"/>
 <wire x1="4.699" y1="-4.318" x2="4.953" y2="-4.064" width="0.127" layer="21"/>
@@ -969,7 +969,7 @@ grid 5.08 mm</description>
 <text x="-1.524" y="3.556" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-1.524" y="-4.953" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="SOT23-EBC" urn="urn:adsk.eagle:footprint:29857/1">
+<package name="SOT23-EBC" urn="urn:adsk.eagle:footprint:28686/1">
 <description>&lt;b&gt;SOT-23 (EBC)&lt;/b&gt;</description>
 <wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.6604" width="0.127" layer="51"/>
 <wire x1="1.4224" y1="-0.6604" x2="-1.4224" y2="-0.6604" width="0.127" layer="51"/>
@@ -984,7 +984,7 @@ grid 5.08 mm</description>
 <rectangle x1="0.7112" y1="-1.2954" x2="1.1684" y2="-0.7112" layer="51"/>
 <rectangle x1="-1.1684" y1="-1.2954" x2="-0.7112" y2="-0.7112" layer="51"/>
 </package>
-<package name="TO126V" urn="urn:adsk.eagle:footprint:29848/1">
+<package name="TO126V" urn="urn:adsk.eagle:footprint:28677/1">
 <description>&lt;b&gt;TO 126 vertical&lt;/b&gt;</description>
 <wire x1="-3.937" y1="-0.127" x2="-3.937" y2="-1.27" width="0.127" layer="21"/>
 <wire x1="-3.937" y1="-1.27" x2="-3.683" y2="-2.794" width="0.127" layer="21"/>
@@ -1014,7 +1014,7 @@ grid 5.08 mm</description>
 <rectangle x1="-0.889" y1="-0.381" x2="0.889" y2="0" layer="51"/>
 <rectangle x1="1.397" y1="-0.381" x2="3.175" y2="0" layer="51"/>
 </package>
-<package name="SOT23-BEC" urn="urn:adsk.eagle:footprint:29856/1">
+<package name="SOT23-BEC" urn="urn:adsk.eagle:footprint:28685/1">
 <description>TO-236 ITT Intermetall</description>
 <wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.6604" width="0.127" layer="51"/>
 <wire x1="1.4224" y1="-0.6604" x2="-1.4224" y2="-0.6604" width="0.127" layer="51"/>
@@ -1092,7 +1092,7 @@ grid 5.08 mm</description>
 <text x="-2.54" y="3.048" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-2.54" y="-3.302" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="TOP3V" urn="urn:adsk.eagle:footprint:29855/1">
+<package name="TOP3V" urn="urn:adsk.eagle:footprint:28684/1">
 <description>&lt;b&gt;TOP 3 vertical&lt;/b&gt;</description>
 <wire x1="6.985" y1="-5.08" x2="7.366" y2="-4.699" width="0.127" layer="21"/>
 <wire x1="7.366" y1="-4.699" x2="7.493" y2="-1.524" width="0.127" layer="21"/>
@@ -1164,7 +1164,7 @@ grid 5.08 mm</description>
 <text x="-0.508" y="-1.27" size="1.27" layer="51" ratio="10">2</text>
 <text x="-1.905" y="0.635" size="1.27" layer="51" ratio="10">3</text>
 </package>
-<package name="SC59-BEC" urn="urn:adsk.eagle:footprint:29862/1">
+<package name="SC59-BEC" urn="urn:adsk.eagle:footprint:28691/1">
 <description>SC59 (SOT23) Motorola</description>
 <wire x1="1.4224" y1="0.8604" x2="1.4224" y2="-0.8604" width="0.127" layer="51"/>
 <wire x1="1.4224" y1="-0.8604" x2="-1.4224" y2="-0.8604" width="0.127" layer="51"/>
@@ -1200,7 +1200,7 @@ grid 5.08 mm</description>
 <text x="-2.54" y="3.048" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-2.54" y="-3.302" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="SOT37" urn="urn:adsk.eagle:footprint:29864/1">
+<package name="SOT37" urn="urn:adsk.eagle:footprint:28693/1">
 <description>&lt;b&gt;SOT-37&lt;/b&gt;&lt;p&gt;
 Motorola CASE 317A-01 ISSUE B&lt;br&gt;
 http://www.ee.siue.edu/~alozows/library/datasheets/BFR96.pdf</description>
@@ -1348,7 +1348,7 @@ rotated 45 deg.</description>
 <vertex x="0.25" y="-0.75"/>
 </polygon>
 </package>
-<package name="SOT23-BCE" urn="urn:adsk.eagle:footprint:29869/1">
+<package name="SOT23-BCE" urn="urn:adsk.eagle:footprint:28699/1">
 <description>&lt;b&gt;SOT-23 (BCE)&lt;/b&gt;</description>
 <wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.6604" width="0.127" layer="51"/>
 <wire x1="1.4224" y1="-0.6604" x2="-1.4224" y2="-0.6604" width="0.127" layer="51"/>
@@ -1420,7 +1420,7 @@ rotated 45 deg.</description>
 <vertex x="0.25" y="-0.75"/>
 </polygon>
 </package>
-<package name="DPAK" urn="urn:adsk.eagle:footprint:29872/1">
+<package name="DPAK" urn="urn:adsk.eagle:footprint:28703/1">
 <description>&lt;b&gt;DPAK&lt;/b&gt; CASE 369-07&lt;br&gt;
 Source MOTOROLA / ON Semiconductor mjd32-d.pdf</description>
 <wire x1="3.2766" y1="3.7354" x2="3.277" y2="-2.459" width="0.2032" layer="21"/>
@@ -1473,7 +1473,7 @@ Source: www.centralsemi.com ..SOT-563PD.pdf</description>
 <rectangle x1="-0.15" y1="0.55" x2="0.15" y2="0.85" layer="51"/>
 <rectangle x1="-0.65" y1="0.55" x2="-0.35" y2="0.85" layer="51"/>
 </package>
-<package name="T-30_V" urn="urn:adsk.eagle:footprint:29878/1">
+<package name="T-30_V" urn="urn:adsk.eagle:footprint:28709/1">
 <description>&lt;b&gt;T-30&lt;/b&gt; Vertical&lt;p&gt;
 Source: 2SC1944</description>
 <wire x1="4.68" y1="-1.218" x2="4.453" y2="-4.189" width="0.127" layer="21"/>
@@ -1519,7 +1519,7 @@ Source: 2SC1944.pdf</description>
 <rectangle x1="1.875" y1="-17.1" x2="3.125" y2="-12.275" layer="21"/>
 <hole x="0" y="0" drill="3.6"/>
 </package>
-<package name="TO220BV" urn="urn:adsk.eagle:footprint:29876/1">
+<package name="TO220BV" urn="urn:adsk.eagle:footprint:28707/1">
 <description>&lt;b&gt;Molded Package&lt;/b&gt;&lt;p&gt;
 grid 2.54 mm</description>
 <wire x1="4.699" y1="-4.318" x2="4.953" y2="-4.064" width="0.1524" layer="21"/>
@@ -1577,7 +1577,7 @@ Source: Infineon-BCR22PN-DS-v01_01-en.pdf</description>
 <rectangle x1="-0.8375" y1="0.4125" x2="-0.4625" y2="1.2" layer="29" rot="R180"/>
 <rectangle x1="-0.775" y1="0.475" x2="-0.525" y2="1.125" layer="31" rot="R180"/>
 </package>
-<package name="SIP-5" urn="urn:adsk.eagle:footprint:29875/1">
+<package name="SIP-5" urn="urn:adsk.eagle:footprint:28706/1">
 <description>&lt;b&gt;SIP-5&lt;/b&gt;&lt;p&gt;
 Source: 2SA798.pdf</description>
 <wire x1="-3.9" y1="1.3" x2="3.9" y2="1.3" width="0.2032" layer="21"/>
@@ -1593,7 +1593,7 @@ Source: 2SA798.pdf</description>
 <text x="-3.81" y="1.905" size="1.27" layer="25">&gt;NAME</text>
 <text x="-3.81" y="-3.81" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="TO220AV" urn="urn:adsk.eagle:footprint:29877/1">
+<package name="TO220AV" urn="urn:adsk.eagle:footprint:28708/1">
 <description>&lt;b&gt;Molded Package&lt;/b&gt;&lt;p&gt;
 grid 2.54 mm</description>
 <wire x1="5.08" y1="-1.143" x2="4.953" y2="-4.064" width="0.1524" layer="21"/>
@@ -1711,13 +1711,13 @@ Source: 2SC2395.pdf</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="TO18" urn="urn:adsk.eagle:package:29892/2" type="model">
+<package3d name="TO18" urn="urn:adsk.eagle:package:28526/2" type="model">
 <description>TO 18</description>
 <packageinstances>
 <packageinstance name="TO18"/>
 </packageinstances>
 </package3d>
-<package3d name="TO72" urn="urn:adsk.eagle:package:29901/1" type="box">
+<package3d name="TO72" urn="urn:adsk.eagle:package:28527/1" type="box">
 <description>TO 72</description>
 <packageinstances>
 <packageinstance name="TO72"/>
@@ -1729,37 +1729,37 @@ Source: 2SC2395.pdf</description>
 <packageinstance name="TO3"/>
 </packageinstances>
 </package3d>
-<package3d name="TO92" urn="urn:adsk.eagle:package:29893/2" type="model">
+<package3d name="TO92" urn="urn:adsk.eagle:package:28523/2" type="model">
 <description>TO 92</description>
 <packageinstances>
 <packageinstance name="TO92"/>
 </packageinstances>
 </package3d>
-<package3d name="TO66" urn="urn:adsk.eagle:package:29894/1" type="box">
+<package3d name="TO66" urn="urn:adsk.eagle:package:29220/1" type="box">
 <description>TO-66</description>
 <packageinstances>
 <packageinstance name="TO66"/>
 </packageinstances>
 </package3d>
-<package3d name="TO5" urn="urn:adsk.eagle:package:29895/1" type="box">
+<package3d name="TO5" urn="urn:adsk.eagle:package:28729/1" type="box">
 <description>TO 5</description>
 <packageinstances>
 <packageinstance name="TO5"/>
 </packageinstances>
 </package3d>
-<package3d name="TO220" urn="urn:adsk.eagle:package:29897/1" type="box">
+<package3d name="TO220" urn="urn:adsk.eagle:package:28520/1" type="box">
 <description>TO 220 horizontal</description>
 <packageinstances>
 <packageinstance name="TO220"/>
 </packageinstances>
 </package3d>
-<package3d name="TO202" urn="urn:adsk.eagle:package:29900/1" type="box">
+<package3d name="TO202" urn="urn:adsk.eagle:package:28525/1" type="box">
 <description>TO 202 horizontal</description>
 <packageinstances>
 <packageinstance name="TO202"/>
 </packageinstances>
 </package3d>
-<package3d name="TOP3" urn="urn:adsk.eagle:package:29907/1" type="box">
+<package3d name="TOP3" urn="urn:adsk.eagle:package:28521/1" type="box">
 <description>TOP 3 horizontal</description>
 <packageinstances>
 <packageinstance name="TOP3"/>
@@ -1771,7 +1771,7 @@ Source: 2SC2395.pdf</description>
 <packageinstance name="TO126"/>
 </packageinstances>
 </package3d>
-<package3d name="TO18-" urn="urn:adsk.eagle:package:29903/1" type="box">
+<package3d name="TO18-" urn="urn:adsk.eagle:package:28983/2" type="model">
 <description>TO-18</description>
 <packageinstances>
 <packageinstance name="TO18-"/>
@@ -1784,19 +1784,19 @@ grid 2.54 mm, vertical</description>
 <packageinstance name="TO225AA"/>
 </packageinstances>
 </package3d>
-<package3d name="TO39" urn="urn:adsk.eagle:package:29896/1" type="box">
+<package3d name="TO39" urn="urn:adsk.eagle:package:28730/1" type="box">
 <description>TO-39</description>
 <packageinstances>
 <packageinstance name="TO39"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT23" urn="urn:adsk.eagle:package:29904/2" type="model">
+<package3d name="SOT23" urn="urn:adsk.eagle:package:28738/2" type="model">
 <description>SOT-23</description>
 <packageinstances>
 <packageinstance name="SOT23"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT93" urn="urn:adsk.eagle:package:29902/1" type="box">
+<package3d name="SOT93" urn="urn:adsk.eagle:package:29486/1" type="box">
 <description>SOT-93
 grid 5.45 mm</description>
 <packageinstances>
@@ -1816,32 +1816,32 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <packageinstance name="DIL16"/>
 </packageinstances>
 </package3d>
-<package3d name="TO202V" urn="urn:adsk.eagle:package:29909/1" type="box">
+<package3d name="TO202V" urn="urn:adsk.eagle:package:28741/1" type="box">
 <description>TO 202 vertical</description>
 <packageinstances>
 <packageinstance name="TO202V"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT93V" urn="urn:adsk.eagle:package:29910/1" type="box">
+<package3d name="SOT93V" urn="urn:adsk.eagle:package:28764/1" type="box">
 <description>SOT-93
 grid 5.45 mm</description>
 <packageinstances>
 <packageinstance name="SOT93V"/>
 </packageinstances>
 </package3d>
-<package3d name="TO218" urn="urn:adsk.eagle:package:29911/1" type="box">
+<package3d name="TO218" urn="urn:adsk.eagle:package:28522/1" type="box">
 <description>TO 218 horizontal</description>
 <packageinstances>
 <packageinstance name="TO218"/>
 </packageinstances>
 </package3d>
-<package3d name="TO218V" urn="urn:adsk.eagle:package:29913/1" type="box">
+<package3d name="TO218V" urn="urn:adsk.eagle:package:28519/1" type="box">
 <description>TO 218 vertical</description>
 <packageinstances>
 <packageinstance name="TO218V"/>
 </packageinstances>
 </package3d>
-<package3d name="TO220V" urn="urn:adsk.eagle:package:29914/2" type="model">
+<package3d name="TO220V" urn="urn:adsk.eagle:package:28746/2" type="model">
 <description>TO 220 vertical</description>
 <packageinstances>
 <packageinstance name="TO220V"/>
@@ -1866,25 +1866,25 @@ grid 5.08 mm</description>
 <packageinstance name="TO92L"/>
 </packageinstances>
 </package3d>
-<package3d name="TOP3V" urn="urn:adsk.eagle:package:29917/1" type="box">
+<package3d name="TOP3V" urn="urn:adsk.eagle:package:28768/1" type="box">
 <description>TOP 3 vertical</description>
 <packageinstances>
 <packageinstance name="TOP3V"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT23-BEC" urn="urn:adsk.eagle:package:29919/2" type="model">
+<package3d name="SOT23-BEC" urn="urn:adsk.eagle:package:28748/2" type="model">
 <description>TO-236 ITT Intermetall</description>
 <packageinstances>
 <packageinstance name="SOT23-BEC"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT23-EBC" urn="urn:adsk.eagle:package:29920/2" type="model">
+<package3d name="SOT23-EBC" urn="urn:adsk.eagle:package:28750/2" type="model">
 <description>SOT-23 (EBC)</description>
 <packageinstances>
 <packageinstance name="SOT23-EBC"/>
 </packageinstances>
 </package3d>
-<package3d name="TO126V" urn="urn:adsk.eagle:package:29912/1" type="box">
+<package3d name="TO126V" urn="urn:adsk.eagle:package:28743/1" type="box">
 <description>TO 126 vertical</description>
 <packageinstances>
 <packageinstance name="TO126V"/>
@@ -1920,7 +1920,7 @@ grid 5.08 mm</description>
 <packageinstance name="TO92-ECB"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT37" urn="urn:adsk.eagle:package:29927/1" type="box">
+<package3d name="SOT37" urn="urn:adsk.eagle:package:28760/1" type="box">
 <description>SOT-37
 Motorola CASE 317A-01 ISSUE B
 http://www.ee.siue.edu/~alozows/library/datasheets/BFR96.pdf</description>
@@ -1934,7 +1934,7 @@ http://www.ee.siue.edu/~alozows/library/datasheets/BFR96.pdf</description>
 <packageinstance name="TO18V"/>
 </packageinstances>
 </package3d>
-<package3d name="SC59-BEC" urn="urn:adsk.eagle:package:29926/2" type="model">
+<package3d name="SC59-BEC" urn="urn:adsk.eagle:package:28754/2" type="model">
 <description>SC59 (SOT23) Motorola</description>
 <packageinstances>
 <packageinstance name="SC59-BEC"/>
@@ -1960,7 +1960,7 @@ rotated 45 deg.</description>
 <packageinstance name="SOT89-ECB"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT23-BCE" urn="urn:adsk.eagle:package:29931/2" type="model">
+<package3d name="SOT23-BCE" urn="urn:adsk.eagle:package:28762/2" type="model">
 <description>SOT-23 (BCE)</description>
 <packageinstances>
 <packageinstance name="SOT23-BCE"/>
@@ -1973,21 +1973,21 @@ Source: www.centralsemi.com ..SOT-563PD.pdf</description>
 <packageinstance name="SOT563"/>
 </packageinstances>
 </package3d>
-<package3d name="DPAK" urn="urn:adsk.eagle:package:29934/1" type="box">
+<package3d name="DPAK" urn="urn:adsk.eagle:package:28765/1" type="box">
 <description>DPAK CASE 369-07
 Source MOTOROLA / ON Semiconductor mjd32-d.pdf</description>
 <packageinstances>
 <packageinstance name="DPAK"/>
 </packageinstances>
 </package3d>
-<package3d name="T-30_V" urn="urn:adsk.eagle:package:29941/1" type="box">
+<package3d name="T-30_V" urn="urn:adsk.eagle:package:28773/2" type="model">
 <description>T-30 Vertical
 Source: 2SC1944</description>
 <packageinstances>
 <packageinstance name="T-30_V"/>
 </packageinstances>
 </package3d>
-<package3d name="TO220AV" urn="urn:adsk.eagle:package:29936/2" type="model">
+<package3d name="TO220AV" urn="urn:adsk.eagle:package:28770/2" type="model">
 <description>Molded Package
 grid 2.54 mm</description>
 <packageinstances>
@@ -2001,14 +2001,14 @@ Source: 2SC1944.pdf</description>
 <packageinstance name="T-30"/>
 </packageinstances>
 </package3d>
-<package3d name="SIP-5" urn="urn:adsk.eagle:package:29935/1" type="box">
+<package3d name="SIP-5" urn="urn:adsk.eagle:package:28820/1" type="box">
 <description>SIP-5
 Source: 2SA798.pdf</description>
 <packageinstances>
 <packageinstance name="SIP-5"/>
 </packageinstances>
 </package3d>
-<package3d name="TO220BV" urn="urn:adsk.eagle:package:29940/2" type="model">
+<package3d name="TO220BV" urn="urn:adsk.eagle:package:28769/2" type="model">
 <description>Molded Package
 grid 2.54 mm</description>
 <packageinstances>
@@ -2027,6 +2027,25 @@ Source: Infineon-BCR22PN-DS-v01_01-en.pdf</description>
 Source: 2SC2395.pdf</description>
 <packageinstances>
 <packageinstance name="2-10H1A"/>
+</packageinstances>
+</package3d>
+<package3d name="SOT223" urn="urn:adsk.eagle:package:28541/2" type="model">
+<description>Small Outline Transistor</description>
+<packageinstances>
+<packageinstance name="SOT223"/>
+</packageinstances>
+</package3d>
+<package3d name="TO252" urn="urn:adsk.eagle:package:28537/2" type="model">
+<description>SMALL OUTLINE TRANSISTOR
+TS-003</description>
+<packageinstances>
+<packageinstance name="TO252"/>
+</packageinstances>
+</package3d>
+<package3d name="SOT143" urn="urn:adsk.eagle:package:26315/1" type="box">
+<description>SOT-143</description>
+<packageinstances>
+<packageinstance name="SOT143"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -2425,7 +2444,7 @@ Source: 2SC2395.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="2N2222" prefix="T" urn="urn:adsk.eagle:component:30035/2">
+<deviceset name="2N2222" prefix="T" urn="urn:adsk.eagle:component:30035/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2438,7 +2457,7 @@ Source: 2SC2395.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29892/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28526/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2446,7 +2465,7 @@ Source: 2SC2395.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N2484" prefix="T" urn="urn:adsk.eagle:component:30040/2">
+<deviceset name="2N2484" prefix="T" urn="urn:adsk.eagle:component:30040/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="-2.54" y="0"/>
@@ -2459,7 +2478,7 @@ Source: 2SC2395.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29892/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28526/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2467,7 +2486,7 @@ Source: 2SC2395.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N706" prefix="T" urn="urn:adsk.eagle:component:30032/2">
+<deviceset name="2N706" prefix="T" urn="urn:adsk.eagle:component:30032/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2480,7 +2499,7 @@ Source: 2SC2395.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29892/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28526/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2488,7 +2507,7 @@ Source: 2SC2395.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC107" prefix="T" urn="urn:adsk.eagle:component:30036/2">
+<deviceset name="BC107" prefix="T" urn="urn:adsk.eagle:component:30036/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2501,7 +2520,7 @@ Source: 2SC2395.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29892/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28526/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2509,7 +2528,7 @@ Source: 2SC2395.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BCY59" prefix="T" urn="urn:adsk.eagle:component:30037/2">
+<deviceset name="BCY59" prefix="T" urn="urn:adsk.eagle:component:30037/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2522,7 +2541,7 @@ Source: 2SC2395.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29892/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28526/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2530,7 +2549,7 @@ Source: 2SC2395.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N4013" prefix="T" urn="urn:adsk.eagle:component:30034/2">
+<deviceset name="2N4013" prefix="T" urn="urn:adsk.eagle:component:30034/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2543,7 +2562,7 @@ Source: 2SC2395.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29892/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28526/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2551,7 +2570,7 @@ Source: 2SC2395.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N4104" prefix="T" urn="urn:adsk.eagle:component:30039/2">
+<deviceset name="2N4104" prefix="T" urn="urn:adsk.eagle:component:30039/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="-2.54" y="0"/>
@@ -2564,7 +2583,7 @@ Source: 2SC2395.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29892/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28526/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2572,7 +2591,7 @@ Source: 2SC2395.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BCY66" prefix="T" urn="urn:adsk.eagle:component:30038/2">
+<deviceset name="BCY66" prefix="T" urn="urn:adsk.eagle:component:30038/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2585,7 +2604,7 @@ Source: 2SC2395.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29892/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28526/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2593,7 +2612,7 @@ Source: 2SC2395.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N2646" prefix="T" urn="urn:adsk.eagle:component:29999/1">
+<deviceset name="2N2646" prefix="T" urn="urn:adsk.eagle:component:29999/1" locally_modified="yes">
 <description>&lt;b&gt;UNIJUNCTION TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="UJP-N" x="0" y="0"/>
@@ -2606,7 +2625,7 @@ Source: 2SC2395.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29901/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28527/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2614,7 +2633,7 @@ Source: 2SC2395.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BFX59" prefix="T" urn="urn:adsk.eagle:component:29998/1">
+<deviceset name="BFX59" prefix="T" urn="urn:adsk.eagle:component:29998/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2627,7 +2646,7 @@ Source: 2SC2395.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29901/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28527/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2635,7 +2654,7 @@ Source: 2SC2395.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="3SK63" prefix="T" urn="urn:adsk.eagle:component:30001/1">
+<deviceset name="3SK63" prefix="T" urn="urn:adsk.eagle:component:30001/1" locally_modified="yes">
 <description>&lt;b&gt;N CHANNEL Dual Gate MOS FET&lt;/b&gt; VHF Amplifier&lt;p&gt;
 Source: 3SK59.pdf</description>
 <gates>
@@ -2650,7 +2669,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="SOURCE" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29901/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28527/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2658,7 +2677,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="3SK59" prefix="T" urn="urn:adsk.eagle:component:30000/1">
+<deviceset name="3SK59" prefix="T" urn="urn:adsk.eagle:component:30000/1" locally_modified="yes">
 <description>&lt;b&gt;N CHANNEL Dual Gate MOS FET&lt;/b&gt; VHF Amplifier&lt;p&gt;
 Source: 3SK59.pdf</description>
 <gates>
@@ -2673,7 +2692,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="SOURCE" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29901/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28527/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2681,7 +2700,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC237" prefix="T" urn="urn:adsk.eagle:component:29946/2">
+<deviceset name="BC237" prefix="T" urn="urn:adsk.eagle:component:29946/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2694,7 +2713,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2702,7 +2721,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC337" prefix="T" urn="urn:adsk.eagle:component:29947/2">
+<deviceset name="BC337" prefix="T" urn="urn:adsk.eagle:component:29947/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2715,7 +2734,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2723,7 +2742,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BF199" prefix="T" urn="urn:adsk.eagle:component:29943/2">
+<deviceset name="BF199" prefix="T" urn="urn:adsk.eagle:component:29943/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2736,7 +2755,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2744,7 +2763,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC238" prefix="T" urn="urn:adsk.eagle:component:29942/2">
+<deviceset name="BC238" prefix="T" urn="urn:adsk.eagle:component:29942/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2757,7 +2776,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2765,7 +2784,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC547" prefix="T" urn="urn:adsk.eagle:component:29948/2">
+<deviceset name="BC547" prefix="T" urn="urn:adsk.eagle:component:29948/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2778,7 +2797,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2786,7 +2805,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC517" prefix="T" urn="urn:adsk.eagle:component:29944/2">
+<deviceset name="BC517" prefix="T" urn="urn:adsk.eagle:component:29944/2" locally_modified="yes">
 <description>&lt;b&gt;NPN BIPOLAR DARLINGTON TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN-DAR" x="0" y="0"/>
@@ -2799,7 +2818,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2807,7 +2826,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3565" prefix="T" urn="urn:adsk.eagle:component:29949/2">
+<deviceset name="2N3565" prefix="T" urn="urn:adsk.eagle:component:29949/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="-2.54" y="0"/>
@@ -2820,7 +2839,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2828,7 +2847,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N5089" prefix="T" urn="urn:adsk.eagle:component:29950/2">
+<deviceset name="2N5089" prefix="T" urn="urn:adsk.eagle:component:29950/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2841,7 +2860,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2849,7 +2868,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N5088" prefix="T" urn="urn:adsk.eagle:component:29951/2">
+<deviceset name="2N5088" prefix="T" urn="urn:adsk.eagle:component:29951/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2862,7 +2881,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2870,7 +2889,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3904" prefix="T" urn="urn:adsk.eagle:component:29952/2">
+<deviceset name="2N3904" prefix="T" urn="urn:adsk.eagle:component:29952/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G1" symbol="NPN" x="0" y="0"/>
@@ -2883,7 +2902,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2891,7 +2910,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3704" prefix="T" urn="urn:adsk.eagle:component:29945/2">
+<deviceset name="2N3704" prefix="T" urn="urn:adsk.eagle:component:29945/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2904,7 +2923,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2912,7 +2931,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N2219" prefix="T" urn="urn:adsk.eagle:component:29966/1">
+<deviceset name="2N2219" prefix="T" urn="urn:adsk.eagle:component:29966/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2925,7 +2944,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29895/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28729/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2933,7 +2952,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N1893" prefix="T" urn="urn:adsk.eagle:component:29968/1">
+<deviceset name="2N1893" prefix="T" urn="urn:adsk.eagle:component:29968/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2946,7 +2965,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29895/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28729/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2954,7 +2973,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N5681" prefix="T" urn="urn:adsk.eagle:component:29970/1">
+<deviceset name="2N5681" prefix="T" urn="urn:adsk.eagle:component:29970/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2967,7 +2986,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29895/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28729/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2975,7 +2994,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N2405" prefix="T" urn="urn:adsk.eagle:component:29969/1">
+<deviceset name="2N2405" prefix="T" urn="urn:adsk.eagle:component:29969/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -2988,7 +3007,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29895/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28729/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2996,7 +3015,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3440" prefix="T" urn="urn:adsk.eagle:component:29971/1">
+<deviceset name="2N3440" prefix="T" urn="urn:adsk.eagle:component:29971/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3009,7 +3028,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29895/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28729/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3017,7 +3036,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3441" prefix="T" urn="urn:adsk.eagle:component:29954/1">
+<deviceset name="2N3441" prefix="T" urn="urn:adsk.eagle:component:29954/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="NPN" x="0" y="0"/>
@@ -3030,7 +3049,7 @@ Source: 3SK59.pdf</description>
 <connect gate="A" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29894/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29220/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3038,7 +3057,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3585" prefix="T" urn="urn:adsk.eagle:component:29956/1">
+<deviceset name="2N3585" prefix="T" urn="urn:adsk.eagle:component:29956/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="NPN" x="0" y="0"/>
@@ -3051,7 +3070,7 @@ Source: 3SK59.pdf</description>
 <connect gate="A" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29894/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29220/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3059,7 +3078,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3583" prefix="T" urn="urn:adsk.eagle:component:29955/1">
+<deviceset name="2N3583" prefix="T" urn="urn:adsk.eagle:component:29955/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="NPN" x="0" y="0"/>
@@ -3072,7 +3091,7 @@ Source: 3SK59.pdf</description>
 <connect gate="A" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29894/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29220/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3080,7 +3099,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3439" prefix="T" urn="urn:adsk.eagle:component:29972/1">
+<deviceset name="2N3439" prefix="T" urn="urn:adsk.eagle:component:29972/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3093,7 +3112,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29895/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28729/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3101,7 +3120,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N2102" prefix="T" urn="urn:adsk.eagle:component:29973/1">
+<deviceset name="2N2102" prefix="T" urn="urn:adsk.eagle:component:29973/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="-2.54" y="0"/>
@@ -3114,7 +3133,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29895/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28729/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3122,7 +3141,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3054" prefix="T" urn="urn:adsk.eagle:component:29953/1">
+<deviceset name="2N3054" prefix="T" urn="urn:adsk.eagle:component:29953/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="NPN" x="0" y="0"/>
@@ -3135,7 +3154,7 @@ Source: 3SK59.pdf</description>
 <connect gate="A" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29894/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29220/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3143,7 +3162,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3739" prefix="T" urn="urn:adsk.eagle:component:29957/1">
+<deviceset name="2N3739" prefix="T" urn="urn:adsk.eagle:component:29957/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="NPN" x="0" y="0"/>
@@ -3156,7 +3175,7 @@ Source: 3SK59.pdf</description>
 <connect gate="A" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29894/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29220/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3164,7 +3183,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N1613" prefix="T" urn="urn:adsk.eagle:component:29967/1">
+<deviceset name="2N1613" prefix="T" urn="urn:adsk.eagle:component:29967/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3177,7 +3196,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29895/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28729/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3185,7 +3204,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N2369" prefix="T" urn="urn:adsk.eagle:component:30033/2">
+<deviceset name="2N2369" prefix="T" urn="urn:adsk.eagle:component:30033/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3198,7 +3217,7 @@ Source: 3SK59.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29892/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28526/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3206,7 +3225,7 @@ Source: 3SK59.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BD239" prefix="T" urn="urn:adsk.eagle:component:29974/1">
+<deviceset name="BD239" prefix="T" urn="urn:adsk.eagle:component:29974/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;&lt;p&gt;
 Source: http://www.fairchildsemi.com/ds/BD/BD239C.pdf</description>
 <gates>
@@ -3220,7 +3239,7 @@ Source: http://www.fairchildsemi.com/ds/BD/BD239C.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3228,7 +3247,7 @@ Source: http://www.fairchildsemi.com/ds/BD/BD239C.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N6292" prefix="T" urn="urn:adsk.eagle:component:29978/1">
+<deviceset name="2N6292" prefix="T" urn="urn:adsk.eagle:component:29978/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3241,7 +3260,7 @@ Source: http://www.fairchildsemi.com/ds/BD/BD239C.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3249,7 +3268,7 @@ Source: http://www.fairchildsemi.com/ds/BD/BD239C.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BD535" prefix="T" urn="urn:adsk.eagle:component:29976/1">
+<deviceset name="BD535" prefix="T" urn="urn:adsk.eagle:component:29976/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3262,7 +3281,7 @@ Source: http://www.fairchildsemi.com/ds/BD/BD239C.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3270,7 +3289,7 @@ Source: http://www.fairchildsemi.com/ds/BD/BD239C.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TIP131" prefix="T" urn="urn:adsk.eagle:component:29979/1">
+<deviceset name="TIP131" prefix="T" urn="urn:adsk.eagle:component:29979/1" locally_modified="yes">
 <description>&lt;b&gt;NPN BIPOLAR DARLINGTON TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN-DAR" x="0" y="0"/>
@@ -3283,7 +3302,7 @@ Source: http://www.fairchildsemi.com/ds/BD/BD239C.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3291,7 +3310,7 @@ Source: http://www.fairchildsemi.com/ds/BD/BD239C.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N5496" prefix="T" urn="urn:adsk.eagle:component:29977/1">
+<deviceset name="2N5496" prefix="T" urn="urn:adsk.eagle:component:29977/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3304,7 +3323,7 @@ Source: http://www.fairchildsemi.com/ds/BD/BD239C.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3312,7 +3331,7 @@ Source: http://www.fairchildsemi.com/ds/BD/BD239C.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TIP31" prefix="T" urn="urn:adsk.eagle:component:29980/1">
+<deviceset name="TIP31" prefix="T" urn="urn:adsk.eagle:component:29980/1" locally_modified="yes">
 <description>&lt;b&gt;NPN Transistor&lt;/b&gt;  Medium Power Linear Switching Applications&lt;p&gt;
 Source: http://onsemi.com</description>
 <gates>
@@ -3326,7 +3345,7 @@ Source: http://onsemi.com</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3337,7 +3356,7 @@ Source: http://onsemi.com</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BD244" prefix="T" urn="urn:adsk.eagle:component:29984/1">
+<deviceset name="BD244" prefix="T" urn="urn:adsk.eagle:component:29984/1" locally_modified="yes">
 <description>&lt;b&gt;PNP TRANSISTOR&lt;/b&gt;&lt;p&gt;
 Source: Motorola Semiconductor, Master Selection Guide&lt;br&gt;
 Q3/95 SG73 REV 8 page 5.5-5</description>
@@ -3352,7 +3371,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3360,7 +3379,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BD795" prefix="T" urn="urn:adsk.eagle:component:29975/1">
+<deviceset name="BD795" prefix="T" urn="urn:adsk.eagle:component:29975/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3373,7 +3392,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3381,7 +3400,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BD249" prefix="T" urn="urn:adsk.eagle:component:30057/1">
+<deviceset name="BD249" prefix="T" urn="urn:adsk.eagle:component:30057/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3394,7 +3413,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29907/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28521/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3402,7 +3421,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BUX84" prefix="T" urn="urn:adsk.eagle:component:29992/1">
+<deviceset name="BUX84" prefix="T" urn="urn:adsk.eagle:component:29992/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3415,7 +3434,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3423,7 +3442,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BD705" prefix="T" urn="urn:adsk.eagle:component:29986/1">
+<deviceset name="BD705" prefix="T" urn="urn:adsk.eagle:component:29986/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3436,7 +3455,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3444,7 +3463,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BD649" prefix="T" urn="urn:adsk.eagle:component:29991/1">
+<deviceset name="BD649" prefix="T" urn="urn:adsk.eagle:component:29991/1" locally_modified="yes">
 <description>&lt;b&gt;NPN BIPOLAR DARLINGTON TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN-DAR" x="0" y="0"/>
@@ -3457,7 +3476,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3465,7 +3484,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BD647" prefix="T" urn="urn:adsk.eagle:component:29989/1">
+<deviceset name="BD647" prefix="T" urn="urn:adsk.eagle:component:29989/1" locally_modified="yes">
 <description>&lt;b&gt;NPN BIPOLAR DARLINGTON TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN-DAR" x="0" y="0"/>
@@ -3478,7 +3497,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3486,7 +3505,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BUX85" prefix="T" urn="urn:adsk.eagle:component:29993/1">
+<deviceset name="BUX85" prefix="T" urn="urn:adsk.eagle:component:29993/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3499,7 +3518,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3507,7 +3526,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BF859" prefix="T" urn="urn:adsk.eagle:component:29997/1">
+<deviceset name="BF859" prefix="T" urn="urn:adsk.eagle:component:29997/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3520,7 +3539,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29900/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28525/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3528,7 +3547,7 @@ Q3/95 SG73 REV 8 page 5.5-5</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TIP32" prefix="T" urn="urn:adsk.eagle:component:29995/1">
+<deviceset name="TIP32" prefix="T" urn="urn:adsk.eagle:component:29995/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistor&lt;/b&gt;  Medium Power Linear Switching Applications&lt;p&gt;
 Source: http://onsemi.com</description>
 <gates>
@@ -3542,7 +3561,7 @@ Source: http://onsemi.com</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3553,7 +3572,7 @@ Source: http://onsemi.com</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BDX54" prefix="T" urn="urn:adsk.eagle:component:29990/1">
+<deviceset name="BDX54" prefix="T" urn="urn:adsk.eagle:component:29990/1" locally_modified="yes">
 <description>&lt;b&gt;PNP BIPOLAR DARLINGTON TRANSISTOR&lt;/b&gt;&lt;p&gt;
 Source: http://www.datasheetcatalog.org/datasheet/mospec/BDX54.pdf</description>
 <gates>
@@ -3567,7 +3586,7 @@ Source: http://www.datasheetcatalog.org/datasheet/mospec/BDX54.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3575,7 +3594,7 @@ Source: http://www.datasheetcatalog.org/datasheet/mospec/BDX54.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BU807" prefix="T" urn="urn:adsk.eagle:component:29994/1">
+<deviceset name="BU807" prefix="T" urn="urn:adsk.eagle:component:29994/1" locally_modified="yes">
 <description>&lt;b&gt;NPN BIPOLAR DARLINGTON TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN-DAR" x="0" y="0"/>
@@ -3588,7 +3607,7 @@ Source: http://www.datasheetcatalog.org/datasheet/mospec/BDX54.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3596,7 +3615,7 @@ Source: http://www.datasheetcatalog.org/datasheet/mospec/BDX54.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N6101" prefix="T" urn="urn:adsk.eagle:component:29988/1">
+<deviceset name="2N6101" prefix="T" urn="urn:adsk.eagle:component:29988/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3609,7 +3628,7 @@ Source: http://www.datasheetcatalog.org/datasheet/mospec/BDX54.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3617,7 +3636,7 @@ Source: http://www.datasheetcatalog.org/datasheet/mospec/BDX54.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BD243" prefix="T" urn="urn:adsk.eagle:component:29983/1">
+<deviceset name="BD243" prefix="T" urn="urn:adsk.eagle:component:29983/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;&lt;p&gt;
 Source: Motorola Semiconductor, Master Selection Guide&lt;br&gt;
 Q3/95 SG73 REV 8 page 5.5-4</description>
@@ -3632,7 +3651,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3640,7 +3659,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TIP122" prefix="T" urn="urn:adsk.eagle:component:29981/1">
+<deviceset name="TIP122" prefix="T" urn="urn:adsk.eagle:component:29981/1" locally_modified="yes">
 <description>&lt;b&gt;NPN BIPOLAR DARLINGTON TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN-DAR" x="0" y="0"/>
@@ -3653,7 +3672,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3661,7 +3680,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BDW73" prefix="T" urn="urn:adsk.eagle:component:29982/1">
+<deviceset name="BDW73" prefix="T" urn="urn:adsk.eagle:component:29982/1" locally_modified="yes">
 <description>&lt;b&gt;NPN BIPOLAR DARLINGTON TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN-DAR" x="0" y="0"/>
@@ -3674,7 +3693,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3682,7 +3701,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BDX53" prefix="T" urn="urn:adsk.eagle:component:29987/1">
+<deviceset name="BDX53" prefix="T" urn="urn:adsk.eagle:component:29987/1" locally_modified="yes">
 <description>&lt;b&gt;NPN BIPOLAR DARLINGTON TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN-DAR" x="0" y="0"/>
@@ -3695,7 +3714,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3703,7 +3722,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BD303" prefix="T" urn="urn:adsk.eagle:component:29985/1">
+<deviceset name="BD303" prefix="T" urn="urn:adsk.eagle:component:29985/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3716,7 +3735,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3766,7 +3785,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BD865" prefix="T" urn="urn:adsk.eagle:component:29996/1">
+<deviceset name="BD865" prefix="T" urn="urn:adsk.eagle:component:29996/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3779,7 +3798,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29900/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28525/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3787,7 +3806,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BDV65" prefix="T" urn="urn:adsk.eagle:component:30031/1">
+<deviceset name="BDV65" prefix="T" urn="urn:adsk.eagle:component:30031/1" locally_modified="yes">
 <description>&lt;b&gt;NPN BIPOLAR DARLINGTON TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN-DAR" x="0" y="0"/>
@@ -3800,7 +3819,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29902/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29486/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3934,7 +3953,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BCX70SMD" prefix="T" urn="urn:adsk.eagle:component:30051/2">
+<deviceset name="BCX70SMD" prefix="T" urn="urn:adsk.eagle:component:30051/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3947,7 +3966,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29904/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28738/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3955,7 +3974,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC847" prefix="T" urn="urn:adsk.eagle:component:30053/2">
+<deviceset name="BC847" prefix="T" urn="urn:adsk.eagle:component:30053/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3968,7 +3987,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29904/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28738/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3976,7 +3995,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC848" prefix="T" urn="urn:adsk.eagle:component:30054/2">
+<deviceset name="BC848" prefix="T" urn="urn:adsk.eagle:component:30054/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -3989,7 +4008,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29904/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28738/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3997,7 +4016,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC850" prefix="T" urn="urn:adsk.eagle:component:30056/2">
+<deviceset name="BC850" prefix="T" urn="urn:adsk.eagle:component:30056/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -4010,7 +4029,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29904/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28738/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4018,7 +4037,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC846" prefix="T" urn="urn:adsk.eagle:component:30052/2">
+<deviceset name="BC846" prefix="T" urn="urn:adsk.eagle:component:30052/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -4031,7 +4050,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29904/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28738/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4207,7 +4226,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BSS52" prefix="T" urn="urn:adsk.eagle:component:29964/1">
+<deviceset name="BSS52" prefix="T" urn="urn:adsk.eagle:component:29964/1" locally_modified="yes">
 <description>&lt;b&gt;NPN BIPOLAR DARLINGTON TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN-DAR" x="0" y="0"/>
@@ -4220,7 +4239,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29896/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4228,7 +4247,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BSX63" prefix="T" urn="urn:adsk.eagle:component:29963/1">
+<deviceset name="BSX63" prefix="T" urn="urn:adsk.eagle:component:29963/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -4241,7 +4260,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29896/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4249,7 +4268,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BSY34" prefix="T" urn="urn:adsk.eagle:component:29959/1">
+<deviceset name="BSY34" prefix="T" urn="urn:adsk.eagle:component:29959/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -4262,7 +4281,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29896/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4270,7 +4289,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BSS51" prefix="T" urn="urn:adsk.eagle:component:29962/1">
+<deviceset name="BSS51" prefix="T" urn="urn:adsk.eagle:component:29962/1" locally_modified="yes">
 <description>&lt;b&gt;NPN BIPOLAR DARLINGTON TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN-DAR" x="0" y="0"/>
@@ -4283,7 +4302,7 @@ Q3/95 SG73 REV 8 page 5.5-4</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29896/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4423,7 +4442,7 @@ common emitter</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BSX62" prefix="T" urn="urn:adsk.eagle:component:29958/1">
+<deviceset name="BSX62" prefix="T" urn="urn:adsk.eagle:component:29958/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -4436,7 +4455,7 @@ common emitter</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29896/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4444,7 +4463,7 @@ common emitter</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="NTE103A" prefix="T" urn="urn:adsk.eagle:component:30050/1">
+<deviceset name="NTE103A" prefix="T" urn="urn:adsk.eagle:component:30050/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="-2.54" y="0"/>
@@ -4457,7 +4476,7 @@ common emitter</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29903/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28983/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4465,7 +4484,7 @@ common emitter</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BF259" prefix="T" urn="urn:adsk.eagle:component:29965/1">
+<deviceset name="BF259" prefix="T" urn="urn:adsk.eagle:component:29965/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -4478,7 +4497,7 @@ common emitter</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29896/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4486,7 +4505,7 @@ common emitter</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC849" prefix="T" urn="urn:adsk.eagle:component:30055/2">
+<deviceset name="BC849" prefix="T" urn="urn:adsk.eagle:component:30055/2" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -4499,7 +4518,7 @@ common emitter</description>
 <connect gate="G$1" pin="E" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29904/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28738/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4507,7 +4526,7 @@ common emitter</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BSX47" prefix="T" urn="urn:adsk.eagle:component:29961/1">
+<deviceset name="BSX47" prefix="T" urn="urn:adsk.eagle:component:29961/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -4520,7 +4539,7 @@ common emitter</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29896/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4528,7 +4547,7 @@ common emitter</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BSX46-10" prefix="T" urn="urn:adsk.eagle:component:29960/1">
+<deviceset name="BSX46-10" prefix="T" urn="urn:adsk.eagle:component:29960/1" locally_modified="yes">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -4541,7 +4560,7 @@ common emitter</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29896/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5053,7 +5072,7 @@ common emitter</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="*-NPN_DARL-" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:30062/2">
+<deviceset name="*-NPN_DARL-" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:30062/2" locally_modified="yes">
 <description>NPN Darlington Transistor</description>
 <gates>
 <gate name="G$1" symbol="NPN-DAR" x="0" y="0"/>
@@ -5066,7 +5085,7 @@ common emitter</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29919/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="MMBTA13LT1"/>
@@ -5075,7 +5094,7 @@ common emitter</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="*-PNP_DARL-" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:30063/2">
+<deviceset name="*-PNP_DARL-" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:30063/2" locally_modified="yes">
 <description>PNP Darlington Transistor</description>
 <gates>
 <gate name="G$1" symbol="PNP-DAR" x="0" y="0"/>
@@ -5088,7 +5107,7 @@ common emitter</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29919/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="MMBTA64LT1"/>
@@ -5096,7 +5115,7 @@ common emitter</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="*-PNP_DRIVER-" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:30065/2">
+<deviceset name="*-PNP_DRIVER-" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:30065/2" locally_modified="yes">
 <description>PNP Bias Resistor Transistor</description>
 <gates>
 <gate name="G$1" symbol="PNP-DRIVER" x="0" y="0"/>
@@ -5109,7 +5128,7 @@ common emitter</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29926/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
 <technology name="MUN2111T1"/>
@@ -5120,7 +5139,7 @@ common emitter</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="*-NPN_DRIVER-" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:30064/2">
+<deviceset name="*-NPN_DRIVER-" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:30064/2" locally_modified="yes">
 <description>NPN Bias Resistor Transistor</description>
 <gates>
 <gate name="G$1" symbol="NPN-DRIVER" x="0" y="0"/>
@@ -5133,7 +5152,7 @@ common emitter</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29926/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
 <technology name="MUN2211T1"/>
@@ -5254,7 +5273,7 @@ Source: SEMTECH ELECTRONICS LTD. 2SC1740.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="*-NPN-" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:30081/15">
+<deviceset name="*-NPN-" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:30081/15" locally_modified="yes">
 <description>NPN Transistror&lt;p&gt;
 BF959 corrected 2008.03.06&lt;br&gt;</description>
 <gates>
@@ -5281,7 +5300,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29892/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28526/2"/>
 </package3dinstances>
 <technologies>
 <technology name="2N2218"/>
@@ -5315,7 +5334,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29903/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28983/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5328,7 +5347,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29900/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28525/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5341,7 +5360,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29909/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28741/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5354,7 +5373,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29902/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29486/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5367,7 +5386,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29910/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28764/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5393,7 +5412,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29912/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28743/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5406,7 +5425,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29911/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28522/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5419,7 +5438,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29913/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28519/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5432,7 +5451,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5445,7 +5464,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29914/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28746/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5471,7 +5490,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29896/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name="2N1613"/>
@@ -5502,7 +5521,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29895/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28729/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5515,7 +5534,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29894/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29220/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5528,7 +5547,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5592,7 +5611,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29907/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28521/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5605,7 +5624,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29917/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28768/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5618,7 +5637,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29919/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="BC808"/>
@@ -5707,7 +5726,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29920/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28750/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5818,7 +5837,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29926/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
 <technology name="MMUN2211LT1"/>
@@ -5852,7 +5871,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29927/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28760/1"/>
 </package3dinstances>
 <technologies>
 <technology name="BFR96"/>
@@ -5880,7 +5899,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MJD31*" prefix="T" urn="urn:adsk.eagle:component:30074/1">
+<deviceset name="MJD31*" prefix="T" urn="urn:adsk.eagle:component:30074/1" locally_modified="yes">
 <description>&lt;b&gt;Complementary Power Transistors&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="NPN" x="0" y="0"/>
@@ -5893,7 +5912,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29934/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28765/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5902,7 +5921,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="*-PNP-" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:30082/15">
+<deviceset name="*-PNP-" prefix="T" uservalue="yes" urn="urn:adsk.eagle:component:30082/15" locally_modified="yes">
 <description>PNP Transistror</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -5928,7 +5947,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29892/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28526/2"/>
 </package3dinstances>
 <technologies>
 <technology name="2N2906"/>
@@ -5955,7 +5974,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29903/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28983/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5981,7 +6000,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29900/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28525/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5994,7 +6013,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29909/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28741/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6007,7 +6026,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29902/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29486/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6020,7 +6039,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29910/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28764/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6046,7 +6065,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29912/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28743/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6059,7 +6078,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29911/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28522/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6072,7 +6091,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29913/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28519/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6085,7 +6104,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6098,7 +6117,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29914/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28746/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6124,7 +6143,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29896/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name="2N2904"/>
@@ -6149,7 +6168,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29895/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28729/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6162,7 +6181,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29894/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29220/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6175,7 +6194,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29893/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6269,7 +6288,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29907/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28521/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6282,7 +6301,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29917/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28768/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6295,7 +6314,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29919/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="BC807-16"/>
@@ -6340,7 +6359,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29920/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28750/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6435,7 +6454,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29931/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28762/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6462,7 +6481,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29926/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
 <technology name="MMUN2111LT1"/>
@@ -6551,7 +6570,7 @@ Source: CMLT5078%20SERIES.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MJD32*" prefix="T" urn="urn:adsk.eagle:component:30075/1">
+<deviceset name="MJD32*" prefix="T" urn="urn:adsk.eagle:component:30075/1" locally_modified="yes">
 <description>&lt;b&gt;Complementary Power Transistors&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -6564,7 +6583,7 @@ Source: CMLT5078%20SERIES.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29934/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28765/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6573,7 +6592,7 @@ Source: CMLT5078%20SERIES.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2SC1944" prefix="T" urn="urn:adsk.eagle:component:30086/1">
+<deviceset name="2SC1944" prefix="T" urn="urn:adsk.eagle:component:30086/1" locally_modified="yes">
 <description>&lt;b&gt;NPN Epitaxial Planar Transistor&lt;/b&gt; RF Power Amplifier&lt;p&gt;
 Source: 2SC1944.pdf</description>
 <gates>
@@ -6587,7 +6606,7 @@ Source: 2SC1944.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29941/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28773/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6608,7 +6627,7 @@ Source: 2SC1944.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2SC1969" prefix="T" urn="urn:adsk.eagle:component:30087/1">
+<deviceset name="2SC1969" prefix="T" urn="urn:adsk.eagle:component:30087/1" locally_modified="yes">
 <description>&lt;b&gt;NPN Epitaxial Planar Transistor&lt;/b&gt; RF Power Amplifier&lt;p&gt;
 Source: 2sc1969.pdf</description>
 <gates>
@@ -6638,7 +6657,7 @@ Source: 2sc1969.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29941/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28773/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6649,7 +6668,7 @@ Source: 2sc1969.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2SC2509" prefix="T" urn="urn:adsk.eagle:component:30080/2">
+<deviceset name="2SC2509" prefix="T" urn="urn:adsk.eagle:component:30080/2" locally_modified="yes">
 <description>&lt;b&gt;NPN Epitaxial Planar Transistor&lt;/b&gt; RF Power Amplivier&lt;p&gt;
 Source: www.Datasheet4U.com 2SC2905.pdf</description>
 <gates>
@@ -6663,7 +6682,7 @@ Source: www.Datasheet4U.com 2SC2905.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6676,7 +6695,7 @@ Source: www.Datasheet4U.com 2SC2905.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29936/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28770/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6684,7 +6703,7 @@ Source: www.Datasheet4U.com 2SC2905.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2SC1307" prefix="T" urn="urn:adsk.eagle:component:30077/2">
+<deviceset name="2SC1307" prefix="T" urn="urn:adsk.eagle:component:30077/2" locally_modified="yes">
 <description>&lt;b&gt;NPN Transistor&lt;/b&gt; Silicon Epitaxial, High Frequency Power Amplifier&lt;p&gt;
 Source: 2SC1307.pdf</description>
 <gates>
@@ -6698,7 +6717,7 @@ Source: 2SC1307.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29936/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28770/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6706,7 +6725,7 @@ Source: 2SC1307.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2SC2098" prefix="T" urn="urn:adsk.eagle:component:30078/2">
+<deviceset name="2SC2098" prefix="T" urn="urn:adsk.eagle:component:30078/2" locally_modified="yes">
 <description>&lt;b&gt;NPN Epitaxial Planar Transistor&lt;/b&gt; RF Power Amplivier&lt;p&gt;
 Source: 2SC2098.pdf</description>
 <gates>
@@ -6720,7 +6739,7 @@ Source: 2SC2098.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6733,7 +6752,7 @@ Source: 2SC2098.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29936/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28770/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6741,7 +6760,7 @@ Source: 2SC2098.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2SC3212" prefix="T" urn="urn:adsk.eagle:component:30079/2">
+<deviceset name="2SC3212" prefix="T" urn="urn:adsk.eagle:component:30079/2" locally_modified="yes">
 <description>&lt;b&gt;NPN Epitaxial Planar Trnasitor&lt;/b&gt; RF Power Amplifier&lt;p&gt;
 Source: 2SC3212.pdf</description>
 <gates>
@@ -6755,7 +6774,7 @@ Source: 2SC3212.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29897/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6768,7 +6787,7 @@ Source: 2SC3212.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29936/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28770/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6776,7 +6795,7 @@ Source: 2SC3212.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2SC1306" prefix="T" urn="urn:adsk.eagle:component:30083/2">
+<deviceset name="2SC1306" prefix="T" urn="urn:adsk.eagle:component:30083/2" locally_modified="yes">
 <description>&lt;b&gt;NPN Transistor&lt;/b&gt; Final RF Power Outupt&lt;p&gt;
 Source: 2sc1306.pdf</description>
 <gates>
@@ -6790,7 +6809,7 @@ Source: 2sc1306.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29940/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28769/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6824,7 +6843,7 @@ Source: Infineon-BCR22PN-DS-v01_01-en.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2SA798" prefix="T" urn="urn:adsk.eagle:component:30076/1">
+<deviceset name="2SA798" prefix="T" urn="urn:adsk.eagle:component:30076/1" locally_modified="yes">
 <description>&lt;b&gt;PNP DIFFERENTAL AMP&lt;/b&gt; SIP-5&lt;p&gt;
 Source: 2SA798.pdf</description>
 <gates>
@@ -6840,7 +6859,7 @@ Source: 2SA798.pdf</description>
 <connect gate="G$1" pin="E" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29935/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28820/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

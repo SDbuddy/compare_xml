@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -367,7 +367,7 @@
 <hole x="0" y="-4.7625" drill="1.778"/>
 <hole x="0" y="4.7625" drill="1.778"/>
 </package>
-<package name="ADA-3" urn="urn:adsk.eagle:footprint:21450/1">
+<package name="ADA-3" urn="urn:adsk.eagle:footprint:21337/1">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <wire x1="15.16" y1="3.556" x2="15.922" y2="-3.556" width="0.1524" layer="51"/>
 <wire x1="15.541" y1="-3.175" x2="15.16" y2="0" width="0.1524" layer="51"/>
@@ -454,7 +454,7 @@
 <rectangle x1="-1.397" y1="-1.524" x2="-0.254" y2="-1.016" layer="51"/>
 <rectangle x1="-0.508" y1="-1.524" x2="0.254" y2="-1.016" layer="21"/>
 </package>
-<package name="AAA-3" urn="urn:adsk.eagle:footprint:21448/1">
+<package name="AAA-3" urn="urn:adsk.eagle:footprint:21335/1">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <wire x1="10.16" y1="3.556" x2="10.922" y2="-3.556" width="0.1524" layer="51"/>
 <wire x1="10.541" y1="-3.175" x2="10.16" y2="0" width="0.1524" layer="51"/>
@@ -666,7 +666,7 @@
 <hole x="0" y="-4.7625" drill="1.778"/>
 <hole x="0" y="4.7625" drill="1.778"/>
 </package>
-<package name="AAA-4" urn="urn:adsk.eagle:footprint:21452/1">
+<package name="AAA-4" urn="urn:adsk.eagle:footprint:21339/1">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <wire x1="10.16" y1="3.556" x2="10.922" y2="-3.556" width="0.1524" layer="51"/>
 <wire x1="10.541" y1="-3.175" x2="10.16" y2="0" width="0.1524" layer="51"/>
@@ -908,7 +908,7 @@
 <hole x="0" y="-4.7625" drill="1.778"/>
 <hole x="0" y="4.7625" drill="1.778"/>
 </package>
-<package name="ADA-4" urn="urn:adsk.eagle:footprint:21454/1">
+<package name="ADA-4" urn="urn:adsk.eagle:footprint:21341/1">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <wire x1="15.16" y1="3.556" x2="15.922" y2="-3.556" width="0.1524" layer="51"/>
 <wire x1="15.541" y1="-3.175" x2="15.16" y2="0" width="0.1524" layer="51"/>
@@ -1179,7 +1179,7 @@
 <packageinstance name="ABA-3"/>
 </packageinstances>
 </package3d>
-<package3d name="AAA-3" urn="urn:adsk.eagle:package:21474/1" type="box">
+<package3d name="AAA-3" urn="urn:adsk.eagle:package:21361/1" type="box">
 <description>OPTO SENSOR DEVICE</description>
 <packageinstances>
 <packageinstance name="AAA-3"/>
@@ -1191,7 +1191,7 @@
 <packageinstance name="ABA-4"/>
 </packageinstances>
 </package3d>
-<package3d name="ADA-3" urn="urn:adsk.eagle:package:21475/1" type="box">
+<package3d name="ADA-3" urn="urn:adsk.eagle:package:21363/1" type="box">
 <description>OPTO SENSOR DEVICE</description>
 <packageinstances>
 <packageinstance name="ADA-3"/>
@@ -1203,13 +1203,13 @@
 <packageinstance name="BBA-4"/>
 </packageinstances>
 </package3d>
-<package3d name="AAA-4" urn="urn:adsk.eagle:package:21477/1" type="box">
+<package3d name="AAA-4" urn="urn:adsk.eagle:package:21409/1" type="box">
 <description>OPTO SENSOR DEVICE</description>
 <packageinstances>
 <packageinstance name="AAA-4"/>
 </packageinstances>
 </package3d>
-<package3d name="ADA-4" urn="urn:adsk.eagle:package:21476/1" type="box">
+<package3d name="ADA-4" urn="urn:adsk.eagle:package:21362/1" type="box">
 <description>OPTO SENSOR DEVICE</description>
 <packageinstances>
 <packageinstance name="ADA-4"/>
@@ -3195,7 +3195,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4020313ADA" prefix="XT" urn="urn:adsk.eagle:component:21516/1">
+<deviceset name="4020313ADA" prefix="XT" urn="urn:adsk.eagle:component:21516/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED" x="10.16" y="0"/>
@@ -3210,7 +3210,7 @@
 <connect gate="NC" pin="NC" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21475/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21363/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3223,7 +3223,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="400303XADA" prefix="XT" urn="urn:adsk.eagle:component:21514/1">
+<deviceset name="400303XADA" prefix="XT" urn="urn:adsk.eagle:component:21514/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED-SH" x="10.16" y="0"/>
@@ -3237,7 +3237,7 @@
 <connect gate="G$1" pin="S" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21475/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21363/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3250,7 +3250,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4023323AAA" prefix="XT" urn="urn:adsk.eagle:component:21509/1">
+<deviceset name="4023323AAA" prefix="XT" urn="urn:adsk.eagle:component:21509/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED" x="7.62" y="0"/>
@@ -3265,7 +3265,7 @@
 <connect gate="NC" pin="NC" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21474/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21361/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3278,7 +3278,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4010014AAA" prefix="XT" urn="urn:adsk.eagle:component:21507/1">
+<deviceset name="4010014AAA" prefix="XT" urn="urn:adsk.eagle:component:21507/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED-TTL" x="15.24" y="0"/>
@@ -3292,7 +3292,7 @@
 <connect gate="G$1" pin="VCC" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21474/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21361/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3305,7 +3305,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4026313ADA" prefix="XT" urn="urn:adsk.eagle:component:21518/1">
+<deviceset name="4026313ADA" prefix="XT" urn="urn:adsk.eagle:component:21518/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED" x="7.62" y="0"/>
@@ -3320,7 +3320,7 @@
 <connect gate="NC" pin="NC" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21475/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21363/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3333,7 +3333,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="400001XAAA" prefix="XT" urn="urn:adsk.eagle:component:21505/1">
+<deviceset name="400001XAAA" prefix="XT" urn="urn:adsk.eagle:component:21505/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED-SH" x="10.16" y="0"/>
@@ -3347,7 +3347,7 @@
 <connect gate="G$1" pin="S" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21474/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21361/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3360,7 +3360,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4026313AAA" prefix="XT" urn="urn:adsk.eagle:component:21510/1">
+<deviceset name="4026313AAA" prefix="XT" urn="urn:adsk.eagle:component:21510/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED" x="7.62" y="0"/>
@@ -3375,7 +3375,7 @@
 <connect gate="NC" pin="NC" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21474/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21361/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3388,7 +3388,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="405001XADA" prefix="XT" urn="urn:adsk.eagle:component:21519/1">
+<deviceset name="405001XADA" prefix="XT" urn="urn:adsk.eagle:component:21519/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED-SH" x="10.16" y="0"/>
@@ -3402,7 +3402,7 @@
 <connect gate="G$1" pin="S" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21475/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21363/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3415,7 +3415,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4070313AAA" prefix="XT" urn="urn:adsk.eagle:component:21512/1">
+<deviceset name="4070313AAA" prefix="XT" urn="urn:adsk.eagle:component:21512/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED" x="10.16" y="0"/>
@@ -3430,7 +3430,7 @@
 <connect gate="NC" pin="NC" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21474/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21361/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3443,7 +3443,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4070313ADA" prefix="XT" urn="urn:adsk.eagle:component:21520/1">
+<deviceset name="4070313ADA" prefix="XT" urn="urn:adsk.eagle:component:21520/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED" x="7.62" y="0"/>
@@ -3458,7 +3458,7 @@
 <connect gate="NC" pin="NC" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21475/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21363/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3471,7 +3471,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="400302XAAA" prefix="XT" urn="urn:adsk.eagle:component:21506/1">
+<deviceset name="400302XAAA" prefix="XT" urn="urn:adsk.eagle:component:21506/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED-SH" x="12.7" y="0"/>
@@ -3485,7 +3485,7 @@
 <connect gate="G$1" pin="S" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21474/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21361/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3498,7 +3498,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4010014ADA" prefix="XT" urn="urn:adsk.eagle:component:21515/1">
+<deviceset name="4010014ADA" prefix="XT" urn="urn:adsk.eagle:component:21515/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED-TTL" x="12.7" y="0"/>
@@ -3512,7 +3512,7 @@
 <connect gate="G$1" pin="VCC" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21475/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21363/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3581,7 +3581,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4020313AAA" prefix="XT" urn="urn:adsk.eagle:component:21508/1">
+<deviceset name="4020313AAA" prefix="XT" urn="urn:adsk.eagle:component:21508/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED" x="10.16" y="0"/>
@@ -3596,7 +3596,7 @@
 <connect gate="NC" pin="NC" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21474/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21361/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3609,7 +3609,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="405001XAAA" prefix="XT" urn="urn:adsk.eagle:component:21511/1">
+<deviceset name="405001XAAA" prefix="XT" urn="urn:adsk.eagle:component:21511/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED-SH" x="12.7" y="0"/>
@@ -3623,7 +3623,7 @@
 <connect gate="G$1" pin="S" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21474/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21361/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3664,7 +3664,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="400001XADA" prefix="XT" urn="urn:adsk.eagle:component:21513/1">
+<deviceset name="400001XADA" prefix="XT" urn="urn:adsk.eagle:component:21513/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED-SH" x="15.24" y="0"/>
@@ -3678,7 +3678,7 @@
 <connect gate="G$1" pin="S" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21475/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21363/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3691,7 +3691,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4074232AAA" prefix="XT" urn="urn:adsk.eagle:component:21522/1">
+<deviceset name="4074232AAA" prefix="XT" urn="urn:adsk.eagle:component:21522/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED-A3" x="12.7" y="-2.54"/>
@@ -3706,7 +3706,7 @@
 <connect gate="G$1" pin="C" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21477/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21409/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3747,7 +3747,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4074242ADA" prefix="XT" urn="urn:adsk.eagle:component:21521/1">
+<deviceset name="4074242ADA" prefix="XT" urn="urn:adsk.eagle:component:21521/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED-A3" x="10.16" y="0"/>
@@ -3762,7 +3762,7 @@
 <connect gate="G$1" pin="C" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21476/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21362/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3775,7 +3775,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="4023323ADA" prefix="XT" urn="urn:adsk.eagle:component:21517/1">
+<deviceset name="4023323ADA" prefix="XT" urn="urn:adsk.eagle:component:21517/1" locally_modified="yes">
 <description>&lt;b&gt;OPTO SENSOR DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED" x="7.62" y="0"/>
@@ -3790,7 +3790,7 @@
 <connect gate="NC" pin="NC" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21475/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21363/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">

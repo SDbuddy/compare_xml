@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="7.3.2">
 <drawing>
 <settings>
@@ -75,7 +75,7 @@ TinyLogic(R) from FAIRCHILD Semiconductor TM
 &lt;author&gt;Created by evgeni@eniks.com&lt;/author&gt;&lt;br&gt;
 &lt;author&gt;Extended by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="SOT23-5" urn="urn:adsk.eagle:footprint:2446/1">
+<package name="SOT23-5" urn="urn:adsk.eagle:footprint:2364/1">
 <description>&lt;b&gt;Small Outline Transistor&lt;/b&gt;&lt;p&gt;
 SOT753 - Philips Semiconductors&lt;br&gt;
 Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_HCT1G66_3.pdf</description>
@@ -105,7 +105,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <rectangle x1="-0.16" y1="-1.42" x2="0.17" y2="-0.67" layer="51"/>
 <rectangle x1="0.79" y1="-1.42" x2="1.12" y2="-0.67" layer="51"/>
 </package>
-<package name="SC70-5" urn="urn:adsk.eagle:footprint:2447/1">
+<package name="SC70-5" urn="urn:adsk.eagle:footprint:2365/1">
 <description>&lt;b&gt;SMT SC70-5&lt;/b&gt;&lt;p&gt;
 SOT353 - Philips Semiconductors&lt;br&gt;
 Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_HCT1G66_3.pdf</description>
@@ -126,7 +126,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <rectangle x1="-0.775" y1="0.6" x2="-0.525" y2="1.05" layer="51"/>
 <rectangle x1="0.525" y1="0.6" x2="0.775" y2="1.05" layer="51"/>
 </package>
-<package name="DCT_R-PDSO-G8" urn="urn:adsk.eagle:footprint:2461/1">
+<package name="DCT_R-PDSO-G8" urn="urn:adsk.eagle:footprint:2383/1">
 <description>&lt;b&gt;DCT (R-PDSO-G8)&lt;/b&gt; PLSTIG SMALL-OUTLINE PACKAGE&lt;p&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <wire x1="-1.525" y1="1.2" x2="-1.325" y2="1.4" width="0.1016" layer="21" curve="-90"/>
@@ -195,7 +195,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <rectangle x1="0.85" y1="-2" x2="1.1" y2="-1.4" layer="51"/>
 <rectangle x1="-1.1" y1="1.4" x2="-0.85" y2="2" layer="51"/>
 </package>
-<package name="DCU_R-PDSO-G8" urn="urn:adsk.eagle:footprint:2462/1">
+<package name="DCU_R-PDSO-G8" urn="urn:adsk.eagle:footprint:2393/1">
 <description>&lt;b&gt;DCU (R-PDSO-G8)&lt;/b&gt; PLASTIC SMALL-OUTLINE PACKAGE (DIE DOWN)&lt;p&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <wire x1="-1" y1="-1.125" x2="1" y2="-1.125" width="0.127" layer="21"/>
@@ -257,7 +257,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <rectangle x1="-0.925" y1="-0.4" x2="-0.475" y2="-0.175" layer="51"/>
 <rectangle x1="-0.55" y1="-0.375" x2="-0.475" y2="-0.175" layer="21"/>
 </package>
-<package name="YEP_R-XBGA-N8" urn="urn:adsk.eagle:footprint:2463/1">
+<package name="YEP_R-XBGA-N8" urn="urn:adsk.eagle:footprint:2395/1">
 <description>&lt;b&gt;YEP (R-XBGA-N8)&lt;/b&gt; DIE-SIZE BALL GRID ARRAY&lt;p&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <wire x1="-0.925" y1="0.425" x2="0.925" y2="0.425" width="0.1016" layer="51"/>
@@ -285,7 +285,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <rectangle x1="-0.925" y1="-0.4" x2="-0.475" y2="-0.175" layer="51"/>
 <rectangle x1="-0.55" y1="-0.375" x2="-0.475" y2="-0.175" layer="21"/>
 </package>
-<package name="YEA_R-XBGA-N8" urn="urn:adsk.eagle:footprint:2474/1">
+<package name="YEA_R-XBGA-N8" urn="urn:adsk.eagle:footprint:2394/1">
 <description>&lt;b&gt;YEA (R-XBGA-N8)&lt;/b&gt; DIE-SIZE BALL GRID ARRAY&lt;p&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <wire x1="-0.925" y1="0.425" x2="0.925" y2="0.425" width="0.1016" layer="51"/>
@@ -313,7 +313,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <rectangle x1="-0.925" y1="-0.4" x2="-0.475" y2="-0.175" layer="51"/>
 <rectangle x1="-0.55" y1="-0.375" x2="-0.475" y2="-0.175" layer="21"/>
 </package>
-<package name="YZP_R-XBGA-N6" urn="urn:adsk.eagle:footprint:2467/1">
+<package name="YZP_R-XBGA-N6" urn="urn:adsk.eagle:footprint:2387/1">
 <description>&lt;b&gt;YZP (R-XBGA-N6)&lt;/b&gt; DIE-SIZE BALL GRID ARRAY&lt;p&gt;
 NanoFree TM -  WCSP (DSBGA) 0.23-mm Large Bump - YZP (Pb-free)&lt;br&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157</description>
@@ -338,7 +338,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157</description>
 <rectangle x1="-0.675" y1="-0.4" x2="-0.225" y2="-0.175" layer="51"/>
 <rectangle x1="-0.3" y1="-0.375" x2="-0.225" y2="-0.175" layer="21"/>
 </package>
-<package name="DBV_R-PDSO-G6" urn="urn:adsk.eagle:footprint:2468/1">
+<package name="DBV_R-PDSO-G6" urn="urn:adsk.eagle:footprint:2388/1">
 <description>&lt;b&gt;DBV (R-PDSO-G6)&lt;/b&gt; PLASTIC SMALL-OUTLINE PACKAGE&lt;p&gt;
 SOT (SOT-23) - DBV&lt;br&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.</description>
@@ -369,7 +369,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.</description>
 <rectangle x1="-1.35" y1="-1.85" x2="-0.55" y2="-0.75" layer="29" rot="R180"/>
 <rectangle x1="-1.375" y1="-0.75" x2="-0.625" y2="0" layer="21"/>
 </package>
-<package name="DCK_R-PDSO-G6" urn="urn:adsk.eagle:footprint:2469/1">
+<package name="DCK_R-PDSO-G6" urn="urn:adsk.eagle:footprint:2389/1">
 <description>&lt;b&gt;DCK (R-PDSO-G6)&lt;/b&gt; PLASTIC SMALL-OUTLINE PACKAGE&lt;p&gt;
 SOT (SC-70) - DCK&lt;br&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.</description>
@@ -393,7 +393,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.</description>
 <rectangle x1="-0.125" y1="0.6" x2="0.125" y2="1.05" layer="51"/>
 <rectangle x1="-0.95" y1="-0.5" x2="-0.275" y2="0" layer="21"/>
 </package>
-<package name="YEP_R-XBGA-N6" urn="urn:adsk.eagle:footprint:2471/1">
+<package name="YEP_R-XBGA-N6" urn="urn:adsk.eagle:footprint:2390/1">
 <description>&lt;b&gt;YEP (R-XBGA-N6)&lt;/b&gt; DIE-SIZE BALL GRID ARRAY&lt;p&gt;
 NanoStar TM - WCSP (DSBG A)0.23-mm Large Bump - YEP&lt;br&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157</description>
@@ -418,7 +418,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157</description>
 <rectangle x1="-0.675" y1="-0.4" x2="-0.225" y2="-0.175" layer="51"/>
 <rectangle x1="-0.3" y1="-0.375" x2="-0.225" y2="-0.175" layer="21"/>
 </package>
-<package name="YEA_R-XBGA-N5" urn="urn:adsk.eagle:footprint:2477/1">
+<package name="YEA_R-XBGA-N5" urn="urn:adsk.eagle:footprint:2380/1">
 <description>&lt;b&gt;YEA (R-XBGA-N5)&lt;/b&gt; DIE-SIZE BALL GRID ARRAY&lt;p&gt;
 NanoStar TM - WCSP (DSBG A)0.23-mm Large Bump - YEA&lt;br&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
@@ -441,7 +441,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
 <rectangle x1="-0.675" y1="-0.4" x2="-0.225" y2="-0.175" layer="51"/>
 <rectangle x1="-0.3" y1="-0.375" x2="-0.225" y2="-0.175" layer="21"/>
 </package>
-<package name="DRL_R-PDSO-N6" urn="urn:adsk.eagle:footprint:2470/1">
+<package name="DRL_R-PDSO-N6" urn="urn:adsk.eagle:footprint:2379/1">
 <description>&lt;b&gt;DRL (R-PDSO-N6)&lt;/b&gt; PLASTIC SMALL OUTLINE&lt;p&gt;
 SOT (SOT-553) -  DRL&lt;br&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf</description>
@@ -472,7 +472,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf</description>
 <rectangle x1="-0.7" y1="0.375" x2="-0.3" y2="0.975" layer="29" rot="R180"/>
 <rectangle x1="-0.75" y1="-0.325" x2="0" y2="0" layer="21"/>
 </package>
-<package name="MAC06A" urn="urn:adsk.eagle:footprint:2464/1">
+<package name="MAC06A" urn="urn:adsk.eagle:footprint:2385/1">
 <description>&lt;b&gt;6-Lead MicroPak, 1.0mm Wide&lt;/b&gt;&lt;p&gt;
 Source: http://www.fairchildsemi.com/ds/NC/NC7SZ14.pdf</description>
 <wire x1="-0.675" y1="0.45" x2="0.675" y2="0.45" width="0.1016" layer="51"/>
@@ -495,7 +495,7 @@ Source: http://www.fairchildsemi.com/ds/NC/NC7SZ14.pdf</description>
 <rectangle x1="-0.675" y1="-0.6625" x2="-0.325" y2="-0.0875" layer="29" rot="R180"/>
 <rectangle x1="-0.6375" y1="-0.4125" x2="-0.425" y2="-0.2" layer="51"/>
 </package>
-<package name="YZA_R-XBGA-N5" urn="urn:adsk.eagle:footprint:2479/1">
+<package name="YZA_R-XBGA-N5" urn="urn:adsk.eagle:footprint:2382/1">
 <description>&lt;b&gt;YZA (R-XBGA-N5)&lt;/b&gt; DIE-SIZE BALL GRID ARRAY&lt;p&gt;
 NanoStar TM - WCSP (DSBG A)0.23-mm Large Bump - YZA&lt;br&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
@@ -518,7 +518,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
 <rectangle x1="-0.675" y1="-0.4" x2="-0.225" y2="-0.175" layer="51"/>
 <rectangle x1="-0.3" y1="-0.375" x2="-0.225" y2="-0.175" layer="21"/>
 </package>
-<package name="YEP_R-XBGA-N5" urn="urn:adsk.eagle:footprint:2478/1">
+<package name="YEP_R-XBGA-N5" urn="urn:adsk.eagle:footprint:2381/1">
 <description>&lt;b&gt;YEP (R-XBGA-N5)&lt;/b&gt; DIE-SIZE BALL GRID ARRAY&lt;p&gt;
 NanoStar TM - WCSP (DSBG A)0.23-mm Large Bump - YEP&lt;br&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
@@ -543,7 +543,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="SOT23-5" urn="urn:adsk.eagle:package:2482/1" type="box">
+<package3d name="SOT23-5" urn="urn:adsk.eagle:package:2406/1" type="box">
 <description>Small Outline Transistor
 SOT753 - Philips Semiconductors
 Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_HCT1G66_3.pdf</description>
@@ -551,7 +551,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <packageinstance name="SOT23-5"/>
 </packageinstances>
 </package3d>
-<package3d name="SC70-5" urn="urn:adsk.eagle:package:2483/1" type="box">
+<package3d name="SC70-5" urn="urn:adsk.eagle:package:2405/1" type="box">
 <description>SMT SC70-5
 SOT353 - Philips Semiconductors
 Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_HCT1G66_3.pdf</description>
@@ -559,7 +559,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <packageinstance name="SC70-5"/>
 </packageinstances>
 </package3d>
-<package3d name="DCT_R-PDSO-G8" urn="urn:adsk.eagle:package:2493/1" type="box">
+<package3d name="DCT_R-PDSO-G8" urn="urn:adsk.eagle:package:2412/1" type="box">
 <description>DCT (R-PDSO-G8) PLSTIG SMALL-OUTLINE PACKAGE
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <packageinstances>
@@ -572,7 +572,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <packageinstance name="SSOP08"/>
 </packageinstances>
 </package3d>
-<package3d name="DCU_R-PDSO-G8" urn="urn:adsk.eagle:package:2485/1" type="box">
+<package3d name="DCU_R-PDSO-G8" urn="urn:adsk.eagle:package:2418/1" type="box">
 <description>DCU (R-PDSO-G8) PLASTIC SMALL-OUTLINE PACKAGE (DIE DOWN)
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <packageinstances>
@@ -586,21 +586,21 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <packageinstance name="YZA_R-XBGA-N8"/>
 </packageinstances>
 </package3d>
-<package3d name="YEA_R-XBGA-N8" urn="urn:adsk.eagle:package:2495/1" type="box">
+<package3d name="YEA_R-XBGA-N8" urn="urn:adsk.eagle:package:2420/1" type="box">
 <description>YEA (R-XBGA-N8) DIE-SIZE BALL GRID ARRAY
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <packageinstances>
 <packageinstance name="YEA_R-XBGA-N8"/>
 </packageinstances>
 </package3d>
-<package3d name="YEP_R-XBGA-N8" urn="urn:adsk.eagle:package:2484/1" type="box">
+<package3d name="YEP_R-XBGA-N8" urn="urn:adsk.eagle:package:2419/1" type="box">
 <description>YEP (R-XBGA-N8) DIE-SIZE BALL GRID ARRAY
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <packageinstances>
 <packageinstance name="YEP_R-XBGA-N8"/>
 </packageinstances>
 </package3d>
-<package3d name="YZP_R-XBGA-N6" urn="urn:adsk.eagle:package:2486/1" type="box">
+<package3d name="YZP_R-XBGA-N6" urn="urn:adsk.eagle:package:2415/1" type="box">
 <description>YZP (R-XBGA-N6) DIE-SIZE BALL GRID ARRAY
 NanoFree TM -  WCSP (DSBGA) 0.23-mm Large Bump - YZP (Pb-free)
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157</description>
@@ -608,7 +608,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157</description>
 <packageinstance name="YZP_R-XBGA-N6"/>
 </packageinstances>
 </package3d>
-<package3d name="DBV_R-PDSO-G6" urn="urn:adsk.eagle:package:2489/1" type="box">
+<package3d name="DBV_R-PDSO-G6" urn="urn:adsk.eagle:package:2414/1" type="box">
 <description>DBV (R-PDSO-G6) PLASTIC SMALL-OUTLINE PACKAGE
 SOT (SOT-23) - DBV
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.</description>
@@ -616,7 +616,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.</description>
 <packageinstance name="DBV_R-PDSO-G6"/>
 </packageinstances>
 </package3d>
-<package3d name="DCK_R-PDSO-G6" urn="urn:adsk.eagle:package:2491/1" type="box">
+<package3d name="DCK_R-PDSO-G6" urn="urn:adsk.eagle:package:2417/1" type="box">
 <description>DCK (R-PDSO-G6) PLASTIC SMALL-OUTLINE PACKAGE
 SOT (SC-70) - DCK
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.</description>
@@ -624,7 +624,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.</description>
 <packageinstance name="DCK_R-PDSO-G6"/>
 </packageinstances>
 </package3d>
-<package3d name="YEP_R-XBGA-N6" urn="urn:adsk.eagle:package:2492/1" type="box">
+<package3d name="YEP_R-XBGA-N6" urn="urn:adsk.eagle:package:2416/1" type="box">
 <description>YEP (R-XBGA-N6) DIE-SIZE BALL GRID ARRAY
 NanoStar TM - WCSP (DSBG A)0.23-mm Large Bump - YEP
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157</description>
@@ -632,7 +632,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157</description>
 <packageinstance name="YEP_R-XBGA-N6"/>
 </packageinstances>
 </package3d>
-<package3d name="DRL_R-PDSO-N6" urn="urn:adsk.eagle:package:2490/1" type="box">
+<package3d name="DRL_R-PDSO-N6" urn="urn:adsk.eagle:package:2408/1" type="box">
 <description>DRL (R-PDSO-N6) PLASTIC SMALL OUTLINE
 SOT (SOT-553) -  DRL
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf</description>
@@ -640,7 +640,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf</description>
 <packageinstance name="DRL_R-PDSO-N6"/>
 </packageinstances>
 </package3d>
-<package3d name="YEA_R-XBGA-N5" urn="urn:adsk.eagle:package:2497/1" type="box">
+<package3d name="YEA_R-XBGA-N5" urn="urn:adsk.eagle:package:2409/1" type="box">
 <description>YEA (R-XBGA-N5) DIE-SIZE BALL GRID ARRAY
 NanoStar TM - WCSP (DSBG A)0.23-mm Large Bump - YEA
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
@@ -648,7 +648,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
 <packageinstance name="YEA_R-XBGA-N5"/>
 </packageinstances>
 </package3d>
-<package3d name="YZA_R-XBGA-N5" urn="urn:adsk.eagle:package:2498/1" type="box">
+<package3d name="YZA_R-XBGA-N5" urn="urn:adsk.eagle:package:2411/1" type="box">
 <description>YZA (R-XBGA-N5) DIE-SIZE BALL GRID ARRAY
 NanoStar TM - WCSP (DSBG A)0.23-mm Large Bump - YZA
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
@@ -656,14 +656,14 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
 <packageinstance name="YZA_R-XBGA-N5"/>
 </packageinstances>
 </package3d>
-<package3d name="MAC06A" urn="urn:adsk.eagle:package:2488/1" type="box">
+<package3d name="MAC06A" urn="urn:adsk.eagle:package:2413/1" type="box">
 <description>6-Lead MicroPak, 1.0mm Wide
 Source: http://www.fairchildsemi.com/ds/NC/NC7SZ14.pdf</description>
 <packageinstances>
 <packageinstance name="MAC06A"/>
 </packageinstances>
 </package3d>
-<package3d name="YEP_R-XBGA-N5" urn="urn:adsk.eagle:package:2496/1" type="box">
+<package3d name="YEP_R-XBGA-N5" urn="urn:adsk.eagle:package:2410/1" type="box">
 <description>YEP (R-XBGA-N5) DIE-SIZE BALL GRID ARRAY
 NanoStar TM - WCSP (DSBG A)0.23-mm Large Bump - YEP
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
@@ -911,7 +911,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="74*1G86" prefix="IC" urn="urn:adsk.eagle:component:2505/1">
+<deviceset name="74*1G86" prefix="IC" urn="urn:adsk.eagle:component:2505/1" locally_modified="yes">
 <description>2-input &lt;b&gt;EXCLUSIV-OR&lt;/b&gt; gate</description>
 <gates>
 <gate name="A" symbol="7486" x="20.32" y="0" swaplevel="1"/>
@@ -927,7 +927,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -942,7 +942,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -950,7 +950,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G14" prefix="IC" urn="urn:adsk.eagle:component:2508/1">
+<deviceset name="74*1G14" prefix="IC" urn="urn:adsk.eagle:component:2508/1" locally_modified="yes">
 <description>Single &lt;b&gt;Schmitt-Trigger Inverter &lt;/b&gt;Gate</description>
 <gates>
 <gate name="A" symbol="7414" x="10.16" y="0"/>
@@ -965,7 +965,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -982,7 +982,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -993,7 +993,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G79" prefix="IC" urn="urn:adsk.eagle:component:2514/1">
+<deviceset name="74*1G79" prefix="IC" urn="urn:adsk.eagle:component:2514/1" locally_modified="yes">
 <description>Single Positive-Edge-Triggered D-Type Flip-Flop&lt;p&gt;
 Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data sheet &lt;/a&gt;</description>
 <gates>
@@ -1010,7 +1010,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="LVC"/>
@@ -1025,7 +1025,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="LVC"/>
@@ -1033,7 +1033,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G00" prefix="IC" urn="urn:adsk.eagle:component:2501/1">
+<deviceset name="74*1G00" prefix="IC" urn="urn:adsk.eagle:component:2501/1" locally_modified="yes">
 <description>2-input &lt;b&gt;NAND&lt;/b&gt; gate</description>
 <gates>
 <gate name="A" symbol="7400" x="20.32" y="0"/>
@@ -1049,7 +1049,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1067,7 +1067,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1078,7 +1078,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G17" prefix="IC" urn="urn:adsk.eagle:component:2511/1">
+<deviceset name="74*1G17" prefix="IC" urn="urn:adsk.eagle:component:2511/1" locally_modified="yes">
 <description>Single Schmitt-Trigger Buffer</description>
 <gates>
 <gate name="G$2" symbol="PWRN" x="22.86" y="0" addlevel="request"/>
@@ -1093,7 +1093,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="G$2" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AUC"/>
@@ -1108,7 +1108,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="G$2" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AUC"/>
@@ -1117,7 +1117,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G06" prefix="IC" urn="urn:adsk.eagle:component:2510/1">
+<deviceset name="74*1G06" prefix="IC" urn="urn:adsk.eagle:component:2510/1" locally_modified="yes">
 <description>Single Inverter Buffer/Driver With Open-Drain Output</description>
 <gates>
 <gate name="G$1" symbol="7405" x="0" y="0"/>
@@ -1132,7 +1132,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="G$2" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AUC"/>
@@ -1147,7 +1147,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="G$2" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AUC"/>
@@ -1156,7 +1156,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G384" prefix="IC" urn="urn:adsk.eagle:component:2513/1">
+<deviceset name="74*1G384" prefix="IC" urn="urn:adsk.eagle:component:2513/1" locally_modified="yes">
 <description>Single FET Bus Switch</description>
 <gates>
 <gate name="G$1" symbol="PWRN" x="12.7" y="0" addlevel="request"/>
@@ -1168,7 +1168,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="G$1" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="CBT"/>
@@ -1181,7 +1181,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="G$1" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="CBT"/>
@@ -1190,7 +1190,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G125" prefix="IC" urn="urn:adsk.eagle:component:2506/1">
+<deviceset name="74*1G125" prefix="IC" urn="urn:adsk.eagle:component:2506/1" locally_modified="yes">
 <description>Single Bus &lt;b&gt;Buffer &lt;/b&gt;Gate with 3-State Output</description>
 <gates>
 <gate name="A" symbol="74125" x="17.78" y="0"/>
@@ -1206,7 +1206,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1225,7 +1225,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1237,7 +1237,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G07" prefix="IC" urn="urn:adsk.eagle:component:2500/1">
+<deviceset name="74*1G07" prefix="IC" urn="urn:adsk.eagle:component:2500/1" locally_modified="yes">
 <description>Single &lt;b&gt;Buffer/Driver&lt;/b&gt; With Open-Drain Output</description>
 <gates>
 <gate name="A" symbol="7407" x="17.78" y="0"/>
@@ -1252,7 +1252,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1268,7 +1268,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1278,7 +1278,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G02" prefix="IC" urn="urn:adsk.eagle:component:2502/1">
+<deviceset name="74*1G02" prefix="IC" urn="urn:adsk.eagle:component:2502/1" locally_modified="yes">
 <description>2-input &lt;b&gt;NOR&lt;/b&gt; gate</description>
 <gates>
 <gate name="A" symbol="7402" x="12.7" y="5.08"/>
@@ -1294,7 +1294,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1312,7 +1312,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1323,7 +1323,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G32" prefix="IC" urn="urn:adsk.eagle:component:2504/1">
+<deviceset name="74*1G32" prefix="IC" urn="urn:adsk.eagle:component:2504/1" locally_modified="yes">
 <description>2-input &lt;b&gt;OR&lt;/b&gt; gate</description>
 <gates>
 <gate name="A" symbol="7432" x="15.24" y="5.08"/>
@@ -1339,7 +1339,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1356,7 +1356,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1366,7 +1366,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G08" prefix="IC" urn="urn:adsk.eagle:component:2503/1">
+<deviceset name="74*1G08" prefix="IC" urn="urn:adsk.eagle:component:2503/1" locally_modified="yes">
 <description>2-input &lt;b&gt;AND&lt;/b&gt; gate</description>
 <gates>
 <gate name="A" symbol="7408" x="20.32" y="0"/>
@@ -1382,7 +1382,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1400,7 +1400,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1411,7 +1411,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G04" prefix="IC" urn="urn:adsk.eagle:component:2499/1">
+<deviceset name="74*1G04" prefix="IC" urn="urn:adsk.eagle:component:2499/1" locally_modified="yes">
 <description>&lt;b&gt;INVERTER&lt;/b&gt; Gate</description>
 <gates>
 <gate name="A" symbol="7404" x="17.78" y="0"/>
@@ -1426,7 +1426,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1443,7 +1443,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1454,7 +1454,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1GU04" prefix="IC" urn="urn:adsk.eagle:component:2509/1">
+<deviceset name="74*1GU04" prefix="IC" urn="urn:adsk.eagle:component:2509/1" locally_modified="yes">
 <description>Single Unbuffered Inverter</description>
 <gates>
 <gate name="G$1" symbol="7404" x="0" y="0"/>
@@ -1469,7 +1469,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="G$2" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1483,7 +1483,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="G$2" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1491,7 +1491,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G126" prefix="IC" urn="urn:adsk.eagle:component:2507/1">
+<deviceset name="74*1G126" prefix="IC" urn="urn:adsk.eagle:component:2507/1" locally_modified="yes">
 <description>Single Bus &lt;b&gt;Buffer&lt;/b&gt; Gate With 3-State Outputs</description>
 <gates>
 <gate name="A" symbol="74126" x="17.78" y="0"/>
@@ -1507,7 +1507,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1524,7 +1524,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name="AHC"/>
@@ -1534,7 +1534,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G240" prefix="IC" urn="urn:adsk.eagle:component:2512/1">
+<deviceset name="74*1G240" prefix="IC" urn="urn:adsk.eagle:component:2512/1" locally_modified="yes">
 <description>Single Buffer/Driver With 3-State Outputs</description>
 <gates>
 <gate name="G$1" symbol="74125" x="0" y="0"/>
@@ -1550,7 +1550,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="G$2" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1565,7 +1565,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 <connect gate="G$2" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1601,7 +1601,7 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/sn74lvc1g79.pdf"&gt; Data s
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*2G79" prefix="IC" urn="urn:adsk.eagle:component:2517/1">
+<deviceset name="74*2G79" prefix="IC" urn="urn:adsk.eagle:component:2517/1" locally_modified="yes">
 <description>&lt;b&gt;Single Positive-Edge-Triggered D-Type Flip-Flop&lt;/b&gt;&lt;p&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g79.pdf</description>
 <gates>
@@ -1622,7 +1622,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g79.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2493/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2412/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1640,7 +1640,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g79.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2485/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2418/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1658,7 +1658,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g79.pdf</description>
 <connect gate="P" pin="VCC" pad="A2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2484/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2419/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1666,7 +1666,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g79.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G3157" prefix="IC" urn="urn:adsk.eagle:component:2518/1">
+<deviceset name="74*1G3157" prefix="IC" urn="urn:adsk.eagle:component:2518/1" locally_modified="yes">
 <description>&lt;b&gt;Single-Pole, Double-Throw Analog Switch&lt;/b&gt;&lt;p&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf</description>
 <gates>
@@ -1684,7 +1684,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf</description>
 <connect gate="P" pin="VCC" pad="B2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2486/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2415/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1700,7 +1700,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf</description>
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2489/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2414/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1716,7 +1716,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf</description>
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2491/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2417/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1732,7 +1732,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf</description>
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2490/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2408/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1748,7 +1748,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf</description>
 <connect gate="P" pin="VCC" pad="B2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2492/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2416/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1756,7 +1756,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="NC7SZ14" prefix="IC" urn="urn:adsk.eagle:component:2515/1">
+<deviceset name="NC7SZ14" prefix="IC" urn="urn:adsk.eagle:component:2515/1" locally_modified="yes">
 <description>&lt;b&gt;TinyLogic(R) UHS Inverter with Schmitt Trigger Input&lt;/b&gt;&lt;p&gt;
 Source: http://www.fairchildsemi.com/ds/NC/NC7SZ14.pdf</description>
 <gates>
@@ -1772,7 +1772,7 @@ Source: http://www.fairchildsemi.com/ds/NC/NC7SZ14.pdf</description>
 <connect gate="Q" pin="O" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1786,7 +1786,7 @@ Source: http://www.fairchildsemi.com/ds/NC/NC7SZ14.pdf</description>
 <connect gate="Q" pin="O" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1800,7 +1800,7 @@ Source: http://www.fairchildsemi.com/ds/NC/NC7SZ14.pdf</description>
 <connect gate="Q" pin="O" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2488/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2413/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1808,7 +1808,7 @@ Source: http://www.fairchildsemi.com/ds/NC/NC7SZ14.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G53" prefix="IC" urn="urn:adsk.eagle:component:2520/1">
+<deviceset name="74*1G53" prefix="IC" urn="urn:adsk.eagle:component:2520/1" locally_modified="yes">
 <description>&lt;b&gt;SINGLE-POLE DOUBLE-THROW (SPDT) ANALOG SWITCH&lt;/b&gt; 2:1 ANALOG MULTIPLEXER/DEMULTIPLEXER&lt;p&gt;
 Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <gates>
@@ -1828,7 +1828,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2493/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2412/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1846,7 +1846,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2485/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2418/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1864,7 +1864,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <connect gate="P" pin="VCC" pad="A2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2495/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2420/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1882,7 +1882,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 <connect gate="P" pin="VCC" pad="A2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2484/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2419/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1908,7 +1908,7 @@ Source: http://focus.ti.com/lit/ds/symlink/sn74lvc2g53.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="74*1G66" prefix="IC" urn="urn:adsk.eagle:component:2519/1">
+<deviceset name="74*1G66" prefix="IC" urn="urn:adsk.eagle:component:2519/1" locally_modified="yes">
 <description>&lt;b&gt;Single Analog / Bilateral Switch&lt;/b&gt;&lt;p&gt;
 Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_HCT1G66_3.pdf</description>
 <gates>
@@ -1925,7 +1925,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2483/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2405/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1940,7 +1940,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2482/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2406/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1955,7 +1955,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <connect gate="P" pin="VCC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2490/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2408/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1970,7 +1970,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <connect gate="P" pin="VCC" pad="A2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2497/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2409/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1985,7 +1985,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <connect gate="P" pin="VCC" pad="A2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2496/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2410/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2000,7 +2000,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <connect gate="P" pin="VCC" pad="A2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2498/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2411/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

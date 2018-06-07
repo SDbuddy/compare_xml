@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -71,9 +71,9 @@
 <description>&lt;b&gt;National Instruments&lt;/b&gt;&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="QFP100R" urn="urn:adsk.eagle:footprint:21164/1">
+<package name="QFP100R" urn="urn:adsk.eagle:footprint:20367/1">
 <description>&lt;b&gt;Quad Flat Pack Package&lt;/b&gt; 100 Pin Rectangle&lt;p&gt;
-Source: http://www.national.com/packaging/mkt/vce100a.pdf</description>
+Source: Siemens dpc31_d.pdf</description>
 <wire x1="-9.9" y1="-6.9" x2="9.9" y2="-6.9" width="0.2032" layer="51"/>
 <wire x1="9.9" y1="-6.9" x2="9.9" y2="6.9" width="0.2032" layer="51"/>
 <wire x1="9.9" y1="6.9" x2="-9.9" y2="6.9" width="0.2032" layer="51"/>
@@ -288,9 +288,9 @@ Source: http://www.national.com/packaging/mkt/vce100a.pdf</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="QFP100R" urn="urn:adsk.eagle:package:21165/1" type="box">
+<package3d name="QFP100R" urn="urn:adsk.eagle:package:20495/1" type="box">
 <description>Quad Flat Pack Package 100 Pin Rectangle
-Source: http://www.national.com/packaging/mkt/vce100a.pdf</description>
+Source: Siemens dpc31_d.pdf</description>
 <packageinstances>
 <packageinstance name="QFP100R"/>
 </packageinstances>
@@ -411,7 +411,7 @@ Source: http://www.national.com/packaging/mkt/vce100a.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="TNT4882" prefix="IC" urn="urn:adsk.eagle:component:21166/1">
+<deviceset name="TNT4882" prefix="IC" urn="urn:adsk.eagle:component:21166/1" locally_modified="yes">
 <description>&lt;b&gt;High-Performance Single-Chip GPIB Talker/Listener ASIC&lt;/b&gt;&lt;p&gt;
 Source: http://www.ni.com/pdf/products/us/0gpc763a.pdf&lt;br&gt;
  http://www.ni.com/pdf/products/us/4gpib702-703.pdf</description>
@@ -522,7 +522,7 @@ Source: http://www.ni.com/pdf/products/us/0gpc763a.pdf&lt;br&gt;
 <connect gate="G$2" pin="VCC@9" pad="87"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21165/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20495/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">

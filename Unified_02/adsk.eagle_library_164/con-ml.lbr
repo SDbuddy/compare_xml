@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -949,8 +949,8 @@ Low profile connectors, straight&lt;p&gt;
 <vertex x="-15.24" y="3.81"/>
 </polygon>
 </package>
-<package name="3M_60" urn="urn:adsk.eagle:footprint:8665/1">
-<description>&lt;b&gt;HARTING&lt;/b&gt;</description>
+<package name="3M_60" urn="urn:adsk.eagle:footprint:6957/1">
+<description>&lt;b&gt;3M&lt;/b&gt;</description>
 <wire x1="47.625" y1="-4.2418" x2="47.625" y2="4.3" width="0.3048" layer="21"/>
 <wire x1="-47.625" y1="4.3" x2="-47.625" y2="-4.2418" width="0.3048" layer="21"/>
 <wire x1="-47.625" y1="-4.3" x2="-2.54" y2="-4.3" width="0.3048" layer="21"/>
@@ -1038,8 +1038,8 @@ Low profile connectors, straight&lt;p&gt;
 <vertex x="-36.83" y="-6.096"/>
 </polygon>
 </package>
-<package name="3M_10" urn="urn:adsk.eagle:footprint:8673/1">
-<description>&lt;b&gt;HARTING&lt;/b&gt;</description>
+<package name="3M_10" urn="urn:adsk.eagle:footprint:6910/1">
+<description>&lt;b&gt;3M&lt;/b&gt;</description>
 <wire x1="15.875" y1="-4.2418" x2="15.875" y2="4.3" width="0.3048" layer="21"/>
 <wire x1="-15.875" y1="4.3" x2="-15.875" y2="-4.2418" width="0.3048" layer="21"/>
 <wire x1="-15.875" y1="-4.3" x2="-2.54" y2="-4.3" width="0.3048" layer="21"/>
@@ -1077,8 +1077,8 @@ Low profile connectors, straight&lt;p&gt;
 <vertex x="-5.08" y="-5.969"/>
 </polygon>
 </package>
-<package name="3M_40" urn="urn:adsk.eagle:footprint:8667/1">
-<description>&lt;b&gt;HARTING&lt;/b&gt;</description>
+<package name="3M_40" urn="urn:adsk.eagle:footprint:6940/1">
+<description>&lt;b&gt;3M&lt;/b&gt;</description>
 <wire x1="34.925" y1="-4.2418" x2="34.925" y2="4.3" width="0.3048" layer="21"/>
 <wire x1="-34.925" y1="4.3" x2="-34.925" y2="-4.2418" width="0.3048" layer="21"/>
 <wire x1="-34.925" y1="-4.3" x2="-2.54" y2="-4.3" width="0.3048" layer="21"/>
@@ -1146,8 +1146,8 @@ Low profile connectors, straight&lt;p&gt;
 <vertex x="-24.13" y="-5.969"/>
 </polygon>
 </package>
-<package name="3M_14" urn="urn:adsk.eagle:footprint:8672/1">
-<description>&lt;b&gt;HARTING&lt;/b&gt;</description>
+<package name="3M_14" urn="urn:adsk.eagle:footprint:6914/1">
+<description>&lt;b&gt;3M&lt;/b&gt;</description>
 <wire x1="18.415" y1="-4.2418" x2="18.415" y2="4.3" width="0.3048" layer="21"/>
 <wire x1="-18.415" y1="4.3" x2="-18.415" y2="-4.2418" width="0.3048" layer="21"/>
 <wire x1="-18.415" y1="-4.3" x2="-2.54" y2="-4.3" width="0.3048" layer="21"/>
@@ -1189,8 +1189,8 @@ Low profile connectors, straight&lt;p&gt;
 <vertex x="-7.62" y="-5.969"/>
 </polygon>
 </package>
-<package name="3M_16" urn="urn:adsk.eagle:footprint:8671/1">
-<description>&lt;b&gt;HARTING&lt;/b&gt;</description>
+<package name="3M_16" urn="urn:adsk.eagle:footprint:6920/1">
+<description>&lt;b&gt;3M&lt;/b&gt;</description>
 <wire x1="19.685" y1="-4.2418" x2="19.685" y2="4.3" width="0.3048" layer="21"/>
 <wire x1="-19.685" y1="4.3" x2="-19.685" y2="-4.2418" width="0.3048" layer="21"/>
 <wire x1="-19.685" y1="-4.3" x2="-2.54" y2="-4.3" width="0.3048" layer="21"/>
@@ -1234,8 +1234,8 @@ Low profile connectors, straight&lt;p&gt;
 <vertex x="-8.89" y="-5.969"/>
 </polygon>
 </package>
-<package name="3M_20" urn="urn:adsk.eagle:footprint:8670/1">
-<description>&lt;b&gt;HARTING&lt;/b&gt;</description>
+<package name="3M_20" urn="urn:adsk.eagle:footprint:6925/1">
+<description>&lt;b&gt;3M&lt;/b&gt;</description>
 <wire x1="22.225" y1="-4.2418" x2="22.225" y2="4.3" width="0.3048" layer="21"/>
 <wire x1="-22.225" y1="4.3" x2="-22.225" y2="-4.2418" width="0.3048" layer="21"/>
 <wire x1="-22.225" y1="-4.3" x2="-2.54" y2="-4.3" width="0.3048" layer="21"/>
@@ -1283,8 +1283,8 @@ Low profile connectors, straight&lt;p&gt;
 <vertex x="-11.43" y="-5.969"/>
 </polygon>
 </package>
-<package name="3M_50" urn="urn:adsk.eagle:footprint:8666/1">
-<description>&lt;b&gt;HARTING&lt;/b&gt;</description>
+<package name="3M_50" urn="urn:adsk.eagle:footprint:6948/1">
+<description>&lt;b&gt;3M&lt;/b&gt;</description>
 <wire x1="41.275" y1="-4.2418" x2="41.275" y2="4.3" width="0.3048" layer="21"/>
 <wire x1="-41.275" y1="4.3" x2="-41.275" y2="-4.2418" width="0.3048" layer="21"/>
 <wire x1="-41.275" y1="-4.3" x2="-2.54" y2="-4.3" width="0.3048" layer="21"/>
@@ -1362,8 +1362,8 @@ Low profile connectors, straight&lt;p&gt;
 <vertex x="-30.48" y="-5.969"/>
 </polygon>
 </package>
-<package name="3M_34" urn="urn:adsk.eagle:footprint:8668/1">
-<description>&lt;b&gt;HARTING&lt;/b&gt;</description>
+<package name="3M_34" urn="urn:adsk.eagle:footprint:6935/1">
+<description>&lt;b&gt;3M&lt;/b&gt;</description>
 <wire x1="31.115" y1="-4.2418" x2="31.115" y2="4.3" width="0.3048" layer="21"/>
 <wire x1="-31.115" y1="4.3" x2="-31.115" y2="-4.2418" width="0.3048" layer="21"/>
 <wire x1="-31.115" y1="-4.3" x2="-2.54" y2="-4.3" width="0.3048" layer="21"/>
@@ -1425,8 +1425,8 @@ Low profile connectors, straight&lt;p&gt;
 <vertex x="-20.32" y="-5.969"/>
 </polygon>
 </package>
-<package name="3M_26" urn="urn:adsk.eagle:footprint:8669/1">
-<description>&lt;b&gt;HARTING&lt;/b&gt;</description>
+<package name="3M_26" urn="urn:adsk.eagle:footprint:6930/1">
+<description>&lt;b&gt;3M&lt;/b&gt;</description>
 <wire x1="26.035" y1="-4.2418" x2="26.035" y2="4.3" width="0.3048" layer="21"/>
 <wire x1="-26.035" y1="4.3" x2="-26.035" y2="-4.2418" width="0.3048" layer="21"/>
 <wire x1="-26.035" y1="-4.3" x2="-2.54" y2="-4.3" width="0.3048" layer="21"/>
@@ -1480,8 +1480,8 @@ Low profile connectors, straight&lt;p&gt;
 <vertex x="-15.24" y="-5.969"/>
 </polygon>
 </package>
-<package name="3M_64" urn="urn:adsk.eagle:footprint:8664/1">
-<description>&lt;b&gt;HARTING&lt;/b&gt;</description>
+<package name="3M_64" urn="urn:adsk.eagle:footprint:6953/1">
+<description>&lt;b&gt;3M&lt;/b&gt;</description>
 <wire x1="50.165" y1="-4.2418" x2="50.165" y2="4.3" width="0.3048" layer="21"/>
 <wire x1="-50.165" y1="4.3" x2="-50.165" y2="-4.2418" width="0.3048" layer="21"/>
 <wire x1="-50.165" y1="-4.3" x2="-2.54" y2="-4.3" width="0.3048" layer="21"/>
@@ -4726,6 +4726,66 @@ Low profile connectors, straight&lt;p&gt;
 <description>HARTING</description>
 <packageinstances>
 <packageinstance name="ML10L"/>
+</packageinstances>
+</package3d>
+<package3d name="3M_40" urn="urn:adsk.eagle:package:6982/1" type="box">
+<description>3M</description>
+<packageinstances>
+<packageinstance name="3M_40"/>
+</packageinstances>
+</package3d>
+<package3d name="3M_34" urn="urn:adsk.eagle:package:6980/1" type="box">
+<description>3M</description>
+<packageinstances>
+<packageinstance name="3M_34"/>
+</packageinstances>
+</package3d>
+<package3d name="3M_26" urn="urn:adsk.eagle:package:6976/1" type="box">
+<description>3M</description>
+<packageinstances>
+<packageinstance name="3M_26"/>
+</packageinstances>
+</package3d>
+<package3d name="3M_20" urn="urn:adsk.eagle:package:6966/1" type="box">
+<description>3M</description>
+<packageinstances>
+<packageinstance name="3M_20"/>
+</packageinstances>
+</package3d>
+<package3d name="3M_16" urn="urn:adsk.eagle:package:6960/1" type="box">
+<description>3M</description>
+<packageinstances>
+<packageinstance name="3M_16"/>
+</packageinstances>
+</package3d>
+<package3d name="3M_14" urn="urn:adsk.eagle:package:6961/1" type="box">
+<description>3M</description>
+<packageinstances>
+<packageinstance name="3M_14"/>
+</packageinstances>
+</package3d>
+<package3d name="3M_10" urn="urn:adsk.eagle:package:6975/1" type="box">
+<description>3M</description>
+<packageinstances>
+<packageinstance name="3M_10"/>
+</packageinstances>
+</package3d>
+<package3d name="3M_64" urn="urn:adsk.eagle:package:6996/1" type="box">
+<description>3M</description>
+<packageinstances>
+<packageinstance name="3M_64"/>
+</packageinstances>
+</package3d>
+<package3d name="3M_60" urn="urn:adsk.eagle:package:6997/1" type="box">
+<description>3M</description>
+<packageinstances>
+<packageinstance name="3M_60"/>
+</packageinstances>
+</package3d>
+<package3d name="3M_50" urn="urn:adsk.eagle:package:6989/1" type="box">
+<description>3M</description>
+<packageinstances>
+<packageinstance name="3M_50"/>
 </packageinstances>
 </package3d>
 </packages3d>

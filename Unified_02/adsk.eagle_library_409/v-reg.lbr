@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -1015,7 +1015,7 @@ L200.pdf from www.st.com</description>
 <rectangle x1="-0.889" y1="-1.27" x2="0.889" y2="-0.762" layer="51"/>
 <rectangle x1="1.651" y1="-1.27" x2="3.429" y2="-0.762" layer="51"/>
 </package>
-<package name="TO92" urn="urn:adsk.eagle:footprint:30311/1">
+<package name="TO92" urn="urn:adsk.eagle:footprint:20710/1">
 <description>&lt;b&gt;TO 92&lt;/b&gt;</description>
 <wire x1="-2.0946" y1="-1.651" x2="-2.6549" y2="-0.254" width="0.127" layer="21" curve="-32.78104"/>
 <wire x1="-2.6549" y1="-0.254" x2="-0.7863" y2="2.5485" width="0.127" layer="21" curve="-78.318477"/>
@@ -1071,7 +1071,7 @@ L200.pdf from www.st.com</description>
 <rectangle x1="-3.175" y1="-2.159" x2="-1.905" y2="-1.27" layer="21"/>
 <hole x="0" y="11.176" drill="3.302"/>
 </package>
-<package name="SOT23" urn="urn:adsk.eagle:footprint:30312/1">
+<package name="SOT23" urn="urn:adsk.eagle:footprint:28669/1">
 <description>&lt;b&gt;SOT-23&lt;/b&gt;</description>
 <wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.6604" width="0.1524" layer="51"/>
 <wire x1="1.4224" y1="-0.6604" x2="-1.4224" y2="-0.6604" width="0.1524" layer="51"/>
@@ -1241,9 +1241,9 @@ Source: http://www.onsemi.co.jp .. LM317M-D.PDF</description>
 <vertex x="2.5654" y="3.937"/>
 </polygon>
 </package>
-<package name="D2PACK" urn="urn:adsk.eagle:footprint:30316/1">
+<package name="D2PACK" urn="urn:adsk.eagle:footprint:29392/1">
 <description>&lt;b&gt;D2PACK&lt;/b&gt;&lt;p&gt;
-Source: INTERNATIONAL RECTIFIER, irg4bc15ud-s.pdf</description>
+INTERNATIONAL RECTIFIER, irg4bc15ud-s.pdf</description>
 <wire x1="-5.1308" y1="-4.0894" x2="5.1308" y2="-4.0894" width="0.254" layer="21"/>
 <wire x1="5.1308" y1="-4.0894" x2="5.1308" y2="4.445" width="0.254" layer="51"/>
 <wire x1="5.1308" y1="4.445" x2="3.1242" y2="5.8166" width="0.254" layer="51"/>
@@ -1267,7 +1267,7 @@ Source: INTERNATIONAL RECTIFIER, irg4bc15ud-s.pdf</description>
 <rectangle x1="1.8288" y1="-6.731" x2="3.2512" y2="-4.2418" layer="21"/>
 <rectangle x1="-0.7112" y1="-6.731" x2="0.7112" y2="-4.2418" layer="21"/>
 </package>
-<package name="DIL08" urn="urn:adsk.eagle:footprint:30318/1">
+<package name="DIL08" urn="urn:adsk.eagle:footprint:29416/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="5.08" y1="2.921" x2="-5.08" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-5.08" y1="-2.921" x2="5.08" y2="-2.921" width="0.1524" layer="21"/>
@@ -1314,7 +1314,7 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 <rectangle x1="0.7" y1="0.85" x2="1.2" y2="1.5" layer="51"/>
 <rectangle x1="-1.2" y1="0.85" x2="-0.7" y2="1.5" layer="51"/>
 </package>
-<package name="SO-14" urn="urn:adsk.eagle:footprint:30321/1">
+<package name="SO-14" urn="urn:adsk.eagle:footprint:20623/1">
 <description>&lt;B&gt;Small Outline Narrow Plastic Gull Wing&lt;/B&gt;&lt;p&gt;
 150-mil body, package type SL</description>
 <wire x1="-4.895" y1="3.9" x2="4.895" y2="3.9" width="0.1998" layer="39"/>
@@ -1361,7 +1361,7 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 <rectangle x1="2.2949" y1="2" x2="2.7851" y2="3.1001" layer="51"/>
 <rectangle x1="1.0249" y1="2" x2="1.5151" y2="3.1001" layer="51"/>
 </package>
-<package name="SO-08" urn="urn:adsk.eagle:footprint:30319/1">
+<package name="SO-08" urn="urn:adsk.eagle:footprint:20622/1">
 <description>&lt;B&gt;Small Outline Narrow Plastic Gull Wing&lt;/B&gt;&lt;p&gt;
 150-mil body, package type SN</description>
 <wire x1="-2.9" y1="3.9" x2="2.9" y2="3.9" width="0.1998" layer="39"/>
@@ -1414,7 +1414,7 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 <text x="-1.5875" y="-1.27" size="0.8128" layer="21">R</text>
 <text x="0.9525" y="-1.27" size="0.8128" layer="21">C</text>
 </package>
-<package name="H08C" urn="urn:adsk.eagle:footprint:30324/1">
+<package name="H08C" urn="urn:adsk.eagle:footprint:21187/1">
 <description>&lt;b&gt;TO-99&lt;/b&gt;&lt;p&gt;
 National Semiconductor H08C&lt;br&gt;
 Motorola MOT 601-04</description>
@@ -1467,7 +1467,7 @@ Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 <rectangle x1="-2.765" y1="3.025" x2="-2.315" y2="5.2" layer="51" rot="R180"/>
 <rectangle x1="-2.425" y1="-3.45" x2="-2.025" y2="-3.025" layer="51"/>
 </package>
-<package name="LLP8" urn="urn:adsk.eagle:footprint:30323/1">
+<package name="LLP8" urn="urn:adsk.eagle:footprint:21188/1">
 <description>&lt;b&gt;LLP Package NS Package Number SDC08A&lt;/b&gt;&lt;p&gt;
 Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 <wire x1="-1.9" y1="1.9" x2="-1.9" y2="-1.9" width="0.2032" layer="21"/>
@@ -1661,13 +1661,13 @@ L200.pdf from www.st.com</description>
 <packageinstance name="79XXL"/>
 </packageinstances>
 </package3d>
-<package3d name="TO92" urn="urn:adsk.eagle:package:30368/1" type="box">
+<package3d name="TO92" urn="urn:adsk.eagle:package:20831/1" type="box">
 <description>TO 92</description>
 <packageinstances>
 <packageinstance name="TO92"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT23" urn="urn:adsk.eagle:package:30367/1" type="box">
+<package3d name="SOT23" urn="urn:adsk.eagle:package:28738/2" type="model">
 <description>SOT-23</description>
 <packageinstances>
 <packageinstance name="SOT23"/>
@@ -1687,9 +1687,9 @@ Source: http://www.onsemi.co.jp .. LM317M-D.PDF</description>
 <packageinstance name="DPACK"/>
 </packageinstances>
 </package3d>
-<package3d name="D2PACK" urn="urn:adsk.eagle:package:30371/1" type="box">
+<package3d name="D2PACK" urn="urn:adsk.eagle:package:29497/2" type="model">
 <description>D2PACK
-Source: INTERNATIONAL RECTIFIER, irg4bc15ud-s.pdf</description>
+INTERNATIONAL RECTIFIER, irg4bc15ud-s.pdf</description>
 <packageinstances>
 <packageinstance name="D2PACK"/>
 </packageinstances>
@@ -1714,20 +1714,20 @@ Source: http://www.onsemi.co.jp .. LM137M-D.PDF</description>
 <packageinstance name="78XXL"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL08" urn="urn:adsk.eagle:package:30372/1" type="box">
+<package3d name="DIL08" urn="urn:adsk.eagle:package:29519/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL08"/>
 </packageinstances>
 </package3d>
-<package3d name="SO-08" urn="urn:adsk.eagle:package:30377/1" type="box">
+<package3d name="SO-08" urn="urn:adsk.eagle:package:20804/2" type="model">
 <description>Small Outline Narrow Plastic Gull Wing
 150-mil body, package type SN</description>
 <packageinstances>
 <packageinstance name="SO-08"/>
 </packageinstances>
 </package3d>
-<package3d name="SO-14" urn="urn:adsk.eagle:package:30375/1" type="box">
+<package3d name="SO-14" urn="urn:adsk.eagle:package:20808/2" type="model">
 <description>Small Outline Narrow Plastic Gull Wing
 150-mil body, package type SL</description>
 <packageinstances>
@@ -1742,7 +1742,7 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 <packageinstance name="SOT25"/>
 </packageinstances>
 </package3d>
-<package3d name="H08C" urn="urn:adsk.eagle:package:30380/1" type="box">
+<package3d name="H08C" urn="urn:adsk.eagle:package:21221/1" type="box">
 <description>TO-99
 National Semiconductor H08C
 Motorola MOT 601-04</description>
@@ -1771,7 +1771,7 @@ Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 <packageinstance name="MUA08A"/>
 </packageinstances>
 </package3d>
-<package3d name="LLP8" urn="urn:adsk.eagle:package:30373/1" type="box">
+<package3d name="LLP8" urn="urn:adsk.eagle:package:21223/1" type="box">
 <description>LLP Package NS Package Number SDC08A
 Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 <packageinstances>
@@ -2554,7 +2554,7 @@ Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="XC63FP" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:30416/1">
+<deviceset name="XC63FP" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:30416/1" locally_modified="yes">
 <description>&lt;b&gt;Positiv Voltage Regulators&lt;/b&gt;&lt;p&gt;
 www.torex.co.jp/english/product/pro02/pdf/0201_xc62fp.pdf</description>
 <gates>
@@ -2568,7 +2568,7 @@ www.torex.co.jp/english/product/pro02/pdf/0201_xc62fp.pdf</description>
 <connect gate="G$1" pin="OUT" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30368/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20831/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2581,7 +2581,7 @@ www.torex.co.jp/english/product/pro02/pdf/0201_xc62fp.pdf</description>
 <connect gate="G$1" pin="OUT" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30367/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28738/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2607,7 +2607,7 @@ www.torex.co.jp/english/product/pro02/pdf/0201_xc62fp.pdf</description>
 <connect gate="G$1" pin="OUT" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30368/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20831/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2657,7 +2657,7 @@ www.torex.co.jp/english/product/pro02/pdf/0201_xc62fp.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LP2950?*" prefix="IC" urn="urn:adsk.eagle:component:30414/1">
+<deviceset name="LP2950?*" prefix="IC" urn="urn:adsk.eagle:component:30414/1" locally_modified="yes">
 <description>Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 <gates>
 <gate name="G$1" symbol="78XX" x="0" y="0"/>
@@ -2670,7 +2670,7 @@ www.torex.co.jp/english/product/pro02/pdf/0201_xc62fp.pdf</description>
 <connect gate="G$1" pin="OUT" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30368/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20831/1"/>
 </package3dinstances>
 <technologies>
 <technology name="-3.0"/>
@@ -2702,7 +2702,7 @@ www.torex.co.jp/english/product/pro02/pdf/0201_xc62fp.pdf</description>
 <connect gate="G$1" pin="OUT" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30368/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20831/1"/>
 </package3dinstances>
 <technologies>
 <technology name="-3.0"/>
@@ -2733,7 +2733,7 @@ www.torex.co.jp/english/product/pro02/pdf/0201_xc62fp.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LM317?*" prefix="IC" urn="urn:adsk.eagle:component:30421/1">
+<deviceset name="LM317?*" prefix="IC" urn="urn:adsk.eagle:component:30421/1" locally_modified="yes">
 <description>&lt;b&gt;500 mA Adjustable Output Positive Voltage Regulator&lt;/b&gt;&lt;p&gt;
 Source: http://www.onsemi.co.jp .. LM317M-D.PDF</description>
 <gates>
@@ -2836,7 +2836,7 @@ Source: http://www.onsemi.co.jp .. LM317M-D.PDF</description>
 <connect gate="G$1" pin="OUT" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30371/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29497/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2844,7 +2844,7 @@ Source: http://www.onsemi.co.jp .. LM317M-D.PDF</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LD117A?*" prefix="IC" urn="urn:adsk.eagle:component:30422/1">
+<deviceset name="LD117A?*" prefix="IC" urn="urn:adsk.eagle:component:30422/1" locally_modified="yes">
 <description>&lt;b&gt;Low drop fixed and adjustable positive voltage regulators&lt;/b&gt; 1 A&lt;p&gt;
 Source: http://www.st.com/stonline/products/literature/ds/7194/ld1117axx.pdf</description>
 <gates>
@@ -2915,7 +2915,7 @@ Source: http://www.st.com/stonline/products/literature/ds/7194/ld1117axx.pdf</de
 <connect gate="G$1" pin="OUT" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30371/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29497/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2953,7 +2953,7 @@ Source: http://www.taiwansemi.com .. 5205_0409c.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="UC384*" prefix="IC" urn="urn:adsk.eagle:component:30419/1">
+<deviceset name="UC384*" prefix="IC" urn="urn:adsk.eagle:component:30419/1" locally_modified="yes">
 <description>&lt;b&gt;SMPS Controller&lt;/b&gt;&lt;p&gt;
 Source: http://www.fairchildsemi.com/ds/UC/UC3843.pdf</description>
 <gates>
@@ -2972,7 +2972,7 @@ Source: http://www.fairchildsemi.com/ds/UC/UC3843.pdf</description>
 <connect gate="G$1" pin="VREF" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30372/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="2"/>
@@ -2993,7 +2993,7 @@ Source: http://www.fairchildsemi.com/ds/UC/UC3843.pdf</description>
 <connect gate="G$1" pin="VREF" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30377/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20804/2"/>
 </package3dinstances>
 <technologies>
 <technology name="2"/>
@@ -3004,7 +3004,7 @@ Source: http://www.fairchildsemi.com/ds/UC/UC3843.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="UC384*D" prefix="IC" urn="urn:adsk.eagle:component:30417/1">
+<deviceset name="UC384*D" prefix="IC" urn="urn:adsk.eagle:component:30417/1" locally_modified="yes">
 <description>&lt;b&gt;SMPS Controller&lt;/b&gt;&lt;p&gt;
 Source: http://www.fairchildsemi.com/ds/UC/UC3843.pdf</description>
 <gates>
@@ -3025,7 +3025,7 @@ Source: http://www.fairchildsemi.com/ds/UC/UC3843.pdf</description>
 <connect gate="G$1" pin="VREF" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30375/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20808/2"/>
 </package3dinstances>
 <technologies>
 <technology name="2"/>
@@ -3057,7 +3057,7 @@ Source: http://www.fairchildsemi.com/ds/UC/UC3843.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LP2951?*" prefix="IC" urn="urn:adsk.eagle:component:30420/1">
+<deviceset name="LP2951?*" prefix="IC" urn="urn:adsk.eagle:component:30420/1" locally_modified="yes">
 <description>&lt;b&gt;Series of Adjustable Micropower Voltage Regulators&lt;/b&gt;&lt;p&gt;
 Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 <gates>
@@ -3076,7 +3076,7 @@ Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 <connect gate="G$1" pin="VTAB" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30372/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3096,7 +3096,7 @@ Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 <connect gate="G$1" pin="VTAB" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30377/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20804/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3119,7 +3119,7 @@ Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 <connect gate="G$1" pin="VTAB" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30373/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21223/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3142,7 +3142,7 @@ Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 <connect gate="G$1" pin="VTAB" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30380/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21221/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3178,7 +3178,7 @@ Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 <connect gate="G$1" pin="VTAB" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30377/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20804/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3201,7 +3201,7 @@ Source: http://cache.national.com/ds/LP/LP2950.pdf</description>
 <connect gate="G$1" pin="VTAB" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:30373/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21223/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

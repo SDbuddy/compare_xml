@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -82,7 +82,7 @@ Korea: (+65) 271 2194&lt;br&gt;
 Malaysia, Singapore: (+65) 271 2054&lt;br&gt;
 Taiwan: (+65) 271 2654&lt;br&gt;</description>
 <packages>
-<package name="DIL40" urn="urn:adsk.eagle:footprint:3396/1">
+<package name="DIL40" urn="urn:adsk.eagle:footprint:19511/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="25.4" y1="6.731" x2="-25.4" y2="6.731" width="0.1524" layer="21"/>
 <wire x1="-25.4" y1="-6.731" x2="25.4" y2="-6.731" width="0.1524" layer="21"/>
@@ -243,7 +243,7 @@ http://www.avagotech.com/pc/downloadDocument.do?id=4609</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="DIL40" urn="urn:adsk.eagle:package:3399/1" type="box">
+<package3d name="DIL40" urn="urn:adsk.eagle:package:19651/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL40"/>
@@ -364,7 +364,7 @@ http://www.avagotech.com/pc/downloadDocument.do?id=4609</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="HCTL-1100-40" prefix="IC" urn="urn:adsk.eagle:component:3401/1">
+<deviceset name="HCTL-1100-40" prefix="IC" urn="urn:adsk.eagle:component:3401/1" locally_modified="yes">
 <description>&lt;b&gt;General Purpose Motion Controller&lt;/b&gt;&lt;p&gt;
 provides position and velocity control for DC, DC brushless and stepper motors.&lt;br&gt;
 Source: http://www.avagotech.com/pc/downloadDocument.do?id=4609</description>
@@ -416,7 +416,7 @@ Source: http://www.avagotech.com/pc/downloadDocument.do?id=4609</description>
 <connect gate="G$1" pin="VDD@1" pad="35"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3399/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">

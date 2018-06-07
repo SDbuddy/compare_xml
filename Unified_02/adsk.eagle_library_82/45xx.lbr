@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -178,7 +178,7 @@ Based on the following sources:
 <rectangle x1="6.731" y1="3.8608" x2="7.239" y2="5.334" layer="51"/>
 <rectangle x1="8.001" y1="3.8608" x2="8.509" y2="5.334" layer="51"/>
 </package>
-<package name="SO20W" urn="urn:adsk.eagle:footprint:1003/1">
+<package name="SO20W" urn="urn:adsk.eagle:footprint:1732/1">
 <description>&lt;b&gt;Wide Small Outline package&lt;/b&gt; 300 mil</description>
 <wire x1="6.1214" y1="3.7338" x2="-6.1214" y2="3.7338" width="0.1524" layer="51"/>
 <wire x1="6.1214" y1="-3.7338" x2="6.5024" y2="-3.3528" width="0.1524" layer="21" curve="90"/>
@@ -377,7 +377,7 @@ Based on the following sources:
 <rectangle x1="5.461" y1="-5.334" x2="5.969" y2="-3.8608" layer="51"/>
 <rectangle x1="6.731" y1="-5.334" x2="7.239" y2="-3.8608" layer="51"/>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:933/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -488,7 +488,7 @@ Based on the following sources:
 <rectangle x1="2.921" y1="1.9558" x2="3.429" y2="3.0988" layer="51"/>
 <rectangle x1="4.191" y1="1.9558" x2="4.699" y2="3.0988" layer="51"/>
 </package>
-<package name="DIL14" urn="urn:adsk.eagle:footprint:969/1">
+<package name="DIL14" urn="urn:adsk.eagle:footprint:16136/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="8.89" y1="2.921" x2="-8.89" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-8.89" y1="-2.921" x2="8.89" y2="-2.921" width="0.1524" layer="21"/>
@@ -513,7 +513,7 @@ Based on the following sources:
 <text x="-9.271" y="-3.048" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-6.731" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL18" urn="urn:adsk.eagle:footprint:949/1">
+<package name="DIL18" urn="urn:adsk.eagle:footprint:16182/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="11.43" y1="2.921" x2="-11.43" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-11.43" y1="-2.921" x2="11.43" y2="-2.921" width="0.1524" layer="21"/>
@@ -601,7 +601,7 @@ Based on the following sources:
 <packageinstance name="DIL24-6"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:1006/2" type="model">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
@@ -613,7 +613,7 @@ Based on the following sources:
 <packageinstance name="SO24W"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL18" urn="urn:adsk.eagle:package:1008/2" type="model">
+<package3d name="DIL18" urn="urn:adsk.eagle:package:16424/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL18"/>
@@ -625,10 +625,16 @@ Based on the following sources:
 <packageinstance name="SO14"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL14" urn="urn:adsk.eagle:package:1011/2" type="model">
+<package3d name="DIL14" urn="urn:adsk.eagle:package:16407/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL14"/>
+</packageinstances>
+</package3d>
+<package3d name="SO20W" urn="urn:adsk.eagle:package:2018/1" type="box">
+<description>Wide Small Outline package 300 mil</description>
+<packageinstances>
+<packageinstance name="SO20W"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -1627,7 +1633,7 @@ Based on the following sources:
 <pin name="B2" x="-15.24" y="0" length="middle" direction="in"/>
 <pin name="A2" x="-15.24" y="10.16" length="middle" direction="in"/>
 <pin name="A=B_O" x="15.24" y="-10.16" length="middle" direction="out" rot="R180"/>
-<pin name="A>B_I" x="-15.24" y="-7.62" length="middle" direction="in"/>
+<pin name="A&gt;B_I" x="-15.24" y="-7.62" length="middle" direction="in"/>
 <pin name="A&lt;B_I" x="-15.24" y="-12.7" length="middle" direction="in"/>
 <pin name="A=B_I" x="-15.24" y="-10.16" length="middle" direction="in"/>
 <pin name="A1" x="-15.24" y="12.7" length="middle" direction="in"/>
@@ -1635,7 +1641,7 @@ Based on the following sources:
 <pin name="A0" x="-15.24" y="15.24" length="middle" direction="in"/>
 <pin name="B0" x="-15.24" y="5.08" length="middle" direction="in"/>
 <pin name="A&lt;B_0" x="15.24" y="-12.7" length="middle" direction="out" rot="R180"/>
-<pin name="A>B_O" x="15.24" y="-7.62" length="middle" direction="out" rot="R180"/>
+<pin name="A&gt;B_O" x="15.24" y="-7.62" length="middle" direction="out" rot="R180"/>
 <pin name="B3" x="-15.24" y="-2.54" length="middle" direction="in"/>
 <pin name="A3" x="-15.24" y="7.62" length="middle" direction="in"/>
 </symbol>
@@ -2267,7 +2273,7 @@ Based on the following sources:
 </device>
 </devices>
 </deviceset>
-<deviceset name="4503" prefix="IC" urn="urn:adsk.eagle:component:1018/3">
+<deviceset name="4503" prefix="IC" urn="urn:adsk.eagle:component:1018/3" locally_modified="yes">
 <description>Tri-state hex &lt;b&gt;BUFFER&lt;/b&gt;, 74C367, 80C97</description>
 <gates>
 <gate name="A" symbol="4503" x="20.32" y="0"/>
@@ -2294,7 +2300,7 @@ Based on the following sources:
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2328,7 +2334,7 @@ Based on the following sources:
 </device>
 </devices>
 </deviceset>
-<deviceset name="4500" prefix="IC" urn="urn:adsk.eagle:component:1015/3">
+<deviceset name="4500" prefix="IC" urn="urn:adsk.eagle:component:1015/3" locally_modified="yes">
 <description>Industrial &lt;B&gt;CONTROL UNIT&lt;/B&gt;</description>
 <gates>
 <gate name="G$1" symbol="4500" x="0" y="0"/>
@@ -2355,7 +2361,7 @@ Based on the following sources:
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2389,7 +2395,7 @@ Based on the following sources:
 </device>
 </devices>
 </deviceset>
-<deviceset name="4506" prefix="IC" urn="urn:adsk.eagle:component:1020/3">
+<deviceset name="4506" prefix="IC" urn="urn:adsk.eagle:component:1020/3" locally_modified="yes">
 <description>Dual expandable &lt;b&gt;AND/OR/INVERT&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4506" x="20.32" y="0"/>
@@ -2416,7 +2422,7 @@ Based on the following sources:
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2450,7 +2456,7 @@ Based on the following sources:
 </device>
 </devices>
 </deviceset>
-<deviceset name="4511" prefix="IC" urn="urn:adsk.eagle:component:1022/3">
+<deviceset name="4511" prefix="IC" urn="urn:adsk.eagle:component:1022/3" locally_modified="yes">
 <description>BCD to 7-segment &lt;b&gt;LATCH/DECODER/DRIVER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4511" x="20.32" y="0"/>
@@ -2477,7 +2483,7 @@ Based on the following sources:
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2511,7 +2517,7 @@ Based on the following sources:
 </device>
 </devices>
 </deviceset>
-<deviceset name="4512" prefix="IC" urn="urn:adsk.eagle:component:1023/3">
+<deviceset name="4512" prefix="IC" urn="urn:adsk.eagle:component:1023/3" locally_modified="yes">
 <description>8-channel &lt;B&gt;DATA SELECTOR&lt;/B&gt;&lt;p&gt;
 Inhibit function corrected - 2005.10.04 librarian@cadsoft.de&lt;br&gt;</description>
 <gates>
@@ -2539,7 +2545,7 @@ Inhibit function corrected - 2005.10.04 librarian@cadsoft.de&lt;br&gt;</descript
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2573,7 +2579,7 @@ Inhibit function corrected - 2005.10.04 librarian@cadsoft.de&lt;br&gt;</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="4517" prefix="IC" urn="urn:adsk.eagle:component:1025/3">
+<deviceset name="4517" prefix="IC" urn="urn:adsk.eagle:component:1025/3" locally_modified="yes">
 <description>Dual 64-bit static &lt;b&gt;REGISTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4517" x="22.86" y="0" swaplevel="1"/>
@@ -2601,7 +2607,7 @@ Inhibit function corrected - 2005.10.04 librarian@cadsoft.de&lt;br&gt;</descript
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2635,7 +2641,7 @@ Inhibit function corrected - 2005.10.04 librarian@cadsoft.de&lt;br&gt;</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="4555" prefix="IC" urn="urn:adsk.eagle:component:1047/3">
+<deviceset name="4555" prefix="IC" urn="urn:adsk.eagle:component:1047/3" locally_modified="yes">
 <description>Dual binary 1 of 4 &lt;b&gt;DECODER/DEMULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4555" x="20.32" y="0" swaplevel="1"/>
@@ -2663,7 +2669,7 @@ Inhibit function corrected - 2005.10.04 librarian@cadsoft.de&lt;br&gt;</descript
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2697,7 +2703,7 @@ Inhibit function corrected - 2005.10.04 librarian@cadsoft.de&lt;br&gt;</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="4569" prefix="IC" urn="urn:adsk.eagle:component:1055/3">
+<deviceset name="4569" prefix="IC" urn="urn:adsk.eagle:component:1055/3" locally_modified="yes">
 <description>Programmable dual 4 bit binary/BCD down &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4569" x="22.86" y="0"/>
@@ -2724,7 +2730,7 @@ Inhibit function corrected - 2005.10.04 librarian@cadsoft.de&lt;br&gt;</descript
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2758,7 +2764,7 @@ Inhibit function corrected - 2005.10.04 librarian@cadsoft.de&lt;br&gt;</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="4553" prefix="IC" urn="urn:adsk.eagle:component:1045/3">
+<deviceset name="4553" prefix="IC" urn="urn:adsk.eagle:component:1045/3" locally_modified="yes">
 <description>3-digit BCD &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4553" x="22.86" y="0"/>
@@ -2785,7 +2791,7 @@ Inhibit function corrected - 2005.10.04 librarian@cadsoft.de&lt;br&gt;</descript
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2819,7 +2825,7 @@ Inhibit function corrected - 2005.10.04 librarian@cadsoft.de&lt;br&gt;</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="4521" prefix="IC" urn="urn:adsk.eagle:component:1029/3">
+<deviceset name="4521" prefix="IC" urn="urn:adsk.eagle:component:1029/3" locally_modified="yes">
 <description>24-stage &lt;b&gt;FREQUENCY DIVIDER&lt;/b&gt;&lt;p&gt;
 new power gate with second VDD + VSS&lt;br&gt;
 Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</description>
@@ -2848,7 +2854,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS@1" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2882,7 +2888,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4502" prefix="IC" urn="urn:adsk.eagle:component:1017/3">
+<deviceset name="4502" prefix="IC" urn="urn:adsk.eagle:component:1017/3" locally_modified="yes">
 <description>Stored hex &lt;b&gt;INVERTER/BUFFER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4502" x="20.32" y="0"/>
@@ -2909,7 +2915,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2943,7 +2949,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4510" prefix="IC" urn="urn:adsk.eagle:component:1021/3">
+<deviceset name="4510" prefix="IC" urn="urn:adsk.eagle:component:1021/3" locally_modified="yes">
 <description>BCD up down &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4510" x="20.32" y="0"/>
@@ -2970,7 +2976,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3004,7 +3010,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4501" prefix="IC" urn="urn:adsk.eagle:component:1016/3">
+<deviceset name="4501" prefix="IC" urn="urn:adsk.eagle:component:1016/3" locally_modified="yes">
 <description>&lt;B&gt;NAND/NOR/OR&lt;/B&gt;</description>
 <gates>
 <gate name="A" symbol="4501" x="12.7" y="10.16" swaplevel="1"/>
@@ -3033,7 +3039,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3067,7 +3073,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4556" prefix="IC" urn="urn:adsk.eagle:component:1048/3">
+<deviceset name="4556" prefix="IC" urn="urn:adsk.eagle:component:1048/3" locally_modified="yes">
 <description>Dual binary 1 of 4 &lt;b&gt;DECODER INVERTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4556" x="20.32" y="0" swaplevel="1"/>
@@ -3095,7 +3101,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3129,7 +3135,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4526" prefix="IC" urn="urn:adsk.eagle:component:1031/3">
+<deviceset name="4526" prefix="IC" urn="urn:adsk.eagle:component:1031/3" locally_modified="yes">
 <description>Divide by n binary &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4522" x="20.32" y="0"/>
@@ -3156,7 +3162,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3190,7 +3196,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4530" prefix="IC" urn="urn:adsk.eagle:component:1035/3">
+<deviceset name="4530" prefix="IC" urn="urn:adsk.eagle:component:1035/3" locally_modified="yes">
 <description>Dual 5-input &lt;b&gt;MAJORITY GATE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4530" x="20.32" y="0" swaplevel="1"/>
@@ -3218,7 +3224,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3252,7 +3258,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4568" prefix="IC" urn="urn:adsk.eagle:component:1054/3">
+<deviceset name="4568" prefix="IC" urn="urn:adsk.eagle:component:1054/3" locally_modified="yes">
 <description>&lt;B&gt;PHASE COMPARATOR/PROGRAMMABLE COUNTER&lt;/B&gt;</description>
 <gates>
 <gate name="A" symbol="4568" x="22.86" y="0"/>
@@ -3279,7 +3285,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3313,7 +3319,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4519" prefix="IC" urn="urn:adsk.eagle:component:1027/3">
+<deviceset name="4519" prefix="IC" urn="urn:adsk.eagle:component:1027/3" locally_modified="yes">
 <description>4-bit &lt;b&gt;AND/OR SELECTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4519" x="20.32" y="0"/>
@@ -3340,7 +3346,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3374,7 +3380,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4582" prefix="IC" urn="urn:adsk.eagle:component:1057/3">
+<deviceset name="4582" prefix="IC" urn="urn:adsk.eagle:component:1057/3" locally_modified="yes">
 <description>&lt;B&gt;LOOK AHEAD CARRY BLOCK&lt;/B&gt;</description>
 <gates>
 <gate name="A" symbol="4582" x="22.86" y="0"/>
@@ -3401,7 +3407,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3435,7 +3441,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4558" prefix="IC" urn="urn:adsk.eagle:component:1050/3">
+<deviceset name="4558" prefix="IC" urn="urn:adsk.eagle:component:1050/3" locally_modified="yes">
 <description>BCD to 7-segment &lt;b&gt;DECODER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4558" x="22.86" y="0"/>
@@ -3462,7 +3468,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3496,7 +3502,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4583" prefix="IC" urn="urn:adsk.eagle:component:1058/3">
+<deviceset name="4583" prefix="IC" urn="urn:adsk.eagle:component:1058/3" locally_modified="yes">
 <description>Dual &lt;b&gt;SCHMITT TRIGGER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4583" x="20.32" y="0"/>
@@ -3523,7 +3529,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3557,7 +3563,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4520" prefix="IC" urn="urn:adsk.eagle:component:1028/3">
+<deviceset name="4520" prefix="IC" urn="urn:adsk.eagle:component:1028/3" locally_modified="yes">
 <description>Dual binary up &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4518" x="20.32" y="0" swaplevel="1"/>
@@ -3585,7 +3591,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3619,7 +3625,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4516" prefix="IC" urn="urn:adsk.eagle:component:1024/3">
+<deviceset name="4516" prefix="IC" urn="urn:adsk.eagle:component:1024/3" locally_modified="yes">
 <description>Binary up down &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4516" x="20.32" y="0"/>
@@ -3646,7 +3652,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3680,7 +3686,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4536" prefix="IC" urn="urn:adsk.eagle:component:1038/3">
+<deviceset name="4536" prefix="IC" urn="urn:adsk.eagle:component:1038/3" locally_modified="yes">
 <description>Programmable &lt;b&gt;TIMER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4536" x="20.32" y="0"/>
@@ -3707,7 +3713,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3741,7 +3747,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4566" prefix="IC" urn="urn:adsk.eagle:component:1053/3">
+<deviceset name="4566" prefix="IC" urn="urn:adsk.eagle:component:1053/3" locally_modified="yes">
 <description>Industrial &lt;B&gt;TIME BASE GENERATOR&lt;/B&gt;</description>
 <gates>
 <gate name="A" symbol="4566" x="22.86" y="0"/>
@@ -3768,7 +3774,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3802,7 +3808,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4557" prefix="IC" urn="urn:adsk.eagle:component:1049/3">
+<deviceset name="4557" prefix="IC" urn="urn:adsk.eagle:component:1049/3" locally_modified="yes">
 <description>1 to 64 bit variable length &lt;b&gt;SHIFT REGISTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4557" x="20.32" y="0"/>
@@ -3829,7 +3835,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3863,7 +3869,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4559" prefix="IC" urn="urn:adsk.eagle:component:1051/3">
+<deviceset name="4559" prefix="IC" urn="urn:adsk.eagle:component:1051/3" locally_modified="yes">
 <description>8-bit &lt;b&gt;SUCCESSIVE APPROXIMATION REGISTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4559" x="20.32" y="0"/>
@@ -3890,7 +3896,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3924,7 +3930,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4597" prefix="IC" urn="urn:adsk.eagle:component:1060/3">
+<deviceset name="4597" prefix="IC" urn="urn:adsk.eagle:component:1060/3" locally_modified="yes">
 <description>8-bit bus compatible &lt;b&gt;COUNTER/LATCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4597" x="20.32" y="0"/>
@@ -3951,7 +3957,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3985,7 +3991,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4585" prefix="IC" urn="urn:adsk.eagle:component:1059/3">
+<deviceset name="4585" prefix="IC" urn="urn:adsk.eagle:component:1059/3" locally_modified="yes">
 <description>4-bit &lt;b&gt;COMPARATOR&lt;/b&gt; (MC14585BCP)</description>
 <gates>
 <gate name="A" symbol="4585" x="22.86" y="0"/>
@@ -4002,8 +4008,8 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="A" pin="A&lt;B_I" pad="5"/>
 <connect gate="A" pin="A=B_I" pad="6"/>
 <connect gate="A" pin="A=B_O" pad="3"/>
-<connect gate="A" pin="A>B_I" pad="4"/>
-<connect gate="A" pin="A>B_O" pad="13"/>
+<connect gate="A" pin="A&gt;B_I" pad="4"/>
+<connect gate="A" pin="A&gt;B_O" pad="13"/>
 <connect gate="A" pin="B0" pad="11"/>
 <connect gate="A" pin="B1" pad="9"/>
 <connect gate="A" pin="B2" pad="1"/>
@@ -4012,7 +4018,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4028,8 +4034,8 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="A" pin="A&lt;B_I" pad="5"/>
 <connect gate="A" pin="A=B_I" pad="6"/>
 <connect gate="A" pin="A=B_O" pad="3"/>
-<connect gate="A" pin="A>B_I" pad="4"/>
-<connect gate="A" pin="A>B_O" pad="13"/>
+<connect gate="A" pin="A&gt;B_I" pad="4"/>
+<connect gate="A" pin="A&gt;B_O" pad="13"/>
 <connect gate="A" pin="B0" pad="11"/>
 <connect gate="A" pin="B1" pad="9"/>
 <connect gate="A" pin="B2" pad="1"/>
@@ -4046,7 +4052,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4522" prefix="IC" urn="urn:adsk.eagle:component:1030/3">
+<deviceset name="4522" prefix="IC" urn="urn:adsk.eagle:component:1030/3" locally_modified="yes">
 <description>Prog. BCD divide by n &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4522" x="20.32" y="0"/>
@@ -4073,7 +4079,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4107,7 +4113,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4572" prefix="IC" urn="urn:adsk.eagle:component:1056/3">
+<deviceset name="4572" prefix="IC" urn="urn:adsk.eagle:component:1056/3" locally_modified="yes">
 <description>&lt;b&gt;INVERTER/OR/NOR&lt;/b&gt; (MC14572BCP)</description>
 <gates>
 <gate name="P" symbol="PWRN" x="-5.08" y="0" addlevel="request"/>
@@ -4139,7 +4145,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4173,7 +4179,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4560" prefix="IC" urn="urn:adsk.eagle:component:1052/3">
+<deviceset name="4560" prefix="IC" urn="urn:adsk.eagle:component:1052/3" locally_modified="yes">
 <description>NBCD &lt;b&gt;ADDER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4560" x="20.32" y="0"/>
@@ -4200,7 +4206,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4234,7 +4240,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4528" prefix="IC" urn="urn:adsk.eagle:component:1033/3">
+<deviceset name="4528" prefix="IC" urn="urn:adsk.eagle:component:1033/3" locally_modified="yes">
 <description>Dual monostable &lt;b&gt;MULTIVIBRATOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4528" x="20.32" y="15.24" swaplevel="1"/>
@@ -4262,7 +4268,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4296,7 +4302,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4531" prefix="IC" urn="urn:adsk.eagle:component:1036/3">
+<deviceset name="4531" prefix="IC" urn="urn:adsk.eagle:component:1036/3" locally_modified="yes">
 <description>12-bit &lt;b&gt;PARITY TREE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4531" x="20.32" y="0"/>
@@ -4323,7 +4329,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4357,7 +4363,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4549" prefix="IC" urn="urn:adsk.eagle:component:1043/3">
+<deviceset name="4549" prefix="IC" urn="urn:adsk.eagle:component:1043/3" locally_modified="yes">
 <description>&lt;b&gt;SUCCESSIVE APPROXIMATION REGISTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4549" x="20.32" y="0"/>
@@ -4384,7 +4390,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4418,7 +4424,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4547" prefix="IC" urn="urn:adsk.eagle:component:1042/3">
+<deviceset name="4547" prefix="IC" urn="urn:adsk.eagle:component:1042/3" locally_modified="yes">
 <description>7-segment &lt;B&gt;DECODER&lt;/B&gt;</description>
 <gates>
 <gate name="A" symbol="4547" x="20.32" y="0"/>
@@ -4443,7 +4449,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4475,7 +4481,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4529" prefix="IC" urn="urn:adsk.eagle:component:1034/3">
+<deviceset name="4529" prefix="IC" urn="urn:adsk.eagle:component:1034/3" locally_modified="yes">
 <description>Dual 4-channel analog &lt;b&gt;DATA SELECTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4529" x="20.32" y="0"/>
@@ -4502,7 +4508,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4536,7 +4542,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4543" prefix="IC" urn="urn:adsk.eagle:component:1041/3">
+<deviceset name="4543" prefix="IC" urn="urn:adsk.eagle:component:1041/3" locally_modified="yes">
 <description>BCD to 7-segment &lt;b&gt;LCD DECODER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4543" x="20.32" y="0"/>
@@ -4563,7 +4569,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4597,7 +4603,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4554" prefix="IC" urn="urn:adsk.eagle:component:1046/3">
+<deviceset name="4554" prefix="IC" urn="urn:adsk.eagle:component:1046/3" locally_modified="yes">
 <description>&lt;b&gt;MULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4554" x="20.32" y="0"/>
@@ -4624,7 +4630,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4658,7 +4664,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4513" prefix="IC" urn="urn:adsk.eagle:component:1012/2">
+<deviceset name="4513" prefix="IC" urn="urn:adsk.eagle:component:1012/2" locally_modified="yes">
 <description>BCD to 7-segment &lt;b&gt;LATCH/DECODER/DRIVER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4513" x="22.86" y="0"/>
@@ -4687,7 +4693,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1008/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4695,7 +4701,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4598" prefix="IC" urn="urn:adsk.eagle:component:1067/2">
+<deviceset name="4598" prefix="IC" urn="urn:adsk.eagle:component:1067/2" locally_modified="yes">
 <description>8-bit bus compatible &lt;b&gt;LATCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4598" x="15.24" y="0"/>
@@ -4723,7 +4729,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1008/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4731,7 +4737,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4544" prefix="IC" urn="urn:adsk.eagle:component:1013/2">
+<deviceset name="4544" prefix="IC" urn="urn:adsk.eagle:component:1013/2" locally_modified="yes">
 <description>7-segment &lt;B&gt;DECODER&lt;/B&gt;</description>
 <gates>
 <gate name="A" symbol="4544" x="22.86" y="0"/>
@@ -4760,7 +4766,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1008/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4768,7 +4774,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4599" prefix="IC" urn="urn:adsk.eagle:component:1014/2">
+<deviceset name="4599" prefix="IC" urn="urn:adsk.eagle:component:1014/2" locally_modified="yes">
 <description>8-bit addressable &lt;b&gt;LATCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4599" x="20.32" y="0"/>
@@ -4797,7 +4803,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1008/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4805,7 +4811,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4538" prefix="IC" urn="urn:adsk.eagle:component:1039/3">
+<deviceset name="4538" prefix="IC" urn="urn:adsk.eagle:component:1039/3" locally_modified="yes">
 <description>Dual precision monostable &lt;b&gt;MULTIVIBRATOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4528" x="10.16" y="15.24" swaplevel="1"/>
@@ -4833,7 +4839,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4867,7 +4873,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4532" prefix="IC" urn="urn:adsk.eagle:component:1037/3">
+<deviceset name="4532" prefix="IC" urn="urn:adsk.eagle:component:1037/3" locally_modified="yes">
 <description>8-bit &lt;b&gt;PRIORITY ENCODER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4532" x="20.32" y="0"/>
@@ -4894,7 +4900,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4928,7 +4934,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4539" prefix="IC" urn="urn:adsk.eagle:component:1040/3">
+<deviceset name="4539" prefix="IC" urn="urn:adsk.eagle:component:1040/3" locally_modified="yes">
 <description>Dual 4-channel &lt;b&gt;DATA SELECTOR/MULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4539" x="20.32" y="0"/>
@@ -4955,7 +4961,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4989,7 +4995,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4551" prefix="IC" urn="urn:adsk.eagle:component:1044/3">
+<deviceset name="4551" prefix="IC" urn="urn:adsk.eagle:component:1044/3" locally_modified="yes">
 <description>Quad 2-channel analog &lt;b&gt;MULTIPLEXER/DEMULTIPLEXER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4551" x="20.32" y="0"/>
@@ -5016,7 +5022,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VEE" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5050,7 +5056,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4518" prefix="IC" urn="urn:adsk.eagle:component:1026/3">
+<deviceset name="4518" prefix="IC" urn="urn:adsk.eagle:component:1026/3" locally_modified="yes">
 <description>Dual BCD up &lt;b&gt;COUNTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4518" x="20.32" y="0" swaplevel="1"/>
@@ -5078,7 +5084,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5112,7 +5118,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4527" prefix="IC" urn="urn:adsk.eagle:component:1032/3">
+<deviceset name="4527" prefix="IC" urn="urn:adsk.eagle:component:1032/3" locally_modified="yes">
 <description>BCD rate &lt;b&gt;MULTIPLIER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4527" x="22.86" y="0"/>
@@ -5139,7 +5145,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1006/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5250,7 +5256,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4561" prefix="IC" urn="urn:adsk.eagle:component:1069/3">
+<deviceset name="4561" prefix="IC" urn="urn:adsk.eagle:component:1069/3" locally_modified="yes">
 <description>&lt;b&gt;COMPLEMENTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4561" x="20.32" y="0"/>
@@ -5274,7 +5280,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1011/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5305,7 +5311,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4541" prefix="IC" urn="urn:adsk.eagle:component:1068/3">
+<deviceset name="4541" prefix="IC" urn="urn:adsk.eagle:component:1068/3" locally_modified="yes">
 <description>&lt;b&gt;OSCILLATOR/PROGRAMMABLE TIMER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4541" x="22.86" y="0"/>
@@ -5328,7 +5334,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1011/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5358,7 +5364,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4562" prefix="IC" urn="urn:adsk.eagle:component:1070/3">
+<deviceset name="4562" prefix="IC" urn="urn:adsk.eagle:component:1070/3" locally_modified="yes">
 <description>128-bit static &lt;b&gt;SHIFT REGISTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4562" x="15.24" y="0"/>
@@ -5381,7 +5387,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1011/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5411,7 +5417,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="4584" prefix="IC" urn="urn:adsk.eagle:component:1071/3">
+<deviceset name="4584" prefix="IC" urn="urn:adsk.eagle:component:1071/3" locally_modified="yes">
 <description>Hex &lt;b&gt;SCHMITT TRIGGER&lt;/b&gt; (74C14)</description>
 <gates>
 <gate name="A" symbol="4584" x="20.32" y="10.16" swaplevel="1"/>
@@ -5441,7 +5447,7 @@ Source: http://www.standardics.nxp.com/products/hef/datasheet/hef4521b.pdf</desc
 <connect gate="P" pin="VSS" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:1011/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

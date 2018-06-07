@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -730,7 +730,7 @@ Motorola DRAMs&lt;p&gt;
 <vertex x="-1.375" y="-1.125"/>
 </polygon>
 </package>
-<package name="DIL40" urn="urn:adsk.eagle:footprint:19809/1">
+<package name="DIL40" urn="urn:adsk.eagle:footprint:19511/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="25.4" y1="6.731" x2="-25.4" y2="6.731" width="0.1524" layer="21"/>
 <wire x1="-25.4" y1="-6.731" x2="25.4" y2="-6.731" width="0.1524" layer="21"/>
@@ -781,7 +781,7 @@ Motorola DRAMs&lt;p&gt;
 <text x="-25.908" y="-6.604" size="1.778" layer="25" rot="R90">&gt;NAME</text>
 <text x="-17.145" y="-1.016" size="1.778" layer="27">&gt;VALUE</text>
 </package>
-<package name="DIL28" urn="urn:adsk.eagle:footprint:19821/1">
+<package name="DIL28" urn="urn:adsk.eagle:footprint:31062/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="17.78" y1="6.731" x2="-17.78" y2="6.731" width="0.1524" layer="21"/>
 <wire x1="-17.78" y1="-6.731" x2="17.78" y2="-6.731" width="0.1524" layer="21"/>
@@ -1499,7 +1499,7 @@ CASE 1259-01</description>
 <vertex x="-1.375" y="-1.125"/>
 </polygon>
 </package>
-<package name="S44" urn="urn:adsk.eagle:footprint:19868/1">
+<package name="S44" urn="urn:adsk.eagle:footprint:22571/1">
 <description>&lt;b&gt;PLCC SOCKET&lt;/b&gt;</description>
 <wire x1="-10.16" y1="11.684" x2="-11.684" y2="10.16" width="0.1524" layer="21"/>
 <wire x1="-11.684" y1="10.16" x2="-11.684" y2="-11.049" width="0.1524" layer="21"/>
@@ -2050,7 +2050,7 @@ CASE 1259-01</description>
 <rectangle x1="-8.2875" y1="9.88" x2="-7.9625" y2="11.05" layer="51"/>
 <rectangle x1="-8.9375" y1="9.88" x2="-8.6125" y2="11.05" layer="51"/>
 </package>
-<package name="SQFP-S-10X10-44" urn="urn:adsk.eagle:footprint:19936/1">
+<package name="SQFP-S-10X10-44" urn="urn:adsk.eagle:footprint:19182/1">
 <description>&lt;b&gt;QFP44&lt;/b&gt;&lt;p&gt;
 shrink quad flat pack, square</description>
 <wire x1="-7.4" y1="7.4" x2="7.4" y2="7.4" width="0.1998" layer="39"/>
@@ -2822,7 +2822,7 @@ CASE 1268-01</description>
 <text x="-27.178" y="-6.604" size="1.778" layer="25" rot="R90">&gt;NAME</text>
 <text x="-18.415" y="-1.016" size="1.778" layer="27">&gt;VALUE</text>
 </package>
-<package name="SOJ28-4" urn="urn:adsk.eagle:footprint:19902/1">
+<package name="SOJ28-4" urn="urn:adsk.eagle:footprint:18760/1">
 <description>&lt;b&gt;Small Outline J-Bend&lt;/b&gt;</description>
 <wire x1="9.2456" y1="-5.0292" x2="9.2456" y2="5.0292" width="0.1524" layer="21"/>
 <wire x1="-9.2456" y1="5.0292" x2="-9.2456" y2="-5.0292" width="0.1524" layer="21"/>
@@ -2972,7 +2972,7 @@ CASE 1268-01</description>
 <rectangle x1="6.731" y1="-5.588" x2="7.239" y2="-5.08" layer="51"/>
 <rectangle x1="6.8072" y1="-5.08" x2="7.1628" y2="-4.318" layer="51"/>
 </package>
-<package name="S68" urn="urn:adsk.eagle:footprint:19852/1">
+<package name="S68" urn="urn:adsk.eagle:footprint:22573/1">
 <description>&lt;b&gt;PLCC SOCKET&lt;/b&gt;</description>
 <wire x1="-13.97" y1="15.494" x2="-15.494" y2="13.97" width="0.1524" layer="21"/>
 <wire x1="-15.494" y1="13.97" x2="-15.494" y2="-14.859" width="0.1524" layer="21"/>
@@ -3768,7 +3768,7 @@ CASE 1268-01</description>
 <vertex x="-1.375" y="-1.125"/>
 </polygon>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:19884/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -4277,7 +4277,7 @@ square</description>
 <rectangle x1="2.2799" y1="12.5499" x2="2.8001" y2="13" layer="51"/>
 <rectangle x1="1.0099" y1="12.5499" x2="1.5301" y2="13" layer="51"/>
 </package>
-<package name="SOJ26-20" urn="urn:adsk.eagle:footprint:19890/1">
+<package name="SOJ26-20" urn="urn:adsk.eagle:footprint:18748/1">
 <description>&lt;b&gt;Small Outline J-Bend&lt;/b&gt;</description>
 <wire x1="8.636" y1="-3.7592" x2="8.636" y2="3.7592" width="0.1524" layer="21"/>
 <wire x1="-8.636" y1="3.7592" x2="-8.636" y2="-3.7592" width="0.1524" layer="21"/>
@@ -4467,7 +4467,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <text x="-15.494" y="-6.731" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-11.303" y="-0.889" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL20" urn="urn:adsk.eagle:footprint:19865/1">
+<package name="DIL20" urn="urn:adsk.eagle:footprint:16206/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="12.7" y1="2.921" x2="-12.7" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-12.7" y1="-2.921" x2="12.7" y2="-2.921" width="0.1524" layer="21"/>
@@ -4500,13 +4500,13 @@ body 3.9 mm/JEDEC MS-012AC</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="DIL40" urn="urn:adsk.eagle:package:19953/1" type="box">
+<package3d name="DIL40" urn="urn:adsk.eagle:package:19651/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL40"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL28" urn="urn:adsk.eagle:package:19952/1" type="box">
+<package3d name="DIL28" urn="urn:adsk.eagle:package:31069/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL28"/>
@@ -4518,13 +4518,13 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <packageinstance name="S52"/>
 </packageinstances>
 </package3d>
-<package3d name="S68" urn="urn:adsk.eagle:package:19956/1" type="box">
+<package3d name="S68" urn="urn:adsk.eagle:package:22584/1" type="box">
 <description>PLCC SOCKET</description>
 <packageinstances>
 <packageinstance name="S68"/>
 </packageinstances>
 </package3d>
-<package3d name="S44" urn="urn:adsk.eagle:package:19957/1" type="box">
+<package3d name="S44" urn="urn:adsk.eagle:package:22585/1" type="box">
 <description>PLCC SOCKET</description>
 <packageinstances>
 <packageinstance name="S44"/>
@@ -4544,13 +4544,13 @@ CASE 1259-01</description>
 <packageinstance name="LQFP160"/>
 </packageinstances>
 </package3d>
-<package3d name="SOJ28-4" urn="urn:adsk.eagle:package:19968/1" type="box">
+<package3d name="SOJ28-4" urn="urn:adsk.eagle:package:18779/1" type="box">
 <description>Small Outline J-Bend</description>
 <packageinstances>
 <packageinstance name="SOJ28-4"/>
 </packageinstances>
 </package3d>
-<package3d name="SQFP-S-10X10-44" urn="urn:adsk.eagle:package:19972/1" type="box">
+<package3d name="SQFP-S-10X10-44" urn="urn:adsk.eagle:package:19187/1" type="box">
 <description>QFP44
 shrink quad flat pack, square</description>
 <packageinstances>
@@ -4602,7 +4602,7 @@ square</description>
 <packageinstance name="PLCC68S"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:19963/1" type="box">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
@@ -4622,7 +4622,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <packageinstance name="SO16"/>
 </packageinstances>
 </package3d>
-<package3d name="SOJ26-20" urn="urn:adsk.eagle:package:19966/1" type="box">
+<package3d name="SOJ26-20" urn="urn:adsk.eagle:package:18765/1" type="box">
 <description>Small Outline J-Bend</description>
 <packageinstances>
 <packageinstance name="SOJ26-20"/>
@@ -4634,7 +4634,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <packageinstance name="DIL24"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL20" urn="urn:adsk.eagle:package:19960/1" type="box">
+<package3d name="DIL20" urn="urn:adsk.eagle:package:16429/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL20"/>
@@ -8752,7 +8752,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="68705R3" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20012/1">
+<deviceset name="68705R3" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20012/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68705R3" x="30.48" y="0"/>
@@ -8803,7 +8803,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -8816,7 +8816,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6805U3" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20010/1">
+<deviceset name="6805U3" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20010/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6805U3" x="30.48" y="0"/>
@@ -8866,7 +8866,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -8879,7 +8879,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68HC34" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20016/1">
+<deviceset name="68HC34" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20016/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68HC34" x="27.94" y="0"/>
@@ -8929,7 +8929,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <connect gate="P" pin="VSS" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -8942,7 +8942,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6805U2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20007/1">
+<deviceset name="6805U2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20007/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6805U2" x="30.48" y="0"/>
@@ -8993,7 +8993,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9006,7 +9006,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68705U3" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20013/1">
+<deviceset name="68705U3" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20013/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68705U3" x="30.48" y="0"/>
@@ -9057,7 +9057,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9070,7 +9070,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6809E" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20015/1">
+<deviceset name="6809E" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20015/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6809E" x="0" y="0"/>
@@ -9121,7 +9121,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9134,7 +9134,7 @@ body 3.9 mm/JEDEC MS-012AC</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68HC908GP32*" prefix="IC" urn="urn:adsk.eagle:component:20017/1">
+<deviceset name="68HC908GP32*" prefix="IC" urn="urn:adsk.eagle:component:20017/1" locally_modified="yes">
 <description>&lt;b&gt;MC68HC908GP32 MC68HC08GP32&lt;/b&gt;&lt;p&gt;
 Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <gates>
@@ -9185,7 +9185,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="G$1" pin="VSSA" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9198,7 +9198,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68HC05C2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20008/1">
+<deviceset name="68HC05C2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20008/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68HC05C2" x="27.94" y="0"/>
@@ -9248,7 +9248,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9261,7 +9261,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="146823" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20000/1">
+<deviceset name="146823" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20000/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="146823" x="25.4" y="0"/>
@@ -9312,7 +9312,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9325,7 +9325,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68HC05C3" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20011/1">
+<deviceset name="68HC05C3" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20011/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68HC05C3" x="27.94" y="0"/>
@@ -9375,7 +9375,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9388,7 +9388,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6805R2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20006/1">
+<deviceset name="6805R2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20006/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6805R2" x="30.48" y="0"/>
@@ -9439,7 +9439,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9452,7 +9452,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6809" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19994/1">
+<deviceset name="6809" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19994/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6809" x="30.48" y="0"/>
@@ -9503,7 +9503,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9516,7 +9516,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2674" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19990/1">
+<deviceset name="2674" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19990/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2674" x="0" y="0"/>
@@ -9567,7 +9567,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VCC" pad="40"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9580,7 +9580,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6844" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19996/1">
+<deviceset name="6844" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19996/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6844" x="27.94" y="0"/>
@@ -9631,7 +9631,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9644,7 +9644,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6801U4NM" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20005/1">
+<deviceset name="6801U4NM" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20005/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6801U4NM" x="30.48" y="0"/>
@@ -9695,7 +9695,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9708,7 +9708,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6801NM" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20002/1">
+<deviceset name="6801NM" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20002/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6801NM" x="30.48" y="0"/>
@@ -9759,7 +9759,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9772,7 +9772,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6802" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19993/1">
+<deviceset name="6802" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19993/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6802" x="30.48" y="0"/>
@@ -9823,7 +9823,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS@2" pad="21"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9836,7 +9836,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2672" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19989/1">
+<deviceset name="2672" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19989/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2672" x="0" y="0"/>
@@ -9887,7 +9887,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VCC" pad="40"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9900,7 +9900,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68701" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19999/1">
+<deviceset name="68701" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19999/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68701" x="27.94" y="0"/>
@@ -9951,7 +9951,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -9964,7 +9964,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6801EM" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20001/1">
+<deviceset name="6801EM" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20001/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6801EM" x="30.48" y="0"/>
@@ -10015,7 +10015,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10028,7 +10028,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6800" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19991/1">
+<deviceset name="6800" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19991/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6800" x="30.48" y="0"/>
@@ -10077,7 +10077,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS@2" pad="21"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10090,7 +10090,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6845" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19997/1">
+<deviceset name="6845" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19997/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6845" x="27.94" y="0"/>
@@ -10141,7 +10141,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10154,7 +10154,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68488" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19998/1">
+<deviceset name="68488" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19998/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68488" x="27.94" y="0"/>
@@ -10205,7 +10205,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10218,7 +10218,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6821" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19995/1">
+<deviceset name="6821" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19995/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6821" x="30.48" y="0"/>
@@ -10269,7 +10269,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10282,7 +10282,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6801" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19992/1">
+<deviceset name="6801" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19992/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6801" x="30.48" y="0"/>
@@ -10333,7 +10333,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10346,7 +10346,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68HC805C4" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20014/1">
+<deviceset name="68HC805C4" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20014/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68HC05C4" x="27.94" y="0"/>
@@ -10397,7 +10397,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10410,7 +10410,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6805R3" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20009/1">
+<deviceset name="6805R3" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20009/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6805R3" x="30.48" y="0"/>
@@ -10460,7 +10460,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10473,7 +10473,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6801U4EM" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20004/1">
+<deviceset name="6801U4EM" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20004/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6801U4EM" x="30.48" y="0"/>
@@ -10524,7 +10524,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10537,7 +10537,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68HC24" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20003/1">
+<deviceset name="68HC24" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20003/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68HC24" x="25.4" y="0"/>
@@ -10588,7 +10588,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="26"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19953/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10601,7 +10601,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6840" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20021/1">
+<deviceset name="6840" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20021/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6840" x="25.4" y="0"/>
@@ -10640,7 +10640,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19952/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10653,7 +10653,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6854" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20022/1">
+<deviceset name="6854" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20022/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6854" x="27.94" y="0"/>
@@ -10692,7 +10692,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19952/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10705,7 +10705,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6805P2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20024/1">
+<deviceset name="6805P2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20024/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6805P2" x="27.94" y="0"/>
@@ -10744,7 +10744,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19952/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10757,7 +10757,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68705P3" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20026/1">
+<deviceset name="68705P3" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20026/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68705P3" x="30.48" y="0"/>
@@ -10796,7 +10796,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19952/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10809,7 +10809,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68HC05P1" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20023/1">
+<deviceset name="68HC05P1" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20023/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68HC05P1" x="27.94" y="0"/>
@@ -10848,7 +10848,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19952/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10861,7 +10861,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6805S2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20025/1">
+<deviceset name="6805S2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20025/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6805S2" x="27.94" y="0"/>
@@ -10900,7 +10900,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19952/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10913,7 +10913,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="146805F2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20028/1">
+<deviceset name="146805F2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20028/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="146805F2" x="27.94" y="0"/>
@@ -10952,7 +10952,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19952/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -10965,7 +10965,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6804P2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20027/1">
+<deviceset name="6804P2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20027/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6804P2" x="25.4" y="0"/>
@@ -11004,7 +11004,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19952/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -11017,7 +11017,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68HCL05C4" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19980/1">
+<deviceset name="68HCL05C4" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19980/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68HCL5C4" x="27.94" y="0"/>
@@ -11067,7 +11067,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19957/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22585/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -11080,7 +11080,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="146805E2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19981/1">
+<deviceset name="146805E2" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19981/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="146805E2" x="27.94" y="0"/>
@@ -11131,7 +11131,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="23"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19957/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22585/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -11488,7 +11488,7 @@ Source: 9S12A128DGV1.pdf; 9S12A256DGV1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68HC908GP32*FB" prefix="IC" urn="urn:adsk.eagle:component:20053/1">
+<deviceset name="68HC908GP32*FB" prefix="IC" urn="urn:adsk.eagle:component:20053/1" locally_modified="yes">
 <description>&lt;b&gt;MC68HC908GP32 MC68HC08GP32&lt;/b&gt;&lt;p&gt;
 Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <gates>
@@ -11543,7 +11543,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="G$1" pin="VSSA" pad="41"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19972/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19187/1"/>
 </package3dinstances>
 <technologies>
 <technology name="C">
@@ -11568,7 +11568,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM54900A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20047/1">
+<deviceset name="MCM54900A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20047/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM54900A" x="0" y="0"/>
@@ -11605,7 +11605,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="G$1" pin="W" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19968/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18779/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -11618,7 +11618,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM54800A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20046/1">
+<deviceset name="MCM54800A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20046/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM54800A" x="0" y="0"/>
@@ -11654,7 +11654,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="G$1" pin="W" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19968/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18779/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -11975,7 +11975,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68HC05L6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19982/1">
+<deviceset name="68HC05L6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19982/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="68HC05L6" x="27.94" y="0"/>
@@ -12052,7 +12052,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VSS" pad="32"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19956/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22584/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -12900,7 +12900,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM54102A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20033/1">
+<deviceset name="MCM54102A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20033/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM54102A" x="0" y="0"/>
@@ -12929,7 +12929,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -12942,7 +12942,7 @@ Source: www.motorola.com .. MC68HC908GP32.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="68HC11F1*" prefix="IC" urn="urn:adsk.eagle:component:20031/1">
+<deviceset name="68HC11F1*" prefix="IC" urn="urn:adsk.eagle:component:20031/1" locally_modified="yes">
 <description>&lt;b&gt;HIGH-PERFORMANCE MICROCONTROLLER UNIT (MCU)&lt;/b&gt;&lt;p&gt;
 source MC68HC11F1.pdf</description>
 <gates>
@@ -13580,7 +13580,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19956/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22584/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -13593,7 +13593,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM54101A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20032/1">
+<deviceset name="MCM54101A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20032/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM54101A" x="0" y="0"/>
@@ -13622,7 +13622,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -13739,7 +13739,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM514258A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20045/1">
+<deviceset name="MCM514258A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20045/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM514258" x="0" y="0"/>
@@ -13769,7 +13769,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -13782,7 +13782,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM54100A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20041/1">
+<deviceset name="MCM54100A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20041/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM54100A" x="0" y="0"/>
@@ -13811,7 +13811,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -13824,7 +13824,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM511000A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20038/1">
+<deviceset name="MCM511000A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20038/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM511000" x="0" y="0"/>
@@ -13853,7 +13853,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -13866,7 +13866,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM414256" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20037/1">
+<deviceset name="MCM414256" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20037/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="P" symbol="PWRN" x="-25.4" y="0" addlevel="request"/>
@@ -13896,7 +13896,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -13909,7 +13909,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MC145028" prefix="IC" urn="urn:adsk.eagle:component:20050/1">
+<deviceset name="MC145028" prefix="IC" urn="urn:adsk.eagle:component:20050/1" locally_modified="yes">
 <description>&lt;b&gt;DECODER&lt;/b&gt; SC41344</description>
 <gates>
 <gate name="G$1" symbol="MC145028" x="0" y="0"/>
@@ -13936,7 +13936,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19963/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -13980,7 +13980,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM511002A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20043/1">
+<deviceset name="MCM511002A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20043/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM511002" x="0" y="0"/>
@@ -14009,7 +14009,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -14022,7 +14022,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM411000" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20036/1">
+<deviceset name="MCM411000" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20036/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="P" symbol="PWRN" x="-22.86" y="2.54" addlevel="request"/>
@@ -14051,7 +14051,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -14064,7 +14064,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MC145026" prefix="IC" urn="urn:adsk.eagle:component:20029/1">
+<deviceset name="MC145026" prefix="IC" urn="urn:adsk.eagle:component:20029/1" locally_modified="yes">
 <description>&lt;b&gt;ENCODER&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="MC145026" x="0" y="0"/>
@@ -14091,7 +14091,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19963/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -14135,7 +14135,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MC145027" prefix="IC" urn="urn:adsk.eagle:component:20049/1">
+<deviceset name="MC145027" prefix="IC" urn="urn:adsk.eagle:component:20049/1" locally_modified="yes">
 <description>&lt;b&gt;DECODER&lt;/b&gt; SC41343</description>
 <gates>
 <gate name="G$1" symbol="MC145027" x="0" y="0"/>
@@ -14162,7 +14162,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19963/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -14206,7 +14206,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM44400" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20040/1">
+<deviceset name="MCM44400" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20040/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="P" symbol="PWRN" x="-30.48" y="2.54" addlevel="request"/>
@@ -14237,7 +14237,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -14250,7 +14250,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM54400A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20034/1">
+<deviceset name="MCM54400A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20034/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM54400A" x="0" y="-2.54"/>
@@ -14281,7 +14281,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -14294,7 +14294,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM44100" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20039/1">
+<deviceset name="MCM44100" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20039/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM44100" x="0" y="0"/>
@@ -14323,7 +14323,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -14336,7 +14336,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM54402A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20035/1">
+<deviceset name="MCM54402A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20035/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM54402A" x="0" y="0"/>
@@ -14367,7 +14367,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -14380,7 +14380,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM54410A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20042/1">
+<deviceset name="MCM54410A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20042/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM54410A" x="0" y="0"/>
@@ -14411,7 +14411,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -14499,7 +14499,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCM514256A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20044/1">
+<deviceset name="MCM514256A" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:20044/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="CM514256" x="0" y="0"/>
@@ -14529,7 +14529,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19966/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18765/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -14780,7 +14780,7 @@ source MC68HC11F1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6804J1" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19988/1">
+<deviceset name="6804J1" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19988/1" locally_modified="yes">
 <description>&lt;b&gt;MICROCONTROLLER/MEMORY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6804J1" x="25.4" y="0"/>
@@ -14811,7 +14811,7 @@ source MC68HC11F1.pdf</description>
 <connect gate="P" pin="VSS" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19960/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

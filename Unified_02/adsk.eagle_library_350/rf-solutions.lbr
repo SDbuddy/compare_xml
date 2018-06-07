@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -73,7 +73,7 @@ R F Solutions is a member of the Low Power Radio Association.&lt;br&gt;
 http://www.rfsolutions.co.uk&lt;br&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="DIL18" urn="urn:adsk.eagle:footprint:26236/1">
+<package name="DIL18" urn="urn:adsk.eagle:footprint:16182/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="11.43" y1="2.921" x2="-11.43" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-11.43" y1="-2.921" x2="11.43" y2="-2.921" width="0.1524" layer="21"/>
@@ -102,7 +102,7 @@ http://www.rfsolutions.co.uk&lt;br&gt;
 <text x="-11.684" y="-3.048" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-9.525" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="SO-08" urn="urn:adsk.eagle:footprint:26238/1">
+<package name="SO-08" urn="urn:adsk.eagle:footprint:20622/1">
 <description>&lt;B&gt;Small Outline Narrow Plastic Gull Wing&lt;/B&gt;&lt;p&gt;
 150-mil body, package type SN</description>
 <wire x1="-2.9" y1="3.9" x2="2.9" y2="3.9" width="0.1998" layer="39"/>
@@ -138,7 +138,7 @@ http://www.rfsolutions.co.uk&lt;br&gt;
 <rectangle x1="-2.1501" y1="2" x2="-1.6599" y2="3.1001" layer="51"/>
 <rectangle x1="-1" y1="-1" x2="1" y2="1" layer="35"/>
 </package>
-<package name="SO-18W" urn="urn:adsk.eagle:footprint:26235/1">
+<package name="SO-18W" urn="urn:adsk.eagle:footprint:20594/1">
 <description>&lt;B&gt;Small Outline Wide Plastic Gull Wing&lt;/B&gt;&lt;p&gt;
 300-mil body, package type SO</description>
 <wire x1="-5.6642" y1="-3.6957" x2="5.6388" y2="-3.6957" width="0.1524" layer="21"/>
@@ -185,7 +185,7 @@ http://www.rfsolutions.co.uk&lt;br&gt;
 <rectangle x1="3.6068" y1="-5.0927" x2="4.0132" y2="-3.7465" layer="51"/>
 <rectangle x1="4.8768" y1="-5.0927" x2="5.2832" y2="-3.7465" layer="51"/>
 </package>
-<package name="DIL08" urn="urn:adsk.eagle:footprint:26239/1">
+<package name="DIL08" urn="urn:adsk.eagle:footprint:29416/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="5.08" y1="2.921" x2="-5.08" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-5.08" y1="-2.921" x2="5.08" y2="-2.921" width="0.1524" layer="21"/>
@@ -206,26 +206,26 @@ http://www.rfsolutions.co.uk&lt;br&gt;
 </package>
 </packages>
 <packages3d>
-<package3d name="DIL18" urn="urn:adsk.eagle:package:26241/1" type="box">
+<package3d name="DIL18" urn="urn:adsk.eagle:package:16424/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL18"/>
 </packageinstances>
 </package3d>
-<package3d name="SO-08" urn="urn:adsk.eagle:package:26244/1" type="box">
+<package3d name="SO-08" urn="urn:adsk.eagle:package:20804/2" type="model">
 <description>Small Outline Narrow Plastic Gull Wing
 150-mil body, package type SN</description>
 <packageinstances>
 <packageinstance name="SO-08"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL08" urn="urn:adsk.eagle:package:26243/1" type="box">
+<package3d name="DIL08" urn="urn:adsk.eagle:package:29519/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL08"/>
 </packageinstances>
 </package3d>
-<package3d name="SO-18W" urn="urn:adsk.eagle:package:26242/1" type="box">
+<package3d name="SO-18W" urn="urn:adsk.eagle:package:20797/2" type="model">
 <description>Small Outline Wide Plastic Gull Wing
 300-mil body, package type SO</description>
 <packageinstances>
@@ -289,7 +289,7 @@ http://www.rfsolutions.co.uk&lt;br&gt;
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="RF600D" prefix="IC" urn="urn:adsk.eagle:component:26247/1">
+<deviceset name="RF600D" prefix="IC" urn="urn:adsk.eagle:component:26247/1" locally_modified="yes">
 <description>&lt;b&gt;RF / IR Decoder&lt;/b&gt;&lt;p&gt;
 Source: RF600D.pdf</description>
 <gates>
@@ -316,7 +316,7 @@ Source: RF600D.pdf</description>
 <connect gate="G$1" pin="VCC@1" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26242/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20797/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -347,7 +347,7 @@ Source: RF600D.pdf</description>
 <connect gate="G$1" pin="VCC@1" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26241/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -360,7 +360,7 @@ Source: RF600D.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="RF600E" prefix="IC" urn="urn:adsk.eagle:component:26245/1">
+<deviceset name="RF600E" prefix="IC" urn="urn:adsk.eagle:component:26245/1" locally_modified="yes">
 <description>&lt;b&gt;RF / IR Encoder&lt;/b&gt;&lt;p&gt;
 Source: RF600D.pdf</description>
 <gates>
@@ -379,7 +379,7 @@ Source: RF600D.pdf</description>
 <connect gate="G$1" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26244/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20804/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -402,7 +402,7 @@ Source: RF600D.pdf</description>
 <connect gate="G$1" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26243/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -415,7 +415,7 @@ Source: RF600D.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="RF600?8" prefix="IC" urn="urn:adsk.eagle:component:26246/1">
+<deviceset name="RF600?8" prefix="IC" urn="urn:adsk.eagle:component:26246/1" locally_modified="yes">
 <description>&lt;b&gt;RF / IR Decoder&lt;/b&gt;&lt;p&gt;
 Miniature 8 pin version option providing a serial data output only.&lt;br&gt;
 Source: RF600D.pdf</description>
@@ -432,7 +432,7 @@ Source: RF600D.pdf</description>
 <connect gate="G$1" pin="VCC" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26243/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -452,7 +452,7 @@ Source: RF600D.pdf</description>
 <connect gate="G$1" pin="VCC" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26244/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20804/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

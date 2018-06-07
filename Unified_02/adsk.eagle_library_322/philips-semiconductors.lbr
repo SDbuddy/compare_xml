@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.2">
 <drawing>
 <settings>
@@ -150,7 +150,7 @@ Source: TDA8029.pdf</description>
 <rectangle x1="-2.5" y1="3.8" x2="-1.5" y2="4.2" layer="51" rot="R270"/>
 <rectangle x1="-3.3" y1="3.8" x2="-2.3" y2="4.2" layer="51" rot="R270"/>
 </package>
-<package name="MULTIWAT-SIL13" urn="urn:adsk.eagle:footprint:22170/1">
+<package name="MULTIWAT-SIL13" urn="urn:adsk.eagle:footprint:16260/1">
 <description>&lt;b&gt;DBS13P&lt;/b&gt; plastic DIL-bent-SIL power package&lt;p&gt;
 13 leads (lead length 12 mm) SOT141-6&lt;br&gt;
 Source: TDA1516BQ_1.pdf</description>
@@ -197,7 +197,7 @@ Source: TDA1516BQ_1.pdf</description>
 <text x="-11.43" y="4.445" size="1.27" layer="25">&gt;NAME</text>
 <text x="-3.81" y="4.445" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="DIL08" urn="urn:adsk.eagle:footprint:22166/1">
+<package name="DIL08" urn="urn:adsk.eagle:footprint:16129/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="5.08" y1="2.921" x2="-5.08" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-5.08" y1="-2.921" x2="5.08" y2="-2.921" width="0.1524" layer="21"/>
@@ -216,7 +216,7 @@ Source: TDA1516BQ_1.pdf</description>
 <text x="-5.334" y="-2.921" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-3.556" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="SO08" urn="urn:adsk.eagle:footprint:22165/1">
+<package name="SO08" urn="urn:adsk.eagle:footprint:16130/1">
 <description>&lt;b&gt;Small Outline Package 8&lt;/b&gt;&lt;br&gt;
 NS Package M08A</description>
 <wire x1="2.4" y1="1.9" x2="2.4" y2="-1.4" width="0.2032" layer="51"/>
@@ -254,7 +254,7 @@ Source: TDA8029.pdf</description>
 <packageinstance name="LQFP32-7X7MM"/>
 </packageinstances>
 </package3d>
-<package3d name="MULTIWAT-SIL13" urn="urn:adsk.eagle:package:22174/1" type="box">
+<package3d name="MULTIWAT-SIL13" urn="urn:adsk.eagle:package:16446/1" type="box">
 <description>DBS13P plastic DIL-bent-SIL power package
 13 leads (lead length 12 mm) SOT141-6
 Source: TDA1516BQ_1.pdf</description>
@@ -262,14 +262,14 @@ Source: TDA1516BQ_1.pdf</description>
 <packageinstance name="MULTIWAT-SIL13"/>
 </packageinstances>
 </package3d>
-<package3d name="SO08" urn="urn:adsk.eagle:package:22171/1" type="box">
+<package3d name="SO08" urn="urn:adsk.eagle:package:16404/2" type="model">
 <description>Small Outline Package 8
 NS Package M08A</description>
 <packageinstances>
 <packageinstance name="SO08"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL08" urn="urn:adsk.eagle:package:22172/1" type="box">
+<package3d name="DIL08" urn="urn:adsk.eagle:package:16409/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL08"/>
@@ -410,7 +410,7 @@ Source: TDA8029.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TDA1552Q" prefix="IC" urn="urn:adsk.eagle:component:22177/1">
+<deviceset name="TDA1552Q" prefix="IC" urn="urn:adsk.eagle:component:22177/1" locally_modified="yes">
 <description>&lt;b&gt;2 x 22 W BTL stereo car radio power amplifier&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="http://www.nxp.com/documents/data_sheet/TDA1552Q_CNV.pdf"&gt; Data sheet &lt;/a&gt;</description>
 <gates>
@@ -433,7 +433,7 @@ Source: &lt;a href="http://www.nxp.com/documents/data_sheet/TDA1552Q_CNV.pdf"&gt
 <connect gate="G$1" pin="VP@2" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:22174/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16446/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -441,7 +441,7 @@ Source: &lt;a href="http://www.nxp.com/documents/data_sheet/TDA1552Q_CNV.pdf"&gt
 </device>
 </devices>
 </deviceset>
-<deviceset name="SAB6456" prefix="IC" urn="urn:adsk.eagle:component:22175/1">
+<deviceset name="SAB6456" prefix="IC" urn="urn:adsk.eagle:component:22175/1" locally_modified="yes">
 <description>&lt;b&gt;Sensitive 1 GHz divide-by-64/divide-by-256 switchable prescaler&lt;/b&gt;&lt;p&gt;
 Source: PHILIPS .. SAB6456.pdf</description>
 <gates>
@@ -459,7 +459,7 @@ Source: PHILIPS .. SAB6456.pdf</description>
 <connect gate="G$1" pin="VEE" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:22171/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16404/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -481,7 +481,7 @@ Source: PHILIPS .. SAB6456.pdf</description>
 <connect gate="G$1" pin="VEE" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:22172/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16409/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

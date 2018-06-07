@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -904,9 +904,9 @@ Source: http://www.taiwansemi.com/TSCbig5/ezcatfiles/cust/img/img/db101g.pdf</de
 <rectangle x1="1.905" y1="2.921" x2="3.175" y2="3.175" layer="51"/>
 <rectangle x1="-3.175" y1="2.921" x2="-1.905" y2="3.175" layer="51"/>
 </package>
-<package name="SO08" urn="urn:adsk.eagle:footprint:23865/1">
-<description>&lt;b&gt;Land Pattern - SO-8&lt;/b&gt;&lt;br&gt;
-Source: www.semtech.com .. lc03_6.pdf</description>
+<package name="SO08" urn="urn:adsk.eagle:footprint:16130/1">
+<description>&lt;b&gt;Small Outline Package 8&lt;/b&gt;&lt;br&gt;
+NS Package M08A</description>
 <wire x1="2.4" y1="1.9" x2="2.4" y2="-1.4" width="0.2032" layer="51"/>
 <wire x1="2.4" y1="-1.4" x2="2.4" y2="-1.9" width="0.2032" layer="51"/>
 <wire x1="2.4" y1="-1.9" x2="-2.4" y2="-1.9" width="0.2032" layer="51"/>
@@ -1450,9 +1450,9 @@ Source: http://www.taiwansemi.com/TSCbig5/ezcatfiles/cust/img/img/db101g.pdf</de
 <packageinstance name="DBS"/>
 </packageinstances>
 </package3d>
-<package3d name="SO08" urn="urn:adsk.eagle:package:23908/1" type="box">
-<description>Land Pattern - SO-8
-Source: www.semtech.com .. lc03_6.pdf</description>
+<package3d name="SO08" urn="urn:adsk.eagle:package:16404/2" type="model">
+<description>Small Outline Package 8
+NS Package M08A</description>
 <packageinstances>
 <packageinstance name="SO08"/>
 </packageinstances>
@@ -2400,7 +2400,7 @@ http://www.ts.com.tw/db/pictures/modules/PDT/PDT060207001/DBLS201G.pdf</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="LC03-6" prefix="B" urn="urn:adsk.eagle:component:23940/1">
+<deviceset name="LC03-6" prefix="B" urn="urn:adsk.eagle:component:23940/1" locally_modified="yes">
 <description>&lt;b&gt;Low Capacitance TSV ( Transient Volatce Suppressor) for High-Speed Data Intrerfaces&lt;/b&lt;&lt;p&gt;
 Source: www.semtech.com  .. lc03_6.pdf</description>
 <gates>
@@ -2419,7 +2419,7 @@ Source: www.semtech.com  .. lc03_6.pdf</description>
 <connect gate="G$1" pin="OUT~2" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:23908/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16404/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

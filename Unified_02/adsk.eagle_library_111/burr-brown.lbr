@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -2135,7 +2135,7 @@ Source: http://focus.ti.com/lit/ml/msoi004e/msoi004e.pdf</description>
 <rectangle x1="0.4572" y1="1.8542" x2="0.8128" y2="2.8702" layer="51"/>
 <rectangle x1="1.7272" y1="1.8542" x2="2.0828" y2="2.8702" layer="51"/>
 </package>
-<package name="DIL14" urn="urn:adsk.eagle:footprint:4754/1">
+<package name="DIL14" urn="urn:adsk.eagle:footprint:16136/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="8.89" y1="2.921" x2="-8.89" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-8.89" y1="-2.921" x2="8.89" y2="-2.921" width="0.1524" layer="21"/>
@@ -3471,7 +3471,7 @@ square</description>
 <packageinstance name="SO08"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL14" urn="urn:adsk.eagle:package:4929/1" type="box">
+<package3d name="DIL14" urn="urn:adsk.eagle:package:16407/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL14"/>
@@ -17251,7 +17251,7 @@ Source: Burr-Brown buf602.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="OPA4132" prefix="IC" urn="urn:adsk.eagle:component:5105/1">
+<deviceset name="OPA4132" prefix="IC" urn="urn:adsk.eagle:component:5105/1" locally_modified="yes">
 <description>&lt;b&gt;High Speed FET-Input Operational Amplifiers&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="OP-AMP+-" x="-10.16" y="5.08"/>
@@ -17307,7 +17307,7 @@ Source: Burr-Brown buf602.pdf</description>
 <connect gate="D" pin="OUT" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17320,7 +17320,7 @@ Source: Burr-Brown buf602.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="OPA4336" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:5109/1">
+<deviceset name="OPA4336" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:5109/1" locally_modified="yes">
 <description>&lt;b&gt;Single-Supply, MicroPower CMOS Operational Amplifiers&lt;/b&gt;&lt;p&gt;
 MicroAmplifier (TM) Series</description>
 <gates>
@@ -17348,7 +17348,7 @@ MicroAmplifier (TM) Series</description>
 <connect gate="D" pin="OUT" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17419,7 +17419,7 @@ MicroAmplifier (TM) Series</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="OPA4650" prefix="IC" urn="urn:adsk.eagle:component:5111/1">
+<deviceset name="OPA4650" prefix="IC" urn="urn:adsk.eagle:component:5111/1" locally_modified="yes">
 <description>&lt;b&gt;Operational Amplifiers&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="OP-AMP+-" x="-17.78" y="7.62"/>
@@ -17475,7 +17475,7 @@ MicroAmplifier (TM) Series</description>
 <connect gate="D" pin="OUT" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17488,7 +17488,7 @@ MicroAmplifier (TM) Series</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="OPA4340" prefix="IC" urn="urn:adsk.eagle:component:5104/1">
+<deviceset name="OPA4340" prefix="IC" urn="urn:adsk.eagle:component:5104/1" locally_modified="yes">
 <description>&lt;b&gt;Operational Amplifiers&lt;/b&gt;&lt;p&gt;
 Source: http://focus.ti.com/lit/ds/sbos073/sbos073.pdf</description>
 <gates>
@@ -17516,7 +17516,7 @@ Source: http://focus.ti.com/lit/ds/sbos073/sbos073.pdf</description>
 <connect gate="D" pin="OUT" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17644,7 +17644,7 @@ Wideband, Low Distortion</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="OPA4658U" prefix="IC" urn="urn:adsk.eagle:component:5110/1">
+<deviceset name="OPA4658U" prefix="IC" urn="urn:adsk.eagle:component:5110/1" locally_modified="yes">
 <description>&lt;b&gt;Operational Amplifier&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="OP-AMP+-" x="-15.24" y="7.62"/>
@@ -17700,7 +17700,7 @@ Wideband, Low Distortion</description>
 <connect gate="D" pin="OUT" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17769,7 +17769,7 @@ Wideband, Low Distortion</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="OPA4130" prefix="IC" urn="urn:adsk.eagle:component:5107/1">
+<deviceset name="OPA4130" prefix="IC" urn="urn:adsk.eagle:component:5107/1" locally_modified="yes">
 <description>&lt;b&gt;Low Power, Precision FET-Input Operational Amplifiers&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="OP-AMP+-" x="-12.7" y="5.08"/>
@@ -17796,7 +17796,7 @@ Wideband, Low Distortion</description>
 <connect gate="D" pin="OUT" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17838,7 +17838,7 @@ Wideband, Low Distortion</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="OPA4131" prefix="IC" urn="urn:adsk.eagle:component:5106/1">
+<deviceset name="OPA4131" prefix="IC" urn="urn:adsk.eagle:component:5106/1" locally_modified="yes">
 <description>&lt;b&gt;General Purpose FET-Input Operational Amplifiers&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="OP-AMP+-" x="-10.16" y="7.62"/>
@@ -17894,7 +17894,7 @@ Wideband, Low Distortion</description>
 <connect gate="D" pin="OUT" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17936,7 +17936,7 @@ Wideband, Low Distortion</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="XTR101P" prefix="IC" urn="urn:adsk.eagle:component:5112/1">
+<deviceset name="XTR101P" prefix="IC" urn="urn:adsk.eagle:component:5112/1" locally_modified="yes">
 <description>&lt;b&gt;BURR-BROWN&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="XTR101" x="0" y="0"/>
@@ -17960,7 +17960,7 @@ Wideband, Low Distortion</description>
 <connect gate="G$1" pin="ZA@2" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17973,7 +17973,7 @@ Wideband, Low Distortion</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="XTR105" prefix="IC" urn="urn:adsk.eagle:component:5113/1">
+<deviceset name="XTR105" prefix="IC" urn="urn:adsk.eagle:component:5113/1" locally_modified="yes">
 <description>&lt;b&gt;4-20mA Current Transmitter&lt;/b&gt;&lt;p&gt;
 with Sensor Excitation and Linearization</description>
 <gates>
@@ -17998,7 +17998,7 @@ with Sensor Excitation and Linearization</description>
 <connect gate="G$1" pin="VREG" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18040,7 +18040,7 @@ with Sensor Excitation and Linearization</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="INA2134" prefix="IC" urn="urn:adsk.eagle:component:5114/1">
+<deviceset name="INA2134" prefix="IC" urn="urn:adsk.eagle:component:5114/1" locally_modified="yes">
 <description>&lt;b&gt;Audio Differential Line Receivers&lt;/b&gt;&lt;p&gt;
 0dB, G=1</description>
 <gates>
@@ -18065,7 +18065,7 @@ with Sensor Excitation and Linearization</description>
 <connect gate="G$1" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18107,7 +18107,7 @@ with Sensor Excitation and Linearization</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="INA2137" prefix="IC" urn="urn:adsk.eagle:component:5115/1">
+<deviceset name="INA2137" prefix="IC" urn="urn:adsk.eagle:component:5115/1" locally_modified="yes">
 <description>&lt;b&gt;Audio Differential Line Receivers&lt;/b&gt;&lt;p&gt;
 +-6dB, G=1/2 or 2</description>
 <gates>
@@ -18132,7 +18132,7 @@ with Sensor Excitation and Linearization</description>
 <connect gate="G$1" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18174,7 +18174,7 @@ with Sensor Excitation and Linearization</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="XTR101A" prefix="IC" urn="urn:adsk.eagle:component:5116/1">
+<deviceset name="XTR101A" prefix="IC" urn="urn:adsk.eagle:component:5116/1" locally_modified="yes">
 <description>&lt;b&gt;Precision, Low Drift 4-20mA Two-Wire Transmitter&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="XTR101A" x="0" y="0"/>
@@ -18198,7 +18198,7 @@ with Sensor Excitation and Linearization</description>
 <connect gate="G$1" pin="ZA_1" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20872,7 +20872,7 @@ SoundPlus(TM) High Performance Audio</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="OPA4234" prefix="IC" urn="urn:adsk.eagle:component:5108/1">
+<deviceset name="OPA4234" prefix="IC" urn="urn:adsk.eagle:component:5108/1" locally_modified="yes">
 <description>&lt;b&gt;Low Power, Precision Single-Supply Operational Amplifiers&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="OP-AMP+-" x="-15.24" y="10.16"/>
@@ -20899,7 +20899,7 @@ SoundPlus(TM) High Performance Audio</description>
 <connect gate="D" pin="OUT" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:4929/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

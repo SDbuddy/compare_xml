@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -476,7 +476,7 @@
 <rectangle x1="3.302" y1="-1.651" x2="3.8862" y2="1.397" layer="51"/>
 <rectangle x1="-4.1402" y1="-1.651" x2="-3.556" y2="1.397" layer="51"/>
 </package>
-<package name="SMB" urn="urn:adsk.eagle:footprint:26430/1">
+<package name="SMB" urn="urn:adsk.eagle:footprint:26290/1">
 <description>&lt;b&gt;DIODE&lt;/b&gt;</description>
 <wire x1="-2.2352" y1="1.7272" x2="1.9812" y2="1.7272" width="0.1524" layer="21"/>
 <wire x1="1.9812" y1="-1.9812" x2="-2.2352" y2="-1.9812" width="0.1524" layer="21"/>
@@ -7092,6 +7092,12 @@ Source: http://www.mpegarry.de/pdf/p112-113.pdf</description>
 <description>DIP SWITCH</description>
 <packageinstances>
 <packageinstance name="SMS-007"/>
+</packageinstances>
+</package3d>
+<package3d name="SMB" urn="urn:adsk.eagle:package:26311/1" type="box">
+<description>DIODE</description>
+<packageinstances>
+<packageinstance name="SMB"/>
 </packageinstances>
 </package3d>
 </packages3d>

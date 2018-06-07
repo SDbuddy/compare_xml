@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -72,7 +72,7 @@
 &lt;a href="http://www.fujitsu.com"&gt; Home Page &lt;/a&gt;&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="SO08" urn="urn:adsk.eagle:footprint:14024/1">
+<package name="SO08" urn="urn:adsk.eagle:footprint:16130/1">
 <description>&lt;b&gt;Small Outline Package 8&lt;/b&gt;&lt;br&gt;
 NS Package M08A</description>
 <wire x1="2.4" y1="1.9" x2="2.4" y2="-1.4" width="0.2032" layer="51"/>
@@ -103,7 +103,7 @@ NS Package M08A</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="SO08" urn="urn:adsk.eagle:package:14025/1" type="box">
+<package3d name="SO08" urn="urn:adsk.eagle:package:16404/2" type="model">
 <description>Small Outline Package 8
 NS Package M08A</description>
 <packageinstances>
@@ -129,7 +129,7 @@ NS Package M08A</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="MB50" prefix="IC" urn="urn:adsk.eagle:component:14026/1">
+<deviceset name="MB50" prefix="IC" urn="urn:adsk.eagle:component:14026/1" locally_modified="yes">
 <description>&lt;b&gt;TWO MODULUS PRESCALER&lt;/b&gt;&lt;p&gt;
 Source: FUJITSU .. MB501.pdf</description>
 <gates>
@@ -147,7 +147,7 @@ Source: FUJITSU .. MB501.pdf</description>
 <connect gate="G$1" pin="VCC" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14025/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16404/2"/>
 </package3dinstances>
 <technologies>
 <technology name="1L">

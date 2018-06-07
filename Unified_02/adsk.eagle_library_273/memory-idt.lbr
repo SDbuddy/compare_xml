@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -3826,7 +3826,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <text x="-44.45" y="4.064" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-34.29" y="4.064" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL20" urn="urn:adsk.eagle:footprint:18136/1">
+<package name="DIL20" urn="urn:adsk.eagle:footprint:16206/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="12.7" y1="2.921" x2="-12.7" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-12.7" y1="-2.921" x2="12.7" y2="-2.921" width="0.1524" layer="21"/>
@@ -4022,7 +4022,7 @@ rectangle</description>
 <rectangle x1="-4.6482" y1="-5.08" x2="-4.2418" y2="-3.7592" layer="51"/>
 <rectangle x1="-5.9182" y1="-5.08" x2="-5.5118" y2="-3.7592" layer="51"/>
 </package>
-<package name="DIL28-4" urn="urn:adsk.eagle:footprint:18163/1">
+<package name="DIL28-4" urn="urn:adsk.eagle:footprint:18037/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="17.78" y1="4.191" x2="-17.78" y2="4.191" width="0.1524" layer="21"/>
 <wire x1="-17.78" y1="-4.191" x2="17.78" y2="-4.191" width="0.1524" layer="21"/>
@@ -4209,7 +4209,7 @@ rectangle</description>
 <rectangle x1="3.43" y1="-4.95" x2="4.19" y2="-4.48" layer="51"/>
 <rectangle x1="4.7" y1="-4.95" x2="5.46" y2="-4.48" layer="51"/>
 </package>
-<package name="DIL24-6" urn="urn:adsk.eagle:footprint:18140/1">
+<package name="DIL24-6" urn="urn:adsk.eagle:footprint:943/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.6 inch</description>
 <wire x1="-15.113" y1="-1.27" x2="-15.113" y2="-6.604" width="0.1524" layer="21"/>
 <wire x1="-15.113" y1="1.27" x2="-15.113" y2="-1.27" width="0.1524" layer="21" curve="-180"/>
@@ -4532,7 +4532,7 @@ rectangle</description>
 <rectangle x1="3.43" y1="-6.22" x2="4.19" y2="-5.75" layer="51"/>
 <rectangle x1="4.7" y1="-6.22" x2="5.46" y2="-5.75" layer="51"/>
 </package>
-<package name="DIL28-6" urn="urn:adsk.eagle:footprint:18165/1">
+<package name="DIL28-6" urn="urn:adsk.eagle:footprint:770/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.6 inch</description>
 <wire x1="-17.653" y1="-1.27" x2="-17.653" y2="-6.604" width="0.1524" layer="21"/>
 <wire x1="-17.653" y1="1.27" x2="-17.653" y2="-1.27" width="0.1524" layer="21" curve="-180"/>
@@ -4571,7 +4571,7 @@ rectangle</description>
 <text x="-17.78" y="-6.35" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-14.605" y="-0.9398" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL40" urn="urn:adsk.eagle:footprint:18170/1">
+<package name="DIL40" urn="urn:adsk.eagle:footprint:19511/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="25.4" y1="6.731" x2="-25.4" y2="6.731" width="0.1524" layer="21"/>
 <wire x1="-25.4" y1="-6.731" x2="25.4" y2="-6.731" width="0.1524" layer="21"/>
@@ -4622,7 +4622,7 @@ rectangle</description>
 <text x="-25.908" y="-6.604" size="1.778" layer="25" rot="R90">&gt;NAME</text>
 <text x="-17.145" y="-1.016" size="1.778" layer="27">&gt;VALUE</text>
 </package>
-<package name="DIL28-3" urn="urn:adsk.eagle:footprint:18162/1">
+<package name="DIL28-3" urn="urn:adsk.eagle:footprint:771/1">
 <description>&lt;b&gt;Dual In Line Package Small&lt;/b&gt;</description>
 <wire x1="17.78" y1="2.921" x2="-17.78" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-17.78" y1="-2.921" x2="17.78" y2="-2.921" width="0.1524" layer="21"/>
@@ -4809,7 +4809,7 @@ square</description>
 <rectangle x1="-6.22" y1="-2.92" x2="-5.75" y2="-2.16" layer="51"/>
 <rectangle x1="-6.22" y1="-4.19" x2="-5.75" y2="-3.43" layer="51"/>
 </package>
-<package name="DIL48" urn="urn:adsk.eagle:footprint:18191/1">
+<package name="DIL48" urn="urn:adsk.eagle:footprint:19570/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="-29.845" y1="-6.604" x2="29.845" y2="-6.604" width="0.1524" layer="21"/>
 <wire x1="29.845" y1="-6.604" x2="29.845" y2="6.604" width="0.1524" layer="21"/>
@@ -5095,7 +5095,7 @@ square</description>
 <rectangle x1="-8.76" y1="7.24" x2="-8.29" y2="8" layer="51"/>
 <rectangle x1="7.24" y1="-8.76" x2="8" y2="-8.29" layer="51"/>
 </package>
-<package name="DIL22-3" urn="urn:adsk.eagle:footprint:18152/1">
+<package name="DIL22-3" urn="urn:adsk.eagle:footprint:3279/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.3 inch</description>
 <wire x1="-14.605" y1="-0.635" x2="-14.605" y2="-2.794" width="0.1524" layer="21"/>
 <wire x1="-14.605" y1="0.635" x2="-14.605" y2="-0.635" width="0.1524" layer="21" curve="-180"/>
@@ -5503,7 +5503,7 @@ rectangle</description>
 <rectangle x1="-6.22" y1="-1.65" x2="-5.75" y2="-0.89" layer="51"/>
 <rectangle x1="-6.22" y1="-2.92" x2="-5.75" y2="-2.16" layer="51"/>
 </package>
-<package name="DIL18" urn="urn:adsk.eagle:footprint:18220/1">
+<package name="DIL18" urn="urn:adsk.eagle:footprint:16182/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="11.43" y1="2.921" x2="-11.43" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-11.43" y1="-2.921" x2="11.43" y2="-2.921" width="0.1524" layer="21"/>
@@ -6252,7 +6252,7 @@ rectangle</description>
 <rectangle x1="4.98" y1="-3.555" x2="5.43" y2="-2.795" layer="51"/>
 <rectangle x1="-5.43" y1="-3.555" x2="-4.98" y2="-2.795" layer="51"/>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:18214/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -6592,7 +6592,7 @@ rectangle</description>
 <text x="-43.4848" y="-6.4262" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-10.16" y="-2.54" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL32" urn="urn:adsk.eagle:footprint:18180/1">
+<package name="DIL32" urn="urn:adsk.eagle:footprint:18035/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="20.32" y1="6.731" x2="-20.32" y2="6.731" width="0.1524" layer="21"/>
 <wire x1="-20.32" y1="-6.731" x2="20.32" y2="-6.731" width="0.1524" layer="21"/>
@@ -7472,7 +7472,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="DIL20" urn="urn:adsk.eagle:package:18390/1" type="box">
+<package3d name="DIL20" urn="urn:adsk.eagle:package:16429/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL20"/>
@@ -7491,7 +7491,7 @@ rectangle</description>
 <packageinstance name="SO20-2"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL28-4" urn="urn:adsk.eagle:package:18391/1" type="box">
+<package3d name="DIL28-4" urn="urn:adsk.eagle:package:18077/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL28-4"/>
@@ -7510,7 +7510,7 @@ rectangle</description>
 <packageinstance name="L28-2"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL24-6" urn="urn:adsk.eagle:package:18395/1" type="box">
+<package3d name="DIL24-6" urn="urn:adsk.eagle:package:1009/2" type="model">
 <description>Dual In Line Package 0.6 inch</description>
 <packageinstances>
 <packageinstance name="DIL24-6"/>
@@ -7529,7 +7529,7 @@ rectangle</description>
 <packageinstance name="L32-1"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL28-6" urn="urn:adsk.eagle:package:18401/1" type="box">
+<package3d name="DIL28-6" urn="urn:adsk.eagle:package:826/2" type="model">
 <description>Dual In Line Package 0.6 inch</description>
 <packageinstances>
 <packageinstance name="DIL28-6"/>
@@ -7542,13 +7542,13 @@ square</description>
 <packageinstance name="L28-1"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL40" urn="urn:adsk.eagle:package:18403/1" type="box">
+<package3d name="DIL40" urn="urn:adsk.eagle:package:19651/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL40"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL28-3" urn="urn:adsk.eagle:package:18396/1" type="box">
+<package3d name="DIL28-3" urn="urn:adsk.eagle:package:827/2" type="model">
 <description>Dual In Line Package Small</description>
 <packageinstances>
 <packageinstance name="DIL28-3"/>
@@ -7561,7 +7561,7 @@ rectangle</description>
 <packageinstance name="L24-1"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL48" urn="urn:adsk.eagle:package:18407/1" type="box">
+<package3d name="DIL48" urn="urn:adsk.eagle:package:19659/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL48"/>
@@ -7581,13 +7581,13 @@ square</description>
 <packageinstance name="L52-1"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL22-3" urn="urn:adsk.eagle:package:18399/1" type="box">
+<package3d name="DIL22-3" urn="urn:adsk.eagle:package:3296/1" type="box">
 <description>Dual In Line Package 0.3 inch</description>
 <packageinstances>
 <packageinstance name="DIL22-3"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:18410/1" type="box">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
@@ -7607,7 +7607,7 @@ rectangle</description>
 <packageinstance name="L20-2"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL18" urn="urn:adsk.eagle:package:18413/1" type="box">
+<package3d name="DIL18" urn="urn:adsk.eagle:package:16424/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL18"/>
@@ -7650,7 +7650,7 @@ square</description>
 <packageinstance name="G144-1"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL32" urn="urn:adsk.eagle:package:18404/1" type="box">
+<package3d name="DIL32" urn="urn:adsk.eagle:package:18076/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL32"/>
@@ -15382,7 +15382,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="6167P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18557/1">
+<deviceset name="6167P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18557/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="6167" x="0" y="0"/>
@@ -15413,7 +15413,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15426,7 +15426,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT240P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18561/1">
+<deviceset name="54FCT240P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18561/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="240" x="0" y="0"/>
@@ -15457,7 +15457,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15470,7 +15470,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT245P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18564/1">
+<deviceset name="54FCT245P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18564/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="245" x="0" y="0"/>
@@ -15501,7 +15501,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15514,7 +15514,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT244P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18563/1">
+<deviceset name="54FCT244P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18563/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="244" x="0" y="0"/>
@@ -15545,7 +15545,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15558,7 +15558,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT377P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18569/1">
+<deviceset name="54FCT377P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18569/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="377" x="0" y="0"/>
@@ -15589,7 +15589,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15602,7 +15602,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT299P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18566/1">
+<deviceset name="54FCT299P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18566/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="299" x="0" y="0"/>
@@ -15633,7 +15633,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15646,7 +15646,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT374P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18568/1">
+<deviceset name="54FCT374P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18568/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="374" x="0" y="0"/>
@@ -15677,7 +15677,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15690,7 +15690,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT273P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18565/1">
+<deviceset name="54FCT273P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18565/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="273" x="0" y="0"/>
@@ -15721,7 +15721,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15734,7 +15734,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT534P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18572/1">
+<deviceset name="54FCT534P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18572/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="534" x="0" y="0"/>
@@ -15765,7 +15765,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15778,7 +15778,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT541P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18574/1">
+<deviceset name="54FCT541P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18574/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="541" x="0" y="0"/>
@@ -15809,7 +15809,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15822,7 +15822,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT533P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18571/1">
+<deviceset name="54FCT533P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18571/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="533" x="0" y="0"/>
@@ -15853,7 +15853,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15866,7 +15866,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT373P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18567/1">
+<deviceset name="54FCT373P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18567/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="373" x="0" y="0"/>
@@ -15897,7 +15897,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15910,7 +15910,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT573P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18575/1">
+<deviceset name="54FCT573P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18575/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="373" x="0" y="0"/>
@@ -15941,7 +15941,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15954,7 +15954,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT540P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18573/1">
+<deviceset name="54FCT540P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18573/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="540" x="0" y="0"/>
@@ -15985,7 +15985,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -15998,7 +15998,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT574P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18576/1">
+<deviceset name="54FCT574P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18576/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="374" x="0" y="0"/>
@@ -16029,7 +16029,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -16042,7 +16042,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT645P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18578/1">
+<deviceset name="54FCT645P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18578/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="640" x="0" y="0"/>
@@ -16073,7 +16073,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -16086,7 +16086,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT640P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18577/1">
+<deviceset name="54FCT640P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18577/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="640" x="2.54" y="0"/>
@@ -16117,7 +16117,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -16130,7 +16130,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT521P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18570/1">
+<deviceset name="54FCT521P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18570/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="521" x="0" y="0"/>
@@ -16161,7 +16161,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -16174,7 +16174,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="72413P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18559/1">
+<deviceset name="72413P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18559/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="72413" x="0" y="0"/>
@@ -16205,7 +16205,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -16218,7 +16218,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT241P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18562/1">
+<deviceset name="54FCT241P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18562/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="241" x="0" y="0"/>
@@ -16249,7 +16249,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -16262,7 +16262,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6168P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18558/1">
+<deviceset name="6168P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18558/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="6168" x="0" y="0"/>
@@ -16293,7 +16293,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -16306,7 +16306,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="39C11P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18560/1">
+<deviceset name="39C11P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18560/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="39C11" x="0" y="2.54"/>
@@ -16337,7 +16337,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18390/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -17230,7 +17230,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71981P4" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18489/1">
+<deviceset name="71981P4" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18489/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71981" x="0" y="0"/>
@@ -17269,7 +17269,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18391/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18077/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18014,7 +18014,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6198P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18492/1">
+<deviceset name="6198P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18492/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="6198" x="0" y="0"/>
@@ -18049,7 +18049,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18062,7 +18062,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71258P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18495/1">
+<deviceset name="71258P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18495/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71258" x="0" y="0"/>
@@ -18097,7 +18097,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18110,7 +18110,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71501P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18496/1">
+<deviceset name="71501P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18496/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71501" x="0" y="0"/>
@@ -18145,7 +18145,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18158,7 +18158,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6116P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18491/1">
+<deviceset name="6116P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18491/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="6116" x="0" y="-7.62"/>
@@ -18193,7 +18193,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18206,7 +18206,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="49FCT818P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18500/1">
+<deviceset name="49FCT818P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18500/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="818" x="0" y="0"/>
@@ -18241,7 +18241,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18254,7 +18254,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT646P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18502/1">
+<deviceset name="54FCT646P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18502/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="646" x="0" y="0"/>
@@ -18289,7 +18289,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18302,7 +18302,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT823P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18505/1">
+<deviceset name="54FCT823P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18505/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="823" x="0" y="0"/>
@@ -18337,7 +18337,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18350,7 +18350,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT825P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18506/1">
+<deviceset name="54FCT825P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18506/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="825" x="0" y="0"/>
@@ -18385,7 +18385,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18658,7 +18658,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT543P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18501/1">
+<deviceset name="54FCT543P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18501/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="543" x="0" y="0"/>
@@ -18693,7 +18693,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18758,7 +18758,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71257P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18494/1">
+<deviceset name="71257P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18494/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71257" x="0" y="0"/>
@@ -18793,7 +18793,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18806,7 +18806,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="49C25P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18497/1">
+<deviceset name="49C25P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18497/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="49C25" x="0" y="0"/>
@@ -18841,7 +18841,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC@1" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18854,7 +18854,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="29FCT52P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18498/1">
+<deviceset name="29FCT52P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18498/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="29FCT52" x="0" y="0"/>
@@ -18889,7 +18889,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18902,7 +18902,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71681P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18490/1">
+<deviceset name="71681P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18490/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71681" x="0" y="-2.54"/>
@@ -18937,7 +18937,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18950,7 +18950,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT651P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18503/1">
+<deviceset name="54FCT651P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18503/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="651" x="0" y="0"/>
@@ -18985,7 +18985,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -18998,7 +18998,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="29FCT520P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18499/1">
+<deviceset name="29FCT520P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18499/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="29FCT520" x="0" y="0"/>
@@ -19033,7 +19033,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -19238,7 +19238,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7198P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18493/1">
+<deviceset name="7198P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18493/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7198" x="0" y="0"/>
@@ -19273,7 +19273,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -19790,7 +19790,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7164P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18538/1">
+<deviceset name="7164P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18538/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7164" x="0" y="2.54"/>
@@ -19829,7 +19829,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -19842,7 +19842,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7165P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18543/1">
+<deviceset name="7165P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18543/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7165" x="0" y="0"/>
@@ -19881,7 +19881,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20106,7 +20106,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FTC843P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18511/1">
+<deviceset name="54FTC843P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18511/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="843" x="0" y="0"/>
@@ -20141,7 +20141,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20202,7 +20202,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT821P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18504/1">
+<deviceset name="54FCT821P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18504/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="821" x="0" y="0"/>
@@ -20237,7 +20237,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20350,7 +20350,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT863P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18514/1">
+<deviceset name="54FCT863P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18514/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="863" x="0" y="0"/>
@@ -20385,7 +20385,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20558,7 +20558,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT841P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18510/1">
+<deviceset name="54FCT841P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18510/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="841" x="0" y="0"/>
@@ -20593,7 +20593,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20653,7 +20653,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT833P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18508/1">
+<deviceset name="54FCT833P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18508/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="833" x="0" y="0"/>
@@ -20688,7 +20688,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20701,7 +20701,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT845P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18512/1">
+<deviceset name="54FCT845P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18512/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="845" x="0" y="0"/>
@@ -20736,7 +20736,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20845,7 +20845,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT827P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18507/1">
+<deviceset name="54FCT827P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18507/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="827" x="0" y="0"/>
@@ -20880,7 +20880,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20893,7 +20893,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="78C16P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18517/1">
+<deviceset name="78C16P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18517/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="78C16" x="0" y="0"/>
@@ -20928,7 +20928,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -20941,7 +20941,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="75C18P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18515/1">
+<deviceset name="75C18P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18515/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="75C18" x="0" y="0"/>
@@ -20975,7 +20975,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="G$1" pin="VGND" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21036,7 +21036,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7205P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18547/1">
+<deviceset name="7205P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18547/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7202" x="0" y="0"/>
@@ -21075,7 +21075,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21088,7 +21088,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="75C58P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18552/1">
+<deviceset name="75C58P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18552/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="75C58" x="0" y="0"/>
@@ -21126,7 +21126,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="G$1" pin="VIN@1" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21139,7 +21139,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="39C09P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18548/1">
+<deviceset name="39C09P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18548/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="39C09" x="0" y="0"/>
@@ -21178,7 +21178,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21191,7 +21191,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="78C18P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18553/1">
+<deviceset name="78C18P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18553/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="78C18" x="0" y="0"/>
@@ -21230,7 +21230,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21243,7 +21243,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="75C48P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18551/1">
+<deviceset name="75C48P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18551/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="75C48" x="0" y="-2.54"/>
@@ -21281,7 +21281,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="G$1" pin="VIN@4" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21294,7 +21294,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="78C464P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18556/1">
+<deviceset name="78C464P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18556/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="78C464" x="0" y="0"/>
@@ -21333,7 +21333,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21346,7 +21346,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="78C64P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18555/1">
+<deviceset name="78C64P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18555/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="78M64" x="0" y="0"/>
@@ -21385,7 +21385,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21398,7 +21398,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71027P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18540/1">
+<deviceset name="71027P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18540/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71027" x="0" y="0"/>
@@ -21437,7 +21437,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21450,7 +21450,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7186P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18484/1">
+<deviceset name="7186P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18484/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7186" x="0" y="0"/>
@@ -21501,7 +21501,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC@1" pad="40"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18403/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21514,7 +21514,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="72103P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18485/1">
+<deviceset name="72103P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18485/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="72103" x="0" y="2.54"/>
@@ -21565,7 +21565,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="30"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18403/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21578,7 +21578,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="39C01P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18486/1">
+<deviceset name="39C01P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18486/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="39C01" x="0" y="0"/>
@@ -21629,7 +21629,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18403/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21642,7 +21642,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="39C10P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18487/1">
+<deviceset name="39C10P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18487/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="39C10P" x="0" y="0"/>
@@ -21693,7 +21693,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18403/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21706,7 +21706,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="75MB38P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18488/1">
+<deviceset name="75MB38P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18488/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="75MB38" x="0" y="0"/>
@@ -21756,7 +21756,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="G$1" pin="VEED" pad="40"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18403/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21769,7 +21769,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7174P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18542/1">
+<deviceset name="7174P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18542/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7174" x="0" y="0"/>
@@ -21808,7 +21808,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21821,7 +21821,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71C65P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18544/1">
+<deviceset name="71C65P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18544/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71C65" x="0" y="0"/>
@@ -21860,7 +21860,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21873,7 +21873,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="39C705P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18549/1">
+<deviceset name="39C705P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18549/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="39C705" x="0" y="0"/>
@@ -21912,7 +21912,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21925,7 +21925,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7203P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18546/1">
+<deviceset name="7203P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18546/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="P" symbol="VCCGND" x="-22.86" y="0" addlevel="request"/>
@@ -21964,7 +21964,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -21977,7 +21977,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="75C19P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18516/1">
+<deviceset name="75C19P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18516/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="75C19" x="0" y="0"/>
@@ -22011,7 +22011,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="G$1" pin="VGND" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22024,7 +22024,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT861P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18513/1">
+<deviceset name="54FCT861P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18513/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="861" x="0" y="0"/>
@@ -22059,7 +22059,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22072,7 +22072,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="78M64" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18554/1">
+<deviceset name="78M64" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18554/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="78M64" x="0" y="0"/>
@@ -22111,7 +22111,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22124,7 +22124,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="39C707P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18550/1">
+<deviceset name="39C707P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18550/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="39C707" x="0" y="0"/>
@@ -22163,7 +22163,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22176,7 +22176,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71028P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18541/1">
+<deviceset name="71028P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18541/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71028" x="0" y="0"/>
@@ -22215,7 +22215,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22228,7 +22228,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7202P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18545/1">
+<deviceset name="7202P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18545/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7202" x="0" y="-2.54"/>
@@ -22267,7 +22267,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22280,7 +22280,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71256P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18539/1">
+<deviceset name="71256P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18539/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71256" x="0" y="0"/>
@@ -22319,7 +22319,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18401/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22800,7 +22800,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="39C203P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18604/1">
+<deviceset name="39C203P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18604/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="39C203P" x="0" y="2.54"/>
@@ -22859,7 +22859,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="36"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18407/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19659/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23088,7 +23088,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7188P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18478/1">
+<deviceset name="7188P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18478/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7188" x="0" y="2.54"/>
@@ -23121,7 +23121,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18399/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3296/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23134,7 +23134,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="100490P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18477/1">
+<deviceset name="100490P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18477/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="100490" x="0" y="0"/>
@@ -23166,7 +23166,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="G$1" pin="VEE" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18399/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3296/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23179,7 +23179,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="6178P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18479/1">
+<deviceset name="6178P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18479/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="6178" x="0" y="0"/>
@@ -23212,7 +23212,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18399/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3296/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23729,7 +23729,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71981P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18531/1">
+<deviceset name="71981P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18531/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71981" x="0" y="2.54"/>
@@ -23768,7 +23768,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18396/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:827/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23909,7 +23909,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="39C60P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18607/1">
+<deviceset name="39C60P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18607/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="39C60-48" x="0" y="2.54"/>
@@ -23968,7 +23968,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="36"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18407/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19659/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24077,7 +24077,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="72402P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18692/1">
+<deviceset name="72402P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18692/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="72402" x="0" y="0"/>
@@ -24106,7 +24106,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18413/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24661,7 +24661,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="61298P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18533/1">
+<deviceset name="61298P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18533/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="61298" x="0" y="0"/>
@@ -24700,7 +24700,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18396/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:827/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24917,7 +24917,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7132P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18600/1">
+<deviceset name="7132P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18600/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7132" x="0" y="2.54"/>
@@ -24976,7 +24976,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="48"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18407/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19659/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24989,7 +24989,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7134P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18602/1">
+<deviceset name="7134P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18602/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7134" x="0" y="2.54"/>
@@ -25048,7 +25048,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="48"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18407/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19659/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25061,7 +25061,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="49410P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18606/1">
+<deviceset name="49410P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18606/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="49C410" x="0" y="0"/>
@@ -25120,7 +25120,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18407/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19659/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25133,7 +25133,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71281P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18534/1">
+<deviceset name="71281P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18534/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71281" x="0" y="2.54"/>
@@ -25172,7 +25172,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18396/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:827/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25236,7 +25236,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="49FCT618P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18608/1">
+<deviceset name="49FCT618P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18608/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="618" x="0" y="0"/>
@@ -25295,7 +25295,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18407/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19659/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25308,7 +25308,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7164P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18532/1">
+<deviceset name="7164P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18532/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7164" x="0" y="0"/>
@@ -25347,7 +25347,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18396/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:827/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25360,7 +25360,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7165P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18536/1">
+<deviceset name="7165P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18536/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7165" x="0" y="0"/>
@@ -25399,7 +25399,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18396/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:827/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25412,7 +25412,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71C65P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18537/1">
+<deviceset name="71C65P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18537/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71C65" x="0" y="0"/>
@@ -25451,7 +25451,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18396/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:827/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25464,7 +25464,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="39C03P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18603/1">
+<deviceset name="39C03P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18603/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="39C03" x="0" y="0"/>
@@ -25523,7 +25523,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="36"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18407/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19659/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25587,7 +25587,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7130P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18599/1">
+<deviceset name="7130P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18599/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7130" x="0" y="2.54"/>
@@ -25646,7 +25646,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="48"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18407/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19659/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25659,7 +25659,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71502P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18598/1">
+<deviceset name="71502P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18598/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71502" x="0" y="0"/>
@@ -25718,7 +25718,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC@1" pad="48"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18407/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19659/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25731,7 +25731,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7174P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18535/1">
+<deviceset name="7174P6" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18535/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="7174" x="0" y="0"/>
@@ -25770,7 +25770,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18396/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:827/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25783,7 +25783,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="49C410P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18605/1">
+<deviceset name="49C410P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18605/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="49C410" x="0" y="2.54"/>
@@ -25842,7 +25842,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18407/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19659/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -26139,7 +26139,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71322P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18601/1">
+<deviceset name="71322P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18601/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="P" symbol="VCCGND" x="-25.4" y="0" addlevel="request"/>
@@ -26198,7 +26198,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="48"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18407/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19659/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -26263,7 +26263,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT853P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18509/1">
+<deviceset name="54FCT853P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18509/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="853" x="0" y="0"/>
@@ -26298,7 +26298,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18395/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -26311,7 +26311,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="72404P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18693/1">
+<deviceset name="72404P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18693/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="72404" x="0" y="0"/>
@@ -26340,7 +26340,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18413/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -26757,7 +26757,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="72402PED" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18694/1">
+<deviceset name="72402PED" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18694/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="72402" x="0" y="0"/>
@@ -26786,7 +26786,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18413/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27295,7 +27295,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT182P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18649/1">
+<deviceset name="54FCT182P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18649/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="182" x="0" y="0"/>
@@ -27322,7 +27322,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18410/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27335,7 +27335,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT193P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18650/1">
+<deviceset name="54FCT193P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18650/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="193" x="0" y="0"/>
@@ -27362,7 +27362,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18410/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27375,7 +27375,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT399P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18651/1">
+<deviceset name="54FCT399P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18651/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="399" x="0" y="0"/>
@@ -27402,7 +27402,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18410/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27415,7 +27415,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54AHCT138P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18652/1">
+<deviceset name="54AHCT138P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18652/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="138" x="0" y="0"/>
@@ -27442,7 +27442,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18410/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27543,7 +27543,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="39C02P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18645/1">
+<deviceset name="39C02P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18645/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="39C02" x="0" y="0"/>
@@ -27570,7 +27570,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18410/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27895,7 +27895,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="72403P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18644/1">
+<deviceset name="72403P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18644/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="72403" x="0" y="0"/>
@@ -27922,7 +27922,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18410/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28251,7 +28251,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT139P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18646/1">
+<deviceset name="54FCT139P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18646/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="139" x="0" y="0"/>
@@ -28278,7 +28278,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18410/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28559,7 +28559,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="72401P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18643/1">
+<deviceset name="72401P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18643/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="72401" x="0" y="-2.54"/>
@@ -28586,7 +28586,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18410/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -28907,7 +28907,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT161P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18647/1">
+<deviceset name="54FCT161P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18647/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="161" x="0" y="0"/>
@@ -28934,7 +28934,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18410/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29035,7 +29035,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54FCT163P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18648/1">
+<deviceset name="54FCT163P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18648/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="163" x="2.54" y="0"/>
@@ -29062,7 +29062,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18410/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29143,7 +29143,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54AHCZ191P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18654/1">
+<deviceset name="54AHCZ191P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18654/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="191" x="0" y="0"/>
@@ -29170,7 +29170,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18410/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29755,7 +29755,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="54AHCT139P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18653/1">
+<deviceset name="54AHCT139P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18653/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="139" x="0" y="0"/>
@@ -29782,7 +29782,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18410/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -31015,7 +31015,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="71024P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18476/1">
+<deviceset name="71024P" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:18476/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="71024" x="0" y="0"/>
@@ -31058,7 +31058,7 @@ Source: http://www.idt.com/products/files/10222/PSC4104.pdf</description>
 <connect gate="P" pin="VCC" pad="32"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:18404/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18076/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">

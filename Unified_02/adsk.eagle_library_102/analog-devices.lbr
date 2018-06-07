@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="7.1.2">
 <drawing>
 <settings>
@@ -3344,7 +3344,7 @@ LQFP-MSQFP-QFP-SQFP-TQFP-REFLOW.pdf</description>
 <text x="-24.13" y="3.81" size="1.27" layer="25">&gt;NAME</text>
 <text x="-8.89" y="-1.27" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="DIL18" urn="urn:adsk.eagle:footprint:3729/1">
+<package name="DIL18" urn="urn:adsk.eagle:footprint:16182/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="11.43" y1="2.921" x2="-11.43" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-11.43" y1="-2.921" x2="11.43" y2="-2.921" width="0.1524" layer="21"/>
@@ -4106,7 +4106,7 @@ LQFP-MSQFP-QFP-SQFP-TQFP-REFLOW.pdf</description>
 <rectangle x1="-14.3863" y1="15.9893" x2="-14.1196" y2="16.4338" layer="21"/>
 <rectangle x1="-14.8863" y1="15.9893" x2="-14.6196" y2="16.4338" layer="21"/>
 </package>
-<package name="DIL24-3" urn="urn:adsk.eagle:footprint:3713/1">
+<package name="DIL24-3" urn="urn:adsk.eagle:footprint:3288/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.3 inch</description>
 <wire x1="-14.986" y1="-0.635" x2="-14.986" y2="-2.794" width="0.1524" layer="21"/>
 <wire x1="-14.986" y1="0.635" x2="-14.986" y2="-0.635" width="0.1524" layer="21" curve="-180"/>
@@ -4141,7 +4141,7 @@ LQFP-MSQFP-QFP-SQFP-TQFP-REFLOW.pdf</description>
 <text x="-15.2908" y="-2.667" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-13.462" y="-0.889" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL08" urn="urn:adsk.eagle:footprint:3717/1">
+<package name="DIL08" urn="urn:adsk.eagle:footprint:29416/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="5.08" y1="2.921" x2="-5.08" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-5.08" y1="-2.921" x2="5.08" y2="-2.921" width="0.1524" layer="21"/>
@@ -4160,7 +4160,7 @@ LQFP-MSQFP-QFP-SQFP-TQFP-REFLOW.pdf</description>
 <text x="-5.334" y="-2.921" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-3.556" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL14" urn="urn:adsk.eagle:footprint:3721/1">
+<package name="DIL14" urn="urn:adsk.eagle:footprint:16136/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="8.89" y1="2.921" x2="-8.89" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-8.89" y1="-2.921" x2="8.89" y2="-2.921" width="0.1524" layer="21"/>
@@ -4583,9 +4583,9 @@ RU-28</description>
 <rectangle x1="-6.1524" y1="7.0896" x2="-5.8476" y2="8.131" layer="51"/>
 <rectangle x1="-6.1524" y1="6.861" x2="-5.8476" y2="7.115" layer="21"/>
 </package>
-<package name="SO8" urn="urn:adsk.eagle:footprint:3715/1">
-<description>&lt;b&gt;8-Lead Small Outline IC&lt;/b&gt; (SO-8)&lt;p&gt;
-Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf</description>
+<package name="SO8" urn="urn:adsk.eagle:footprint:30958/1">
+<description>&lt;b&gt;SMALL OUTLINE INTEGRATED CIRCUIT&lt;/b&gt; SOP-8L&lt;p&gt;
+Source: http://www.diodes.com/datasheets/ds31262.pdf</description>
 <wire x1="2.4" y1="1.9" x2="2.4" y2="-1.4" width="0.2032" layer="51"/>
 <wire x1="2.4" y1="-1.4" x2="2.4" y2="-1.9" width="0.2032" layer="51"/>
 <wire x1="2.4" y1="-1.9" x2="-2.4" y2="-1.9" width="0.2032" layer="51"/>
@@ -4847,7 +4847,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 <text x="-7.62" y="8.89" size="1.27" layer="25">&gt;NAME</text>
 <text x="-7.62" y="-10.16" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="PLCC20" urn="urn:adsk.eagle:footprint:3752/1">
+<package name="PLCC20" urn="urn:adsk.eagle:footprint:1645/1">
 <description>&lt;b&gt;Plastic Leaded Chip Carrier&lt;/b&gt;&lt;p&gt;IPC standard</description>
 <wire x1="4.8999" y1="4.8999" x2="-2.665" y2="4.8999" width="0.2032" layer="51"/>
 <wire x1="-4.8999" y1="2.665" x2="-4.8999" y2="-4.8999" width="0.2032" layer="51"/>
@@ -4905,7 +4905,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 <rectangle x1="2.2799" y1="4.95" x2="2.8001" y2="5.4" layer="51"/>
 <rectangle x1="1.0099" y1="4.95" x2="1.5301" y2="5.4" layer="51"/>
 </package>
-<package name="PQFP44" urn="urn:adsk.eagle:footprint:3754/1">
+<package name="PQFP44" urn="urn:adsk.eagle:footprint:4195/1">
 <description>&lt;B&gt;Plastic Quad Flat Package&lt;/B&gt;</description>
 <wire x1="-4.8" y1="4.4" x2="-4.4" y2="4.8" width="0.254" layer="21"/>
 <wire x1="-4.4" y1="4.8" x2="4.4" y2="4.8" width="0.254" layer="21"/>
@@ -5008,7 +5008,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 <rectangle x1="-3.4" y1="4.8999" x2="-3" y2="6.7" layer="51"/>
 <rectangle x1="-4.1999" y1="4.8999" x2="-3.8001" y2="6.7" layer="51"/>
 </package>
-<package name="PLCC44" urn="urn:adsk.eagle:footprint:3755/1">
+<package name="PLCC44" urn="urn:adsk.eagle:footprint:16312/1">
 <description>&lt;b&gt;PLASTIC LEADED CHIP CARRIER&lt;/b&gt;&lt;p&gt;
 square</description>
 <wire x1="-9.903" y1="9.903" x2="9.903" y2="9.903" width="0.2" layer="39"/>
@@ -6746,7 +6746,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/39677768AD7714_c.pdf</de
 <rectangle x1="-3.0266" y1="2.25" x2="-2.8234" y2="3.121" layer="51"/>
 <rectangle x1="-3.6766" y1="2.25" x2="-3.4734" y2="3.121" layer="51"/>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:3757/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -13605,13 +13605,13 @@ Source: http://www.analog.com/static/imported-files/data_sheets/ADUC845_847_848.
 <packageinstance name="PQFP52"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL14" urn="urn:adsk.eagle:package:3908/1" type="box">
+<package3d name="DIL14" urn="urn:adsk.eagle:package:16407/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL14"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL24-3" urn="urn:adsk.eagle:package:3912/1" type="box">
+<package3d name="DIL24-3" urn="urn:adsk.eagle:package:3299/1" type="box">
 <description>Dual In Line Package 0.3 inch</description>
 <packageinstances>
 <packageinstance name="DIL24-3"/>
@@ -13629,13 +13629,13 @@ Source: http://www.analog.com/static/imported-files/data_sheets/ADUC845_847_848.
 <packageinstance name="PQFP240"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL18" urn="urn:adsk.eagle:package:3919/1" type="box">
+<package3d name="DIL18" urn="urn:adsk.eagle:package:16424/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL18"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL08" urn="urn:adsk.eagle:package:3915/1" type="box">
+<package3d name="DIL08" urn="urn:adsk.eagle:package:29519/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL08"/>
@@ -13654,14 +13654,14 @@ RU-28</description>
 <packageinstance name="LQFP100"/>
 </packageinstances>
 </package3d>
-<package3d name="SO8" urn="urn:adsk.eagle:package:3906/1" type="box">
-<description>8-Lead Small Outline IC (SO-8)
-Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf</description>
+<package3d name="SO8" urn="urn:adsk.eagle:package:30987/1" type="box">
+<description>SMALL OUTLINE INTEGRATED CIRCUIT SOP-8L
+Source: http://www.diodes.com/datasheets/ds31262.pdf</description>
 <packageinstances>
 <packageinstance name="SO8"/>
 </packageinstances>
 </package3d>
-<package3d name="PLCC20" urn="urn:adsk.eagle:package:3927/1" type="box">
+<package3d name="PLCC20" urn="urn:adsk.eagle:package:2011/1" type="box">
 <description>Plastic Leaded Chip CarrierIPC standard</description>
 <packageinstances>
 <packageinstance name="PLCC20"/>
@@ -13673,7 +13673,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 <packageinstance name="MBGA225"/>
 </packageinstances>
 </package3d>
-<package3d name="PQFP44" urn="urn:adsk.eagle:package:3928/1" type="box">
+<package3d name="PQFP44" urn="urn:adsk.eagle:package:4329/1" type="box">
 <description>Plastic Quad Flat Package</description>
 <packageinstances>
 <packageinstance name="PQFP44"/>
@@ -13701,7 +13701,7 @@ Source: Analog Devices .. 780914713ADD8704_0.pdf</description>
 <packageinstance name="TSSOP14"/>
 </packageinstances>
 </package3d>
-<package3d name="PLCC44" urn="urn:adsk.eagle:package:3926/1" type="box">
+<package3d name="PLCC44" urn="urn:adsk.eagle:package:16470/2" type="model">
 <description>PLASTIC LEADED CHIP CARRIER
 square</description>
 <packageinstances>
@@ -13753,7 +13753,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/39677768AD7714_c.pdf</de
 <packageinstance name="TSSOP24"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:3925/1" type="box">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
@@ -22568,7 +22568,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD1836.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD594" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3990/1">
+<deviceset name="AD594" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3990/1" locally_modified="yes">
 <description>&lt;b&gt;ANALOG DEVICES&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="AD595" x="0" y="0"/>
@@ -22592,7 +22592,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD1836.pdf</desc
 <connect gate="G$1" pin="VO" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3908/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22605,7 +22605,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD1836.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADG419" prefix="IC" urn="urn:adsk.eagle:component:3998/1">
+<deviceset name="ADG419" prefix="IC" urn="urn:adsk.eagle:component:3998/1" locally_modified="yes">
 <description>&lt;b&gt;LC²MOS Precision Mini-DIP Analog switch&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/UploadedFiles/Data_Sheets/ADG419.pdf</description>
 <gates>
@@ -22624,7 +22624,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/ADG419.pdf</description>
 <connect gate="G$1" pin="VSS" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22637,7 +22637,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/ADG419.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD820N" prefix="IC" urn="urn:adsk.eagle:component:4011/1">
+<deviceset name="AD820N" prefix="IC" urn="urn:adsk.eagle:component:4011/1" locally_modified="yes">
 <description>&lt;b&gt;Single-Supply, Rail-to-Rail, Low Power, FET Input Op Amp&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</description>
 <gates>
@@ -22655,7 +22655,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22668,7 +22668,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD736N" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3995/1">
+<deviceset name="AD736N" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3995/1" locally_modified="yes">
 <description>&lt;b&gt;ANALOG DEVICES&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="AD736" x="0" y="0"/>
@@ -22686,7 +22686,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 <connect gate="G$1" pin="VIN" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22699,7 +22699,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD767" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3991/1">
+<deviceset name="AD767" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3991/1" locally_modified="yes">
 <description>&lt;b&gt;ANALOG DEVICES&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="AD767" x="0" y="0"/>
@@ -22733,7 +22733,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 <connect gate="G$1" pin="VOUT" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3912/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22746,7 +22746,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD595" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3989/1">
+<deviceset name="AD595" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3989/1" locally_modified="yes">
 <description>&lt;b&gt;ANALOG DEVICES&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="AD595" x="0" y="0"/>
@@ -22770,7 +22770,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 <connect gate="G$1" pin="VO" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3908/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22783,7 +22783,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD811_N" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3996/1">
+<deviceset name="AD811_N" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3996/1" locally_modified="yes">
 <description>&lt;b&gt;ANALOG DEVICES&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="OP" x="0" y="0"/>
@@ -22805,7 +22805,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22851,7 +22851,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD654" prefix="IC" urn="urn:adsk.eagle:component:3997/1">
+<deviceset name="AD654" prefix="IC" urn="urn:adsk.eagle:component:3997/1" locally_modified="yes">
 <description>&lt;b&gt;Low Cost Monolithic Voltage-to-Frequency Converter&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="AD654" x="0" y="0"/>
@@ -22869,7 +22869,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 <connect gate="G$1" pin="RT" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -22882,7 +22882,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD538*" prefix="IC" urn="urn:adsk.eagle:component:4018/1">
+<deviceset name="AD538*" prefix="IC" urn="urn:adsk.eagle:component:4018/1" locally_modified="yes">
 <description>&lt;b&gt;Real-Time Analog Computational Unit (ACU)&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="AD538" x="0" y="0"/>
@@ -22910,7 +22910,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 <connect gate="G$1" pin="VZ" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3919/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name="A">
@@ -22935,7 +22935,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD536AJD" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3988/1">
+<deviceset name="AD536AJD" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3988/1" locally_modified="yes">
 <description>&lt;b&gt;ANALOG DEVICES&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="AD536" x="0" y="0"/>
@@ -22963,7 +22963,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 <connect gate="NC4" pin="NC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3908/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23164,7 +23164,7 @@ single-chip microcomputer optimized for digital signal processing (DSP)</descrip
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD736R" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3977/1">
+<deviceset name="AD736R" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3977/1" locally_modified="yes">
 <description>&lt;b&gt;ANALOG DEVICES&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="AD736" x="0" y="0"/>
@@ -23182,7 +23182,7 @@ single-chip microcomputer optimized for digital signal processing (DSP)</descrip
 <connect gate="G$1" pin="VIN" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23195,7 +23195,7 @@ single-chip microcomputer optimized for digital signal processing (DSP)</descrip
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD811_SO8" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3978/1">
+<deviceset name="AD811_SO8" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:3978/1" locally_modified="yes">
 <description>&lt;b&gt;ANALOG DEVICES&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="OP" x="0" y="0"/>
@@ -23217,7 +23217,7 @@ single-chip microcomputer optimized for digital signal processing (DSP)</descrip
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23230,7 +23230,7 @@ single-chip microcomputer optimized for digital signal processing (DSP)</descrip
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD620" prefix="IC" urn="urn:adsk.eagle:component:3999/1">
+<deviceset name="AD620" prefix="IC" urn="urn:adsk.eagle:component:3999/1" locally_modified="yes">
 <description>&lt;b&gt;Low Cost, Low Power, Instrumentation Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/UploadedFiles/Data_Sheets/37793330023930AD620_e.pdf</description>
 <gates>
@@ -23249,7 +23249,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/37793330023930AD620_e.pd
 <connect gate="G$1" pin="RG@2" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23272,7 +23272,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/37793330023930AD620_e.pd
 <connect gate="G$1" pin="RG@2" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23285,7 +23285,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/37793330023930AD620_e.pd
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD780" prefix="IC" urn="urn:adsk.eagle:component:4000/1">
+<deviceset name="AD780" prefix="IC" urn="urn:adsk.eagle:component:4000/1" locally_modified="yes">
 <description>&lt;b&gt;High Precision Reference&lt;/b&gt; 2.5V/3.0V&lt;p&gt;
 Source: http://www.analog.com/UploadedFiles/Data_Sheets/AD780.pdf</description>
 <gates>
@@ -23302,7 +23302,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/AD780.pdf</description>
 <connect gate="G$1" pin="VOUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23323,7 +23323,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/AD780.pdf</description>
 <connect gate="G$1" pin="VOUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23336,7 +23336,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/AD780.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD627" prefix="IC" urn="urn:adsk.eagle:component:4002/1">
+<deviceset name="AD627" prefix="IC" urn="urn:adsk.eagle:component:4002/1" locally_modified="yes">
 <description>&lt;b&gt;Micropower, Single- and Dual-Supply, Rail-to-Rail Instrumentation Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD627.pdf</description>
 <gates>
@@ -23355,7 +23355,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD627.pdf</descr
 <connect gate="G$1" pin="RG@2" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23378,7 +23378,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD627.pdf</descr
 <connect gate="G$1" pin="RG@2" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23391,7 +23391,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD627.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD746" prefix="IC" urn="urn:adsk.eagle:component:4004/1">
+<deviceset name="AD746" prefix="IC" urn="urn:adsk.eagle:component:4004/1" locally_modified="yes">
 <description>&lt;b&gt;Dual Precision, 500 ns Settling, BiFET Op Amp&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD746.pdf</description>
 <gates>
@@ -23412,7 +23412,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD746.pdf</descr
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23425,7 +23425,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD746.pdf</descr
 </device>
 <device name="R" package="SO8">
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23438,7 +23438,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD746.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD712" prefix="IC" urn="urn:adsk.eagle:component:4003/1">
+<deviceset name="AD712" prefix="IC" urn="urn:adsk.eagle:component:4003/1" locally_modified="yes">
 <description>&lt;b&gt;Dual Precision, Low Cost, High Speed BiFET Op Amp&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD712.pdf</description>
 <gates>
@@ -23459,7 +23459,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD712.pdf</descr
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23482,7 +23482,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD712.pdf</descr
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23505,7 +23505,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD712.pdf</descr
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23518,7 +23518,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD712.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD797" prefix="IC" urn="urn:adsk.eagle:component:4005/1">
+<deviceset name="AD797" prefix="IC" urn="urn:adsk.eagle:component:4005/1" locally_modified="yes">
 <description>&lt;b&gt;Ultralow Distortion, Ultralow Noise Op Amp&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD797.pdf</description>
 <gates>
@@ -23537,7 +23537,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD797.pdf</descr
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23560,7 +23560,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD797.pdf</descr
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23573,7 +23573,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD797.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8041" prefix="IC" urn="urn:adsk.eagle:component:4006/1">
+<deviceset name="AD8041" prefix="IC" urn="urn:adsk.eagle:component:4006/1" locally_modified="yes">
 <description>&lt;b&gt;160 MHz Rail-to-Rail Amplifier with Disable&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8041.pdf</description>
 <gates>
@@ -23590,7 +23590,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8041.pdf</desc
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23611,7 +23611,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8041.pdf</desc
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23632,7 +23632,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8041.pdf</desc
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23645,7 +23645,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8041.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8042" prefix="IC" urn="urn:adsk.eagle:component:4007/1">
+<deviceset name="AD8042" prefix="IC" urn="urn:adsk.eagle:component:4007/1" locally_modified="yes">
 <description>&lt;b&gt;Dual 160 MHz Rail-to-Rail Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8042.pdf</description>
 <gates>
@@ -23666,7 +23666,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8042.pdf</desc
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23689,7 +23689,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8042.pdf</desc
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23702,7 +23702,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8042.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8015" prefix="IC" urn="urn:adsk.eagle:component:3979/1">
+<deviceset name="AD8015" prefix="IC" urn="urn:adsk.eagle:component:3979/1" locally_modified="yes">
 <description>&lt;b&gt;Wideband/Differential Output Transimpedance Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8015.pdf</description>
 <gates>
@@ -23719,7 +23719,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8015.pdf</desc
 <connect gate="P" pin="VBYP" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23732,7 +23732,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8015.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8079" prefix="IC" urn="urn:adsk.eagle:component:3980/1">
+<deviceset name="AD8079" prefix="IC" urn="urn:adsk.eagle:component:3980/1" locally_modified="yes">
 <description>&lt;b&gt;Dual 260 MHz Gain = +2.0 &amp; +2.2 Buffer&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8079.pdf</description>
 <gates>
@@ -23753,7 +23753,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8079.pdf</desc
 <connect gate="P" pin="V-" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23766,7 +23766,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8079.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD817" prefix="IC" urn="urn:adsk.eagle:component:4009/1">
+<deviceset name="AD817" prefix="IC" urn="urn:adsk.eagle:component:4009/1" locally_modified="yes">
 <description>&lt;b&gt;High Speed, Low Power Wide Supply Range Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD817.pdf</description>
 <gates>
@@ -23784,7 +23784,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD817.pdf</descr
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23806,7 +23806,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD817.pdf</descr
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23819,7 +23819,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD817.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8066" prefix="IC" urn="urn:adsk.eagle:component:4008/1">
+<deviceset name="AD8066" prefix="IC" urn="urn:adsk.eagle:component:4008/1" locally_modified="yes">
 <description>&lt;b&gt;High Performance, 145 MHz FastFET Op Amps&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8065_8066.pdf</description>
 <gates>
@@ -23840,7 +23840,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8065_8066.pdf<
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23863,7 +23863,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8065_8066.pdf<
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23876,7 +23876,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8065_8066.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD818" prefix="IC" urn="urn:adsk.eagle:component:4010/1">
+<deviceset name="AD818" prefix="IC" urn="urn:adsk.eagle:component:4010/1" locally_modified="yes">
 <description>&lt;b&gt;Low Cost, Low Power Video Op Amp&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD818.pdf</description>
 <gates>
@@ -23894,7 +23894,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD818.pdf</descr
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23916,7 +23916,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD818.pdf</descr
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23929,7 +23929,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD818.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADA4627-1R" prefix="IC" urn="urn:adsk.eagle:component:3983/1">
+<deviceset name="ADA4627-1R" prefix="IC" urn="urn:adsk.eagle:component:3983/1" locally_modified="yes">
 <description>&lt;b&gt;36 V, 19 MHz, Low Noise, Low Bias Current, JFET Operational Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/ADA4627-1.pdf</description>
 <gates>
@@ -23947,7 +23947,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/ADA4627-1.pdf</d
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23960,7 +23960,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/ADA4627-1.pdf</d
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8620" prefix="IC" urn="urn:adsk.eagle:component:3982/1">
+<deviceset name="AD8620" prefix="IC" urn="urn:adsk.eagle:component:3982/1" locally_modified="yes">
 <description>&lt;b&gt;Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8610_8620.pdf</description>
 <gates>
@@ -23981,7 +23981,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8610_8620.pdf<
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -23994,7 +23994,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8610_8620.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="BUF04" prefix="IC" urn="urn:adsk.eagle:component:4013/1">
+<deviceset name="BUF04" prefix="IC" urn="urn:adsk.eagle:component:4013/1" locally_modified="yes">
 <description>&lt;b&gt;Closed-Loop High Speed Buffer&lt;/b&gt;&lt;font color="red"&gt; OBSOLETE&lt;/font&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets_obsolete/820549BUF04.pdf</description>
 <gates>
@@ -24011,7 +24011,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets_obsolete/820549B
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24032,7 +24032,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets_obsolete/820549B
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24045,7 +24045,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets_obsolete/820549B
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8599" prefix="IC" urn="urn:adsk.eagle:component:3981/1">
+<deviceset name="AD8599" prefix="IC" urn="urn:adsk.eagle:component:3981/1" locally_modified="yes">
 <description>&lt;b&gt;Single and Dual, Ultralow Distortion, Ultralow Noise Op Amps&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8597_8599.pdf</description>
 <gates>
@@ -24066,7 +24066,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8597_8599.pdf<
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24391,7 +24391,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8597_8599.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD826" prefix="IC" urn="urn:adsk.eagle:component:4012/1">
+<deviceset name="AD826" prefix="IC" urn="urn:adsk.eagle:component:4012/1" locally_modified="yes">
 <description>&lt;b&gt;High-Speed, Low-Power Dual Operational Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD826.pdf</description>
 <gates>
@@ -24412,7 +24412,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD826.pdf</descr
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24435,7 +24435,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD826.pdf</descr
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24448,7 +24448,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD826.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="SSM2165" prefix="IC" urn="urn:adsk.eagle:component:4001/1">
+<deviceset name="SSM2165" prefix="IC" urn="urn:adsk.eagle:component:4001/1" locally_modified="yes">
 <description>&lt;b&gt;Microphone Preamplifier with Variable Compression and Noise Gating&lt;/b&gt; &lt;font color="red"&gt;OBSOLETE&lt;/font&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets_obsolete/564647885SSM2165.pdf</description>
 <gates>
@@ -24467,7 +24467,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets_obsolete/5646478
 <connect gate="G$1" pin="VOUT" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="-1">
@@ -24496,7 +24496,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets_obsolete/5646478
 <connect gate="G$1" pin="VOUT" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="-1">
@@ -24515,7 +24515,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets_obsolete/5646478
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD650" prefix="IC" urn="urn:adsk.eagle:component:4029/1">
+<deviceset name="AD650" prefix="IC" urn="urn:adsk.eagle:component:4029/1" locally_modified="yes">
 <description>&lt;b&gt;AD650 - Voltage-to-Frequency and Frequency-to-Voltage Converter&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/en/prod/0,,760_794_AD650,00.html</description>
 <gates>
@@ -24539,7 +24539,7 @@ Source: http://www.analog.com/en/prod/0,,760_794_AD650,00.html</description>
 <connect gate="P" pin="VOUT" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3908/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24567,7 +24567,7 @@ Source: http://www.analog.com/en/prod/0,,760_794_AD650,00.html</description>
 <connect gate="P" pin="VOUT" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3927/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2011/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24580,7 +24580,7 @@ Source: http://www.analog.com/en/prod/0,,760_794_AD650,00.html</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8529" prefix="IC" urn="urn:adsk.eagle:component:4058/1">
+<deviceset name="AD8529" prefix="IC" urn="urn:adsk.eagle:component:4058/1" locally_modified="yes">
 <description>&lt;b&gt;8 MHz Rail-to-Rail Operational Amplifiers&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8519_8529.pdf</description>
 <gates>
@@ -24601,7 +24601,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8519_8529.pdf<
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24637,7 +24637,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8519_8529.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8611" prefix="IC" urn="urn:adsk.eagle:component:4052/1">
+<deviceset name="AD8611" prefix="IC" urn="urn:adsk.eagle:component:4052/1" locally_modified="yes">
 <description>&lt;b&gt;Ultrafast 4 ns Single Supply Comparators&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf&lt;br&gt;
 Upgrade for LT1394 and LT1016 Designs</description>
@@ -24657,7 +24657,7 @@ Upgrade for LT1394 and LT1016 Designs</description>
 <connect gate="G$1" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24693,7 +24693,7 @@ Upgrade for LT1394 and LT1016 Designs</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD7568" prefix="IC" urn="urn:adsk.eagle:component:4028/1">
+<deviceset name="AD7568" prefix="IC" urn="urn:adsk.eagle:component:4028/1" locally_modified="yes">
 <description>&lt;b&gt;LC2MOS Octal 12-Bit DAC&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/UploadedFiles/Data_Sheets/843987253ad7568.pdf</description>
 <gates>
@@ -24746,7 +24746,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/843987253ad7568.pdf</des
 <connect gate="G$1" pin="VREFH" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3928/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:4329/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24803,7 +24803,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/843987253ad7568.pdf</des
 <connect gate="G$1" pin="VREFH" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3926/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16470/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24816,7 +24816,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/843987253ad7568.pdf</des
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD820" prefix="IC" urn="urn:adsk.eagle:component:4056/1">
+<deviceset name="AD820" prefix="IC" urn="urn:adsk.eagle:component:4056/1" locally_modified="yes">
 <description>&lt;b&gt;Single-Supply, Rail-to-Rail, Low Power, FET Input Op Amp&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</description>
 <gates>
@@ -24832,7 +24832,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24865,7 +24865,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD820.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8655" prefix="IC" urn="urn:adsk.eagle:component:4061/1">
+<deviceset name="AD8655" prefix="IC" urn="urn:adsk.eagle:component:4061/1" locally_modified="yes">
 <description>&lt;b&gt;Low Noise, Precision CMOS Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8655_8656.pdf</description>
 <gates>
@@ -24901,7 +24901,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8655_8656.pdf<
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24914,7 +24914,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8655_8656.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD7303B" prefix="IC" urn="urn:adsk.eagle:component:4053/1">
+<deviceset name="AD7303B" prefix="IC" urn="urn:adsk.eagle:component:4053/1" locally_modified="yes">
 <description>&lt;b&gt;+2.7 V to +5.5 V, Serial Input, Dual Voltage Output 8-Bit DAC&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/UploadedFiles/Data_Sheets/AD7303.pdf</description>
 <gates>
@@ -24933,7 +24933,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/AD7303.pdf</description>
 <connect gate="G$1" pin="VREF" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24979,7 +24979,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/AD7303.pdf</description>
 <connect gate="G$1" pin="VREF" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -24992,7 +24992,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/AD7303.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD623" prefix="IC" urn="urn:adsk.eagle:component:4054/1">
+<deviceset name="AD623" prefix="IC" urn="urn:adsk.eagle:component:4054/1" locally_modified="yes">
 <description>&lt;b&gt;Single-Supply, Rail-to-Rail, Low Cost Instrumentation Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD623.pdf</description>
 <gates>
@@ -25011,7 +25011,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD623.pdf</descr
 <connect gate="G$1" pin="RG@2" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25034,7 +25034,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD623.pdf</descr
 <connect gate="G$1" pin="RG@2" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25070,7 +25070,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD623.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8033" prefix="IC" urn="urn:adsk.eagle:component:4055/1">
+<deviceset name="AD8033" prefix="IC" urn="urn:adsk.eagle:component:4055/1" locally_modified="yes">
 <description>&lt;b&gt;2.7 V, 800 ?A, 80 MHz Rail-to-Rail I/O Amplifiers&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8031_8032.pdf</description>
 <gates>
@@ -25091,7 +25091,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8031_8032.pdf<
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25114,7 +25114,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8031_8032.pdf<
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25150,7 +25150,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8031_8032.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8607" prefix="IC" urn="urn:adsk.eagle:component:4062/1">
+<deviceset name="AD8607" prefix="IC" urn="urn:adsk.eagle:component:4062/1" locally_modified="yes">
 <description>&lt;b&gt;Precision Micropower, Low Noise CMOS, Rail-to-Rail Input/Output Operational Amplifiers&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8603_8607_8609.pdf</description>
 <gates>
@@ -25194,7 +25194,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8603_8607_8609
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25207,7 +25207,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8603_8607_8609
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8656" prefix="IC" urn="urn:adsk.eagle:component:4060/1">
+<deviceset name="AD8656" prefix="IC" urn="urn:adsk.eagle:component:4060/1" locally_modified="yes">
 <description>&lt;b&gt;Low Noise, Precision CMOS Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8655_8656.pdf</description>
 <gates>
@@ -25251,7 +25251,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8655_8656.pdf<
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25264,7 +25264,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8655_8656.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD822" prefix="IC" urn="urn:adsk.eagle:component:4057/1">
+<deviceset name="AD822" prefix="IC" urn="urn:adsk.eagle:component:4057/1" locally_modified="yes">
 <description>&lt;b&gt;Single-Supply, Rail-to-Rail Low Power FET-Input Op Amp&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD822.pdf</description>
 <gates>
@@ -25285,7 +25285,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD822.pdf</descr
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25308,7 +25308,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD822.pdf</descr
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -25343,7 +25343,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD822.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8610" prefix="IC" urn="urn:adsk.eagle:component:4059/1">
+<deviceset name="AD8610" prefix="IC" urn="urn:adsk.eagle:component:4059/1" locally_modified="yes">
 <description>&lt;b&gt;Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8610_8620.pdf</description>
 <gates>
@@ -25361,7 +25361,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8610_8620.pdf<
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -26628,7 +26628,7 @@ Source: 33335272594765ADSP_BF532_mbga.bsdl</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD7730" prefix="IC" urn="urn:adsk.eagle:component:4051/1">
+<deviceset name="AD7730" prefix="IC" urn="urn:adsk.eagle:component:4051/1" locally_modified="yes">
 <description>&lt;b&gt;Bridge Transducer ADC&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD7730_7730L.pdf</description>
 <gates>
@@ -26741,7 +26741,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD7730_7730L.pdf
 <connect gate="P" pin="VBIAS" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3912/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -26754,7 +26754,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD7730_7730L.pdf
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD7714" prefix="IC" urn="urn:adsk.eagle:component:4065/1">
+<deviceset name="AD7714" prefix="IC" urn="urn:adsk.eagle:component:4065/1" locally_modified="yes">
 <description>&lt;b&gt;Signal Conditioning ADC&lt;/b&gt; 3 V/5 V, CMOS, 500 mA&lt;p&gt;
 Source: http://www.analog.com/UploadedFiles/Data_Sheets/39677768AD7714_c.pdf</description>
 <gates>
@@ -26906,7 +26906,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/39677768AD7714_c.pdf</de
 <connect gate="G$1" pin="SCLK" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3912/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3299/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -26919,7 +26919,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/39677768AD7714_c.pdf</de
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD526" prefix="IC" urn="urn:adsk.eagle:component:4021/1">
+<deviceset name="AD526" prefix="IC" urn="urn:adsk.eagle:component:4021/1" locally_modified="yes">
 <description>&lt;b&gt;Monolithic Software Programmable Gain Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.dscc.dla.mil/Downloads/MilSpec/Smd/90894.pdf</description>
 <gates>
@@ -26946,7 +26946,7 @@ Source: http://www.dscc.dla.mil/Downloads/MilSpec/Smd/90894.pdf</description>
 <connect gate="G$1" pin="VS-" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3925/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -26959,7 +26959,7 @@ Source: http://www.dscc.dla.mil/Downloads/MilSpec/Smd/90894.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD625" prefix="IC" urn="urn:adsk.eagle:component:4032/1">
+<deviceset name="AD625" prefix="IC" urn="urn:adsk.eagle:component:4032/1" locally_modified="yes">
 <description>&lt;b&gt;Programmable Gain Instrumentation Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD625.pdf</description>
 <gates>
@@ -26985,7 +26985,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD625.pdf</descr
 <connect gate="G$1" pin="VOUT" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3925/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27015,7 +27015,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD625.pdf</descr
 <connect gate="G$1" pin="VOUT" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3925/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27045,7 +27045,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD625.pdf</descr
 <connect gate="G$1" pin="VOUT" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3927/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2011/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27111,7 +27111,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD625.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD7524*" prefix="IC" urn="urn:adsk.eagle:component:4030/1">
+<deviceset name="AD7524*" prefix="IC" urn="urn:adsk.eagle:component:4030/1" locally_modified="yes">
 <description>&lt;b&gt;8-Bit Buffered Multiplying DAC&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/UploadedFiles/Data_Sheets/888358036ad7524.pdf</description>
 <gates>
@@ -27138,7 +27138,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/888358036ad7524.pdf</des
 <connect gate="G$1" pin="VREF" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3925/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="J">
@@ -27212,7 +27212,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/888358036ad7524.pdf</des
 <connect gate="G$1" pin="VREF" pad="19"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3927/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2011/1"/>
 </package3dinstances>
 <technologies>
 <technology name="J">
@@ -27298,7 +27298,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/888358036ad7524.pdf</des
 <connect gate="G$1" pin="VREF" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3925/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="A">
@@ -27665,7 +27665,7 @@ Source: 8x ADG1408_1409.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD421" prefix="IC" urn="urn:adsk.eagle:component:4082/1">
+<deviceset name="AD421" prefix="IC" urn="urn:adsk.eagle:component:4082/1" locally_modified="yes">
 <description>&lt;b&gt;Loop-Powered 4 mA to 20 mA DAC&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/UploadedFiles/Data_Sheets/409317160AD421_c.pdf</description>
 <gates>
@@ -27692,7 +27692,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/409317160AD421_c.pdf</de
 <connect gate="G$1" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3925/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27926,7 +27926,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/ADuM1300_1301.pd
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD9901" prefix="IC" urn="urn:adsk.eagle:component:4031/1">
+<deviceset name="AD9901" prefix="IC" urn="urn:adsk.eagle:component:4031/1" locally_modified="yes">
 <description>&lt;b&gt;Ultrahigh Speed Phase/Frequency Discrimainator&lt;/b&gt; Phase-Locked-Loop&lt;p&gt;
 Source: 36342005AD9901_b.pdf</description>
 <gates>
@@ -27951,7 +27951,7 @@ Source: 36342005AD9901_b.pdf</description>
 <connect gate="G$1" pin="VCOIN" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3908/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -27980,7 +27980,7 @@ Source: 36342005AD9901_b.pdf</description>
 <connect gate="G$1" pin="VCOIN" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3927/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2011/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29259,7 +29259,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/ADAU1592.pdf</de
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD744" prefix="IC" urn="urn:adsk.eagle:component:4119/1">
+<deviceset name="AD744" prefix="IC" urn="urn:adsk.eagle:component:4119/1" locally_modified="yes">
 <description>&lt;b&gt;Precision, 500 ns Settling BiFET Op Amp&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD744.pdf</description>
 <gates>
@@ -29301,7 +29301,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD744.pdf</descr
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29324,7 +29324,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD744.pdf</descr
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29535,7 +29535,7 @@ http://www.analog.com/UploadedFiles/Data_Sheets/171976900AD6624A_0.pdf</descript
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD711" prefix="IC" urn="urn:adsk.eagle:component:4118/1">
+<deviceset name="AD711" prefix="IC" urn="urn:adsk.eagle:component:4118/1" locally_modified="yes">
 <description>&lt;b&gt;Precision, Low Cost, High Speed, BiFET Op Amp&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD711.pdf</description>
 <gates>
@@ -29553,7 +29553,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD711.pdf</descr
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29575,7 +29575,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD711.pdf</descr
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29735,7 +29735,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD215.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD825" prefix="IC" urn="urn:adsk.eagle:component:4122/1">
+<deviceset name="AD825" prefix="IC" urn="urn:adsk.eagle:component:4122/1" locally_modified="yes">
 <description>&lt;b&gt;Low Cost, General-Purpose High Speed JFET Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD825.pdf</description>
 <gates>
@@ -29751,7 +29751,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD825.pdf</descr
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29815,7 +29815,7 @@ Course: http://www.analog.com/static/imported-files/data_sheets/AD745.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8001" prefix="IC" urn="urn:adsk.eagle:component:4046/1">
+<deviceset name="AD8001" prefix="IC" urn="urn:adsk.eagle:component:4046/1" locally_modified="yes">
 <description>&lt;b&gt;800 MHz, 50 mW Current Feedback Amplifier&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8001.pdf</description>
 <gates>
@@ -29831,7 +29831,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8001.pdf</desc
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29851,7 +29851,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8001.pdf</desc
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29884,7 +29884,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8001.pdf</desc
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8031" prefix="IC" urn="urn:adsk.eagle:component:4047/1">
+<deviceset name="AD8031" prefix="IC" urn="urn:adsk.eagle:component:4047/1" locally_modified="yes">
 <description>&lt;b&gt;2.7 V, 800 ?A, 80 MHz Rail-to-Rail I/O Amplifiers&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8031_8032.pdf</description>
 <gates>
@@ -29900,7 +29900,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8031_8032.pdf<
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29920,7 +29920,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8031_8032.pdf<
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29953,7 +29953,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8031_8032.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8065" prefix="IC" urn="urn:adsk.eagle:component:4048/1">
+<deviceset name="AD8065" prefix="IC" urn="urn:adsk.eagle:component:4048/1" locally_modified="yes">
 <description>&lt;b&gt;High Performance, 145 MHz FastFET Op Amps&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8065_8066.pdf</description>
 <gates>
@@ -29969,7 +29969,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8065_8066.pdf<
 <connect gate="G$" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -29989,7 +29989,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8065_8066.pdf<
 <connect gate="G$" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -30395,7 +30395,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/346131962AD8067_a.pdf</d
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD845" prefix="IC" urn="urn:adsk.eagle:component:4123/1">
+<deviceset name="AD845" prefix="IC" urn="urn:adsk.eagle:component:4123/1" locally_modified="yes">
 <description>&lt;b&gt;Precision, 16 MHz CBFET Op Amp&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD845.pdf</description>
 <gates>
@@ -30413,7 +30413,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD845.pdf</descr
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -30489,7 +30489,7 @@ Source: 8x ADG1408_1409.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADG608" prefix="IC" urn="urn:adsk.eagle:component:4102/1">
+<deviceset name="ADG608" prefix="IC" urn="urn:adsk.eagle:component:4102/1" locally_modified="yes">
 <description>&lt;b&gt;3 V/5 V, 8 Channel High Performance Analog Multiplexers&lt;/b&gt;&lt;p&gt;
 Source: ADG608_609.pdf</description>
 <gates>
@@ -30548,7 +30548,7 @@ Source: ADG608_609.pdf</description>
 <connect gate="P" pin="VSS" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3925/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -30638,7 +30638,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8074_8075.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADG609" prefix="IC" urn="urn:adsk.eagle:component:4103/1">
+<deviceset name="ADG609" prefix="IC" urn="urn:adsk.eagle:component:4103/1" locally_modified="yes">
 <description>&lt;b&gt;3 V/5 V, 4 Channel High Performance Analog Multiplexers&lt;/b&gt;&lt;p&gt;
 Source: ADG608_609.pdf</description>
 <gates>
@@ -30666,7 +30666,7 @@ Source: ADG608_609.pdf</description>
 <connect gate="P" pin="VSS" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3925/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -30741,7 +30741,7 @@ Source: ADG608_609.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADG412" prefix="IC" urn="urn:adsk.eagle:component:4107/1">
+<deviceset name="ADG412" prefix="IC" urn="urn:adsk.eagle:component:4107/1" locally_modified="yes">
 <description>&lt;b&gt;LC2MOS Precision Quad SPST Switches&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/ADG411_412_413.pdf</description>
 <gates>
@@ -30772,7 +30772,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/ADG411_412_413.p
 <connect gate="P" pin="VSS" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3925/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -30887,7 +30887,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADG411" prefix="IC" urn="urn:adsk.eagle:component:4108/1">
+<deviceset name="ADG411" prefix="IC" urn="urn:adsk.eagle:component:4108/1" locally_modified="yes">
 <description>&lt;b&gt;LC2MOS Precision Quad SPST Switches&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/ADG411_412_413.pdf</description>
 <gates>
@@ -30918,7 +30918,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/ADG411_412_413.p
 <connect gate="P" pin="VSS" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3925/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -31743,7 +31743,7 @@ Source: http://www.analog.com .. 3832984220209AD8133_0.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADG413" prefix="IC" urn="urn:adsk.eagle:component:4109/1">
+<deviceset name="ADG413" prefix="IC" urn="urn:adsk.eagle:component:4109/1" locally_modified="yes">
 <description>&lt;b&gt;LC2MOS Precision Quad SPST Switches&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/ADG411_412_413.pdf</description>
 <gates>
@@ -31774,7 +31774,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/ADG411_412_413.p
 <connect gate="P" pin="VSS" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3925/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -32676,7 +32676,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8541_8542_8544
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD811" prefix="IC" urn="urn:adsk.eagle:component:4121/1">
+<deviceset name="AD811" prefix="IC" urn="urn:adsk.eagle:component:4121/1" locally_modified="yes">
 <description>&lt;b&gt;High Performance Video Op Amp&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD811.pdf</description>
 <gates>
@@ -32692,7 +32692,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD811.pdf</descr
 <connect gate="G$" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3915/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -32712,7 +32712,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD811.pdf</descr
 <connect gate="G$" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -32752,7 +32752,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD811.pdf</descr
 <connect gate="G$" pin="OUT" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3927/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:2011/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -32785,7 +32785,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD811.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="SSM2166" prefix="IC" urn="urn:adsk.eagle:component:4095/1">
+<deviceset name="SSM2166" prefix="IC" urn="urn:adsk.eagle:component:4095/1" locally_modified="yes">
 <description>&lt;b&gt;Microphone Preamplifier with Variable Compression and Noise Gating&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/SSM2166.pdf</description>
 <gates>
@@ -32810,7 +32810,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/SSM2166.pdf</des
 <connect gate="G$1" pin="VOUT" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3908/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -32852,7 +32852,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/SSM2166.pdf</des
 </device>
 </devices>
 </deviceset>
-<deviceset name="MAT04" prefix="IC" urn="urn:adsk.eagle:component:4098/1">
+<deviceset name="MAT04" prefix="IC" urn="urn:adsk.eagle:component:4098/1" locally_modified="yes">
 <description>&lt;b&gt;Matched Monolithic Quad Transistor&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/MAT04.pdf</description>
 <gates>
@@ -32881,7 +32881,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/MAT04.pdf</descr
 <connect gate="S" pin="SUB@2" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3908/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -33898,7 +33898,7 @@ Source: AD8353.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8597" prefix="IC" urn="urn:adsk.eagle:component:4127/1">
+<deviceset name="AD8597" prefix="IC" urn="urn:adsk.eagle:component:4127/1" locally_modified="yes">
 <description>&lt;b&gt;Single and Dual, Ultralow Distortion, Ultralow Noise Op Amps&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8597_8599.pdf</description>
 <gates>
@@ -33914,7 +33914,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8597_8599.pdf<
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -33947,7 +33947,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8597_8599.pdf<
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8541" prefix="IC" urn="urn:adsk.eagle:component:4115/1">
+<deviceset name="AD8541" prefix="IC" urn="urn:adsk.eagle:component:4115/1" locally_modified="yes">
 <description>&lt;b&gt;General-Purpose CMOS Rail-to-Rail Amplifiers&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8541_8542_8544.pdf</description>
 <gates>
@@ -34003,7 +34003,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8541_8542_8544
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -34016,7 +34016,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8541_8542_8544
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADA4692-2" prefix="IC" urn="urn:adsk.eagle:component:4139/1">
+<deviceset name="ADA4692-2" prefix="IC" urn="urn:adsk.eagle:component:4139/1" locally_modified="yes">
 <description>&lt;b&gt;Low Power, 3.6 MHz, Low Noise, Rail-to-Rail Output, Operational Amplifiers&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/ADA4691-2_4692-2_4692-4.pdf</description>
 <gates>
@@ -34037,7 +34037,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/ADA4691-2_4692-2
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -34073,7 +34073,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/ADA4691-2_4692-2
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8542" prefix="IC" urn="urn:adsk.eagle:component:4126/1">
+<deviceset name="AD8542" prefix="IC" urn="urn:adsk.eagle:component:4126/1" locally_modified="yes">
 <description>&lt;b&gt;General-Purpose CMOS Rail-to-Rail Amplifiers&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8541_8542_8544.pdf</description>
 <gates>
@@ -34094,7 +34094,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8541_8542_8544
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -34153,7 +34153,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8541_8542_8544
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADA4075-2" prefix="IC" urn="urn:adsk.eagle:component:4138/1">
+<deviceset name="ADA4075-2" prefix="IC" urn="urn:adsk.eagle:component:4138/1" locally_modified="yes">
 <description>&lt;b&gt;Ultralow Noise Amplifier at Lower Power&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/ADA4075-2.pdf</description>
 <gates>
@@ -34174,7 +34174,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/ADA4075-2.pdf</d
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -34997,7 +34997,7 @@ http://www.analog.com/static/imported-files/data_sheets/ADSP-21367_21368_21369.p
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD8519" prefix="IC" urn="urn:adsk.eagle:component:4114/1">
+<deviceset name="AD8519" prefix="IC" urn="urn:adsk.eagle:component:4114/1" locally_modified="yes">
 <description>&lt;b&gt;8 MHz Rail-to-Rail Operational Amplifiers&lt;/b&gt;&lt;p&gt;
 Source: http://www.analog.com/static/imported-files/data_sheets/AD8519_8529.pdf</description>
 <gates>
@@ -35013,7 +35013,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8519_8529.pdf<
 <connect gate="P" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3906/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:30987/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">

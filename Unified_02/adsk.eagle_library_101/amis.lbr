@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -71,7 +71,7 @@
 <description>AMI Semiconductor&lt;p&gt;
 ASIC &amp; ASSP Solutions for the Automotive, Medical and Industrial Markets.</description>
 <packages>
-<package name="PLCC28S" urn="urn:adsk.eagle:footprint:3685/1">
+<package name="PLCC28S" urn="urn:adsk.eagle:footprint:16140/1">
 <description>&lt;b&gt;PLASTIC LEADED CHIP CARRIER&lt;/b&gt;&lt;p&gt;
 square</description>
 <wire x1="6.2" y1="6.2" x2="-3.965" y2="6.2" width="0.2032" layer="51"/>
@@ -141,7 +141,7 @@ square</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="PLCC28S" urn="urn:adsk.eagle:package:3686/1" type="box">
+<package3d name="PLCC28S" urn="urn:adsk.eagle:package:16411/2" type="model">
 <description>PLASTIC LEADED CHIP CARRIER
 square</description>
 <packageinstances>
@@ -188,7 +188,7 @@ square</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="30585" prefix="IC" urn="urn:adsk.eagle:component:3687/1">
+<deviceset name="30585" prefix="IC" urn="urn:adsk.eagle:component:3687/1" locally_modified="yes">
 <description>&lt;b&gt;AMIS-30585 S-FSK PLC Modem&lt;/b&gt;&lt;p&gt;
 Source: http://www.amis.com/pdf/amis_30585_ds.pdf</description>
 <gates>
@@ -227,7 +227,7 @@ Source: http://www.amis.com/pdf/amis_30585_ds.pdf</description>
 <connect gate="-1" pin="XOUT" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3686/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16411/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

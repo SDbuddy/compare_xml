@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -71,7 +71,7 @@
 <description>&lt;b&gt;Sipex Corporation&lt;/b&gt;Power Management, Interface, Optical Storage IC&lt;p&gt;
 www.sipex.com</description>
 <packages>
-<package name="TSSOP20" urn="urn:adsk.eagle:footprint:26397/1">
+<package name="TSSOP20" urn="urn:adsk.eagle:footprint:4239/1">
 <description>&lt;b&gt;Thin Shrink Small Outline Plastic 20&lt;/b&gt;&lt;p&gt;
 MAX3223-MAX3243.pdf</description>
 <wire x1="-3.1646" y1="-2.2828" x2="3.1646" y2="-2.2828" width="0.1524" layer="21"/>
@@ -126,7 +126,7 @@ MAX3223-MAX3243.pdf</description>
 <rectangle x1="-2.3766" y1="2.2828" x2="-2.1734" y2="3.121" layer="51"/>
 <rectangle x1="-3.0266" y1="2.2828" x2="-2.8234" y2="3.121" layer="51"/>
 </package>
-<package name="SSOP20" urn="urn:adsk.eagle:footprint:26396/1">
+<package name="SSOP20" urn="urn:adsk.eagle:footprint:20596/1">
 <description>&lt;b&gt;Shrink Small Outline Package&lt;/b&gt;&lt;p&gt;
 package type SS</description>
 <wire x1="-3.8" y1="-2.6" x2="3.8" y2="-2.6" width="0.2032" layer="21"/>
@@ -176,7 +176,7 @@ package type SS</description>
 <rectangle x1="-3.1027" y1="2.6416" x2="-2.7471" y2="3.937" layer="51"/>
 <rectangle x1="-3.8999" y1="-2.5999" x2="-2.925" y2="2.5999" layer="27"/>
 </package>
-<package name="DIL20" urn="urn:adsk.eagle:footprint:26395/1">
+<package name="DIL20" urn="urn:adsk.eagle:footprint:16206/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="12.7" y1="2.921" x2="-12.7" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-12.7" y1="-2.921" x2="12.7" y2="-2.921" width="0.1524" layer="21"/>
@@ -209,21 +209,21 @@ package type SS</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="SSOP20" urn="urn:adsk.eagle:package:26399/1" type="box">
+<package3d name="SSOP20" urn="urn:adsk.eagle:package:20791/1" type="box">
 <description>Shrink Small Outline Package
 package type SS</description>
 <packageinstances>
 <packageinstance name="SSOP20"/>
 </packageinstances>
 </package3d>
-<package3d name="TSSOP20" urn="urn:adsk.eagle:package:26400/1" type="box">
+<package3d name="TSSOP20" urn="urn:adsk.eagle:package:4349/1" type="box">
 <description>Thin Shrink Small Outline Plastic 20
 MAX3223-MAX3243.pdf</description>
 <packageinstances>
 <packageinstance name="TSSOP20"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL20" urn="urn:adsk.eagle:package:26398/1" type="box">
+<package3d name="DIL20" urn="urn:adsk.eagle:package:16429/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL20"/>
@@ -266,7 +266,7 @@ MAX3223-MAX3243.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="SP3223*" prefix="IC" urn="urn:adsk.eagle:component:26401/1">
+<deviceset name="SP3223*" prefix="IC" urn="urn:adsk.eagle:component:26401/1" locally_modified="yes">
 <description>&lt;b&gt;RS-232 Transceivers with AutoShutdown&lt;/b&gt;&lt;p&gt;
 1µA Supply-Current, True +3V to +5.5V&lt;br&gt;
 Source: http://www.sipex.com/Files/Datasheets/SP3223.pdf&lt;br&gt;
@@ -300,7 +300,7 @@ Source: http://www.sipex.com/Files/Datasheets/SP3223.pdf&lt;br&gt;
 <connect gate="P" pin="VCC" pad="19"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26398/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -365,7 +365,7 @@ Source: http://www.sipex.com/Files/Datasheets/SP3223.pdf&lt;br&gt;
 <connect gate="P" pin="VCC" pad="19"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26399/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20791/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -430,7 +430,7 @@ Source: http://www.sipex.com/Files/Datasheets/SP3223.pdf&lt;br&gt;
 <connect gate="P" pin="VCC" pad="19"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26400/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:4349/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">

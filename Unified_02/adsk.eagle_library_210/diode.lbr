@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.6.0">
 <drawing>
 <settings>
@@ -4788,7 +4788,7 @@ Source: Philips - BAS70_1PS7XSB70_SER_8.pdf</description>
 <rectangle x1="-0.1125" y1="0.6125" x2="0.1125" y2="0.8625" layer="51" rot="R270"/>
 <rectangle x1="-0.6125" y1="0.6125" x2="-0.3875" y2="0.8625" layer="51" rot="R270"/>
 </package>
-<package name="SOT363_PHILIPS" urn="urn:adsk.eagle:footprint:43231/1">
+<package name="SOT363_PHILIPS" urn="urn:adsk.eagle:footprint:29648/1">
 <description>&lt;b&gt;Small Outline Transistor; 6 leads&lt;/b&gt;&lt;p&gt;
 Philips Semiconductors, SOT363.pdf</description>
 <wire x1="-1" y1="0.55" x2="1" y2="0.55" width="0.2032" layer="51"/>
@@ -6056,7 +6056,7 @@ Source:  Philips SC01_Mounting_1996.pdf / BAS70_1PS7XSB70_SER_8.pdf</description
 <packageinstance name="SOT143-R"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT363_PHILIPS" urn="urn:adsk.eagle:package:43451/1" type="box">
+<package3d name="SOT363_PHILIPS" urn="urn:adsk.eagle:package:29757/2" type="model">
 <description>Small Outline Transistor; 6 leads
 Philips Semiconductors, SOT363.pdf</description>
 <packageinstances>
@@ -11712,7 +11712,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/PMLL41
 </device>
 </devices>
 </deviceset>
-<deviceset name="BAS70-07" prefix="D" urn="urn:adsk.eagle:component:43654/2">
+<deviceset name="BAS70-07" prefix="D" urn="urn:adsk.eagle:component:43654/2" locally_modified="yes">
 <description>&lt;b&gt;Silicon Schottky Diodes&lt;/b&gt;&lt;p&gt;
 General-purpose diode for high-speed switching&lt;br&gt;
 Source: BAS70_1PS7XSB70_SER_8.pdf</description>
@@ -11743,7 +11743,7 @@ Source: BAS70_1PS7XSB70_SER_8.pdf</description>
 <connect gate="B" pin="C" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:43451/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29757/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -11793,7 +11793,7 @@ Source: BAS70_1PS7XSB70_SER_8.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BAS70XY" prefix="D" urn="urn:adsk.eagle:component:43655/1">
+<deviceset name="BAS70XY" prefix="D" urn="urn:adsk.eagle:component:43655/1" locally_modified="yes">
 <description>&lt;b&gt;Silicon Schottky Diodes&lt;/b&gt;&lt;p&gt;
 General-purpose diode for high-speed switching&lt;br&gt;
 Source: BAS70_1PS7XSB70_SER_8.pdf</description>
@@ -11812,7 +11812,7 @@ Source: BAS70_1PS7XSB70_SER_8.pdf</description>
 <connect gate="B" pin="C2" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:43451/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29757/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.5.3">
 <drawing>
 <settings>
@@ -411,7 +411,7 @@ National Semiconductor KC02A</description>
 <text x="9.906" y="9.652" size="1.778" layer="25" ratio="10">&gt;NAME</text>
 <text x="-6.604" y="-0.889" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="T05D" urn="urn:adsk.eagle:footprint:16392/1">
+<package name="T05D" urn="urn:adsk.eagle:footprint:21181/1">
 <description>&lt;b&gt;TO-220&lt;/b&gt;&lt;p&gt;
 5 lead, National Semiconductor T05D</description>
 <wire x1="-5.1054" y1="2.0066" x2="-5.1054" y2="-0.3302" width="0.254" layer="21"/>
@@ -676,7 +676,7 @@ Source: http://focus.ti.com/lit/ds/symlink/tlc27l2.pdf</description>
 <vertex x="2.5654" y="3.937"/>
 </polygon>
 </package>
-<package name="D_R-PDSO-G8" urn="urn:adsk.eagle:footprint:16402/1">
+<package name="D_R-PDSO-G8" urn="urn:adsk.eagle:footprint:3291/1">
 <description>&lt;b&gt;D (R-PDSO-G8)&lt;/b&gt;&lt;p&gt;
 Source: http://focus.ti.com/lit/ds/slos063b/slos063b.pdf</description>
 <wire x1="2.4" y1="1.9" x2="2.4" y2="-1.4" width="0.2032" layer="21"/>
@@ -1100,7 +1100,7 @@ square</description>
 <rectangle x1="2.295" y1="2" x2="2.785" y2="3.1" layer="51"/>
 <rectangle x1="1.025" y1="2" x2="1.515" y2="3.1" layer="51"/>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:16139/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -1127,7 +1127,7 @@ square</description>
 <text x="-10.541" y="-2.921" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-7.493" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL10" urn="urn:adsk.eagle:footprint:16145/1">
+<package name="DIL10" urn="urn:adsk.eagle:footprint:14338/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="6.35" y1="2.921" x2="-6.35" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-6.35" y1="-2.921" x2="6.35" y2="-2.921" width="0.1524" layer="21"/>
@@ -1287,7 +1287,7 @@ TS-003</description>
 <vertex x="2.5654" y="3.937"/>
 </polygon>
 </package>
-<package name="SOT223" urn="urn:adsk.eagle:footprint:16157/1">
+<package name="SOT223" urn="urn:adsk.eagle:footprint:28484/1">
 <description>&lt;b&gt;Small Outline Transistor&lt;/b&gt;</description>
 <wire x1="3.2766" y1="1.778" x2="3.2766" y2="-1.778" width="0.2032" layer="21"/>
 <wire x1="3.2766" y1="-1.778" x2="-3.2766" y2="-1.778" width="0.2032" layer="21"/>
@@ -1822,7 +1822,7 @@ Source. http://cache.national.com/ds/LM/LM2937-2.5.pdf</description>
 <text x="-13.462" y="14.478" size="1.778" layer="25" ratio="10">&gt;NAME</text>
 <text x="-6.604" y="-1.016" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL28-6" urn="urn:adsk.eagle:footprint:16208/1">
+<package name="DIL28-6" urn="urn:adsk.eagle:footprint:770/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.6 inch</description>
 <wire x1="-17.653" y1="-1.27" x2="-17.653" y2="-6.604" width="0.1524" layer="21"/>
 <wire x1="-17.653" y1="1.27" x2="-17.653" y2="-1.27" width="0.1524" layer="21" curve="-180"/>
@@ -1861,7 +1861,7 @@ Source. http://cache.national.com/ds/LM/LM2937-2.5.pdf</description>
 <text x="-17.78" y="-6.35" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-14.605" y="-0.9398" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL24-6" urn="urn:adsk.eagle:footprint:16216/1">
+<package name="DIL24-6" urn="urn:adsk.eagle:footprint:943/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.6 inch</description>
 <wire x1="-15.113" y1="-1.27" x2="-15.113" y2="-6.604" width="0.1524" layer="21"/>
 <wire x1="-15.113" y1="1.27" x2="-15.113" y2="-1.27" width="0.1524" layer="21" curve="-180"/>
@@ -2188,8 +2188,9 @@ National Semiconductor K04A</description>
 <vertex x="5.1054" y="7.267"/>
 </polygon>
 </package>
-<package name="TSSOP8" urn="urn:adsk.eagle:footprint:16232/1">
-<description>&lt;b&gt;Thin Shrink Small Outline Plastic 8&lt;/b&gt; 3 x 4.4 mm&lt;p&gt;</description>
+<package name="TSSOP8" urn="urn:adsk.eagle:footprint:20626/1">
+<description>&lt;b&gt;Thin Shrink Small Outline Package&lt;/b&gt;&lt;p&gt;
+package type ST</description>
 <wire x1="1.4" y1="-2.15" x2="1.4" y2="2.15" width="0.2032" layer="21"/>
 <wire x1="1.4" y1="2.15" x2="-1.4" y2="2.15" width="0.2032" layer="21"/>
 <wire x1="-1.4" y1="2.15" x2="-1.4" y2="-2.15" width="0.2032" layer="21"/>
@@ -2254,7 +2255,7 @@ National Semiconductor K04A</description>
 <rectangle x1="-2.785" y1="3.8" x2="-2.295" y2="5.32" layer="51"/>
 <rectangle x1="-4.055" y1="3.8" x2="-3.565" y2="5.32" layer="51"/>
 </package>
-<package name="H08C" urn="urn:adsk.eagle:footprint:16240/1">
+<package name="H08C" urn="urn:adsk.eagle:footprint:21187/1">
 <description>&lt;b&gt;TO-99&lt;/b&gt;&lt;p&gt;
 National Semiconductor H08C&lt;br&gt;
 Motorola MOT 601-04</description>
@@ -3939,7 +3940,7 @@ square</description>
 <rectangle x1="-0.15" y1="-1.1" x2="0.15" y2="-0.6" layer="51"/>
 <rectangle x1="0.5" y1="-1.1" x2="0.8" y2="-0.6" layer="51"/>
 </package>
-<package name="MICRO8" urn="urn:adsk.eagle:footprint:16322/1">
+<package name="MICRO8" urn="urn:adsk.eagle:footprint:21266/1">
 <description>&lt;b&gt;Micro8&lt;/b&gt; CASE 846A-02&lt;p&gt;
 Source: http://www.onsemi.com/pub/Collateral/MC34164-D.PDF</description>
 <wire x1="-1.5" y1="1.5" x2="1.5" y2="1.5" width="0.1016" layer="21"/>
@@ -4709,7 +4710,7 @@ square</description>
 <packageinstance name="PLCC28S"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:16410/2" type="model">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
@@ -4721,7 +4722,7 @@ square</description>
 <packageinstance name="SSOP14"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL10" urn="urn:adsk.eagle:package:16408/1" type="box">
+<package3d name="DIL10" urn="urn:adsk.eagle:package:14435/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL10"/>
@@ -4764,7 +4765,7 @@ TS-003</description>
 <packageinstance name="TO220V"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT223" urn="urn:adsk.eagle:package:16418/2" type="model">
+<package3d name="SOT223" urn="urn:adsk.eagle:package:28541/2" type="model">
 <description>Small Outline Transistor</description>
 <packageinstances>
 <packageinstance name="SOT223"/>
@@ -4844,13 +4845,13 @@ Source. http://cache.national.com/ds/LM/LM2937-2.5.pdf</description>
 <packageinstance name="PGA68"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL28-6" urn="urn:adsk.eagle:package:16488/2" type="model">
+<package3d name="DIL28-6" urn="urn:adsk.eagle:package:826/2" type="model">
 <description>Dual In Line Package 0.6 inch</description>
 <packageinstances>
 <packageinstance name="DIL28-6"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL24-6" urn="urn:adsk.eagle:package:16431/2" type="model">
+<package3d name="DIL24-6" urn="urn:adsk.eagle:package:1009/2" type="model">
 <description>Dual In Line Package 0.6 inch</description>
 <packageinstances>
 <packageinstance name="DIL24-6"/>
@@ -4875,8 +4876,9 @@ National Semiconductor K04A</description>
 <packageinstance name="K04A"/>
 </packageinstances>
 </package3d>
-<package3d name="TSSOP8" urn="urn:adsk.eagle:package:16436/1" type="box">
-<description>Thin Shrink Small Outline Plastic 8 3 x 4.4 mm</description>
+<package3d name="TSSOP8" urn="urn:adsk.eagle:package:20813/2" type="model">
+<description>Thin Shrink Small Outline Package
+package type ST</description>
 <packageinstances>
 <packageinstance name="TSSOP8"/>
 </packageinstances>
@@ -4906,7 +4908,7 @@ SIEMENS TLE4270</description>
 <packageinstance name="TO220-51"/>
 </packageinstances>
 </package3d>
-<package3d name="H08C" urn="urn:adsk.eagle:package:16441/1" type="box">
+<package3d name="H08C" urn="urn:adsk.eagle:package:21221/1" type="box">
 <description>TO-99
 National Semiconductor H08C
 Motorola MOT 601-04</description>
@@ -5143,7 +5145,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC34164-D.PDF</description>
 <packageinstance name="TO-226AA"/>
 </packageinstances>
 </package3d>
-<package3d name="MICRO8" urn="urn:adsk.eagle:package:16473/1" type="box">
+<package3d name="MICRO8" urn="urn:adsk.eagle:package:21289/1" type="box">
 <description>Micro8 CASE 846A-02
 Source: http://www.onsemi.com/pub/Collateral/MC34164-D.PDF</description>
 <packageinstances>
@@ -5285,6 +5287,20 @@ Source: www.analog.com .. OP1177_2177_4177.pdf</description>
 MAX3223-MAX3243.pdf</description>
 <packageinstances>
 <packageinstance name="TSSOP16"/>
+</packageinstances>
+</package3d>
+<package3d name="T05D" urn="urn:adsk.eagle:package:21216/1" type="box">
+<description>TO-220
+5 lead, National Semiconductor T05D</description>
+<packageinstances>
+<packageinstance name="T05D"/>
+</packageinstances>
+</package3d>
+<package3d name="D_R-PDSO-G8" urn="urn:adsk.eagle:package:3309/1" type="box">
+<description>D (R-PDSO-G8)
+Source: http://focus.ti.com/lit/ds/slos063b/slos063b.pdf</description>
+<packageinstances>
+<packageinstance name="D_R-PDSO-G8"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -10946,7 +10962,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC33269-D.PDF</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="DATA_SHEET" value="&lt;a href=&quot;http://www.ti.com/lit/ds/symlink/tl084a.pdf&quot;> Data sheet &lt;/a>" constant="no"/>
+<attribute name="DATA_SHEET" value="&lt;a href=&quot;http://www.ti.com/lit/ds/symlink/tl084a.pdf&quot;&gt; Data sheet &lt;/a&gt;" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -10966,7 +10982,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC33269-D.PDF</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="DATA_SHEET" value="&lt;a href=&quot;http://www.ti.com/lit/ds/symlink/tl084a.pdf&quot;> Data sheet &lt;/a>"/>
+<attribute name="DATA_SHEET" value="&lt;a href=&quot;http://www.ti.com/lit/ds/symlink/tl084a.pdf&quot;&gt; Data sheet &lt;/a&gt;"/>
 </technology>
 </technologies>
 </device>
@@ -14038,7 +14054,7 @@ Source: http://focus.ti.com/lit/ds/sbos058/sbos058.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="OP11" prefix="IC" urn="urn:adsk.eagle:component:16665/6">
+<deviceset name="OP11" prefix="IC" urn="urn:adsk.eagle:component:16665/6" locally_modified="yes">
 <description>&lt;b&gt;Quad Low-Offset Low-Power OP AMP&lt;/b&gt;&lt;p&gt;
 The OP-11 is pin compatible with the OP-400 , LM148, HA4741, RM4156, and LT1014 operational amplifiers&lt;p&gt;
 source  http://products.analog.com/products/info.asp?product=OP400</description>
@@ -14092,7 +14108,7 @@ source  http://products.analog.com/products/info.asp?product=OP400</description>
 <connect gate="P" pin="V-" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -14516,7 +14532,7 @@ source  http://products.analog.com/products/info.asp?product=OP400</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="UDN2953B" prefix="IC" urn="urn:adsk.eagle:component:16664/2">
+<deviceset name="UDN2953B" prefix="IC" urn="urn:adsk.eagle:component:16664/2" locally_modified="yes">
 <description>&lt;b&gt;FULL-BRIDGE PWM MOTOR DRIVER&lt;/b&gt;&lt;p&gt;
 Allegro Microsystems&lt;br&gt;
 Source: http://allegromicro.com/datafile/archive/2953.pdf</description>
@@ -14543,7 +14559,7 @@ Source: http://allegromicro.com/datafile/archive/2953.pdf</description>
 <connect gate="G$1" pin="VREF/!BREAK" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -16761,7 +16777,7 @@ Source: http://focus.ti.com/lit/ds/symlink/lm336-2.5.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LH0002N" prefix="IC" urn="urn:adsk.eagle:component:16663/1">
+<deviceset name="LH0002N" prefix="IC" urn="urn:adsk.eagle:component:16663/1" locally_modified="yes">
 <description>&lt;b&gt;BUFFER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="LH0002" x="5.08" y="0"/>
@@ -16779,7 +16795,7 @@ Source: http://focus.ti.com/lit/ds/symlink/lm336-2.5.pdf</description>
 <connect gate="A" pin="V2-" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16408/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14435/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -17056,7 +17072,7 @@ Source: http://focus.ti.com/lit/ds/symlink/lm336-2.5.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="*337" prefix="IC" urn="urn:adsk.eagle:component:16675/3">
+<deviceset name="*337" prefix="IC" urn="urn:adsk.eagle:component:16675/3" locally_modified="yes">
 <description>Negative &lt;b&gt;VOLTAGE REGULATOR&lt;/b&gt;</description>
 <gates>
 <gate name="A1" symbol="337" x="0" y="0"/>
@@ -17095,7 +17111,7 @@ Source: http://focus.ti.com/lit/ds/symlink/lm336-2.5.pdf</description>
 <connect gate="A1" pin="VO" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16418/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28541/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -17149,7 +17165,7 @@ Source: http://focus.ti.com/lit/ds/symlink/lm336-2.5.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="UA78M*" prefix="IC" urn="urn:adsk.eagle:component:16678/2">
+<deviceset name="UA78M*" prefix="IC" urn="urn:adsk.eagle:component:16678/2" locally_modified="yes">
 <description>&lt;b&gt;POSITIVE-VOLTAGE REGULATORS&lt;/b&gt;&lt;p&gt;
 Source: http://focus.ti.com/lit/ds/symlink/ua78m33.pdf</description>
 <gates>
@@ -17164,7 +17180,7 @@ Source: http://focus.ti.com/lit/ds/symlink/ua78m33.pdf</description>
 <connect gate="G$1" pin="VO" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16418/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28541/2"/>
 </package3dinstances>
 <technologies>
 <technology name="05"/>
@@ -17174,7 +17190,7 @@ Source: http://focus.ti.com/lit/ds/symlink/ua78m33.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MC33269ST*" prefix="IC" urn="urn:adsk.eagle:component:16676/2">
+<deviceset name="MC33269ST*" prefix="IC" urn="urn:adsk.eagle:component:16676/2" locally_modified="yes">
 <description>&lt;b&gt;Adjustable Output Low Dropout Voltage Regulator&lt;/b&gt; 800 mA&lt;p&gt;
 Source: http://www.onsemi.com/pub/Collateral/MC33269-D.PDF</description>
 <gates>
@@ -17189,7 +17205,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC33269-D.PDF</description>
 <connect gate="G$1" pin="OUT@1" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16418/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28541/2"/>
 </package3dinstances>
 <technologies>
 <technology name="-3.3T3"/>
@@ -17197,7 +17213,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC33269-D.PDF</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="*317" prefix="IC" urn="urn:adsk.eagle:component:16674/3">
+<deviceset name="*317" prefix="IC" urn="urn:adsk.eagle:component:16674/3" locally_modified="yes">
 <description>Positive &lt;b&gt;VOLTAGE REGULATOR&lt;/b&gt;</description>
 <gates>
 <gate name="A1" symbol="317" x="0" y="-2.54"/>
@@ -17236,7 +17252,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC33269-D.PDF</description>
 <connect gate="A1" pin="VO" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16418/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28541/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -17368,7 +17384,7 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LM340S" prefix="IC" urn="urn:adsk.eagle:component:16677/2">
+<deviceset name="LM340S" prefix="IC" urn="urn:adsk.eagle:component:16677/2" locally_modified="yes">
 <description>&lt;b&gt;3-Terminal Positive Regulators&lt;/b&gt;&lt;p&gt;
 Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <gates>
@@ -17383,7 +17399,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="G$1" pin="OUT" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16418/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28541/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -17413,7 +17429,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DG201CJ" prefix="IC" urn="urn:adsk.eagle:component:16691/3">
+<deviceset name="DG201CJ" prefix="IC" urn="urn:adsk.eagle:component:16691/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTIN" x="25.4" y="20.32" swaplevel="1"/>
@@ -17442,7 +17458,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -17475,7 +17491,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DG309DJ" prefix="IC" urn="urn:adsk.eagle:component:16693/3">
+<deviceset name="DG309DJ" prefix="IC" urn="urn:adsk.eagle:component:16693/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTIN" x="25.4" y="20.32" swaplevel="1"/>
@@ -17504,7 +17520,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -17537,7 +17553,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DG271CJ" prefix="IC" urn="urn:adsk.eagle:component:16692/3">
+<deviceset name="DG271CJ" prefix="IC" urn="urn:adsk.eagle:component:16692/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTIN" x="25.4" y="20.32" swaplevel="1"/>
@@ -17566,7 +17582,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -17599,72 +17615,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DG211CJ" prefix="IC" urn="urn:adsk.eagle:component:16695/3">
-<description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
-<gates>
-<gate name="A" symbol="SWSPSTIN" x="25.4" y="20.32" swaplevel="1"/>
-<gate name="B" symbol="SWSPSTIN" x="25.4" y="5.08" swaplevel="1"/>
-<gate name="C" symbol="SWSPSTIN" x="25.4" y="-10.16" swaplevel="1"/>
-<gate name="D" symbol="SWSPSTIN" x="25.4" y="-25.4" swaplevel="1"/>
-<gate name="P" symbol="PWR+-GSS" x="22.86" y="33.02" addlevel="request"/>
-<gate name="VL" symbol="VL_PIN" x="35.56" y="25.4" addlevel="must"/>
-</gates>
-<devices>
-<device name="N" package="DIL16">
-<connects>
-<connect gate="A" pin="D" pad="2"/>
-<connect gate="A" pin="IN" pad="1"/>
-<connect gate="A" pin="S" pad="3"/>
-<connect gate="B" pin="D" pad="15"/>
-<connect gate="B" pin="IN" pad="16"/>
-<connect gate="B" pin="S" pad="14"/>
-<connect gate="C" pin="D" pad="10"/>
-<connect gate="C" pin="IN" pad="9"/>
-<connect gate="C" pin="S" pad="11"/>
-<connect gate="D" pin="D" pad="7"/>
-<connect gate="D" pin="IN" pad="8"/>
-<connect gate="D" pin="S" pad="6"/>
-<connect gate="P" pin="GND" pad="5"/>
-<connect gate="P" pin="V+" pad="13"/>
-<connect gate="P" pin="V-" pad="4"/>
-<connect gate="VL" pin="VL" pad="12"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
-</package3dinstances>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="D" package="SO16">
-<connects>
-<connect gate="A" pin="D" pad="2"/>
-<connect gate="A" pin="IN" pad="1"/>
-<connect gate="A" pin="S" pad="3"/>
-<connect gate="B" pin="D" pad="15"/>
-<connect gate="B" pin="IN" pad="16"/>
-<connect gate="B" pin="S" pad="14"/>
-<connect gate="C" pin="D" pad="10"/>
-<connect gate="C" pin="IN" pad="9"/>
-<connect gate="C" pin="S" pad="11"/>
-<connect gate="D" pin="D" pad="7"/>
-<connect gate="D" pin="IN" pad="8"/>
-<connect gate="D" pin="S" pad="6"/>
-<connect gate="P" pin="GND" pad="5"/>
-<connect gate="P" pin="V+" pad="13"/>
-<connect gate="P" pin="V-" pad="4"/>
-<connect gate="VL" pin="VL" pad="12"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16423/2"/>
-</package3dinstances>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="DG411CJ" prefix="IC" urn="urn:adsk.eagle:component:16697/3">
+<deviceset name="DG211CJ" prefix="IC" urn="urn:adsk.eagle:component:16695/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTIN" x="25.4" y="20.32" swaplevel="1"/>
@@ -17695,7 +17646,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="VL" pin="VL" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -17729,7 +17680,72 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DG202CJ" prefix="IC" urn="urn:adsk.eagle:component:16698/3">
+<deviceset name="DG411CJ" prefix="IC" urn="urn:adsk.eagle:component:16697/3" locally_modified="yes">
+<description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
+<gates>
+<gate name="A" symbol="SWSPSTIN" x="25.4" y="20.32" swaplevel="1"/>
+<gate name="B" symbol="SWSPSTIN" x="25.4" y="5.08" swaplevel="1"/>
+<gate name="C" symbol="SWSPSTIN" x="25.4" y="-10.16" swaplevel="1"/>
+<gate name="D" symbol="SWSPSTIN" x="25.4" y="-25.4" swaplevel="1"/>
+<gate name="P" symbol="PWR+-GSS" x="22.86" y="33.02" addlevel="request"/>
+<gate name="VL" symbol="VL_PIN" x="35.56" y="25.4" addlevel="must"/>
+</gates>
+<devices>
+<device name="N" package="DIL16">
+<connects>
+<connect gate="A" pin="D" pad="2"/>
+<connect gate="A" pin="IN" pad="1"/>
+<connect gate="A" pin="S" pad="3"/>
+<connect gate="B" pin="D" pad="15"/>
+<connect gate="B" pin="IN" pad="16"/>
+<connect gate="B" pin="S" pad="14"/>
+<connect gate="C" pin="D" pad="10"/>
+<connect gate="C" pin="IN" pad="9"/>
+<connect gate="C" pin="S" pad="11"/>
+<connect gate="D" pin="D" pad="7"/>
+<connect gate="D" pin="IN" pad="8"/>
+<connect gate="D" pin="S" pad="6"/>
+<connect gate="P" pin="GND" pad="5"/>
+<connect gate="P" pin="V+" pad="13"/>
+<connect gate="P" pin="V-" pad="4"/>
+<connect gate="VL" pin="VL" pad="12"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="D" package="SO16">
+<connects>
+<connect gate="A" pin="D" pad="2"/>
+<connect gate="A" pin="IN" pad="1"/>
+<connect gate="A" pin="S" pad="3"/>
+<connect gate="B" pin="D" pad="15"/>
+<connect gate="B" pin="IN" pad="16"/>
+<connect gate="B" pin="S" pad="14"/>
+<connect gate="C" pin="D" pad="10"/>
+<connect gate="C" pin="IN" pad="9"/>
+<connect gate="C" pin="S" pad="11"/>
+<connect gate="D" pin="D" pad="7"/>
+<connect gate="D" pin="IN" pad="8"/>
+<connect gate="D" pin="S" pad="6"/>
+<connect gate="P" pin="GND" pad="5"/>
+<connect gate="P" pin="V+" pad="13"/>
+<connect gate="P" pin="V-" pad="4"/>
+<connect gate="VL" pin="VL" pad="12"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16423/2"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="DG202CJ" prefix="IC" urn="urn:adsk.eagle:component:16698/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTNI" x="25.4" y="20.32" swaplevel="1"/>
@@ -17758,7 +17774,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -17791,7 +17807,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DG308DJ" prefix="IC" urn="urn:adsk.eagle:component:16699/3">
+<deviceset name="DG308DJ" prefix="IC" urn="urn:adsk.eagle:component:16699/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTNI" x="25.4" y="20.32" swaplevel="1"/>
@@ -17820,7 +17836,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -17853,7 +17869,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DG212CJ" prefix="IC" urn="urn:adsk.eagle:component:16700/3">
+<deviceset name="DG212CJ" prefix="IC" urn="urn:adsk.eagle:component:16700/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTNI" x="25.4" y="20.32" swaplevel="1"/>
@@ -17884,7 +17900,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="VL" pin="VL" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -17918,7 +17934,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADG221K" prefix="IC" urn="urn:adsk.eagle:component:16696/3">
+<deviceset name="ADG221K" prefix="IC" urn="urn:adsk.eagle:component:16696/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTIN" x="25.4" y="20.32" swaplevel="1"/>
@@ -17949,7 +17965,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="\WR" pin="!WR" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -17983,7 +17999,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DG5043CJ" prefix="IC" urn="urn:adsk.eagle:component:16704/3">
+<deviceset name="DG5043CJ" prefix="IC" urn="urn:adsk.eagle:component:16704/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWDPST" x="22.86" y="20.32" swaplevel="1"/>
@@ -18010,7 +18026,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="VL" pin="VL" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18042,7 +18058,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DG425DJ" prefix="IC" urn="urn:adsk.eagle:component:16706/3">
+<deviceset name="DG425DJ" prefix="IC" urn="urn:adsk.eagle:component:16706/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="DG425" x="0" y="5.08"/>
@@ -18068,7 +18084,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="A" pin="VL" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18102,7 +18118,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DG412DJ" prefix="IC" urn="urn:adsk.eagle:component:16702/4">
+<deviceset name="DG412DJ" prefix="IC" urn="urn:adsk.eagle:component:16702/4" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTNI" x="25.4" y="20.32" swaplevel="1"/>
@@ -18133,7 +18149,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="VL" pin="VL" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18167,7 +18183,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADG222K" prefix="IC" urn="urn:adsk.eagle:component:16701/3">
+<deviceset name="ADG222K" prefix="IC" urn="urn:adsk.eagle:component:16701/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTNI" x="25.4" y="20.32" swaplevel="1"/>
@@ -18198,7 +18214,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="\WR" pin="!WR" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18232,7 +18248,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DG413DJ" prefix="IC" urn="urn:adsk.eagle:component:16705/3">
+<deviceset name="DG413DJ" prefix="IC" urn="urn:adsk.eagle:component:16705/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTNI" x="22.86" y="25.4" swaplevel="1"/>
@@ -18263,7 +18279,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="VL" pin="VL" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18297,7 +18313,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SD5000" prefix="IC" urn="urn:adsk.eagle:component:16708/3">
+<deviceset name="SD5000" prefix="IC" urn="urn:adsk.eagle:component:16708/3" locally_modified="yes">
 <description>DMOS &lt;b&gt;SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SD5000" x="20.32" y="0" swaplevel="1"/>
@@ -18324,7 +18340,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="P" pin="B" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18355,7 +18371,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DACO8P" prefix="IC" urn="urn:adsk.eagle:component:16709/3">
+<deviceset name="DACO8P" prefix="IC" urn="urn:adsk.eagle:component:16709/3" locally_modified="yes">
 <description>8-bit &lt;b&gt;DIGITAL/ANALOG CONVERTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="DAC08" x="0" y="2.54"/>
@@ -18381,7 +18397,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="A" pin="VLC" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18415,7 +18431,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LM3524" prefix="IC" urn="urn:adsk.eagle:component:16690/3">
+<deviceset name="LM3524" prefix="IC" urn="urn:adsk.eagle:component:16690/3" locally_modified="yes">
 <description>&lt;b&gt;Regulating Pulse Width Modulator&lt;/b&gt; LM2524D/LM3524D&lt;p&gt;
 Source: http://cache.national.com/ds/LM/LM2524D.pdf</description>
 <gates>
@@ -18442,7 +18458,7 @@ Source: http://cache.national.com/ds/LM/LM2524D.pdf</description>
 <connect gate="G$1" pin="VREF" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18476,7 +18492,7 @@ Source: http://cache.national.com/ds/LM/LM2524D.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="IH5352P" prefix="IC" urn="urn:adsk.eagle:component:16707/3">
+<deviceset name="IH5352P" prefix="IC" urn="urn:adsk.eagle:component:16707/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTNI" x="25.4" y="17.78" swaplevel="1"/>
@@ -18507,7 +18523,7 @@ Source: http://cache.national.com/ds/LM/LM2524D.pdf</description>
 <connect gate="VL" pin="VL" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18541,7 +18557,7 @@ Source: http://cache.national.com/ds/LM/LM2524D.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="HI201/5" prefix="IC" urn="urn:adsk.eagle:component:16694/3">
+<deviceset name="HI201/5" prefix="IC" urn="urn:adsk.eagle:component:16694/3" locally_modified="yes">
 <description>&lt;b&gt;CMOS SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="SWSPSTIN" x="25.4" y="17.78" swaplevel="1"/>
@@ -18572,7 +18588,7 @@ Source: http://cache.national.com/ds/LM/LM2524D.pdf</description>
 <connect gate="VL" pin="VL" pad="12"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18653,7 +18669,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/OP270.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="AD524" prefix="IC" urn="urn:adsk.eagle:component:16712/3">
+<deviceset name="AD524" prefix="IC" urn="urn:adsk.eagle:component:16712/3" locally_modified="yes">
 <description>&lt;b&gt;OP AMP&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="AD524" x="0" y="5.08"/>
@@ -18679,7 +18695,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/OP270.pdf</descr
 <connect gate="G$1" pin="V-" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18713,7 +18729,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/OP270.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="MC1408" prefix="IC" urn="urn:adsk.eagle:component:16714/3">
+<deviceset name="MC1408" prefix="IC" urn="urn:adsk.eagle:component:16714/3" locally_modified="yes">
 <description>&lt;b&gt;8-bit Multiplying D/A Converter&lt;/b&gt;&lt;p&gt;
 Source: http://www.onsemi.com/pub/Collateral/MC1408 DATASHEET.PDF</description>
 <gates>
@@ -18739,7 +18755,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC1408 DATASHEET.PDF</description>
 <connect gate="G$1" pin="VREF-" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18772,7 +18788,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC1408 DATASHEET.PDF</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DAC0800" prefix="IC" urn="urn:adsk.eagle:component:16710/3">
+<deviceset name="DAC0800" prefix="IC" urn="urn:adsk.eagle:component:16710/3" locally_modified="yes">
 <description>8-bit &lt;b&gt;DIGITAL/ANALOG CONVERTER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="DAC0800" x="0" y="0"/>
@@ -18798,7 +18814,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC1408 DATASHEET.PDF</description>
 <connect gate="A" pin="VREF-" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18832,7 +18848,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC1408 DATASHEET.PDF</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DAC0808" prefix="IC" urn="urn:adsk.eagle:component:16711/3">
+<deviceset name="DAC0808" prefix="IC" urn="urn:adsk.eagle:component:16711/3" locally_modified="yes">
 <description>8-bit &lt;b&gt;DIGITAL/ANALOG CONVERTER&lt;/b&gt;&lt;p&gt;
 Source: http://www.national.com/ds/DA/DAC0808.pdf</description>
 <gates>
@@ -18859,7 +18875,7 @@ Source: http://www.national.com/ds/DA/DAC0808.pdf</description>
 <connect gate="P1" pin="VREF-" pad="15"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -18939,7 +18955,7 @@ Source: http://www.analog.com/static/imported-files/data_sheets/OP270.pdf</descr
 </device>
 </devices>
 </deviceset>
-<deviceset name="TL494*" prefix="IC" urn="urn:adsk.eagle:component:16713/3">
+<deviceset name="TL494*" prefix="IC" urn="urn:adsk.eagle:component:16713/3" locally_modified="yes">
 <description>&lt;b&gt;SWITCHMODE Pulse Width Modulation Control Circuit&lt;/b&gt;&lt;p&gt;
 NCV494B&lt;br&gt;
 http://onsemi.com tl494-d.pdf</description>
@@ -18967,7 +18983,7 @@ http://onsemi.com tl494-d.pdf</description>
 <connect gate="G$1" pin="VREF" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="C"/>
@@ -19136,7 +19152,7 @@ senses analog voltage levels and drives 10 LEDs</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LM340?-*" prefix="IC" urn="urn:adsk.eagle:component:16736/4">
+<deviceset name="LM340?-*" prefix="IC" urn="urn:adsk.eagle:component:16736/4" locally_modified="yes">
 <description>Positive &lt;b&gt;VOLTAGE REGULATOR&lt;/b&gt;&lt;p&gt;
 Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <gates>
@@ -19186,7 +19202,7 @@ Source: http://cache.national.com/ds/LM/LM340.pdf</description>
 <connect gate="A" pin="VO" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16418/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28541/2"/>
 </package3dinstances>
 <technologies>
 <technology name="05"/>
@@ -19684,7 +19700,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/TDF870
 </device>
 </devices>
 </deviceset>
-<deviceset name="SAA1101" prefix="IC" urn="urn:adsk.eagle:component:16827/3">
+<deviceset name="SAA1101" prefix="IC" urn="urn:adsk.eagle:component:16827/3" locally_modified="yes">
 <description>&lt;b&gt;Universal sync generator (USG)&lt;/b&gt;&lt;p&gt;
 Philips Semiconductors</description>
 <gates>
@@ -19762,7 +19778,7 @@ Philips Semiconductors</description>
 <connect gate="P" pin="VSS" pad="14"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16488/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -19818,7 +19834,7 @@ Philips Semiconductors</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TDA8501" prefix="IC" urn="urn:adsk.eagle:component:16745/3">
+<deviceset name="TDA8501" prefix="IC" urn="urn:adsk.eagle:component:16745/3" locally_modified="yes">
 <description>&lt;b&gt;PAL/NTSC encoder&lt;/b&gt;&lt;p&gt;
  Philips Semiconductors</description>
 <gates>
@@ -19888,7 +19904,7 @@ Philips Semiconductors</description>
 <connect gate="P" pin="VSS" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16431/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -19896,7 +19912,7 @@ Philips Semiconductors</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DAC7*" prefix="IC" urn="urn:adsk.eagle:component:16743/3">
+<deviceset name="DAC7*" prefix="IC" urn="urn:adsk.eagle:component:16743/3" locally_modified="yes">
 <description>16-bit &lt;b&gt;DIGITAL/ANALOG CONVERTER&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="DAC700" x="0" y="0"/>
@@ -19930,7 +19946,7 @@ Philips Semiconductors</description>
 <connect gate="G$1" pin="VDD" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16431/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="00"/>
@@ -19973,7 +19989,7 @@ Philips Semiconductors</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DAC70*" prefix="IC" urn="urn:adsk.eagle:component:16744/3">
+<deviceset name="DAC70*" prefix="IC" urn="urn:adsk.eagle:component:16744/3" locally_modified="yes">
 <description>16-bit &lt;b&gt;DIGITAL/ANALOG CONVERTER&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="DAC701" x="0" y="0"/>
@@ -20007,7 +20023,7 @@ Philips Semiconductors</description>
 <connect gate="G$1" pin="ZEROADJ" pad="21"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16431/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="1"/>
@@ -20050,7 +20066,7 @@ Philips Semiconductors</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="U2400B" prefix="IC" urn="urn:adsk.eagle:component:16756/3">
+<deviceset name="U2400B" prefix="IC" urn="urn:adsk.eagle:component:16756/3" locally_modified="yes">
 <description>&lt;b&gt;Charging of Batteries with Automatic Pre-Discharge&lt;/b&gt;&lt;p&gt;
 Automatic recharging of NiCd / NiMH batteries.&lt;br&gt;
 Source: http://www.elektronikpool.de/Sheets/U2400B.PDF</description>
@@ -20078,7 +20094,7 @@ Source: http://www.elektronikpool.de/Sheets/U2400B.PDF</description>
 <connect gate="G$1" pin="VREF" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -20112,7 +20128,7 @@ Source: http://www.elektronikpool.de/Sheets/U2400B.PDF</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADC0808" prefix="IC" urn="urn:adsk.eagle:component:16826/3">
+<deviceset name="ADC0808" prefix="IC" urn="urn:adsk.eagle:component:16826/3" locally_modified="yes">
 <description>8-bit &lt;b&gt;A/D CONVERTER&lt;/b&gt; with 8-channel multiplexer</description>
 <gates>
 <gate name="A" symbol="ADC0808" x="17.78" y="0"/>
@@ -20151,7 +20167,7 @@ Source: http://www.elektronikpool.de/Sheets/U2400B.PDF</description>
 <connect gate="P" pin="VCC" pad="11"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16488/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:826/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -20791,7 +20807,7 @@ Source: http://cache.national.com/ds/LP/LP3963.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="OP262" prefix="IC" urn="urn:adsk.eagle:component:16738/2">
+<deviceset name="OP262" prefix="IC" urn="urn:adsk.eagle:component:16738/2" locally_modified="yes">
 <description>&lt;b&gt;OP AMP&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="OPAMP" x="0" y="10.16"/>
@@ -20811,7 +20827,7 @@ Source: http://cache.national.com/ds/LP/LP3963.pdf</description>
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16436/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20813/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -20837,7 +20853,7 @@ Source: http://cache.national.com/ds/LP/LP3963.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MC34119" prefix="IC" urn="urn:adsk.eagle:component:16739/3">
+<deviceset name="MC34119" prefix="IC" urn="urn:adsk.eagle:component:16739/3" locally_modified="yes">
 <description>&lt;b&gt;Low Power Audio Amplifier&lt;/b&gt; Motorola</description>
 <gates>
 <gate name="G$1" symbol="MC34119" x="0" y="0"/>
@@ -20891,7 +20907,7 @@ Source: http://cache.national.com/ds/LP/LP3963.pdf</description>
 <connect gate="G$1" pin="VO2" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16436/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20813/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21091,7 +21107,7 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/AD8682_8684.pdf</descrip
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCP602" prefix="IC" urn="urn:adsk.eagle:component:16740/3">
+<deviceset name="MCP602" prefix="IC" urn="urn:adsk.eagle:component:16740/3" locally_modified="yes">
 <description>&lt;b&gt;Single Op Amp&lt;/b&gt; 2.7V to 6.0V Single Supply CMOS&lt;p&gt;
 Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf</description>
 <gates>
@@ -21148,7 +21164,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf</description>
 <connect gate="P" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16436/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20813/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -21306,7 +21322,7 @@ Source: http://cache.national.com/ds/LM/LM2574.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LF198H" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:16763/1">
+<deviceset name="LF198H" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:16763/1" locally_modified="yes">
 <description>&lt;b&gt;SAMPLE&amp;HOLD AMPLIFIER&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="LF198" x="0" y="0"/>
@@ -21324,7 +21340,7 @@ Source: http://cache.national.com/ds/LM/LM2574.pdf</description>
 <connect gate="G$1" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16441/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21221/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22402,7 +22418,7 @@ Source: http://cache.national.com/ds/LM/LM321.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCP601" prefix="IC" urn="urn:adsk.eagle:component:16787/4">
+<deviceset name="MCP601" prefix="IC" urn="urn:adsk.eagle:component:16787/4" locally_modified="yes">
 <description>&lt;b&gt;Single Op Amp&lt;/b&gt; 2.7V to 6.0V Single Supply CMOS&lt;p&gt;
 Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf</description>
 <gates>
@@ -22448,7 +22464,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf</description>
 <connect gate="G$1" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16436/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20813/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -22631,7 +22647,7 @@ Source: http://focus.ti.com/lit/ds/symlink/opa725.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MC14536B" prefix="IC" urn="urn:adsk.eagle:component:16794/3">
+<deviceset name="MC14536B" prefix="IC" urn="urn:adsk.eagle:component:16794/3" locally_modified="yes">
 <description>&lt;b&gt;Programmable Timer&lt;/b&gt;&lt;p&gt;
 Source: http://www.onsemi.com/pub/Collateral/MC14536B-D.PDF</description>
 <gates>
@@ -22658,7 +22674,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC14536B-D.PDF</description>
 <connect gate="G$1" pin="VSS" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23463,7 +23479,7 @@ Source: http://focus.ti.com/lit/ds/sbos058/sbos058.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LP2951" prefix="IC" urn="urn:adsk.eagle:component:16800/3">
+<deviceset name="LP2951" prefix="IC" urn="urn:adsk.eagle:component:16800/3" locally_modified="yes">
 <description>&lt;b&gt;100 mA, Low Power Low Dropout Voltage Regulator&lt;/b&gt;&lt;p&gt;
 Source: http://www.onsemi.com/pub/Collateral/LP2950-D.PDF</description>
 <gates>
@@ -23500,7 +23516,7 @@ Source: http://www.onsemi.com/pub/Collateral/LP2950-D.PDF</description>
 <connect gate="G$1" pin="VOTAB" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16473/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21289/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -23908,7 +23924,7 @@ http://www.national.com/dt/lmv_qual.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MC3*164" prefix="IC" urn="urn:adsk.eagle:component:16815/4">
+<deviceset name="MC3*164" prefix="IC" urn="urn:adsk.eagle:component:16815/4" locally_modified="yes">
 <description>&lt;b&gt;Micropower Undervoltage Sensing Circuits&lt;/b&gt;&lt;p&gt;
 Source: http://www.onsemi.com/pub/Collateral/MC34164-D.PDF</description>
 <gates>
@@ -23963,7 +23979,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC34164-D.PDF</description>
 <connect gate="G$1" pin="IN" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16473/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21289/1"/>
 </package3dinstances>
 <technologies>
 <technology name="3"/>
@@ -24195,7 +24211,7 @@ Source: TOSHIBA TA7358P.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCP1703" prefix="IC" urn="urn:adsk.eagle:component:16824/3">
+<deviceset name="MCP1703" prefix="IC" urn="urn:adsk.eagle:component:16824/3" locally_modified="yes">
 <description>&lt;b&gt;250 mA, 16V, Low Quiescent Current LDO Regulator&lt;/b&gt;&lt;p&gt;
 Source: http://ww1.microchip.com/downloads/en/DeviceDoc/22049b.pdf</description>
 <gates>
@@ -24209,7 +24225,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/22049b.pdf</description>
 <connect gate="G$1" pin="VO" pad="3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16418/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28541/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24392,7 +24408,7 @@ Source: &lt;a href="http://www.onsemi.com/pub_link/Collateral/MC78M00-D.PDF"&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="MC34025" prefix="IC" urn="urn:adsk.eagle:component:16825/3">
+<deviceset name="MC34025" prefix="IC" urn="urn:adsk.eagle:component:16825/3" locally_modified="yes">
 <description>&lt;b&gt;High Speed Double-Ended PWM Controller&lt;/b&gt;&lt;p&gt;
 Source: http://www.onsemi.com/pub/Collateral/MC34025-D.PDF</description>
 <gates>
@@ -24419,7 +24435,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC34025-D.PDF</description>
 <connect gate="G$1" pin="VREF" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24553,7 +24569,7 @@ Source: www.apexmicrotech.com .. pa94u.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCP603" prefix="IC" urn="urn:adsk.eagle:component:16835/4">
+<deviceset name="MCP603" prefix="IC" urn="urn:adsk.eagle:component:16835/4" locally_modified="yes">
 <description>&lt;b&gt;Dual Op Amp&lt;/b&gt; 2.7V to 6.0V Single Supply CMOS&lt;p&gt;
 Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf</description>
 <gates>
@@ -24618,7 +24634,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf</description>
 <connect gate="G$1" pin="V-" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16436/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20813/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -24752,7 +24768,7 @@ Source: ROHM BA728.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="UUC*806" prefix="IC" urn="urn:adsk.eagle:component:16814/7">
+<deviceset name="UUC*806" prefix="IC" urn="urn:adsk.eagle:component:16814/7" locally_modified="yes">
 <description>&lt;b&gt;LOW-POWER, DUAL-OUTPUT, CURRENT-MODE PWM CONTROLLER&lt;/b&gt;&lt;p&gt;
 BiCMOS Version of UC3846 Family&lt;br&gt;
 Source: http://focus.ti.com/lit/ds/symlink/ucc3806.pdf</description>
@@ -24833,7 +24849,7 @@ Source: http://focus.ti.com/lit/ds/symlink/ucc3806.pdf</description>
 <connect gate="G$1" pin="VREF" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="1"/>
@@ -24861,7 +24877,7 @@ Source: http://focus.ti.com/lit/ds/symlink/ucc3806.pdf</description>
 <connect gate="G$1" pin="VREF" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:16410/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="2"/>

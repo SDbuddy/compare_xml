@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.6.0">
 <drawing>
 <settings>
@@ -401,7 +401,7 @@ Source: www.silabs.com .. CP2101.pdf</description>
 <rectangle x1="0.72" y1="-1.38" x2="1.28" y2="-1.12" layer="31"/>
 <rectangle x1="-2.3" y1="1.9" x2="-1.9" y2="2.3" layer="31"/>
 </package>
-<package name="DIL20" urn="urn:adsk.eagle:footprint:26370/1">
+<package name="DIL20" urn="urn:adsk.eagle:footprint:16206/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="12.7" y1="2.921" x2="-12.7" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-12.7" y1="-2.921" x2="12.7" y2="-2.921" width="0.1524" layer="21"/>
@@ -626,7 +626,7 @@ Source: si750.pdf</description>
 <packageinstance name="8-PIN"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL20" urn="urn:adsk.eagle:package:26378/1" type="box">
+<package3d name="DIL20" urn="urn:adsk.eagle:package:16429/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL20"/>
@@ -906,7 +906,7 @@ Source: www.silabs.com .. CP2101.pdf / cp2102.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="C8051F330D" prefix="IC" urn="urn:adsk.eagle:component:26380/1">
+<deviceset name="C8051F330D" prefix="IC" urn="urn:adsk.eagle:component:26380/1" locally_modified="yes">
 <description>&lt;b&gt;8kB ILP Flash MCU Family&lt;/b&gt;&lt;p&gt;
 Source: www.silabs.com .. C8051F33x.pdf</description>
 <gates>
@@ -937,7 +937,7 @@ Source: www.silabs.com .. C8051F33x.pdf</description>
 <connect gate="G$1" pin="VDD" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:26378/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

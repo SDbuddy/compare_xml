@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -449,7 +449,7 @@ Source: http://www.sst.com/dotAsset/40687.pdf</description>
 <rectangle x1="-8.5" y1="3.8" x2="-8.01" y2="5.32" layer="51"/>
 <rectangle x1="-9.77" y1="3.8" x2="-9.28" y2="5.32" layer="51"/>
 </package>
-<package name="DIL24" urn="urn:adsk.eagle:footprint:18973/1">
+<package name="DIL24" urn="urn:adsk.eagle:footprint:19817/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="-15.24" y1="6.731" x2="-15.24" y2="1.016" width="0.1524" layer="21"/>
 <wire x1="-15.24" y1="-6.731" x2="-15.24" y2="-1.016" width="0.1524" layer="21"/>
@@ -484,7 +484,7 @@ Source: http://www.sst.com/dotAsset/40687.pdf</description>
 <text x="-15.494" y="-6.731" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-11.303" y="-0.889" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL28" urn="urn:adsk.eagle:footprint:18975/1">
+<package name="DIL28" urn="urn:adsk.eagle:footprint:31062/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="17.78" y1="6.731" x2="-17.78" y2="6.731" width="0.1524" layer="21"/>
 <wire x1="-17.78" y1="-6.731" x2="17.78" y2="-6.731" width="0.1524" layer="21"/>
@@ -523,7 +523,7 @@ Source: http://www.sst.com/dotAsset/40687.pdf</description>
 <text x="-18.161" y="-6.604" size="1.778" layer="25" rot="R90">&gt;NAME</text>
 <text x="-9.779" y="-0.889" size="1.778" layer="27">&gt;VALUE</text>
 </package>
-<package name="DIL22-3" urn="urn:adsk.eagle:footprint:18971/1">
+<package name="DIL22-3" urn="urn:adsk.eagle:footprint:3279/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.3 inch</description>
 <wire x1="-14.605" y1="-0.635" x2="-14.605" y2="-2.794" width="0.1524" layer="21"/>
 <wire x1="-14.605" y1="0.635" x2="-14.605" y2="-0.635" width="0.1524" layer="21" curve="-180"/>
@@ -556,7 +556,7 @@ Source: http://www.sst.com/dotAsset/40687.pdf</description>
 <text x="-14.9098" y="-2.667" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-10.795" y="-0.889" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL20" urn="urn:adsk.eagle:footprint:18968/1">
+<package name="DIL20" urn="urn:adsk.eagle:footprint:16206/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="12.7" y1="2.921" x2="-12.7" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-12.7" y1="-2.921" x2="12.7" y2="-2.921" width="0.1524" layer="21"/>
@@ -587,7 +587,7 @@ Source: http://www.sst.com/dotAsset/40687.pdf</description>
 <text x="-13.081" y="-3.048" size="1.27" layer="25" rot="R90">&gt;NAME</text>
 <text x="-9.779" y="-0.381" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:18978/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -614,7 +614,7 @@ Source: http://www.sst.com/dotAsset/40687.pdf</description>
 <text x="-10.541" y="-2.921" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-7.493" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL18" urn="urn:adsk.eagle:footprint:18964/1">
+<package name="DIL18" urn="urn:adsk.eagle:footprint:16182/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="11.43" y1="2.921" x2="-11.43" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-11.43" y1="-2.921" x2="11.43" y2="-2.921" width="0.1524" layer="21"/>
@@ -643,7 +643,7 @@ Source: http://www.sst.com/dotAsset/40687.pdf</description>
 <text x="-11.684" y="-3.048" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-9.525" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="DIL40" urn="urn:adsk.eagle:footprint:19016/1">
+<package name="DIL40" urn="urn:adsk.eagle:footprint:19511/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="25.4" y1="6.731" x2="-25.4" y2="6.731" width="0.1524" layer="21"/>
 <wire x1="-25.4" y1="-6.731" x2="25.4" y2="-6.731" width="0.1524" layer="21"/>
@@ -694,7 +694,7 @@ Source: http://www.sst.com/dotAsset/40687.pdf</description>
 <text x="-25.908" y="-6.604" size="1.778" layer="25" rot="R90">&gt;NAME</text>
 <text x="-17.145" y="-1.016" size="1.778" layer="27">&gt;VALUE</text>
 </package>
-<package name="DIL48" urn="urn:adsk.eagle:footprint:18981/1">
+<package name="DIL48" urn="urn:adsk.eagle:footprint:19570/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="-29.845" y1="-6.604" x2="29.845" y2="-6.604" width="0.1524" layer="21"/>
 <wire x1="29.845" y1="-6.604" x2="29.845" y2="6.604" width="0.1524" layer="21"/>
@@ -906,7 +906,7 @@ rectangle</description>
 <rectangle x1="2.2799" y1="6.9499" x2="2.81" y2="7.5301" layer="51"/>
 <rectangle x1="1.0099" y1="6.9499" x2="1.54" y2="7.5301" layer="51"/>
 </package>
-<package name="DIL32" urn="urn:adsk.eagle:footprint:19013/1">
+<package name="DIL32" urn="urn:adsk.eagle:footprint:18035/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="20.32" y1="6.731" x2="-20.32" y2="6.731" width="0.1524" layer="21"/>
 <wire x1="-20.32" y1="-6.731" x2="20.32" y2="-6.731" width="0.1524" layer="21"/>
@@ -949,7 +949,7 @@ rectangle</description>
 <text x="-20.701" y="-6.604" size="1.778" layer="25" rot="R90">&gt;NAME</text>
 <text x="-16.891" y="-0.889" size="1.778" layer="27">&gt;VALUE</text>
 </package>
-<package name="TSOP32" urn="urn:adsk.eagle:footprint:19033/1">
+<package name="TSOP32" urn="urn:adsk.eagle:footprint:26789/1">
 <description>&lt;b&gt;Thin Small Outline Package&lt;/b&gt;</description>
 <wire x1="-9" y1="3.9" x2="9" y2="3.9" width="0.254" layer="21"/>
 <wire x1="9" y1="3.9" x2="9" y2="-3.9" width="0.254" layer="21"/>
@@ -1848,7 +1848,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <rectangle x1="-7.23" y1="4.4" x2="-6.74" y2="6.345" layer="51" rot="R180"/>
 <rectangle x1="-8.5" y1="4.4" x2="-8.01" y2="6.345" layer="51" rot="R180"/>
 </package>
-<package name="DIL08" urn="urn:adsk.eagle:footprint:19059/1">
+<package name="DIL08" urn="urn:adsk.eagle:footprint:29416/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="5.08" y1="2.921" x2="-5.08" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-5.08" y1="-2.921" x2="5.08" y2="-2.921" width="0.1524" layer="21"/>
@@ -1909,49 +1909,49 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </package>
 </packages>
 <packages3d>
-<package3d name="DIL28" urn="urn:adsk.eagle:package:19070/1" type="box">
+<package3d name="DIL28" urn="urn:adsk.eagle:package:31069/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL28"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL24" urn="urn:adsk.eagle:package:19069/1" type="box">
+<package3d name="DIL24" urn="urn:adsk.eagle:package:19955/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL24"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL22-3" urn="urn:adsk.eagle:package:19064/1" type="box">
+<package3d name="DIL22-3" urn="urn:adsk.eagle:package:3296/1" type="box">
 <description>Dual In Line Package 0.3 inch</description>
 <packageinstances>
 <packageinstance name="DIL22-3"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL20" urn="urn:adsk.eagle:package:19065/1" type="box">
+<package3d name="DIL20" urn="urn:adsk.eagle:package:16429/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL20"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:19066/1" type="box">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL18" urn="urn:adsk.eagle:package:19068/1" type="box">
+<package3d name="DIL18" urn="urn:adsk.eagle:package:16424/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL18"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL48" urn="urn:adsk.eagle:package:19067/1" type="box">
+<package3d name="DIL48" urn="urn:adsk.eagle:package:19659/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL48"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL40" urn="urn:adsk.eagle:package:19072/1" type="box">
+<package3d name="DIL40" urn="urn:adsk.eagle:package:19651/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL40"/>
@@ -1963,7 +1963,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <packageinstance name="SOP32L"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL32" urn="urn:adsk.eagle:package:19071/1" type="box">
+<package3d name="DIL32" urn="urn:adsk.eagle:package:18076/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL32"/>
@@ -1976,7 +1976,7 @@ rectangle</description>
 <packageinstance name="PLCC32R"/>
 </packageinstances>
 </package3d>
-<package3d name="TSOP32" urn="urn:adsk.eagle:package:19074/1" type="box">
+<package3d name="TSOP32" urn="urn:adsk.eagle:package:26849/1" type="box">
 <description>Thin Small Outline Package</description>
 <packageinstances>
 <packageinstance name="TSOP32"/>
@@ -2017,7 +2017,7 @@ Source: www.fairchildsemi.com</description>
 <packageinstance name="TSSOP8"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL08" urn="urn:adsk.eagle:package:19085/1" type="box">
+<package3d name="DIL08" urn="urn:adsk.eagle:package:29519/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL08"/>
@@ -4347,7 +4347,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="2816" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19108/1">
+<deviceset name="2816" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19108/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2816" x="22.86" y="0"/>
@@ -4382,7 +4382,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4390,7 +4390,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2716" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19106/1">
+<deviceset name="2716" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19106/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2716" x="22.86" y="0"/>
@@ -4425,7 +4425,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4433,7 +4433,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="3636" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19110/1">
+<deviceset name="3636" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19110/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="3636" x="20.32" y="0"/>
@@ -4468,7 +4468,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4476,7 +4476,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="7137" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19114/1">
+<deviceset name="7137" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19114/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="7137" x="20.32" y="0"/>
@@ -4511,7 +4511,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4519,7 +4519,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="6380" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19113/1">
+<deviceset name="6380" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19113/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="6380" x="20.32" y="0"/>
@@ -4554,7 +4554,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4562,7 +4562,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2015" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19105/1">
+<deviceset name="2015" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19105/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2015" x="22.86" y="0"/>
@@ -4597,7 +4597,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4605,7 +4605,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2732" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19107/1">
+<deviceset name="2732" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19107/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2732" x="22.86" y="0"/>
@@ -4640,7 +4640,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4648,7 +4648,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="5143" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19135/1">
+<deviceset name="5143" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19135/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="5143" x="22.86" y="0"/>
@@ -4687,7 +4687,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4695,7 +4695,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="TC55257DP" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19143/1">
+<deviceset name="TC55257DP" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19143/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="257" x="0" y="0"/>
@@ -4734,7 +4734,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4742,7 +4742,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="76641" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19115/1">
+<deviceset name="76641" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19115/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="76641" x="20.32" y="0"/>
@@ -4777,7 +4777,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4785,7 +4785,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="XL78C800" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19118/1">
+<deviceset name="XL78C800" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19118/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="XL78C800" x="22.86" y="0"/>
@@ -4820,7 +4820,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4828,7 +4828,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="5341" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19112/1">
+<deviceset name="5341" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19112/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="5341" x="20.32" y="0"/>
@@ -4862,7 +4862,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4870,7 +4870,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="7142E" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19117/1">
+<deviceset name="7142E" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19117/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="7142E" x="20.32" y="0"/>
@@ -4905,7 +4905,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4913,7 +4913,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="5340" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19111/1">
+<deviceset name="5340" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19111/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="5340" x="20.32" y="0"/>
@@ -4947,7 +4947,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4955,7 +4955,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="27S43" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19116/1">
+<deviceset name="27S43" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19116/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="27S43" x="20.32" y="0"/>
@@ -4990,7 +4990,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4998,7 +4998,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2063" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19128/1">
+<deviceset name="2063" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19128/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2063" x="22.86" y="0"/>
@@ -5036,7 +5036,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5044,7 +5044,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2187" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19130/1">
+<deviceset name="2187" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19130/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2187" x="22.86" y="0"/>
@@ -5082,7 +5082,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5090,7 +5090,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2817" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19133/1">
+<deviceset name="2817" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19133/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2817" x="22.86" y="0"/>
@@ -5126,7 +5126,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5134,7 +5134,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2864" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19134/1">
+<deviceset name="2864" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19134/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2864" x="22.86" y="0"/>
@@ -5172,7 +5172,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5180,7 +5180,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2764" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19132/1">
+<deviceset name="2764" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19132/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2764" x="22.86" y="0"/>
@@ -5218,7 +5218,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5226,7 +5226,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="27513" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19140/1">
+<deviceset name="27513" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19140/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="27513" x="22.86" y="0"/>
@@ -5265,7 +5265,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5273,7 +5273,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2186" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19129/1">
+<deviceset name="2186" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19129/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2186" x="22.86" y="0"/>
@@ -5311,7 +5311,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5319,7 +5319,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="27011" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19137/1">
+<deviceset name="27011" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19137/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="27011" x="22.86" y="0"/>
@@ -5358,7 +5358,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5366,7 +5366,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2630" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19131/1">
+<deviceset name="2630" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19131/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2630" x="22.86" y="0"/>
@@ -5405,7 +5405,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5413,7 +5413,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="27256" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19138/1">
+<deviceset name="27256" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19138/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="27256" x="22.86" y="0"/>
@@ -5452,7 +5452,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5460,7 +5460,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="9864" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19136/1">
+<deviceset name="9864" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19136/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="9864" x="22.86" y="0"/>
@@ -5498,7 +5498,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5506,7 +5506,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="52B23" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19142/1">
+<deviceset name="52B23" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19142/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="52B23" x="22.86" y="0"/>
@@ -5543,7 +5543,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5551,7 +5551,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="27916" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19141/1">
+<deviceset name="27916" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19141/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="27916" x="22.86" y="0"/>
@@ -5590,7 +5590,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5598,7 +5598,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="27512" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19139/1">
+<deviceset name="27512" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19139/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="27512" x="22.86" y="0"/>
@@ -5637,7 +5637,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="28"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19070/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:31069/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5645,7 +5645,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="3628" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19109/1">
+<deviceset name="3628" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19109/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="3628" x="20.32" y="0"/>
@@ -5680,7 +5680,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="24"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19069/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19955/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5688,7 +5688,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="1400" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19119/1">
+<deviceset name="1400" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19119/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="1400" x="22.86" y="0"/>
@@ -5719,7 +5719,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19065/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5727,7 +5727,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="4161" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19121/1">
+<deviceset name="4161" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19121/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4161" x="0" y="0"/>
@@ -5757,7 +5757,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="A" pin="VSS" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19065/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5765,7 +5765,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="1600" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19086/1">
+<deviceset name="1600" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19086/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="1600" x="22.86" y="0"/>
@@ -5798,7 +5798,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19064/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3296/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5806,7 +5806,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="76165" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19124/1">
+<deviceset name="76165" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19124/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="76165" x="20.32" y="0"/>
@@ -5837,7 +5837,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19065/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5845,7 +5845,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="5349" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19122/1">
+<deviceset name="5349" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19122/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="5349" x="20.32" y="0"/>
@@ -5876,7 +5876,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19065/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5884,7 +5884,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="27S40" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19125/1">
+<deviceset name="27S40" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19125/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="27S40" x="20.32" y="0"/>
@@ -5915,7 +5915,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19065/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5923,7 +5923,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2115" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19087/1">
+<deviceset name="2115" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19087/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2115" x="20.32" y="0"/>
@@ -5950,7 +5950,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19066/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5958,7 +5958,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2125" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19088/1">
+<deviceset name="2125" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19088/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2125" x="20.32" y="0"/>
@@ -5985,7 +5985,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19066/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5993,7 +5993,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2164" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19089/1">
+<deviceset name="2164" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19089/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2164" x="0" y="0"/>
@@ -6018,7 +6018,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="A" pin="VSS" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19066/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6026,7 +6026,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="5305" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19093/1">
+<deviceset name="5305" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19093/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="5305" x="20.32" y="0"/>
@@ -6053,7 +6053,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19066/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6061,7 +6061,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="5306" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19094/1">
+<deviceset name="5306" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19094/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="5306" x="20.32" y="0"/>
@@ -6088,7 +6088,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19066/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6096,7 +6096,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="5063" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19091/1">
+<deviceset name="5063" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19091/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="5063" x="20.32" y="0"/>
@@ -6123,7 +6123,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19066/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6131,7 +6131,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="4256" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19090/1">
+<deviceset name="4256" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19090/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="4256" x="0" y="0"/>
@@ -6157,7 +6157,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="G$1" pin="VSS" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19066/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6165,7 +6165,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="5301" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19092/1">
+<deviceset name="5301" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19092/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="5301" x="20.32" y="0"/>
@@ -6192,7 +6192,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19066/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6200,7 +6200,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="5331" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19095/1">
+<deviceset name="5331" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19095/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="5331" x="20.32" y="0"/>
@@ -6227,7 +6227,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19066/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6235,7 +6235,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="5600" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19096/1">
+<deviceset name="5600" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19096/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="5600" x="20.32" y="0"/>
@@ -6262,7 +6262,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="16"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19066/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6270,7 +6270,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="315" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19098/1">
+<deviceset name="315" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19098/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="315" x="20.32" y="0"/>
@@ -6299,7 +6299,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6307,7 +6307,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="426" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19100/1">
+<deviceset name="426" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19100/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="426" x="20.32" y="0"/>
@@ -6336,7 +6336,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6344,7 +6344,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2114" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19101/1">
+<deviceset name="2114" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19101/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2114" x="20.32" y="0"/>
@@ -6373,7 +6373,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6381,7 +6381,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2620" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19102/1">
+<deviceset name="2620" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19102/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2620" x="0" y="0"/>
@@ -6409,7 +6409,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="A" pin="VSS" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6417,7 +6417,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="99C68" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19127/1">
+<deviceset name="99C68" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19127/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="99C68" x="20.32" y="0"/>
@@ -6448,7 +6448,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19065/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6456,7 +6456,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="1420" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19120/1">
+<deviceset name="1420" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19120/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="1420" x="20.32" y="0"/>
@@ -6487,7 +6487,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19065/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6495,7 +6495,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="51C68" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19126/1">
+<deviceset name="51C68" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19126/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="51C68" x="20.32" y="0"/>
@@ -6526,7 +6526,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19065/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6534,7 +6534,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="7134" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19123/1">
+<deviceset name="7134" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19123/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="7134" x="20.32" y="0"/>
@@ -6565,7 +6565,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="20"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19065/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16429/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6573,7 +6573,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="406" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19099/1">
+<deviceset name="406" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19099/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="406" x="20.32" y="0"/>
@@ -6602,7 +6602,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6610,7 +6610,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="7685" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19103/1">
+<deviceset name="7685" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19103/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="7685" x="20.32" y="0"/>
@@ -6639,7 +6639,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6647,7 +6647,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="51C259" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19104/1">
+<deviceset name="51C259" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19104/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="51C259" x="0" y="0"/>
@@ -6674,7 +6674,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="G$1" pin="VSS" pad="18"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6682,7 +6682,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="27210" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19146/1">
+<deviceset name="27210" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19146/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="27210" x="0" y="-2.54"/>
@@ -6731,7 +6731,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="A" pin="VPP" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19072/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6790,7 +6790,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="2130" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19097/1">
+<deviceset name="2130" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19097/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2130" x="27.94" y="0"/>
@@ -6849,7 +6849,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="48"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19067/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19659/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6909,7 +6909,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="27010" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19144/1">
+<deviceset name="27010" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19144/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="27010" x="22.86" y="0"/>
@@ -6951,7 +6951,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="32"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19071/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18076/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -6959,7 +6959,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="TC551001CP" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19145/1">
+<deviceset name="TC551001CP" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19145/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="1001" x="0" y="0"/>
@@ -7003,7 +7003,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 <connect gate="P" pin="VCC" pad="32"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19071/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:18076/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -7011,7 +7011,7 @@ Source: http://www.st.com/stonline/books/pdf/docs/2611.pdf#search=%22M48T35%22</
 </device>
 </devices>
 </deviceset>
-<deviceset name="SST39VF020" prefix="IC" urn="urn:adsk.eagle:component:19163/1">
+<deviceset name="SST39VF020" prefix="IC" urn="urn:adsk.eagle:component:19163/1" locally_modified="yes">
 <description>&lt;b&gt;2 Mbit x8 Multi-Purpose Flash&lt;/b&gt;&lt;p&gt;
 Source: http://www.sst.com/dotAsset/40782.pdf</description>
 <gates>
@@ -7095,7 +7095,7 @@ Source: http://www.sst.com/dotAsset/40782.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19074/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26849/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -7103,7 +7103,7 @@ Source: http://www.sst.com/dotAsset/40782.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SST39VF040" prefix="IC" urn="urn:adsk.eagle:component:19162/1">
+<deviceset name="SST39VF040" prefix="IC" urn="urn:adsk.eagle:component:19162/1" locally_modified="yes">
 <description>&lt;b&gt;4 Mbit x8 Multi-Purpose Flash&lt;/b&gt;&lt;p&gt;
 Source: http://www.sst.com/dotAsset/40782.pdf</description>
 <gates>
@@ -7189,7 +7189,7 @@ Source: http://www.sst.com/dotAsset/40782.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19074/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26849/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -7251,7 +7251,7 @@ Source: http://www.sst.com/dotAsset/40782.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LP621024CV" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19149/1">
+<deviceset name="LP621024CV" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:19149/1" locally_modified="yes">
 <description>&lt;b&gt;MEMORY&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="621024" x="0" y="0"/>
@@ -7294,7 +7294,7 @@ Source: http://www.sst.com/dotAsset/40782.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19074/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26849/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -7302,7 +7302,7 @@ Source: http://www.sst.com/dotAsset/40782.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SST39VF512" prefix="IC" urn="urn:adsk.eagle:component:19161/1">
+<deviceset name="SST39VF512" prefix="IC" urn="urn:adsk.eagle:component:19161/1" locally_modified="yes">
 <description>&lt;b&gt;512 Kbit x8 Multi-Purpose Flash&lt;/b&gt;&lt;p&gt;
 Source: http://www.sst.com/dotAsset/40782.pdf</description>
 <gates>
@@ -7382,7 +7382,7 @@ Source: http://www.sst.com/dotAsset/40782.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19074/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26849/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -7390,7 +7390,7 @@ Source: http://www.sst.com/dotAsset/40782.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SST39VF010" prefix="IC" urn="urn:adsk.eagle:component:19164/1">
+<deviceset name="SST39VF010" prefix="IC" urn="urn:adsk.eagle:component:19164/1" locally_modified="yes">
 <description>&lt;b&gt;1 Mbit x8 Multi-Purpose Flash&lt;/b&gt;&lt;p&gt;
 Source: http://www.sst.com/dotAsset/40782.pdf</description>
 <gates>
@@ -7472,7 +7472,7 @@ Source: http://www.sst.com/dotAsset/40782.pdf</description>
 <connect gate="P" pin="VCC" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19074/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:26849/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -7707,7 +7707,7 @@ Source: http://www.sst.com/dotAsset/40687.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="FM93C66" prefix="IC" urn="urn:adsk.eagle:component:19160/1">
+<deviceset name="FM93C66" prefix="IC" urn="urn:adsk.eagle:component:19160/1" locally_modified="yes">
 <description>&lt;b&gt;4096-Bit Serial CMOS EEPROM&lt;/b&gt; (MICROWIRE TM Synchronous Bus)&lt;p&gt;
 Source: www.fairchildsemi.com</description>
 <gates>
@@ -7756,7 +7756,7 @@ Source: www.fairchildsemi.com</description>
 <connect gate="G$1" pin="VSS" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:19085/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:29519/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

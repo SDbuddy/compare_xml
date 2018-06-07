@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -72,7 +72,7 @@
 Motor controler&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="DIL24-6" urn="urn:adsk.eagle:footprint:15338/1">
+<package name="DIL24-6" urn="urn:adsk.eagle:footprint:943/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 0.6 inch</description>
 <wire x1="-15.113" y1="-1.27" x2="-15.113" y2="-6.604" width="0.1524" layer="21"/>
 <wire x1="-15.113" y1="1.27" x2="-15.113" y2="-1.27" width="0.1524" layer="21" curve="-180"/>
@@ -174,7 +174,7 @@ wide body 7.5 mm</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="DIL24-6" urn="urn:adsk.eagle:package:15340/1" type="box">
+<package3d name="DIL24-6" urn="urn:adsk.eagle:package:1009/2" type="model">
 <description>Dual In Line Package 0.6 inch</description>
 <packageinstances>
 <packageinstance name="DIL24-6"/>
@@ -223,7 +223,7 @@ wide body 7.5 mm</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="HIP4086" prefix="IC" urn="urn:adsk.eagle:component:15342/1">
+<deviceset name="HIP4086" prefix="IC" urn="urn:adsk.eagle:component:15342/1" locally_modified="yes">
 <description>&lt;b&gt;Three Phase Bridge N-Channel MOSFET Driver&lt;/b&gt; 80V, 0.5A&lt;p&gt;
 Source: http://www.intersil.com/data/fn/fn4220.pdf</description>
 <gates>
@@ -258,7 +258,7 @@ Source: http://www.intersil.com/data/fn/fn4220.pdf</description>
 <connect gate="G$1" pin="VSS" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:15340/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:1009/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="7.1.2">
 <drawing>
 <settings>
@@ -176,7 +176,7 @@ Source: ON Semiconductor .. 4101.pdf</description>
 <rectangle x1="1.26" y1="-9.2" x2="2.14" y2="-4.725" layer="51"/>
 <rectangle x1="2.96" y1="-9.2" x2="3.84" y2="-4.725" layer="51"/>
 </package>
-<package name="SO08" urn="urn:adsk.eagle:footprint:21270/1">
+<package name="SO08" urn="urn:adsk.eagle:footprint:16130/1">
 <description>&lt;b&gt;Small Outline Package 8&lt;/b&gt;&lt;br&gt;
 NS Package M08A</description>
 <wire x1="2.4" y1="1.9" x2="2.4" y2="-1.4" width="0.2032" layer="51"/>
@@ -232,7 +232,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC34164-D.PDF</description>
 <rectangle x1="0.2025" y1="-2.525" x2="0.4463" y2="-1.55" layer="51"/>
 <rectangle x1="0.8525" y1="-2.525" x2="1.0963" y2="-1.55" layer="51"/>
 </package>
-<package name="DIL8" urn="urn:adsk.eagle:footprint:21264/1">
+<package name="DIL8" urn="urn:adsk.eagle:footprint:20613/1">
 <description>&lt;B&gt;Dual In Line&lt;/B&gt;&lt;p&gt;
 package type P</description>
 <wire x1="-5.08" y1="-0.635" x2="-5.08" y2="-2.54" width="0.1524" layer="21"/>
@@ -252,7 +252,7 @@ package type P</description>
 <text x="-5.2578" y="-2.54" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="7.239" y="-2.54" size="1.778" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
 </package>
-<package name="SOIC8" urn="urn:adsk.eagle:footprint:21265/1">
+<package name="SOIC8" urn="urn:adsk.eagle:footprint:16321/1">
 <description>&lt;b&gt;SOIC-8&lt;/b&gt; CASE 751-07&lt;p&gt;
 Source: http://www.onsemi.com/pub/Collateral/MC34164-D.PDF&lt;p&gt;
 &lt;b&gt;D (R-PDSO-G8)&lt;/b&gt;PLATIC SMALL-OUTLINE PACKAGE&lt;br&gt;
@@ -381,7 +381,7 @@ Source: &lt;a href = "http://www.farnell.com/datasheets/72510.pdf"&gt; Data shee
 <rectangle x1="-0.675" y1="-0.65" x2="-0.225" y2="-0.3" layer="51"/>
 <rectangle x1="-0.3" y1="-0.625" x2="-0.225" y2="-0.3" layer="21"/>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:21284/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -620,7 +620,7 @@ Source: ON Semiconductor .. 4101.pdf</description>
 <packageinstance name="TO263_5"/>
 </packageinstances>
 </package3d>
-<package3d name="SO08" urn="urn:adsk.eagle:package:21293/1" type="box">
+<package3d name="SO08" urn="urn:adsk.eagle:package:16404/2" type="model">
 <description>Small Outline Package 8
 NS Package M08A</description>
 <packageinstances>
@@ -634,14 +634,14 @@ Source: http://www.onsemi.com/pub/Collateral/MC34164-D.PDF</description>
 <packageinstance name="MICRO8"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL8" urn="urn:adsk.eagle:package:21291/1" type="box">
+<package3d name="DIL8" urn="urn:adsk.eagle:package:20796/2" type="model">
 <description>Dual In Line
 package type P</description>
 <packageinstances>
 <packageinstance name="DIL8"/>
 </packageinstances>
 </package3d>
-<package3d name="SOIC8" urn="urn:adsk.eagle:package:21290/1" type="box">
+<package3d name="SOIC8" urn="urn:adsk.eagle:package:16475/2" type="model">
 <description>SOIC-8 CASE 751-07
 Source: http://www.onsemi.com/pub/Collateral/MC34164-D.PDF
 D (R-PDSO-G8)PLATIC SMALL-OUTLINE PACKAGE
@@ -665,7 +665,7 @@ Source:  Data sheet </description>
 <packageinstance name="FLIP-CHIP9"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:21300/1" type="box">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
@@ -1083,7 +1083,7 @@ Source: ON Semiconductor .. 4101.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MC12052A" prefix="IC" urn="urn:adsk.eagle:component:21305/1">
+<deviceset name="MC12052A" prefix="IC" urn="urn:adsk.eagle:component:21305/1" locally_modified="yes">
 <description>&lt;b&gt;1.1 GHZ Suiper Low Power Dual Modulus Prescaler&lt;/b&gt;&lt;p&gt;
 Source:http://motorola.com/sps .. MC12052A.pdf</description>
 <gates>
@@ -1101,7 +1101,7 @@ Source:http://motorola.com/sps .. MC12052A.pdf</description>
 <connect gate="G$1" pin="VCC" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21293/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16404/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -1114,7 +1114,7 @@ Source:http://motorola.com/sps .. MC12052A.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MC12080" prefix="IC" urn="urn:adsk.eagle:component:21306/1">
+<deviceset name="MC12080" prefix="IC" urn="urn:adsk.eagle:component:21306/1" locally_modified="yes">
 <description>&lt;b&gt;1.1 GHz Prescaler&lt;/b&gt; MECL PLL COMPONENTS ÷10/20/40/80 PRESCALER&lt;p&gt;
 Source: http://motorola.com/sps .. MC12080.pdf</description>
 <gates>
@@ -1133,7 +1133,7 @@ Source: http://motorola.com/sps .. MC12080.pdf</description>
 <connect gate="G$1" pin="VCC" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21293/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16404/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -1156,7 +1156,7 @@ Source: http://motorola.com/sps .. MC12080.pdf</description>
 <connect gate="G$1" pin="VCC" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21291/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20796/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -1169,7 +1169,7 @@ Source: http://motorola.com/sps .. MC12080.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="*161" prefix="IC" urn="urn:adsk.eagle:component:21303/1">
+<deviceset name="*161" prefix="IC" urn="urn:adsk.eagle:component:21303/1" locally_modified="yes">
 <description>&lt;b&gt;Universal Voltage Monitor&lt;/b&gt;&lt;p&gt;
 Source: www.onsemi.com/pub_link/Collateral/MC34161-D.PDF</description>
 <gates>
@@ -1188,7 +1188,7 @@ Source: www.onsemi.com/pub_link/Collateral/MC34161-D.PDF</description>
 <connect gate="G$1" pin="VREF" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21291/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20796/2"/>
 </package3dinstances>
 <technologies>
 <technology name="MC33">
@@ -1217,7 +1217,7 @@ Source: www.onsemi.com/pub_link/Collateral/MC34161-D.PDF</description>
 <connect gate="G$1" pin="VREF" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21290/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16475/2"/>
 </package3dinstances>
 <technologies>
 <technology name="MC33">
@@ -1436,7 +1436,7 @@ Sopurce: U6 OnSemi Inductive Load Driver MDC3105-D.PDF</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SA571" prefix="IC" urn="urn:adsk.eagle:component:21312/1">
+<deviceset name="SA571" prefix="IC" urn="urn:adsk.eagle:component:21312/1" locally_modified="yes">
 <description>&lt;b&gt;Versatile low cost dual gain control circuit&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="http://www.onsemi.com/pub_link/Collateral/SA571-D.PDF"&gt; Data sheet &lt;/a&gt;</description>
 <gates>
@@ -1463,7 +1463,7 @@ Source: &lt;a href="http://www.onsemi.com/pub_link/Collateral/SA571-D.PDF"&gt; D
 <connect gate="A" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21300/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1497,7 +1497,7 @@ Source: &lt;a href="http://www.onsemi.com/pub_link/Collateral/SA571-D.PDF"&gt; D
 </device>
 </devices>
 </deviceset>
-<deviceset name="SA571*" prefix="IC" urn="urn:adsk.eagle:component:21313/1">
+<deviceset name="SA571*" prefix="IC" urn="urn:adsk.eagle:component:21313/1" locally_modified="yes">
 <description>&lt;b&gt;Versatile low cost dual gain control circuit&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="http://www.onsemi.com/pub_link/Collateral/SA571-D.PDF"&gt; Data sheet &lt;/a&gt;</description>
 <gates>
@@ -1526,7 +1526,7 @@ Source: &lt;a href="http://www.onsemi.com/pub_link/Collateral/SA571-D.PDF"&gt; D
 <connect gate="P" pin="VCC" pad="13"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21300/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

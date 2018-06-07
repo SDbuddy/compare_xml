@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="7.2.1">
 <drawing>
 <settings>
@@ -676,7 +676,7 @@ Source: Z8B00137584_POL_PG_VQFN_108_2_02.pdf</description>
 <vertex x="-3.5" y="-2"/>
 </polygon>
 </package>
-<package name="TO252-5-11" urn="urn:adsk.eagle:footprint:15269/1">
+<package name="TO252-5-11" urn="urn:adsk.eagle:footprint:20370/1">
 <description>&lt;b&gt;Dpak-5 Pin&lt;/b&gt; P-TO252-5-11 &lt;/b&gt;&lt;p&gt;
 Source: www.infineon.com .. BTS428L2_20030912.pdf</description>
 <wire x1="-3.15" y1="3" x2="-2.75" y2="3" width="0.2032" layer="51"/>
@@ -963,7 +963,7 @@ Source: www.infineon.com .. BTS428L2_20030912.pdf</description>
 <vertex x="-0.3267" y="0.7648"/>
 </polygon>
 </package>
-<package name="P-TSSOP28-1" urn="urn:adsk.eagle:footprint:15267/1">
+<package name="P-TSSOP28-1" urn="urn:adsk.eagle:footprint:20451/1">
 <description>Infineon &lt;b&gt;P-TSSOP-28-1&lt;/b&gt;&lt;p&gt;
 TDA 6060 XS cross-ref_pFET-60v_p_chan.pdf</description>
 <wire x1="-4.775" y1="-2.1" x2="4.775" y2="-2.1" width="0.2032" layer="21"/>
@@ -1030,7 +1030,7 @@ TDA 6060 XS cross-ref_pFET-60v_p_chan.pdf</description>
 <rectangle x1="-3.685" y1="2.17" x2="-3.465" y2="3.2" layer="51"/>
 <rectangle x1="-4.335" y1="2.17" x2="-4.115" y2="3.2" layer="51"/>
 </package>
-<package name="DIL14" urn="urn:adsk.eagle:footprint:15274/1">
+<package name="DIL14" urn="urn:adsk.eagle:footprint:16136/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="8.89" y1="2.921" x2="-8.89" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-8.89" y1="-2.921" x2="8.89" y2="-2.921" width="0.1524" layer="21"/>
@@ -1648,7 +1648,7 @@ Source: http://www.infineon.com .. tle5205-2.pdf</description>
 <rectangle x1="2.24" y1="-5.9749" x2="2.84" y2="-1.5875" layer="51"/>
 <rectangle x1="3.51" y1="-2.0749" x2="4.11" y2="-1.5875" layer="51"/>
 </package>
-<package name="SC74_INFINEON" urn="urn:adsk.eagle:footprint:15293/1">
+<package name="SC74_INFINEON" urn="urn:adsk.eagle:footprint:28487/1">
 <description>&lt;b&gt;Small Outline Transistor; 6 leads&lt;/b&gt; Reflow soldering&lt;p&gt;
 INFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf</description>
 <wire x1="-1.45" y1="0.7" x2="-1.45" y2="-0.7" width="0.2032" layer="21"/>
@@ -1706,7 +1706,7 @@ Source: TLE5009_FDS_Rev.1.1.pdf</description>
 <text x="-2.7286" y="-2.985" size="1.27" layer="25" rot="R90">&gt;NAME</text>
 <text x="4.0066" y="-2.985" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
 </package>
-<package name="DIL16" urn="urn:adsk.eagle:footprint:15282/1">
+<package name="DIL16" urn="urn:adsk.eagle:footprint:917/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="10.16" y1="2.921" x2="-10.16" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-10.16" y1="-2.921" x2="10.16" y2="-2.921" width="0.1524" layer="21"/>
@@ -1735,20 +1735,20 @@ Source: TLE5009_FDS_Rev.1.1.pdf</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="TO252-5-11" urn="urn:adsk.eagle:package:15302/1" type="box">
+<package3d name="TO252-5-11" urn="urn:adsk.eagle:package:20497/1" type="box">
 <description>Dpak-5 Pin P-TO252-5-11 
 Source: www.infineon.com .. BTS428L2_20030912.pdf</description>
 <packageinstances>
 <packageinstance name="TO252-5-11"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL14" urn="urn:adsk.eagle:package:15305/1" type="box">
+<package3d name="DIL14" urn="urn:adsk.eagle:package:16407/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL14"/>
 </packageinstances>
 </package3d>
-<package3d name="P-TSSOP28-1" urn="urn:adsk.eagle:package:15304/1" type="box">
+<package3d name="P-TSSOP28-1" urn="urn:adsk.eagle:package:20510/1" type="box">
 <description>Infineon P-TSSOP-28-1
 TDA 6060 XS cross-ref_pFET-60v_p_chan.pdf</description>
 <packageinstances>
@@ -1821,13 +1821,13 @@ Source: http://www.infineon.com .. tle5205-2.pdf</description>
 <packageinstance name="P-TO263-7-1"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL16" urn="urn:adsk.eagle:package:15310/1" type="box">
+<package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL16"/>
 </packageinstances>
 </package3d>
-<package3d name="SC74_INFINEON" urn="urn:adsk.eagle:package:15314/1" type="box">
+<package3d name="SC74_INFINEON" urn="urn:adsk.eagle:package:28543/2" type="model">
 <description>Small Outline Transistor; 6 leads Reflow soldering
 INFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf</description>
 <packageinstances>
@@ -2259,7 +2259,7 @@ Source: http://www.infineon.com .. tle5205-2.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="BTS428L2" prefix="IC" urn="urn:adsk.eagle:component:15319/1">
+<deviceset name="BTS428L2" prefix="IC" urn="urn:adsk.eagle:component:15319/1" locally_modified="yes">
 <description>&lt;b&gt;Smart High-Side Power Switch&lt;/b&gt;&lt;p&gt;
 One Channel: 60mOhm Status Feedback&lt;br&gt;
 Source: Source: www.infineon.com .. BTS428L2_20030912.pdf</description>
@@ -2276,7 +2276,7 @@ Source: Source: www.infineon.com .. BTS428L2_20030912.pdf</description>
 <connect gate="G$1" pin="VBB" pad="TAB"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:15302/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20497/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -2289,7 +2289,7 @@ Source: Source: www.infineon.com .. BTS428L2_20030912.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TDA6060*" prefix="IC" urn="urn:adsk.eagle:component:15320/1">
+<deviceset name="TDA6060*" prefix="IC" urn="urn:adsk.eagle:component:15320/1" locally_modified="yes">
 <description>&lt;b&gt;Phase locked loop&lt;/b&gt;&lt;p&gt;
 (PLL), with a multistandard video modulator and a&lt;p&gt;
 programmable sound FM and AM modulator</description>
@@ -2329,7 +2329,7 @@ programmable sound FM and AM modulator</description>
 <connect gate="G$1" pin="VTUNE" pad="17"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:15304/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:20510/1"/>
 </package3dinstances>
 <technologies>
 <technology name="G">
@@ -2348,7 +2348,7 @@ programmable sound FM and AM modulator</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TCA965" prefix="IC" urn="urn:adsk.eagle:component:15321/1">
+<deviceset name="TCA965" prefix="IC" urn="urn:adsk.eagle:component:15321/1" locally_modified="yes">
 <description>&lt;b&gt;Window Discriminator&lt;/b&gt;&lt;p&gt;
 Source: http://www.infineon.com/upload/Document/cmc_upload/documents/012/1090/tca965b_green_050217.pdf</description>
 <gates>
@@ -2373,7 +2373,7 @@ Source: http://www.infineon.com/upload/Document/cmc_upload/documents/012/1090/tc
 <connect gate="G$1" pin="VSTAB" pad="10"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:15305/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -2778,7 +2778,7 @@ Source: http://www.infineon.com .. tle5205-2.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ILD4001" prefix="IC" urn="urn:adsk.eagle:component:15330/1">
+<deviceset name="ILD4001" prefix="IC" urn="urn:adsk.eagle:component:15330/1" locally_modified="yes">
 <description>&lt;b&gt;LED Driver for High Power LEDs&lt;/b&gt;&lt;p&gt;
 Source: http://www.infineon.com/dgdl/ILD4001-Step-down-LED-Controller-Rev2.0.pdf?folderId=db3a30431f848401011fcbf2ab4c04c4&amp;fileId=db3a30433072cd8f01308fc1af03786b</description>
 <gates>
@@ -2794,7 +2794,7 @@ Source: http://www.infineon.com/dgdl/ILD4001-Step-down-LED-Controller-Rev2.0.pdf
 <connect gate="G$1" pin="VSENSE" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:15314/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28543/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2832,7 +2832,7 @@ Source: Infineon, TLE5009_FDS_Rev.1.1.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TCA785" prefix="IC" urn="urn:adsk.eagle:component:15324/1">
+<deviceset name="TCA785" prefix="IC" urn="urn:adsk.eagle:component:15324/1" locally_modified="yes">
 <description>&lt;b&gt;Phase Control IC&lt;/b&gt;&lt;p&gt;
 Source: http://www.infineon.com/ .. tca785.pdf</description>
 <gates>
@@ -2859,7 +2859,7 @@ Source: http://www.infineon.com/ .. tca785.pdf</description>
 <connect gate="P1" pin="VSYNC" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:15310/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:922/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

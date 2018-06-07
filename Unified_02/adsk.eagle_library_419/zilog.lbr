@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.5.2">
 <drawing>
 <settings>
@@ -71,7 +71,7 @@
 <description>&lt;b&gt;Zilog Z80 Microprocessor Devices&lt;/b&gt;&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="DIL40" urn="urn:adsk.eagle:footprint:31060/1">
+<package name="DIL40" urn="urn:adsk.eagle:footprint:19511/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="25.4" y1="6.731" x2="-25.4" y2="6.731" width="0.1524" layer="21"/>
 <wire x1="-25.4" y1="-6.731" x2="25.4" y2="-6.731" width="0.1524" layer="21"/>
@@ -163,7 +163,7 @@
 </package>
 </packages>
 <packages3d>
-<package3d name="DIL40" urn="urn:adsk.eagle:package:31068/1" type="box">
+<package3d name="DIL40" urn="urn:adsk.eagle:package:19651/1" type="box">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL40"/>
@@ -526,7 +526,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="Z80DART" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:31075/1">
+<deviceset name="Z80DART" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:31075/1" locally_modified="yes">
 <description>&lt;b&gt;Z80 FAMILY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="Z80DART" x="0" y="2.54"/>
@@ -576,7 +576,7 @@
 <connect gate="G$1" pin="W/RDYB" pad="30"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:31068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -584,7 +584,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="Z80SIO" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:31071/1">
+<deviceset name="Z80SIO" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:31071/1" locally_modified="yes">
 <description>&lt;b&gt;Z80 FAMILY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="1" symbol="Z80SIO" x="0" y="0"/>
@@ -634,7 +634,7 @@
 <connect gate="1" pin="W/!RDYB" pad="30"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:31068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -642,7 +642,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="Z80DMA" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:31074/1">
+<deviceset name="Z80DMA" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:31074/1" locally_modified="yes">
 <description>&lt;b&gt;Z80 FAMILY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="Z80DMA" x="0" y="0"/>
@@ -692,7 +692,7 @@
 <connect gate="G$1" pin="WR" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:31068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -700,7 +700,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="Z80CPU" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:31073/1">
+<deviceset name="Z80CPU" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:31073/1" locally_modified="yes">
 <description>&lt;b&gt;Z80 FAMILY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="1" symbol="Z80CPU" x="0" y="0"/>
@@ -750,7 +750,7 @@
 <connect gate="1" pin="WR" pad="22"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:31068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -758,7 +758,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="Z80PIO" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:31072/1">
+<deviceset name="Z80PIO" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:31072/1" locally_modified="yes">
 <description>&lt;b&gt;Z80 FAMILY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="1" symbol="Z80PIO" x="0" y="0"/>
@@ -808,7 +808,7 @@
 <connect gate="1" pin="VCC" pad="26"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:31068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -862,7 +862,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="Z8038FIO" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:31070/1">
+<deviceset name="Z8038FIO" prefix="IC" uservalue="yes" urn="urn:adsk.eagle:component:31070/1" locally_modified="yes">
 <description>&lt;b&gt;Z80 FAMILY DEVICE&lt;/b&gt;</description>
 <gates>
 <gate name="1" symbol="Z8038FIO" x="0" y="0"/>
@@ -912,7 +912,7 @@
 <connect gate="1" pin="VCC" pad="40"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:31068/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:19651/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -157,7 +157,7 @@ Source: http://www.holtek.com.tw/pdf/consumer/3_18dv110.pdf</description>
 <rectangle x1="-4.6949" y1="3.76" x2="-4.1951" y2="5.0899" layer="51"/>
 <rectangle x1="-5.9649" y1="3.76" x2="-5.4651" y2="5.0899" layer="51"/>
 </package>
-<package name="DIL18" urn="urn:adsk.eagle:footprint:14308/1">
+<package name="DIL18" urn="urn:adsk.eagle:footprint:16182/1">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
 <wire x1="11.43" y1="2.921" x2="-11.43" y2="2.921" width="0.1524" layer="21"/>
 <wire x1="-11.43" y1="-2.921" x2="11.43" y2="-2.921" width="0.1524" layer="21"/>
@@ -315,7 +315,7 @@ Source: http://www.holtek.com.tw/pdf/consumer/3_18dv110.pdf</description>
 <packageinstance name="DIL20"/>
 </packageinstances>
 </package3d>
-<package3d name="DIL18" urn="urn:adsk.eagle:package:14317/1" type="box">
+<package3d name="DIL18" urn="urn:adsk.eagle:package:16424/2" type="model">
 <description>Dual In Line Package</description>
 <packageinstances>
 <packageinstance name="DIL18"/>
@@ -818,7 +818,7 @@ Source: http://www.holtek.com.tw/pdf/consumer/3_18dv110.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="HT680" prefix="IC" urn="urn:adsk.eagle:component:14321/1">
+<deviceset name="HT680" prefix="IC" urn="urn:adsk.eagle:component:14321/1" locally_modified="yes">
 <description>&lt;b&gt;&lt;font size=4&gt;3&lt;font&gt;&lt;/b&gt;&lt;sup&gt;&lt;font size=2&gt;18&lt;/sup&gt;&lt;font&gt;&lt;b&gt; Series of Encoders&lt;/b&gt; TE trigger type&lt;p&gt;
 Source: http://www.holtek.com.tw/pdf/consumer/3_18ev110.pdf</description>
 <gates>
@@ -847,7 +847,7 @@ Source: http://www.holtek.com.tw/pdf/consumer/3_18ev110.pdf</description>
 <connect gate="G$1" pin="VSS" pad="9"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14317/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -893,7 +893,7 @@ Source: http://www.holtek.com.tw/pdf/consumer/3_18ev110.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="HT692" prefix="IC" urn="urn:adsk.eagle:component:14320/1">
+<deviceset name="HT692" prefix="IC" urn="urn:adsk.eagle:component:14320/1" locally_modified="yes">
 <description>&lt;b&gt;&lt;font size=4&gt;3&lt;font&gt;&lt;/b&gt;&lt;sup&gt;&lt;font size=2&gt;18&lt;/sup&gt;&lt;font&gt;&lt;b&gt; Series of Decoders&lt;/b&gt; Momentary Series&lt;p&gt;
 Source: http://www.holtek.com.tw/pdf/consumer/3_18dv110.pdf</description>
 <gates>
@@ -922,7 +922,7 @@ Source: http://www.holtek.com.tw/pdf/consumer/3_18dv110.pdf</description>
 <connect gate="G$1" pin="VT" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14317/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -935,7 +935,7 @@ Source: http://www.holtek.com.tw/pdf/consumer/3_18dv110.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="HT9170" prefix="IC" urn="urn:adsk.eagle:component:14325/1">
+<deviceset name="HT9170" prefix="IC" urn="urn:adsk.eagle:component:14325/1" locally_modified="yes">
 <description>&lt;b&gt;DTMF Receiver&lt;/b&gt;&lt;p&gt;
 Source: http://www.holtek.com/pdf/comm/9170v111.pdf</description>
 <gates>
@@ -997,7 +997,7 @@ Source: http://www.holtek.com/pdf/comm/9170v111.pdf</description>
 <connect gate="G$1" pin="X2" pad="8"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14317/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:16424/2"/>
 </package3dinstances>
 <technologies>
 <technology name="">

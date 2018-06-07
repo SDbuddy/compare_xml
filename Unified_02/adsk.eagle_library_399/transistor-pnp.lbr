@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <eagle version="6.0">
 <drawing>
 <settings>
@@ -91,7 +91,7 @@ grid 5.08 mm</description>
 <text x="-2.54" y="1.778" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-2.54" y="-4.572" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="TO92/" urn="urn:adsk.eagle:footprint:29189/1">
+<package name="TO92/" urn="urn:adsk.eagle:footprint:29867/1">
 <description>&lt;b&gt;TO-92&lt;/b&gt;&lt;p&gt;
 grid 2.54 mm&lt;p&gt;
 rotated 45 deg.</description>
@@ -347,7 +347,7 @@ grid 5.45 mm, vertical</description>
 <text x="0.508" y="0.381" size="1.27" layer="51" ratio="10">3</text>
 <text x="-1.651" y="0.381" size="1.27" layer="51" ratio="10">4</text>
 </package>
-<package name="TO18-" urn="urn:adsk.eagle:footprint:29196/1">
+<package name="TO18-" urn="urn:adsk.eagle:footprint:28930/1">
 <description>&lt;b&gt;TO-18&lt;/b&gt;</description>
 <wire x1="-2.2098" y1="-0.9692" x2="2.2098" y2="-0.9692" width="0.0508" layer="21" curve="132.636"/>
 <wire x1="-0.9692" y1="2.2098" x2="0.9692" y2="2.2098" width="0.0508" layer="51" curve="-47.3637"/>
@@ -730,8 +730,8 @@ grid 5.08 mm</description>
 <text x="-2.54" y="1.778" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-2.54" y="-4.572" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="SOT23-BEC" urn="urn:adsk.eagle:footprint:29182/1">
-<description>&lt;b&gt;TO-236&lt;/b&gt; ITT Intermetall</description>
+<package name="SOT23-BEC" urn="urn:adsk.eagle:footprint:28685/1">
+<description>TO-236 ITT Intermetall</description>
 <wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.6604" width="0.127" layer="51"/>
 <wire x1="1.4224" y1="-0.6604" x2="-1.4224" y2="-0.6604" width="0.127" layer="51"/>
 <wire x1="-1.4224" y1="-0.6604" x2="-1.4224" y2="0.6604" width="0.127" layer="51"/>
@@ -788,7 +788,7 @@ grid 2.54 mm, vertical</description>
 <rectangle x1="-2.921" y1="-5.08" x2="-2.159" y2="-3.429" layer="51"/>
 <hole x="0" y="17.78" drill="3.302"/>
 </package>
-<package name="SOT23" urn="urn:adsk.eagle:footprint:29178/1">
+<package name="SOT23" urn="urn:adsk.eagle:footprint:28669/1">
 <description>&lt;b&gt;SOT-23&lt;/b&gt;</description>
 <wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.6604" width="0.1524" layer="51"/>
 <wire x1="1.4224" y1="-0.6604" x2="-1.4224" y2="-0.6604" width="0.1524" layer="51"/>
@@ -803,7 +803,7 @@ grid 2.54 mm, vertical</description>
 <rectangle x1="0.7112" y1="-1.2954" x2="1.1684" y2="-0.7112" layer="51"/>
 <rectangle x1="-1.1684" y1="-1.2954" x2="-0.7112" y2="-0.7112" layer="51"/>
 </package>
-<package name="TO39" urn="urn:adsk.eagle:footprint:29175/1">
+<package name="TO39" urn="urn:adsk.eagle:footprint:28658/1">
 <description>&lt;b&gt;TO-39&lt;/b&gt;</description>
 <wire x1="-4.0386" y1="-3.5306" x2="-3.5052" y2="-2.9972" width="0.1524" layer="21"/>
 <wire x1="-2.9718" y1="-3.5306" x2="-3.5052" y2="-4.064" width="0.1524" layer="21"/>
@@ -871,7 +871,7 @@ grid 5.08 mm</description>
 <text x="-2.54" y="3.048" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-2.54" y="-3.302" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="SC59-BEC" urn="urn:adsk.eagle:footprint:29187/1">
+<package name="SC59-BEC" urn="urn:adsk.eagle:footprint:28691/1">
 <description>SC59 (SOT23) Motorola</description>
 <wire x1="1.4224" y1="0.8604" x2="1.4224" y2="-0.8604" width="0.127" layer="51"/>
 <wire x1="1.4224" y1="-0.8604" x2="-1.4224" y2="-0.8604" width="0.127" layer="51"/>
@@ -1081,13 +1081,13 @@ grid 2.54 mm, vertical</description>
 <packageinstance name="TO66"/>
 </packageinstances>
 </package3d>
-<package3d name="TO39" urn="urn:adsk.eagle:package:29210/1" type="box">
+<package3d name="TO39" urn="urn:adsk.eagle:package:28730/1" type="box">
 <description>TO-39</description>
 <packageinstances>
 <packageinstance name="TO39"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT23" urn="urn:adsk.eagle:package:29213/2" type="model">
+<package3d name="SOT23" urn="urn:adsk.eagle:package:28738/2" type="model">
 <description>SOT-23</description>
 <packageinstances>
 <packageinstance name="SOT23"/>
@@ -1100,7 +1100,7 @@ grid 5.08 mm</description>
 <packageinstance name="TO92-EBC"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT23-BEC" urn="urn:adsk.eagle:package:29219/2" type="model">
+<package3d name="SOT23-BEC" urn="urn:adsk.eagle:package:28748/2" type="model">
 <description>TO-236 ITT Intermetall</description>
 <packageinstances>
 <packageinstance name="SOT23-BEC"/>
@@ -1140,7 +1140,7 @@ grid 5.08 mm</description>
 <packageinstance name="TO92-CBE"/>
 </packageinstances>
 </package3d>
-<package3d name="SC59-BEC" urn="urn:adsk.eagle:package:29224/2" type="model">
+<package3d name="SC59-BEC" urn="urn:adsk.eagle:package:28754/2" type="model">
 <description>SC59 (SOT23) Motorola</description>
 <packageinstances>
 <packageinstance name="SC59-BEC"/>
@@ -1157,6 +1157,20 @@ grid 5.08 mm</description>
 grid 5.45 mm, horizonal</description>
 <packageinstances>
 <packageinstance name="TOP3"/>
+</packageinstances>
+</package3d>
+<package3d name="TO18-" urn="urn:adsk.eagle:package:28983/2" type="model">
+<description>TO-18</description>
+<packageinstances>
+<packageinstance name="TO18-"/>
+</packageinstances>
+</package3d>
+<package3d name="TO92/" urn="urn:adsk.eagle:package:29930/1" type="box">
+<description>TO-92
+grid 2.54 mm
+rotated 45 deg.</description>
+<packageinstances>
+<packageinstance name="TO92/"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -2506,7 +2520,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC161*" prefix="Q" urn="urn:adsk.eagle:component:29265/1">
+<deviceset name="BC161*" prefix="Q" urn="urn:adsk.eagle:component:29265/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -2519,7 +2533,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2615,7 +2629,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC856*" prefix="Q" urn="urn:adsk.eagle:component:29310/2">
+<deviceset name="BC856*" prefix="Q" urn="urn:adsk.eagle:component:29310/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -2628,7 +2642,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="A"/>
@@ -2639,7 +2653,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N2905*" prefix="Q" urn="urn:adsk.eagle:component:29257/1">
+<deviceset name="2N2905*" prefix="Q" urn="urn:adsk.eagle:component:29257/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -2652,7 +2666,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2661,7 +2675,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N2904*" prefix="Q" urn="urn:adsk.eagle:component:29256/1">
+<deviceset name="2N2904*" prefix="Q" urn="urn:adsk.eagle:component:29256/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -2674,7 +2688,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2683,7 +2697,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC327*" prefix="Q" urn="urn:adsk.eagle:component:29358/4">
+<deviceset name="BC327*" prefix="Q" urn="urn:adsk.eagle:component:29358/4" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -2712,7 +2726,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2796,7 +2810,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMBTH81*" prefix="Q" urn="urn:adsk.eagle:component:29322/2">
+<deviceset name="MMBTH81*" prefix="Q" urn="urn:adsk.eagle:component:29322/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -2809,7 +2823,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="LT1"/>
@@ -2817,7 +2831,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMBTA92*" prefix="Q" urn="urn:adsk.eagle:component:29321/2">
+<deviceset name="MMBTA92*" prefix="Q" urn="urn:adsk.eagle:component:29321/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -2830,7 +2844,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="LT1"/>
@@ -2838,7 +2852,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMBTA64*" prefix="Q" urn="urn:adsk.eagle:component:29323/2">
+<deviceset name="MMBTA64*" prefix="Q" urn="urn:adsk.eagle:component:29323/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Darlington Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP-DAR" x="0" y="0"/>
@@ -2851,7 +2865,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="LT1"/>
@@ -2902,7 +2916,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC808*" prefix="Q" urn="urn:adsk.eagle:component:29309/2">
+<deviceset name="BC808*" prefix="Q" urn="urn:adsk.eagle:component:29309/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -2915,7 +2929,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="-16"/>
@@ -2924,7 +2938,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC858*" prefix="Q" urn="urn:adsk.eagle:component:29312/2">
+<deviceset name="BC858*" prefix="Q" urn="urn:adsk.eagle:component:29312/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -2937,7 +2951,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="A"/>
@@ -3012,7 +3026,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MM4001*" prefix="Q" urn="urn:adsk.eagle:component:29266/1">
+<deviceset name="MM4001*" prefix="Q" urn="urn:adsk.eagle:component:29266/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3025,7 +3039,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3033,7 +3047,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BCX71SMD" prefix="Q" urn="urn:adsk.eagle:component:29282/2">
+<deviceset name="BCX71SMD" prefix="Q" urn="urn:adsk.eagle:component:29282/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3046,7 +3060,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29213/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28738/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3054,7 +3068,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BSV17" prefix="Q" urn="urn:adsk.eagle:component:29251/1">
+<deviceset name="BSV17" prefix="Q" urn="urn:adsk.eagle:component:29251/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3067,7 +3081,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3075,7 +3089,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MJ4647" prefix="Q" urn="urn:adsk.eagle:component:29255/1">
+<deviceset name="MJ4647" prefix="Q" urn="urn:adsk.eagle:component:29255/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3088,7 +3102,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3096,7 +3110,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC160*" prefix="Q" urn="urn:adsk.eagle:component:29264/1">
+<deviceset name="BC160*" prefix="Q" urn="urn:adsk.eagle:component:29264/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3109,7 +3123,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3118,7 +3132,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMBT3906*" prefix="Q" urn="urn:adsk.eagle:component:29317/2">
+<deviceset name="MMBT3906*" prefix="Q" urn="urn:adsk.eagle:component:29317/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3131,7 +3145,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="LT1"/>
@@ -3139,7 +3153,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BF823*" prefix="Q" urn="urn:adsk.eagle:component:29314/2">
+<deviceset name="BF823*" prefix="Q" urn="urn:adsk.eagle:component:29314/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3152,7 +3166,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3160,7 +3174,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMBT4403*" prefix="Q" urn="urn:adsk.eagle:component:29318/2">
+<deviceset name="MMBT4403*" prefix="Q" urn="urn:adsk.eagle:component:29318/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3173,7 +3187,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="LT1"/>
@@ -3181,7 +3195,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BF821*" prefix="Q" urn="urn:adsk.eagle:component:29313/2">
+<deviceset name="BF821*" prefix="Q" urn="urn:adsk.eagle:component:29313/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3194,7 +3208,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3202,7 +3216,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMBT3640*" prefix="Q" urn="urn:adsk.eagle:component:29316/2">
+<deviceset name="MMBT3640*" prefix="Q" urn="urn:adsk.eagle:component:29316/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3215,7 +3229,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="LT1"/>
@@ -3223,7 +3237,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BSV16" prefix="Q" urn="urn:adsk.eagle:component:29254/1">
+<deviceset name="BSV16" prefix="Q" urn="urn:adsk.eagle:component:29254/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3236,7 +3250,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3244,7 +3258,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BSV11" prefix="Q" urn="urn:adsk.eagle:component:29250/1">
+<deviceset name="BSV11" prefix="Q" urn="urn:adsk.eagle:component:29250/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3257,7 +3271,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3265,7 +3279,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BSV10" prefix="Q" urn="urn:adsk.eagle:component:29252/1">
+<deviceset name="BSV10" prefix="Q" urn="urn:adsk.eagle:component:29252/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3278,7 +3292,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3349,7 +3363,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N5416*" prefix="Q" urn="urn:adsk.eagle:component:29263/1">
+<deviceset name="2N5416*" prefix="Q" urn="urn:adsk.eagle:component:29263/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3362,7 +3376,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3370,7 +3384,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3637*" prefix="Q" urn="urn:adsk.eagle:component:29260/1">
+<deviceset name="2N3637*" prefix="Q" urn="urn:adsk.eagle:component:29260/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3383,7 +3397,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3412,7 +3426,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3467*" prefix="Q" urn="urn:adsk.eagle:component:29258/1">
+<deviceset name="2N3467*" prefix="Q" urn="urn:adsk.eagle:component:29258/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3425,7 +3439,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3433,7 +3447,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N4033*" prefix="Q" urn="urn:adsk.eagle:component:29261/1">
+<deviceset name="2N4033*" prefix="Q" urn="urn:adsk.eagle:component:29261/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3446,7 +3460,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3520,7 +3534,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BSV15" prefix="Q" urn="urn:adsk.eagle:component:29253/1">
+<deviceset name="BSV15" prefix="Q" urn="urn:adsk.eagle:component:29253/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3533,7 +3547,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3541,7 +3555,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N5415*" prefix="Q" urn="urn:adsk.eagle:component:29262/1">
+<deviceset name="2N5415*" prefix="Q" urn="urn:adsk.eagle:component:29262/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3554,7 +3568,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3562,7 +3576,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMUN2112*" prefix="Q" urn="urn:adsk.eagle:component:29349/2">
+<deviceset name="MMUN2112*" prefix="Q" urn="urn:adsk.eagle:component:29349/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3575,7 +3589,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29224/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
 <technology name="LT1"/>
@@ -3583,7 +3597,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MUN2112*" prefix="Q" urn="urn:adsk.eagle:component:29353/2">
+<deviceset name="MUN2112*" prefix="Q" urn="urn:adsk.eagle:component:29353/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Bias Resistor Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP-DRIVER" x="0" y="0"/>
@@ -3596,7 +3610,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29224/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
 <technology name="T1"/>
@@ -3604,7 +3618,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMBT540*" prefix="Q" urn="urn:adsk.eagle:component:29319/2">
+<deviceset name="MMBT540*" prefix="Q" urn="urn:adsk.eagle:component:29319/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3617,7 +3631,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="LT1"/>
@@ -3625,7 +3639,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMUN2113*" prefix="Q" urn="urn:adsk.eagle:component:29350/2">
+<deviceset name="MMUN2113*" prefix="Q" urn="urn:adsk.eagle:component:29350/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3638,7 +3652,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29224/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
 <technology name="LT1"/>
@@ -3646,7 +3660,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MUN2114*" prefix="Q" urn="urn:adsk.eagle:component:29355/2">
+<deviceset name="MUN2114*" prefix="Q" urn="urn:adsk.eagle:component:29355/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Bias Resistor Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP-DRIVER" x="0" y="0"/>
@@ -3659,7 +3673,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29224/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
 <technology name="T1"/>
@@ -3667,7 +3681,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMUN2111*" prefix="Q" urn="urn:adsk.eagle:component:29348/2">
+<deviceset name="MMUN2111*" prefix="Q" urn="urn:adsk.eagle:component:29348/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3680,7 +3694,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29224/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
 <technology name="LT1"/>
@@ -3688,7 +3702,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC807*" prefix="Q" urn="urn:adsk.eagle:component:29339/3">
+<deviceset name="BC807*" prefix="Q" urn="urn:adsk.eagle:component:29339/3" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3701,7 +3715,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="-16"/>
@@ -3769,7 +3783,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="*-?" prefix="Q" urn="urn:adsk.eagle:component:29346/3">
+<deviceset name="*-?" prefix="Q" urn="urn:adsk.eagle:component:29346/3" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="D" symbol="PNP" x="0" y="0"/>
@@ -3795,7 +3809,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="D" pin="E" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29213/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28738/2"/>
 </package3dinstances>
 <technologies>
 <technology name="MMBTA56"/>
@@ -3803,7 +3817,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MUN2113*" prefix="Q" urn="urn:adsk.eagle:component:29354/2">
+<deviceset name="MUN2113*" prefix="Q" urn="urn:adsk.eagle:component:29354/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Bias Resistor Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP-DRIVER" x="0" y="0"/>
@@ -3816,7 +3830,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29224/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
 <technology name="T1"/>
@@ -3824,7 +3838,7 @@ grid 5.45 mm, horizonal</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMUN2114*" prefix="Q" urn="urn:adsk.eagle:component:29351/2">
+<deviceset name="MMUN2114*" prefix="Q" urn="urn:adsk.eagle:component:29351/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3837,7 +3851,7 @@ grid 5.45 mm, horizonal</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29224/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
 <technology name="LT1"/>
@@ -3972,7 +3986,7 @@ Source: http://www.fairchildsemi.com/ds/MP/MPSA65.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMBT6520*" prefix="Q" urn="urn:adsk.eagle:component:29320/2">
+<deviceset name="MMBT6520*" prefix="Q" urn="urn:adsk.eagle:component:29320/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -3985,7 +3999,7 @@ Source: http://www.fairchildsemi.com/ds/MP/MPSA65.pdf</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="LT1"/>
@@ -3993,7 +4007,7 @@ Source: http://www.fairchildsemi.com/ds/MP/MPSA65.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MMBT2907*" prefix="Q" urn="urn:adsk.eagle:component:29315/2">
+<deviceset name="MMBT2907*" prefix="Q" urn="urn:adsk.eagle:component:29315/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -4006,7 +4020,7 @@ Source: http://www.fairchildsemi.com/ds/MP/MPSA65.pdf</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="ALT1"/>
@@ -4060,7 +4074,7 @@ Source: http://www.fairchildsemi.com/ds/MM/MMBTA56.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MUN2111*" prefix="Q" urn="urn:adsk.eagle:component:29352/2">
+<deviceset name="MUN2111*" prefix="Q" urn="urn:adsk.eagle:component:29352/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Bias Resistor Transistor&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP-DRIVER" x="0" y="0"/>
@@ -4073,7 +4087,7 @@ Source: http://www.fairchildsemi.com/ds/MM/MMBTA56.pdf</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29224/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
 <technology name="T1"/>
@@ -4081,7 +4095,7 @@ Source: http://www.fairchildsemi.com/ds/MM/MMBTA56.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N3635*" prefix="Q" urn="urn:adsk.eagle:component:29259/1">
+<deviceset name="2N3635*" prefix="Q" urn="urn:adsk.eagle:component:29259/1" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -4094,7 +4108,7 @@ Source: http://www.fairchildsemi.com/ds/MM/MMBTA56.pdf</description>
 <connect gate="G$1" pin="E" pad="1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29210/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -4167,7 +4181,7 @@ Source: http://www.fairchildsemi.com/ds/MM/MMBTA56.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BC857*" prefix="Q" urn="urn:adsk.eagle:component:29311/2">
+<deviceset name="BC857*" prefix="Q" urn="urn:adsk.eagle:component:29311/2" locally_modified="yes">
 <description>&lt;b&gt;PNP Transistror&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="PNP" x="0" y="0"/>
@@ -4180,7 +4194,7 @@ Source: http://www.fairchildsemi.com/ds/MM/MMBTA56.pdf</description>
 <connect gate="G$1" pin="E" pad="E"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:29219/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
 <technology name="A"/>
